@@ -3,7 +3,8 @@ console.log("projects length: " + projectLength);
 let loadedLength = 0;
 let startTime = new Date().getTime();
 function init(){
-	let hook = document.getElementById('content');
+  let hook = document.getElementById('content');
+  hook.innerHTML = "";
 	//cycle elements
 	projects.forEach((proj)=>{
 		let projElement = document.createElement('div');
