@@ -16,7 +16,7 @@ WEBSITE_DATA.forEach(function(proj){
 										proj.credit ));
 	});
 
-console.log("projects: " + JSON.stringify(projects, null, 2));
+// console.log("projects: " + JSON.stringify(projects, null, 2));
 
 ////reformat
 

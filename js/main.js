@@ -34,7 +34,9 @@ function hoverOut(elem){
 }
 function loaded(){
 setTimeout(()=>{
-	document.getElementById('loading-screen').style.display = 'none';
+  document.getElementById('loading-screen')
+  ? document.getElementById('loading-screen').style.display
+  : 0;
 },2000 + startTime - new Date().getTime());
 //console.log('startTime: ' + startTime);
 
