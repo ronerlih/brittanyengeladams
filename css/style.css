@@ -1,0 +1,310 @@
+	@font-face {
+    font-family: "nyt-franklin";
+    src: url("fonts/nyt-franklin-500-normal.woff") format('woff');
+}
+
+	@font-face {
+    font-family: "nyt-cheltenham-light";
+    src: url("fonts/nyt-cheltenham-400-normal.woff") format('woff');
+}
+
+	@font-face {
+    font-family: "nyt-cheltenham-bold";
+    src: url("fonts/nyt-cheltenham-700-normal.woff") format('woff');
+}
+
+	body {
+/*font-family: Verdana, Geneva, sans-serif;*/
+font-family: nyt-franklin, georgia, "times new roman", times, serif;
+font-family: nyt-cheltenham-bold, georgia, "times new roman", times, serif;
+font-family: nyt-cheltenham-light, georgia, "times new roman", times, serif;
+
+				letter-spacing: 0.1px;
+				word-spacing: 2.4px;
+
+				background-color: white;
+				color: #fff;
+				margin: 0px;
+/*				height:50vh;*/
+/*				overflow: hidden;*/
+				background: #1c79ea;
+				background: white;
+				color: cornflowerblue;
+
+			}
+			#contact{
+			font-size: 10px;
+			}
+			#content{
+			background-color: white;
+			text-align: right;
+			}
+			.bio{
+			padding:20px;
+			max-width: 600px;
+			color:black;
+			line-height: 22px;
+			}
+			.project-vinyet{
+    height: 200px;
+    height: 150px;
+    display: inline-block;
+    max-width: 344px;
+	 border: 3px solid black;
+	 
+			}
+			.project-container:hover{
+/*			background-color: #cdd9ff;*/
+/*			border: 1px solid blue;*/
+    border-bottom: 1px solid black;
+				
+			}
+			.margin-bottom{
+			margin-bottom: 20px;
+			}
+			.project-container {
+    padding-bottom: 55px;
+    /* background-color: blanchedalmond; */
+    /* border: 1px solid; */
+    height: 200px;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    /* padding: 10px; */
+    /* padding-bottom: 140px; */
+    margin-bottom: 150px;
+    margin: 10px;
+    vertical-align: text-bottom;
+    /* padding-bottom: 174px; */
+    margin-bottom: 120px;
+/*    background-color: beige;*/
+	 border-bottom: 1px solid white;
+	 }
+			a{text-decoration: none;color: rgb(100, 149, 237);
+			}
+			.main-title{
+			font-size: 20px;
+			padding:10px;
+			display: block;
+			}
+
+			
+			.blurb{
+padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    word-break: break-word;
+    font-size: 12px;
+    text-align: justify;
+    text-align: left;
+    display: table-caption;
+    caption-side: bottom;
+			}
+			.project-name{
+			padding-top:7px;
+			padding-left:10px;
+			padding-right:10px;
+			display:block;
+			    font-size: 13px;
+			}
+			.mini-title{
+			display: inline-block;
+			padding-left: 10px;
+			letter-spacing: 0px;
+			word-spacing: 0px;	
+			padding-bottom: 50px;
+			}
+			
+			.tech-mini-title{
+			display: inline-block;
+			padding: 2px;
+			padding-left:10px;
+			letter-spacing: 0px;
+			word-spacing: 0px;
+			display: block;
+			}
+			
+			#private-sector{
+			position: absolute;
+			top:10px;
+			right:10px;
+			font-size: 12px;
+			text-decoration: underline;
+			}
+			.project-overlay{
+			width:100%;
+			height:100%;
+/*			background-color: black;*/
+			position:relative;
+			bottom:260px;
+			padding-bottom: 82px;
+			opacity:0;
+/*
+			background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 1%, rgba(0,0,0,.1) 100%);
+			background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,.1) 100%);
+			background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 1%,rgba(0,0,0,.1) 100%);
+*/
+/*			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 );*/
+
+			}
+			/*animation*/
+ /* WebKit and Opera browsers */
+  @-webkit-keyframes spinner {
+    0% { -webkit-transform: rotateX(0deg);    }
+    30% { -webkit-transform: rotateX(0deg);    }
+    100%   { -webkit-transform: rotateX(-360deg); }
+  }
+
+  /* all other browsers */
+  @keyframes spinner {
+    0%  {
+      -moz-transform: rotateX(0deg);
+      -ms-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+    }
+	 30%  {
+      -moz-transform: rotateX(0deg);
+      -ms-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+    }
+    100% {
+      -moz-transform: rotateX(-360deg);
+      -ms-transform: rotateX(-360deg);
+      transform: rotateX(-360deg);
+    }
+  }
+			#loading-screen{
+			width:100vw;
+			height:110vh;
+			background-color: white;
+			position: fixed;
+			z-index: 10;
+			top:-10vh;
+			
+			margin: 1em auto;
+    -webkit-perspective: 1200px;
+    -moz-perspective: 1200px;
+    -ms-perspective: 1200px;
+    perspective: 1200px;
+			}
+			
+			#welcome-img{
+			max-width: 95vw;
+			width:600px;
+			padding:5px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 45vh;
+			display: block;
+			 -webkit-animation-name: spinner;
+			 -webkit-animation-timing-function: linear;
+			 -webkit-animation-iteration-count: infinite;
+			 -webkit-animation-duration: 2s;
+
+			 animation-name: spinner;
+			 animation-timing-function: linear;
+			 animation-iteration-count: infinite;
+			 animation-duration: 2s;
+
+			 -webkit-transform-style: preserve-3d;
+			 -moz-transform-style: preserve-3d;
+			 -ms-transform-style: preserve-3d;
+			 transform-style: preserve-3d;
+			}
+#resume{
+			letter-spacing: 0px;
+				word-spacing: 0px;
+				padding:10px;
+}
+.linkedIn{
+text-decoration: underline;
+word-spacing: 0px;
+letter-spacing: 0px;
+font-size: 12px;
+}
+			.project-div{
+			display: table;
+			}
+			.project-name, .blurb, .main-title, .mini-title{
+			color:#777777;
+			color:white;
+			color:darkgoldenrod;;
+			color: black;;
+			}
+				.main-title, .mini-title{
+			display: block;
+			margin-left:auto;
+			margin-right:auto;
+			letter-spacing: 4px;
+			font-family: Verdana, Geneva, sans-serif;
+			}	
+			.photo-credit{
+    display: block;
+    text-align: left;
+    color: gray;
+    line-height: 0.6px;
+    font-size: 10px;
+    font-style: italic;
+    /* text-indent: 2px; */
+    font-family: arial;
+    letter-spacing: -0.2px;
+        word-spacing: 0px;
+    			 }
+			 .thumb-table{
+				 margin-left: auto;
+				 margin-right: auto;
+			 }	
+@media only screen and (max-width: 600px) {
+.project-vinyet{
+width:calc(100vw - 20px);
+height:auto;
+display: inline-block;
+max-width: 2000px;
+}
+.project-container{
+/*			width:calc(100vw - 42px);*/
+height:auto;
+padding-bottom: 30px;
+			padding:10px;
+margin:0px!important;
+    padding: calc(10px - 3px);
+}
+.project-name {
+ padding-top: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ display: block;
+ max-width: calc(100vw - 20px);
+ }
+ .blurb{
+ max-width: calc(100vw - 20px);
+ font-size: 11px;
+ }
+
+ 
+ 
+ 
+	 
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
