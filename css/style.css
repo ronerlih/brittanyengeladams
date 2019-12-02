@@ -258,6 +258,9 @@ font-size: 12px;
 				 margin-right: auto;
 			 }	
 @media only screen and (max-width: 600px) {
+  #content{
+    text-align: center;
+  }
 .project-vinyet{
 width:calc(100vw - 20px);
 height:auto;
@@ -268,9 +271,8 @@ max-width: 2000px;
 /*			width:calc(100vw - 42px);*/
 height:auto;
 padding-bottom: 30px;
-			padding:10px;
+			padding:4px;
 margin:0px!important;
-    padding: calc(10px - 3px);
 }
 .project-name {
  padding-top: 10px;
