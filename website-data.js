@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 			{	
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
-	img: "images/UNADJUSTEDNONRAW_thumb_28f4.jpg",
+	img: "images/gdc_tm_063.jpg",
 	blurb: "Upcoming Residencies and Performances beginning spring 2020",
 	link: "/#",
 	credit: ""
@@ -92,7 +92,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "ODC Performance (Press)",
-	img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-articleLarge.jpg",
+	img: "images/MoreNetta-640x614.jpg",
 	blurb: "Review of PM #3&4 at ODC in San Francisco",
 	link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere",
 	credit: "photo: Andrew Spear"
