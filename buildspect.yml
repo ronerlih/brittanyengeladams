@@ -4,4 +4,4 @@ phases:
         commands:
         - npm install
         - npm run build
-        - aws s3 sync s3://www.brittanyengeladams.com --delete
+        - aws s3 sync / s3://www.brittanyengeladams.com --delete
