@@ -92,7 +92,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "ODC Performance (Press)",
-	img: "images/MoreNetta-640x614.jpg",
+	img: "images/Unknown.jpg",
 	blurb: "Review of PM #3&4 at ODC in San Francisco",
 	link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere",
 	credit: "photo: Andrew Spear"
