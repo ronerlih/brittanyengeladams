@@ -187,7 +187,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Julieta Cervantes"
 	},
 
-{	name: "Ailey II company member",
+{	name: "Ailey II – Dancer",
 	img: "images/3473_Ailey_II_s_Brittany_Engel-Adams_and_Collin_Heyward_in_Donald_Byrd_s_Shards._Photo_by_Eduardo_Patino_NYC._1_81e048b4-5731-4d73-bd1a-48ab32a88cad-prv.jpg",
 	blurb: "Alvin Ailey pressroom – Donald Byrds Shards",
 	link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
