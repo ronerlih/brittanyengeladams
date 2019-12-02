@@ -10,7 +10,7 @@ function init(){
 		let projElement = document.createElement('div');
 		projElement.className = 'project-container';
 		projElement.innerHTML = '<a href=' + 
-										proj.link + '><div class="project-div"><table class="thumb-table"><tr><td><img onload="imgLoad()" class="project-vinyet" src=' + 
+										proj.link + '><div class="project-div"><table class="thumb-table"><tr><td><img onload="imgLoad" class="project-vinyet" src=' + 
 										proj.img + ' ></td></tr><tr><td><div class="photo-credit">'+ 
 										proj.credit + '</div></td></tr></table><div class="project-name">' + 
 										proj.name + '</div><div class="blurb">' + 
