@@ -1,4 +1,11 @@
 let WEBSITE_DATA = [
+			{	
+	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
+	img: "images/UNADJUSTEDNONRAW_thumb_28f4.jpg",
+	blurb: "Upcoming Residencies and Performances beginning spring 2020",
+	link: "/#",
+	credit: ""
+},
 		{	
 	name: "Okwui Okpokwasili 'Sitting on a Man's Head' Danspace St. Marks Church ",
 	img: "images/UNADJUSTEDNONRAW_thumb_28f4.jpg",
@@ -92,7 +99,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Open Space San Francisco MOMA (Press)",
-	img: "images/6a00e39823a9018833022ad3a8ad19200b.jpg",
+	img: "images/MoreNetta-640x614.jpg",
 	blurb: "Review of PM #3&4",
 	link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/",
 	credit: "photo: Hayim Heron"
