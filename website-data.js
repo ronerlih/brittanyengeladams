@@ -1,28 +1,48 @@
 let WEBSITE_DATA = [
-
+	{	
+	name: "Yvonne Rainer's 'Mattress Dance' Performances",
+	img: "images/merlin_164267712_f373a1c7-d741-458b-a8bb-6153df068648-jumbo.jpg",
+	blurb: "Reconstructed and reimagined in collaboration with Emily Coates",
+	link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
+	credit: "photo: Adam Kremer"
+},
 {	
-	name: "Cunningham Centennial at NYU Skirball",
+	name: "Emily Coates – Ode to Oskar Schlemmer – reinterpreted",
+	img: "images/Document-Journal_Oskar_2.jpg",
+	blurb: "Performa Gala 2019",
+	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
+	credit: "photo: BFA"
+},
+{	
+	name: "Bates Dance Festival – Performances and Workshops",
+	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
+	blurb: "Horton Intensive and Performances of PM",
+	link: "https://www.batesdancefestival.org/about/faculty/",
+	credit: "photo: BDF"
+},
+{	
+	name: "In Conversations with Merce – Performances NYU Skirball",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "In Conversations with Merce",
+	blurb: "Cunningham Centennial",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
 {	
-	name: "Guggenheim Museum - Works & Process",
+	name: "Guggenheim Museum - Works & Process Performance",
 	img: "images/33.jpg",
-	blurb: "Designs by Reid Bartelme and Harriet Jung",
+	blurb: "Designs by Reid Bartelme and Harriet Jung/Choreography by Netta Yerushalmy",
 	link: "https://www.guggenheim.org/event/event_series/works-process",
 	credit: "photo: Eryc Perez de Tagle"
 },
 {	
-	name: "The White Album at UCLA",
+	name: "The White Album – Performances at UCLA",
 	img: "images/la-1554655978-0ufmjwbvnq-snap-image_670.jpg",
-	blurb: "Multimedia performance piece created by Lars Jan/Early Morning Opera.",
+	blurb: "Multimedia performance created by Lars Jan/Early Morning Opera.",
 	link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 	credit: "photo: Reed Hutchinson "
 },
 {	
-	name: "New York Live Arts",
+	name: "New York Live Arts – PM Performacnes",
 	img: "images/nyla-paramodernities.jpg",
 	blurb: "New York City Premiere of Paramodernities",
 	link: "https://newyorklivearts.org/event/paramodernities/",
@@ -36,14 +56,14 @@ let WEBSITE_DATA = [
 	credit: "photo: Paula Lobo"
 },
 
-{	name: "Jacobs Pillow",
+{	name: "Jacobs Pillow – PM Performances",
 	img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
-	blurb: "Premiere of Paramodernities by Netta Yerushalmy",
+	blurb: "choreography by Netta Yerushalmy",
 	link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
 	credit: "photo: Andrew Spear"
 },
 
-{	name: "Donna Uchizono Company - Joyce Quadrille",
+{	name: "Donna Uchizono Company - Performances Joyce Quadrille 2018",
 	img: "images/10_Photo_by_Julieta_Cervantes_-_Hristoula_Hrakas_Julie_Alexander_Antonio_Ramos_smaller_sizeevent_image.jpg",
 	blurb: "March Under an Empty Reign",
 	link: "https://www.joyce.org/performances/donna-uchizono-company",
@@ -59,14 +79,14 @@ let WEBSITE_DATA = [
 
 {	name: "ODC Performance (Press)",
 	img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-articleLarge.jpg",
-	blurb: "Review of Paramodernities #3&4 at ODC in San Francisco",
+	blurb: "Review of PM #3&4 at ODC in San Francisco",
 	link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere",
 	credit: "photo: Andrew Spear"
 },
 
 {	name: "Open Space San Francisco MOMA (Press)",
 	img: "images/6a00e39823a9018833022ad3a8ad19200b.jpg",
-	blurb: "Review of Paramodernitites #3&4",
+	blurb: "Review of PM #3&4",
 	link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/",
 	credit: "photo: Hayim Heron"
 },
@@ -91,7 +111,7 @@ let WEBSITE_DATA = [
 	link: "https://www.broadwayworld.com/article/LMCCs-Downtown-Dinner-2017-to-Honor-Durst-Family-Keith-Haring-Foundation-and-More-20170406",
 	credit: ""},
 
-{	name: "Sleep No more",
+{	name: "Sleep No more – Performances",
 	img: "images/tn-500_giafrese-0304.jpg",
 	blurb: "New years eve performance at the McKittrick Hotel",
 	link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102",
