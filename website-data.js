@@ -14,7 +14,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Adam Kremer"
 },
 {	
-	name: "Emily Coates – Ode to Oskar Schlemmer – reinterpreted",
+	name: "Emily Coates – Ode to Oskar Schlemmer – Performances",
 	img: "images/Document-Journal_Oskar_2.jpg",
 	blurb: "Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
@@ -132,9 +132,9 @@ let WEBSITE_DATA = [
 	credit: "photo: Orit Ben-Shitrit"
 },
 
-{	name: "The Great Gatsby Movie Premiere",
+{	name: "The Great Gatsby Movie Premiere – Performance",
 	img: "images/IMG_8700.JPG",
-	blurb: "Performer at the Great Gatsby Movie Premiere at the Plaza Hotel in NYC",
+	blurb: "Performer at the Great Gatsby Movie Premiere in NYC",
 	link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5",
 	credit: ""
 },
@@ -145,51 +145,51 @@ let WEBSITE_DATA = [
 // 	link: "https://forward.com/schmooze/150294/q-and-a-brittany-engel-adams-on-dance-and-israel/"
 // },
 
-{	name: "Roger Williams University",
+{	name: "PM atRoger Williams University",
 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
-	blurb: "Performance of PM #4 choreographed by Netta Yerushalmy",
+	blurb: "Performance of PM #4 choreography by Netta Yerushalmy",
 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
 	credit: "photo: Janelle Jones"
 },
 
-{	name: "92nd Street Y",
+{	name: "Dana Katz's 'Prospect Minds' – Performances",
 	img: "images/10361964_10205454177886803_7871722208666797287_n.jpg",
-	blurb: "'Prospect Minds' by Dana Katz",
+	blurb: "Performances at the 92nd Street Y",
 	link: "https://vimeo.com/58922736",
 	credit: ""
 },
 
-{	name: "HBO series Boardwalk Empire",
+{	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
 	blurb: "co-star Season 4",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
 
-{	name: "Dances for a Variable Population",
+{	name: "Dances for a Variable Population – site-specific Performances",
 	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
-	blurb: "site-specific work in '10027' by Naomi Goldberg Hass",
+	blurb: "'10027' by Naomi Goldberg Hass",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
 },
 
-{	name: "Harlem Stage Gatehouse",
+{	name: "'Patient(ce) - Harlem Stage Gatehouse – Performances",
 	img: "images/New-Music-Thank-You-resize.jpg",
-	blurb: "World Premiere of 'Patient(ce)' by Stefanie Batten Bland",
+	blurb: "choreography by SBB",
 	link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem",
 	credit: "photo: Mark Millman"
 },
 
-{	name: "A Place of Sun ",
+{	name: "Stefanie Batten Bland's 'A Place of Sun' – Performances ",
 	img: "images/20120510BAC-slide-ICIC-articleLargecropped.jpg",
-	blurb: "Performance and residency at Baryshnikov Arts Center choreography by Stefanie Batten Bland",
+	blurb: "Performance and residency at Baryshnikov Arts Center",
 	link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 	credit: "photo: Julieta Cervantes"
 	},
 
-{	name: "Ailey II Dancer in Donald Byrds Shards",
+{	name: "Ailey II company member",
 	img: "images/3473_Ailey_II_s_Brittany_Engel-Adams_and_Collin_Heyward_in_Donald_Byrd_s_Shards._Photo_by_Eduardo_Patino_NYC._1_81e048b4-5731-4d73-bd1a-48ab32a88cad-prv.jpg",
-	blurb: "Alvin Ailey pressroom",
+	blurb: "Alvin Ailey pressroom – Donald Byrds Shards",
 	link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 	credit: "photo: Eduardo Patino"
 }
