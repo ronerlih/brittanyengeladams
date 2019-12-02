@@ -1,4 +1,11 @@
 let WEBSITE_DATA = [
+		{	
+	name: "Okwui Okpokwasili 'Sitting on a Man's Head' Danspace St. Marks Church ",
+	img: "images/merlin_164267712_f373a1c7-d741-458b-a8bb-6153df068648-jumbo.jpg",
+	blurb: "LMCC workshopping and upcoming Performances in the spring 2020",
+	link: "/#",
+	credit: "photo: "
+},
 	{	
 	name: "Yvonne Rainer's 'Mattress Dance' Performances",
 	img: "images/merlin_164267712_f373a1c7-d741-458b-a8bb-6153df068648-jumbo.jpg",
