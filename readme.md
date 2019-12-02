@@ -12,4 +12,6 @@
 
 - invalidate cloud cache:
 https://console.aws.amazon.com/cloudfront/home?region=us-east-1#distribution-settings:E1L57ITIIUP6KC
-( tap on invalidations, copy latest invalidation and tap invalidate )
+  - tap on invalidations
+  - copy latest invalidation
+  - tap invalidate 
