@@ -1,5 +1,5 @@
 let projectLength = projects.length;
-console.log("projects length: " + projectLength);
+console.log(projectLength + " projects:\n\n");
 projects.forEach(proj => console.log(proj.name))
 let loadedLength = 0;
 let startTime = new Date().getTime();
