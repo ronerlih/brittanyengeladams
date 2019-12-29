@@ -23,13 +23,13 @@ font-family: nyt-cheltenham-light, georgia, "times new roman", times, serif;
 				word-spacing: 2.4px;
 
 				background-color: white;
-				color: #fff;
+				/* color: #fff; */
 				margin: 0px;
 /*				height:50vh;*/
 /*				overflow: hidden;*/
 				background: #1c79ea;
 				background: white;
-				color: cornflowerblue;
+				/* color: cornflowerblue; */
 
 			}
 			#contact{
