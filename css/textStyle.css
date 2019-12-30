@@ -1,0 +1,13 @@
+
+html {
+	scroll-behavior: smooth;
+  }
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+.back{
+	font-size:small!important;
+}

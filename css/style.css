@@ -12,7 +12,10 @@
     font-family: "nyt-cheltenham-bold";
     src: url("fonts/nyt-cheltenham-700-normal.woff") format('woff');
 }
-
+html {
+	scroll-behavior: smooth;
+  }
+  
 	body {
 /*font-family: Verdana, Geneva, sans-serif;*/
 font-family: nyt-franklin, georgia, "times new roman", times, serif;
