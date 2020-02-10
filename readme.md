@@ -13,6 +13,7 @@
 - pattern links:
  [patterns-01](https://www.brittanyengeladams.com/image-patterns-01.html)
  [patterns-02](https://www.brittanyengeladams.com/image-patterns-02.html)
+ [patterns-03](https://www.brittanyengeladams.com/image-patterns-03.html)
 - invalidate cloud cache:
 https://console.aws.amazon.com/cloudfront/home?region=us-east-1#distribution-settings:E1L57ITIIUP6KC
   - tap on invalidations
