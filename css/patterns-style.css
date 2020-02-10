@@ -6,8 +6,9 @@
     margin: 10px auto auto 0px;
 }
 .slider {
-width: 100px;
-height: 10px;}
+width: 200px!important;
+height: 10px;
+}
 /* Mouse-over effects */
 .slider:hover {
     opacity: 1; /* Fully shown on mouse-over */
