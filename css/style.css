@@ -12,16 +12,29 @@
     font-family: "nyt-cheltenham-bold";
     src: url("fonts/nyt-cheltenham-700-normal.woff") format("woff");
 }
+<<<<<<< HEAD
 
 body {
     /*font-family: Verdana, Geneva, sans-serif;*/
     font-family: nyt-franklin, georgia, "times new roman", times, serif;
     font-family: nyt-cheltenham-bold, georgia, "times new roman", times, serif;
     font-family: nyt-cheltenham-light, georgia, "times new roman", times, serif;
+=======
+html {
+	scroll-behavior: smooth;
+  }
+  
+	body {
+/*font-family: Verdana, Geneva, sans-serif;*/
+font-family: nyt-franklin, georgia, "times new roman", times, serif;
+font-family: nyt-cheltenham-bold, georgia, "times new roman", times, serif;
+font-family: nyt-cheltenham-light, georgia, "times new roman", times, serif;
+>>>>>>> e4409887d8e5aca6bbd2e25af05cc570f8400adb
 
     letter-spacing: 0.1px;
     word-spacing: 2.4px;
 
+<<<<<<< HEAD
     background-color: white;
     color: #fff;
     margin: 0px;
@@ -45,8 +58,34 @@ body {
     line-height: 22px;
 }
 .project-vinyet {
+=======
+				background-color: white;
+				/* color: #fff; */
+				margin: 0px;
+/*				height:50vh;*/
+/*				overflow: hidden;*/
+				background: #1c79ea;
+				background: white;
+				/* color: cornflowerblue; */
+
+			}
+			#contact{
+			font-size: 10px;
+			}
+			#content{
+			background-color: white;
+			text-align: right;
+			}
+			.bio{
+			padding:20px;
+			max-width: 600px;
+			color:black;
+			line-height: 22px;
+			}
+			.project-vinyet{
+>>>>>>> e4409887d8e5aca6bbd2e25af05cc570f8400adb
     height: 200px;
-    height: 150px;
+    height: 170px;
     display: inline-block;
     max-width: 344px;
     border: 3px solid black;
@@ -280,6 +319,7 @@ a {
     margin-right: auto;
 }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 600px) {
     #content {
         text-align: center;
@@ -309,3 +349,29 @@ a {
         font-size: 11px;
     }
 }
+=======
+ 
+ 
+ 
+	 
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+>>>>>>> e4409887d8e5aca6bbd2e25af05cc570f8400adb

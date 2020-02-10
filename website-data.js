@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "LMCC Gala 2017",
-	img: "images/IMG_5465.JPG",
+	img: "images/gala.webp",
 	blurb: "Performance at the 2017 LMCC annual fundraising Downtown Dinner Gala",
 	link: "https://www.broadwayworld.com/article/LMCCs-Downtown-Dinner-2017-to-Honor-Durst-Family-Keith-Haring-Foundation-and-More-20170406",
 	credit: ""},
