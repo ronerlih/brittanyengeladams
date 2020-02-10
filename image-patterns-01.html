@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/patterns-style.css">
+    <title>Document</title>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+</head>
+<body>
+    <section class="container">
+        <div class="row">
+            <header>
+                <h1>
+                    patterns
+                </h1>
+            </header>
+        </div>
+        <section class="row">
+            <div class="img-width ">
+                <input type="range" min="1" max="40" value="20" class="slider" id="myRange">
+              </div>
+
+        </section>
+        <section class="row text-center">
+            <div class="col-12" id="canvas"></div>
+        </section>
+    </section>
+    <script>
+        const canvasElement = document.querySelector("#canvas");
+        let IMG_ROWS = 40;
+        let IMG_COLS = 20;
+        let IMG_WIDTH = window.innerWidth / IMG_COLS;
+        // const IMG_WIDTH = window.innerWidth / IMG_COLS;
+        const PATTERN_PATH = '/images/patterns/IMG-1075.jpg'
+        const PATTERN_PATH2 = '/images/patterns/IMG-1067.jpg'
+
+    function arrangeTiles () {
+        canvasElement.innerHTML = "";
+        IMG_WIDTH = window.innerWidth / IMG_COLS;
+        for(let y = 0; y < IMG_ROWS; y++){
+            for(let x = 0; x < IMG_COLS; x++){
+                singleImageElement = document.createElement("img");
+                singleImageElement.src = PATTERN_PATH;
+                // singleImageElement.style.width = window.innerWidth / IMG_COLS;
+                singleImageElement.style.width = `${IMG_WIDTH }px`;
+                secondImgElement = document.createElement("img");
+                secondImgElement.src = PATTERN_PATH2;
+                // singleImageElement.style.width = window.innerWidth / IMG_COLS;
+                secondImgElement.style.width = `${IMG_WIDTH }px`;
+                canvasElement.appendChild(secondImgElement);
+            }
+        }
+    }
+
+    arrangeTiles();
+
+        //slider
+        var slider = document.getElementById("myRange");
+
+// Update the current slider value (each time you drag the slider handle)
+slider.oninput = function() {
+    console.log(this.value);
+    IMG_COLS = this.value;
+    arrangeTiles();
+}
+
+
+
+    </script>
+</body>
+</html>
