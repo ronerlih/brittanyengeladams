@@ -16,14 +16,14 @@ let WEBSITE_DATA = [
 	{	
 	name: "Yvonne Rainer's 'Mattress Dance'",
 	img: "images/merlin_164267745_734502e2-bf7a-4c96-9c6c-e6d1bd0948e1-jumbo.jpg",
-	blurb: "Performances at Performa Festival 2019",
+	blurb: "Performa Festival 2019",
 	link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 	credit: "photo: Adam Kremer"
 },
 {	
 	name: "Emily Coates – Ode to Oskar Schlemmer",
 	img: "images/Document-Journal_Oskar_2.jpg",
-	blurb: "Performances at Performa Gala 2019",
+	blurb: "Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 	credit: "photo: BFA"
 },
