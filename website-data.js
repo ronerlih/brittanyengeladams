@@ -3,14 +3,14 @@ let WEBSITE_DATA = [
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 	img: "images/AnnieBMoodRoom.png",
 	blurb: "Residency at Atlantic Center for the Arts 2020",
-	link: "/#",
+	link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 	credit: "photo: Annie-B Parson"
 },
 		{	
 	name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 	img: "images/press.png",
 	blurb: "Performances at Danspace St. Marks Church 2020",
-	link: "/#",
+	link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 	credit: "photo: Sasha Arutyunova"
 },
 	{	
@@ -30,26 +30,26 @@ let WEBSITE_DATA = [
 {	
 	name: "Netta Yerushalmy's 'Paramodernities'",
 	img: "images/nyla-paramodernities.jpg",
-	blurb: "New York City Premiere at New York Live Arts 2018",
+	blurb: "NYC premiere at New York Live Arts 2018",
 	link: "https://newyorklivearts.org/event/paramodernities/",
 	credit: "photo: Maria Baranova"
 },
 {	
-	name: "Bates College",
+	name: "Bates College Horton Workshop",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-	blurb: "Horton worskhop at Bates Dance Festival 2019",
+	blurb: "Bates Dance Festival 2019",
 	link: "https://www.batesdancefestival.org/about/faculty/",
 	credit: "photo: BDF"
 },
 {	
-	name: "In Conversations with Merce – Performances NYU Skirball",
+	name: "Cunningham Centennial/In Conversations with Merce",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "Cunningham Centennial/Choreography by Netta Yerushalmy",
+	blurb: "Performances at NYU Skirball/Choreography by Netta Yerushalmy",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
 {	
-	name: "Guggenheim Museum - Works & Process Performance",
+	name: "Guggenheim Museum - Works & Process",
 	img: "images/33.jpg",
 	blurb: "Designs by Reid Bartelme and Harriet Jung/Choreography by Netta Yerushalmy",
 	link: "https://www.guggenheim.org/event/event_series/works-process",
@@ -127,9 +127,9 @@ let WEBSITE_DATA = [
 // 	credit: ""
 // },
 
-{	name: "Sleep No more – Performances",
+{	name: "Punchdrunk Sleep No more",
 	img: "images/tn-500_giafrese-0304.jpg",
-	blurb: "Guest performer at the McKittrick Hotel",
+	blurb: "Performeances at the McKittrick Hotel",
 	link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102",
 	credit: "SNM photo"
 },
