@@ -88,14 +88,14 @@ let WEBSITE_DATA = [
 
 {	name: "Donna Uchizono Company's 'March Under an Empty Reign'",
 	img: "images/10_Photo_by_Julieta_Cervantes_-_Hristoula_Hrakas_Julie_Alexander_Antonio_Ramos_smaller_sizeevent_image.jpg",
-	blurb: "Performances at the Joyce Theater for Quadrille Festival ",
+	blurb: "Performances at the Joyce Theater for Quadrille Festival 2018 ",
 	link: "https://www.joyce.org/performances/donna-uchizono-company",
 	credit: "photo: Julieta Cervantes"
 },
 
 {	name: "Donna Uchizono Company",
 	img: "images/Z44A4085_normal.jpg",
-	blurb: "Residency at Maggie Allesee National Center for Choreography",
+	blurb: "Residency at Maggie Allesee National Center for Choreography 2018",
 	link: "http://www.mancc.org/artists/donna-uchizono/",
 	credit: "photo: Chris Cameron"
 },
@@ -171,21 +171,21 @@ let WEBSITE_DATA = [
 
 {	name: "Dana Katz's 'Prospect Minds' – Performances",
 	img: "images/10361964_10205454177886803_7871722208666797287_n.jpg",
-	blurb: "Performances at the 92nd Street Y",
+	blurb: "Performances at the 92nd Street Y 2013",
 	link: "https://vimeo.com/58922736",
 	credit: ""
 },
 
 {	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
-	blurb: "Co-star in Season 4",
+	blurb: "Co-star in Season 4 2013",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
 
 {	name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'",
 	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
-	blurb: "site-specific Performances in Manhattan",
+	blurb: "site-specific Performances in Manhattan 2015",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
 },
@@ -199,14 +199,14 @@ let WEBSITE_DATA = [
 
 {	name: "Stefanie Batten Bland's 'A Place of Sun'",
 	img: "images/20120510BAC-slide-ICIC-articleLargecropped.jpg",
-	blurb: "Residency and Performance at Baryshnikov Arts Center",
+	blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
 	link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 	credit: "photo: Julieta Cervantes"
 	},
 
 {	name: "Ailey II Company under the direction of Sylvia Waters",
 	img: "images/3473_Ailey_II_s_Brittany_Engel-Adams_and_Collin_Heyward_in_Donald_Byrd_s_Shards._Photo_by_Eduardo_Patino_NYC._1_81e048b4-5731-4d73-bd1a-48ab32a88cad-prv.jpg",
-	blurb: "Alvin Ailey pressroom – Donald Byrds Shards",
+	blurb: "Performances and Community Outreach 2010",
 	link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 	credit: "photo: Eduardo Patino"
 }
