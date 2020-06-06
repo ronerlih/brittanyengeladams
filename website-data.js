@@ -6,13 +6,21 @@ let WEBSITE_DATA = [
 	link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 	credit: "photo: Annie-B Parson"
 },
-		{	
+{	
 	name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 	img: "images/press.png",
 	blurb: "Performances at Danspace St. Marks Church 2020",
 	link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 	credit: "photo: Sasha Arutyunova"
 },
+{	
+	name: "Lars Jan's 'The White Album'",
+	img: "images/",
+	blurb: "Performances at Sydney Festival 2020",
+	link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
+	credit: "photo: Reed Hutchinson"
+},
+	
 	{	
 	name: "Yvonne Rainer's 'Mattress Dance'",
 	img: "images/merlin_164267745_734502e2-bf7a-4c96-9c6c-e6d1bd0948e1-jumbo.jpg",
@@ -170,12 +178,12 @@ let WEBSITE_DATA = [
 
 {	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
-	blurb: "co-star Season 4",
+	blurb: "Co-star in Season 4",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
 
-{	name: "Naomi Goldberg Hass Dances for a Variable Population '10027'",
+{	name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'",
 	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
 	blurb: "site-specific Performances in Manhattan",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
