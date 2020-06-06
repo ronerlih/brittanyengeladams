@@ -1,36 +1,36 @@
 let WEBSITE_DATA = [
 			{	
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
-	img: "images/Untitled copy.png",
-	blurb: "Residencies and Performances spring 2020",
+	img: "images/AnnieBMoodRoom.png",
+	blurb: "Residency at Atlantic Center for the Arts",
 	link: "/#",
-	credit: ""
+	credit: "photo: Annie-B Parson"
 },
 		{	
-	name: "Okwui Okpokwasili 'Sitting on a Man's Head' Danspace St. Marks Church ",
+	name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 	img: "images/press.png",
-	blurb: "Workshops and Performances in the spring 2020",
+	blurb: "Performances at Danspace St. Marks Church",
 	link: "/#",
-	credit: ""
+	credit: "photo: Sasha Arutyunova"
 },
 	{	
 	name: "Yvonne Rainer's 'Mattress Dance' Performances",
 	img: "images/merlin_164267745_734502e2-bf7a-4c96-9c6c-e6d1bd0948e1-jumbo.jpg",
-	blurb: "Reconstructed and reimagined in collaboration with Emily Coates",
+	blurb: "Reconstructed in collaboration with Emily Coates at Performa Festival",
 	link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 	credit: "photo: Adam Kremer"
 },
 {	
 	name: "Emily Coates – Ode to Oskar Schlemmer – Performances",
 	img: "images/Document-Journal_Oskar_2.jpg",
-	blurb: "Performa Gala 2019",
+	blurb: "Performance for 2019 Performa Gala",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 	credit: "photo: BFA"
 },
 {	
-	name: "Bates Dance Festival – Performances and Workshops",
+	name: "Bates College",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-	blurb: "Horton Intensive and Performances of PM",
+	blurb: "Horton worskhop for Bates Dance Festival",
 	link: "https://www.batesdancefestival.org/about/faculty/",
 	credit: "photo: BDF"
 },
@@ -99,10 +99,10 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Open Space San Francisco MOMA (Press)",
-	img: "images/MoreNetta-640x614.jpg",
+	img: "images/christopher duggan2.jpg",
 	blurb: "Review of PM #3&4",
 	link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/",
-	credit: "photo: Hayim Heron"
+	credit: "photo: Christopher Duggan"
 },
 
 {	name: "Netta Yerushalmy residency at BAC",
