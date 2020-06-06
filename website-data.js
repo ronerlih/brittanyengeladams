@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Open Space San Francisco MOMA (Press)",
-	img: "images/christopherduggan2.jpg",
+	img: "images/christopherduggan2.png",
 	blurb: "Review of PM #3&4",
 	link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/",
 	credit: "photo: Christopher Duggan"
