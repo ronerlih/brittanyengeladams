@@ -1,15 +1,15 @@
 let WEBSITE_DATA = [
 			{	
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
-	img: "images/gdc_tm_063.jpg",
-	blurb: "Upcoming Residencies and Performances beginning spring 2020",
+	img: "images/Untitled copy.png",
+	blurb: "Residencies and Performances spring 2020",
 	link: "/#",
 	credit: ""
 },
 		{	
 	name: "Okwui Okpokwasili 'Sitting on a Man's Head' Danspace St. Marks Church ",
-	img: "images/UNADJUSTEDNONRAW_thumb_28f4.jpg",
-	blurb: "LMCC workshopping and upcoming Performances in the spring 2020",
+	img: "images/press.png",
+	blurb: "Workshops and Performances in the spring 2020",
 	link: "/#",
 	credit: ""
 },
@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 {	
 	name: "In Conversations with Merce – Performances NYU Skirball",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "Cunningham Centennial",
+	blurb: "Cunningham Centennial/Choreography by Netta Yerushalmy",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
