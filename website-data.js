@@ -28,6 +28,13 @@ let WEBSITE_DATA = [
 	credit: "photo: BFA"
 },
 {	
+	name: "Netta Yerushalmy's 'Paramodernities'",
+	img: "images/nyla-paramodernities.jpg",
+	blurb: "New York City Premiere at New York Live Arts 2018",
+	link: "https://newyorklivearts.org/event/paramodernities/",
+	credit: "photo: Maria Baranova"
+},
+{	
 	name: "Bates College",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
 	blurb: "Horton worskhop at Bates Dance Festival 2019",
@@ -55,13 +62,7 @@ let WEBSITE_DATA = [
 	link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 	credit: "photo: Reed Hutchinson "
 },
-{	
-	name: "Netta Yerushalmy's 'Paramodernities'",
-	img: "images/nyla-paramodernities.jpg",
-	blurb: "New York City Premiere at New York Live Arts 2018",
-	link: "https://newyorklivearts.org/event/paramodernities/",
-	credit: "photo: Maria Baranova"
-},
+
 {	
 	name: "River To River Festival 2017 (Press)",
 	img: "images/women-enter.jpg",
