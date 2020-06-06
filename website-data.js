@@ -14,23 +14,23 @@ let WEBSITE_DATA = [
 	credit: "photo: Sasha Arutyunova"
 },
 	{	
-	name: "Yvonne Rainer's 'Mattress Dance' Performances",
+	name: "Yvonne Rainer's 'Mattress Dance'",
 	img: "images/merlin_164267745_734502e2-bf7a-4c96-9c6c-e6d1bd0948e1-jumbo.jpg",
-	blurb: "Reconstructed in collaboration with Emily Coates at Performa Festival",
+	blurb: "Performances at Performa Festival",
 	link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 	credit: "photo: Adam Kremer"
 },
 {	
-	name: "Emily Coates – Ode to Oskar Schlemmer – Performances",
+	name: "Emily Coates – Ode to Oskar Schlemmer",
 	img: "images/Document-Journal_Oskar_2.jpg",
-	blurb: "Performance for 2019 Performa Gala",
+	blurb: "Performances at Performa Gala",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 	credit: "photo: BFA"
 },
 {	
 	name: "Bates College",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-	blurb: "Horton worskhop for Bates Dance Festival",
+	blurb: "Horton worskhop at Bates Dance Festival",
 	link: "https://www.batesdancefestival.org/about/faculty/",
 	credit: "photo: BDF"
 },
@@ -49,16 +49,16 @@ let WEBSITE_DATA = [
 	credit: "photo: Eryc Perez de Tagle"
 },
 {	
-	name: "The White Album – Performances at UCLA",
+	name: "Lars Jan's 'The White Album'",
 	img: "images/la-1554655978-0ufmjwbvnq-snap-image_670.jpg",
-	blurb: "Multimedia performance created by Lars Jan/Early Morning Opera.",
+	blurb: "Performances at UCLA.",
 	link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 	credit: "photo: Reed Hutchinson "
 },
 {	
-	name: "New York Live Arts – PM Performacnes",
+	name: "Netta Yerushalmy's 'Paramodernities'",
 	img: "images/nyla-paramodernities.jpg",
-	blurb: "New York City Premiere of Paramodernities",
+	blurb: "New York City Premiere at New York Live Arts",
 	link: "https://newyorklivearts.org/event/paramodernities/",
 	credit: "photo: Maria Baranova"
 },
@@ -70,23 +70,23 @@ let WEBSITE_DATA = [
 	credit: "photo: Paula Lobo"
 },
 
-{	name: "Jacobs Pillow – PM Performances",
+{	name: "Netta Yerushalmy's 'Paramodernities'",
 	img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
-	blurb: "choreography by Netta Yerushalmy",
+	blurb: "Encyclopedia Premiere at Jacobs Pillow",
 	link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
 	credit: "photo: Andrew Spear"
 },
 
-{	name: "Donna Uchizono Company - Performances Joyce Quadrille 2018",
+{	name: "Donna Uchizono Company's 'March Under an Empty Reign'",
 	img: "images/10_Photo_by_Julieta_Cervantes_-_Hristoula_Hrakas_Julie_Alexander_Antonio_Ramos_smaller_sizeevent_image.jpg",
-	blurb: "March Under an Empty Reign",
+	blurb: "Performances at the Joyce Theater for Quadrille Festival ",
 	link: "https://www.joyce.org/performances/donna-uchizono-company",
 	credit: "photo: Julieta Cervantes"
 },
 
-{	name: "Maggie Allesee National Center for Choreography",
+{	name: "Donna Uchizono Company",
 	img: "images/Z44A4085_normal.jpg",
-	blurb: "Residency with Donna Uchizono Company",
+	blurb: "Residency at Maggie Allesee National Center for Choreography",
 	link: "http://www.mancc.org/artists/donna-uchizono/",
 	credit: "photo: Chris Cameron"
 },
@@ -105,7 +105,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Christopher Duggan"
 },
 
-{	name: "Netta Yerushalmy residency at BAC",
+{	name: "Netta Yerushalmy",
 	img: "images/NDPP.jpg",
 	blurb: "BAC story by Neil Greenberg",
 	link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1",
@@ -128,21 +128,21 @@ let WEBSITE_DATA = [
 
 {	name: "Sleep No more – Performances",
 	img: "images/tn-500_giafrese-0304.jpg",
-	blurb: "New years eve performance at the McKittrick Hotel",
+	blurb: "Guest performer at the McKittrick Hotel",
 	link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102",
 	credit: "SNM photo"
 },
 
-{	name: "EMPAC Dance Film",
+{	name: "Orit Ben Shitrit's 'A ward of feral horses'",
 	img: "images/OritBenShitrit_Dance.jpg",
-	blurb: "EMPAC commissioned film 'A ward of feral horses' directed by Orit Ben Shitrit",
+	blurb: "EMPAC commissioned dance film",
 	link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf",
 	credit: "photo: Orit Ben-Shitrit"
 },
 
-{	name: "The Great Gatsby Movie Premiere – Performance",
+{	name: "The Great Gatsby Movie Premiere",
 	img: "images/IMG_8700.JPG",
-	blurb: "Performer at the Great Gatsby Movie Premiere in NYC",
+	blurb: "Performance at the Great Gatsby Movie Premiere in NYC",
 	link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5",
 	credit: ""
 },
@@ -174,28 +174,28 @@ let WEBSITE_DATA = [
 	credit: "HBO photo"
 },
 
-{	name: "Dances for a Variable Population – site-specific Performances",
+{	name: "Naomi Goldberg Hass Dances for a Variable Population '10027'",
 	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
-	blurb: "'10027' by Naomi Goldberg Hass",
+	blurb: "site-specific Performances in Manhattan",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
 },
 
-{	name: "'Patient(ce) - Harlem Stage Gatehouse – Performances",
+{	name: "Stefanie Batten Bland's 'Patient(ce)",
 	img: "images/New-Music-Thank-You-resize.jpg",
-	blurb: "choreography by SBB",
+	blurb: "Performances at Harlem Stage Gatehouse",
 	link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem",
 	credit: "photo: Mark Millman"
 },
 
-{	name: "Stefanie Batten Bland's 'A Place of Sun' – Performances ",
+{	name: "Stefanie Batten Bland's 'A Place of Sun'",
 	img: "images/20120510BAC-slide-ICIC-articleLargecropped.jpg",
-	blurb: "Performance and residency at Baryshnikov Arts Center",
+	blurb: "Residency and Performance at Baryshnikov Arts Center",
 	link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 	credit: "photo: Julieta Cervantes"
 	},
 
-{	name: "Ailey II – Dancer",
+{	name: "Ailey II Company under the direction of Sylvia Waters",
 	img: "images/3473_Ailey_II_s_Brittany_Engel-Adams_and_Collin_Heyward_in_Donald_Byrd_s_Shards._Photo_by_Eduardo_Patino_NYC._1_81e048b4-5731-4d73-bd1a-48ab32a88cad-prv.jpg",
 	blurb: "Alvin Ailey pressroom – Donald Byrds Shards",
 	link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
