@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 },
 {	
 	name: "Lars Jan's 'The White Album'",
-	img: "images/",
+	img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
 	blurb: "Performances at Sydney Festival 2020",
 	link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
 	credit: "photo: Reed Hutchinson"
