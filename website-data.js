@@ -112,18 +112,19 @@ let WEBSITE_DATA = [
 	credit: "photo: Janelle Jones"
 },
 
-{	name: "New York Times instagram",
-	img: "images/10instagram-facebookJumbo.jpg",
-	blurb: "Ny Times video of Madison Square Park residency",
-	link: "https://www.nytimes.com/2017/08/10/arts/dance/netta-yerushalmy-paramodernities-madison-square-park.html",
-	credit: "photo: Adam Golfer"
-},
+// {	name: "New York Times instagram",
+// 	img: "images/10instagram-facebookJumbo.jpg",
+// 	blurb: "Ny Times video of Madison Square Park residency",
+// 	link: "https://www.nytimes.com/2017/08/10/arts/dance/netta-yerushalmy-paramodernities-madison-square-park.html",
+// 	credit: "photo: Adam Golfer"
+// },
 
-{	name: "LMCC Gala 2017",
-	img: "images/gala.webp",
-	blurb: "Performance at the 2017 LMCC annual fundraising Downtown Dinner Gala",
-	link: "https://www.broadwayworld.com/article/LMCCs-Downtown-Dinner-2017-to-Honor-Durst-Family-Keith-Haring-Foundation-and-More-20170406",
-	credit: ""},
+// {	name: "LMCC Gala 2017",
+// 	img: "images/gala.webp",
+// 	blurb: "Performance at the 2017 LMCC annual fundraising Downtown Dinner Gala",
+// 	link: "https://www.broadwayworld.com/article/LMCCs-Downtown-Dinner-2017-to-Honor-Durst-Family-Keith-Haring-Foundation-and-More-20170406",
+// 	credit: ""
+// },
 
 {	name: "Sleep No more – Performances",
 	img: "images/tn-500_giafrese-0304.jpg",
