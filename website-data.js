@@ -2,35 +2,35 @@ let WEBSITE_DATA = [
 			{	
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 	img: "images/AnnieBMoodRoom.png",
-	blurb: "Residency at Atlantic Center for the Arts",
+	blurb: "Residency at Atlantic Center for the Arts 2020",
 	link: "/#",
 	credit: "photo: Annie-B Parson"
 },
 		{	
 	name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 	img: "images/press.png",
-	blurb: "Performances at Danspace St. Marks Church",
+	blurb: "Performances at Danspace St. Marks Church 2020",
 	link: "/#",
 	credit: "photo: Sasha Arutyunova"
 },
 	{	
 	name: "Yvonne Rainer's 'Mattress Dance'",
 	img: "images/merlin_164267745_734502e2-bf7a-4c96-9c6c-e6d1bd0948e1-jumbo.jpg",
-	blurb: "Performances at Performa Festival",
+	blurb: "Performances at Performa Festival 2019",
 	link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 	credit: "photo: Adam Kremer"
 },
 {	
 	name: "Emily Coates – Ode to Oskar Schlemmer",
 	img: "images/Document-Journal_Oskar_2.jpg",
-	blurb: "Performances at Performa Gala",
+	blurb: "Performances at Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 	credit: "photo: BFA"
 },
 {	
 	name: "Bates College",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-	blurb: "Horton worskhop at Bates Dance Festival",
+	blurb: "Horton worskhop at Bates Dance Festival 2019",
 	link: "https://www.batesdancefestival.org/about/faculty/",
 	credit: "photo: BDF"
 },
@@ -58,7 +58,7 @@ let WEBSITE_DATA = [
 {	
 	name: "Netta Yerushalmy's 'Paramodernities'",
 	img: "images/nyla-paramodernities.jpg",
-	blurb: "New York City Premiere at New York Live Arts",
+	blurb: "New York City Premiere at New York Live Arts 2018",
 	link: "https://newyorklivearts.org/event/paramodernities/",
 	credit: "photo: Maria Baranova"
 },
@@ -72,7 +72,7 @@ let WEBSITE_DATA = [
 
 {	name: "Netta Yerushalmy's 'Paramodernities'",
 	img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
-	blurb: "Encyclopedia Premiere at Jacobs Pillow",
+	blurb: "Encyclopedia Premiere at Jacobs Pillow 2017",
 	link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
 	credit: "photo: Andrew Spear"
 },
@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Open Space San Francisco MOMA (Press)",
-	img: "images/christopher duggan2.jpg",
+	img: "images/christopherduggan2.jpg",
 	blurb: "Review of PM #3&4",
 	link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/",
 	credit: "photo: Christopher Duggan"
