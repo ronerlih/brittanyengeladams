@@ -29,7 +29,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Adam Kremer"
 },
 {	
-	name: "Emily Coates 'Ode to Oskar Schlemmer'",
+	name: "Emily Coates' 'Ode to Oskar Schlemmer'",
 	img: "images/Document-Journal_Oskar_2.jpg",
 	blurb: "Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
@@ -134,7 +134,14 @@ let WEBSITE_DATA = [
 // 	link: "https://www.broadwayworld.com/article/LMCCs-Downtown-Dinner-2017-to-Honor-Durst-Family-Keith-Haring-Foundation-and-More-20170406",
 // 	credit: ""
 // },
-
+	
+{	name: "Chiraq",
+	img: "images/Chiraq-Poster-UK.jpg",
+	blurb: "Featured performer in film directed by Spike Lee",
+	link: "",
+	credit: ""
+},
+	
 {	name: "Punchdrunk Sleep No more",
 	img: "images/tn-500_giafrese-0304.jpg",
 	blurb: "Performeances at the McKittrick Hotel 2015",
