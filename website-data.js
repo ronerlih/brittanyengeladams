@@ -50,16 +50,16 @@ let WEBSITE_DATA = [
 	credit: "photo: BDF"
 },
 {	
-	name: "Cunningham Centennial/In Conversations with Merce",
+	name: "Cunningham Centennial 'In Conversations with Merce'",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "Performances at NYU Skirball/Choreography by Netta Yerushalmy 2019",
+	blurb: "Choreography by Netta Yerushalmy, Performances at Skirball 2019",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
 {	
-	name: "Guggenheim Museum - Works & Process",
+	name: "Guggenheim Museum 'Works & Process'",
 	img: "images/33.jpg",
-	blurb: "Designs by Reid Bartelme and Harriet Jung/Choreography by Netta Yerushalmy 2019",
+	blurb: "Choreography by Netta Yerushalmy, Designs by Reid Bartelme and Harriet Jung 2019",
 	link: "https://www.guggenheim.org/event/event_series/works-process",
 	credit: "photo: Eryc Perez de Tagle"
 },
