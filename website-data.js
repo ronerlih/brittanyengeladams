@@ -29,7 +29,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Adam Kremer"
 },
 {	
-	name: "Emily Coates – Ode to Oskar Schlemmer",
+	name: "Emily Coates 'Ode to Oskar Schlemmer'",
 	img: "images/Document-Journal_Oskar_2.jpg",
 	blurb: "Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 
 {	name: "Punchdrunk Sleep No more",
 	img: "images/tn-500_giafrese-0304.jpg",
-	blurb: "Performeances at the McKittrick Hotel",
+	blurb: "Performeances at the McKittrick Hotel 2015",
 	link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102",
 	credit: "SNM photo"
 },
@@ -162,14 +162,14 @@ let WEBSITE_DATA = [
 // 	link: "https://forward.com/schmooze/150294/q-and-a-brittany-engel-adams-on-dance-and-israel/"
 // },
 
-{	name: "PM atRoger Williams University",
+{	name: "PM at Roger Williams University",
 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
 	blurb: "Performance of PM #4 choreography by Netta Yerushalmy",
 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
 	credit: "photo: Janelle Jones"
 },
 
-{	name: "Dana Katz's 'Prospect Minds' – Performances",
+{	name: "Dana Katz's 'Prospect Minds'",
 	img: "images/10361964_10205454177886803_7871722208666797287_n.jpg",
 	blurb: "Performances at the 92nd Street Y 2013",
 	link: "https://vimeo.com/58922736",
@@ -192,7 +192,7 @@ let WEBSITE_DATA = [
 
 {	name: "Stefanie Batten Bland's 'Patient(ce)",
 	img: "images/New-Music-Thank-You-resize.jpg",
-	blurb: "Performances at Harlem Stage Gatehouse",
+	blurb: "Performances at Harlem Stage Gatehouse 2015",
 	link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem",
 	credit: "photo: Mark Millman"
 },
