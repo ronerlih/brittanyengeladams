@@ -52,27 +52,27 @@ let WEBSITE_DATA = [
 {	
 	name: "Cunningham Centennial/In Conversations with Merce",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "Performances at NYU Skirball/Choreography by Netta Yerushalmy",
+	blurb: "Performances at NYU Skirball/Choreography by Netta Yerushalmy 2019",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
 {	
 	name: "Guggenheim Museum - Works & Process",
 	img: "images/33.jpg",
-	blurb: "Designs by Reid Bartelme and Harriet Jung/Choreography by Netta Yerushalmy",
+	blurb: "Designs by Reid Bartelme and Harriet Jung/Choreography by Netta Yerushalmy 2019",
 	link: "https://www.guggenheim.org/event/event_series/works-process",
 	credit: "photo: Eryc Perez de Tagle"
 },
 {	
 	name: "Lars Jan's 'The White Album'",
 	img: "images/la-1554655978-0ufmjwbvnq-snap-image_670.jpg",
-	blurb: "Performances at UCLA.",
+	blurb: "Performances at UCLA 2019.",
 	link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 	credit: "photo: Reed Hutchinson "
 },
 
 {	
-	name: "River To River Festival 2017 (Press)",
+	name: "River To River Festival (Press)",
 	img: "images/women-enter.jpg",
 	blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
 	link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
@@ -144,14 +144,14 @@ let WEBSITE_DATA = [
 
 {	name: "Orit Ben Shitrit's 'A ward of feral horses'",
 	img: "images/OritBenShitrit_Dance.jpg",
-	blurb: "EMPAC commissioned dance film",
+	blurb: "EMPAC commissioned dance film 2014",
 	link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf",
 	credit: "photo: Orit Ben-Shitrit"
 },
 
 {	name: "The Great Gatsby Movie Premiere",
 	img: "images/IMG_8700.JPG",
-	blurb: "Performance at the Great Gatsby Movie Premiere in NYC",
+	blurb: "Performance at the Great Gatsby Movie Premiere in NYC 2013",
 	link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5",
 	credit: ""
 },
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 
 {	name: "PM at Roger Williams University",
 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
-	blurb: "Performance of PM #4 choreography by Netta Yerushalmy",
+	blurb: "Performance of PM #4 choreography by Netta Yerushalmy 2018",
 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
 	credit: "photo: Janelle Jones"
 },
