@@ -170,7 +170,7 @@ let WEBSITE_DATA = [
 // },
 
 {	name: "Dana Katz's 'Prospect Minds'",
-	img: "images/10361964_10205454177886803_7871722208666797287_n.jpg",
+	img: "images/69604_557193287654529_1668116553_n.jpg",
 	blurb: "Performances at the 92nd Street Y 2013",
 	link: "https://vimeo.com/58922736",
 	credit: ""
