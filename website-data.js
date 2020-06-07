@@ -45,12 +45,12 @@ let WEBSITE_DATA = [
 {	
 	name: "Bates College 'Horton Workshop'",
 	img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-	blurb: "Bates Dance Festival 2019",
+	blurb: "Bates Summer Dance Festival 2019",
 	link: "https://www.batesdancefestival.org/about/faculty/",
 	credit: "photo: BDF"
 },
 {	
-	name: "Cunningham Centennial",
+	name: "Cunningham Centennial 'Conversations with Merce",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
 	blurb: "Choreography by Netta Yerushalmy, Performances at Skirball 2019",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
