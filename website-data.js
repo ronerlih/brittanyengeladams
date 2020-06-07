@@ -150,7 +150,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "The Great Gatsby Movie Premiere",
-	img: "images/IMG_8700.JPG",
+	img: "images/the-great-gatsby-girls.jpg",
 	blurb: "Performance at the Great Gatsby Movie Premiere in NYC 2013",
 	link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5",
 	credit: ""
