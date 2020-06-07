@@ -135,9 +135,9 @@ let WEBSITE_DATA = [
 // 	credit: ""
 // },
 	
-{	name: "Chiraq",
+{	name: "Spike Lee's Film 'Chiraq'",
 	img: "images/Chiraq-Poster-UK.jpg",
-	blurb: "Featured performer in film directed by Spike Lee",
+	blurb: "Featured performer",
 	link: "",
 	credit: ""
 },
