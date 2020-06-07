@@ -89,15 +89,15 @@ let WEBSITE_DATA = [
 		link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
 		credit: "photo: Andrew Spear",
 	},
-	{ name: "ODC Performance (Press)", img: "images/nyla-paramodernities.jpg", blurb: "Review of PM #3&4 at ODC in San Francisco", link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere", credit: "photo: Andrew Spear" },
-	{ name: "Netta Yerushalmy", img: "images/NDPP.jpg", blurb: "BAC story by Neil Greenberg", link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1", credit: "photo: Janelle Jones" },
-	{
-		name: "River To River Festival (Press)",
-		img: "images/women-enter.jpg",
-		blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
-		link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
-		credit: "photo: Paula Lobo",
-	},
+	// { name: "ODC Performance (Press)", img: "images/nyla-paramodernities.jpg", blurb: "Review of PM #3&4 at ODC in San Francisco", link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere", credit: "photo: Andrew Spear" },
+	// { name: "Netta Yerushalmy", img: "images/NDPP.jpg", blurb: "BAC story by Neil Greenberg", link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1", credit: "photo: Janelle Jones" },
+	// {
+	// 	name: "River To River Festival (Press)",
+	// 	img: "images/women-enter.jpg",
+	// 	blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
+	// 	link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
+	// 	credit: "photo: Paula Lobo",
+	// },
 
 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/christopherduggan2.png", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
@@ -116,12 +116,12 @@ let WEBSITE_DATA = [
 	// },
 
 	{ name: "Spike Lee's 'Chiraq'", img: "images/Chiraq-Poster-UK.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
+	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/RebeccaHiteTeicheira.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performeances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
 	{ name: "Stefanie Batten Bland's 'Patient(ce)", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo: Mark Millman" },
 
-	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/RebeccaHiteTeicheira.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Orit Ben Shitrit's 'A ward of feral horses'", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
 
