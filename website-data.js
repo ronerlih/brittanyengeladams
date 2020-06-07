@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Julieta Cervantes"
 },
 
-{	name: "Donna Uchizono Company",
+{	name: "Donna Uchizono Company 'Iron Jane'",
 	img: "images/Z44A4085_normal.jpg",
 	blurb: "Residency at Maggie Allesee National Center for Choreography 2018",
 	link: "http://www.mancc.org/artists/donna-uchizono/",
