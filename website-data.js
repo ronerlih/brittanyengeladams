@@ -37,10 +37,10 @@ let WEBSITE_DATA = [
 },
 {	
 	name: "Netta Yerushalmy's 'Paramodernities'",
-	img: "images/Unknown.jpeg",
+	img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
 	blurb: "NYC premiere at New York Live Arts 2018",
 	link: "https://newyorklivearts.org/event/paramodernities/",
-	credit: "photo: Maria Baranova"
+	credit: "photo: Andrew Spear"
 },
 {	
 	name: "Bates College 'Horton Workshop'",
