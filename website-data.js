@@ -184,7 +184,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'",
-	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
+	img: "images/RebeccaHiteTeicheira.jpg",
 	blurb: "Site-Specific Performances in Manhattan 2015",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
