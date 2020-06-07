@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 	
 {	name: "Spike Lee's 'Chiraq'",
 	img: "images/Chiraq-Poster-UK.jpg",
-	blurb: "Featured Dancer in the film",
+	blurb: "Featured dancer in film",
 	link: "",
 	credit: ""
 },
