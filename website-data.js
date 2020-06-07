@@ -162,12 +162,12 @@ let WEBSITE_DATA = [
 // 	link: "https://forward.com/schmooze/150294/q-and-a-brittany-engel-adams-on-dance-and-israel/"
 // },
 
-{	name: "PM at Roger Williams University",
-	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
-	blurb: "Performance of PM #4 choreography by Netta Yerushalmy 2018",
-	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
-	credit: "photo: Janelle Jones"
-},
+// {	name: "PM at Roger Williams University",
+// 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
+// 	blurb: "Performance of PM #4 choreography by Netta Yerushalmy 2018",
+// 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
+// 	credit: "photo: Janelle Jones"
+// },
 
 {	name: "Dana Katz's 'Prospect Minds'",
 	img: "images/10361964_10205454177886803_7871722208666797287_n.jpg",
@@ -178,14 +178,14 @@ let WEBSITE_DATA = [
 
 {	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
-	blurb: "Co-star in Season 4 2013",
+	blurb: "Co-Star in Season 4",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
 
 {	name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'",
 	img: "images/10418387_10153392349399837_6724538421473409268_n.jpg",
-	blurb: "site-specific Performances in Manhattan 2015",
+	blurb: "Site-Specific Performances in Manhattan 2015",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
 },
