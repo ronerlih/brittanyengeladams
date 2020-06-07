@@ -1,18 +1,18 @@
 let WEBSITE_DATA = [
-			{	
+	{	
+		name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
+		img: "images/press.png",
+		blurb: "Performances at Danspace St. Marks Church 2020",
+		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
+		credit: "photo: Sasha Arutyunova"
+	},			{	
 	name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 	img: "images/AnnieBMoodRoom.png",
 	blurb: "Residency at Atlantic Center for the Arts 2020",
 	link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 	credit: "photo: Annie-B Parson"
 },
-{	
-	name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
-	img: "images/press.png",
-	blurb: "Performances at Danspace St. Marks Church 2020",
-	link: "https://danspaceproject.org/2020/01/16/platform-2020//",
-	credit: "photo: Sasha Arutyunova"
-},
+
 {	
 	name: "Lars Jan's 'The White Album'",
 	img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
@@ -34,13 +34,6 @@ let WEBSITE_DATA = [
 	blurb: "Performa Gala 2019",
 	link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 	credit: "photo: BFA"
-},
-{	
-	name: "Netta Yerushalmy's 'Paramodernities'",
-	img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-	blurb: "NYC premiere at New York Live Arts 2018",
-	link: "https://newyorklivearts.org/event/paramodernities/",
-	credit: "photo: Andrew Spear"
 },
 {	
 	name: "Bates College 'Horton Workshop'",
@@ -70,19 +63,11 @@ let WEBSITE_DATA = [
 	link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 	credit: "photo: Reed Hutchinson "
 },
-
 {	
-	name: "River To River Festival (Press)",
-	img: "images/women-enter.jpg",
-	blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
-	link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
-	credit: "photo: Paula Lobo"
-},
-
-{	name: "Netta Yerushalmy's 'Paramodernities'",
-	img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
-	blurb: "Encyclopedia Premiere at Jacobs Pillow 2017",
-	link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
+	name: "Netta Yerushalmy's 'Paramodernities'",
+	img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
+	blurb: "NYC premiere at New York Live Arts 2018",
+	link: "https://newyorklivearts.org/event/paramodernities/",
 	credit: "photo: Andrew Spear"
 },
 
@@ -100,6 +85,27 @@ let WEBSITE_DATA = [
 	credit: "photo: Chris Cameron"
 },
 
+
+{	name: "Netta Yerushalmy's 'Paramodernities'",
+	img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
+	blurb: "Encyclopedia Premiere at Jacobs Pillow 2017",
+	link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
+	credit: "photo: Andrew Spear"
+},
+{	name: "Netta Yerushalmy",
+	img: "images/NDPP.jpg",
+	blurb: "BAC story by Neil Greenberg",
+	link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1",
+	credit: "photo: Janelle Jones"
+},
+{	
+	name: "River To River Festival (Press)",
+	img: "images/women-enter.jpg",
+	blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
+	link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
+	credit: "photo: Paula Lobo"
+},
+
 {	name: "ODC Performance (Press)",
 	img: "images/nyla-paramodernities.jpg",
 	blurb: "Review of PM #3&4 at ODC in San Francisco",
@@ -114,12 +120,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Christopher Duggan"
 },
 
-{	name: "Netta Yerushalmy",
-	img: "images/NDPP.jpg",
-	blurb: "BAC story by Neil Greenberg",
-	link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1",
-	credit: "photo: Janelle Jones"
-},
+
 
 // {	name: "New York Times instagram",
 // 	img: "images/10instagram-facebookJumbo.jpg",
