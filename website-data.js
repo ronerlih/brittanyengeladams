@@ -205,7 +205,7 @@ let WEBSITE_DATA = [
 	},
 
 {	name: "Ailey II Company under the direction of Sylvia Waters",
-	img: "images/3473_Ailey_II_s_Brittany_Engel-Adams_and_Collin_Heyward_in_Donald_Byrd_s_Shards._Photo_by_Eduardo_Patino_NYC._1_81e048b4-5731-4d73-bd1a-48ab32a88cad-prv.jpg",
+	img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
 	blurb: "Performances and Community Outreach 2010",
 	link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 	credit: "photo: Eduardo Patino"
