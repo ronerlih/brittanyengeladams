@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 	credit: "photo: Julieta Cervantes"
 },
 
-{	name: "Donna Uchizono Company 'Iron Jane'",
+{	name: "Donna Uchizono Company's 'Iron Jane'",
 	img: "images/Z44A4085_normal.jpg",
 	blurb: "Residency at Maggie Allesee National Center for Choreography 2018",
 	link: "http://www.mancc.org/artists/donna-uchizono/",
@@ -137,12 +137,12 @@ let WEBSITE_DATA = [
 	
 {	name: "Spike Lee's 'Chiraq'",
 	img: "images/Chiraq-Poster-UK.jpg",
-	blurb: "Featured dancer in film",
+	blurb: "Featured dancer in film 2016",
 	link: "",
 	credit: ""
 },
 	
-{	name: "Punchdrunk Sleep No more",
+{	name: "Punchdrunk 'Sleep No more'",
 	img: "images/tn-500_giafrese-0304.jpg",
 	blurb: "Performeances at the McKittrick Hotel 2015",
 	link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102",
@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 
 {	name: "The Great Gatsby 'Movie Premiere'",
 	img: "images/the-great-gatsby-girls.jpg",
-	blurb: "Performance at the Great Gatsby Movie Premiere in NYC 2013",
+	blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013",
 	link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5",
 	credit: ""
 },
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 
 {	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
-	blurb: "Co-Star in Season 4",
+	blurb: "Co-star in Season 4",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
