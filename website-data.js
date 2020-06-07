@@ -201,7 +201,7 @@ let WEBSITE_DATA = [
 	img: "images/Ruby Washington",
 	blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
 	link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
-	credit: "photo: Julieta Cervantes"
+	credit: "photo: Rubby Washington"
 	},
 
 {	name: "Ailey II Company under the direction of Sylvia Waters",
