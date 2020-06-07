@@ -52,14 +52,14 @@ let WEBSITE_DATA = [
 {	
 	name: "Cunningham Centennial 'Conversations with Merce'",
 	img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
-	blurb: "Choreography by Netta Yerushalmy, Performances at Skirball 2019",
+	blurb: "Choreography by Netta Yerushalmy/Performances at Skirball 2019",
 	link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 	credit: "photo: Ian Douglas"
 },
 {	
 	name: "Guggenheim Museum 'Works & Process'",
 	img: "images/MichelleTabnick.jpg",
-	blurb: "Choreography by Netta Yerushalmy, Designs by Reid Bartelme and Harriet Jung 2019",
+	blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
 	link: "https://www.guggenheim.org/event/event_series/works-process",
 	credit: "photo: Michelle Tabnick"
 },
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 
 {	name: "HBO television series 'Boardwalk Empire'",
 	img: "images/onyx-dancers.jpg",
-	blurb: "Co-star in Season 4",
+	blurb: "Co-star in Season 4 2013",
 	link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams",
 	credit: "HBO photo"
 },
