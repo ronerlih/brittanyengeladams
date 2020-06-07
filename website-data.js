@@ -135,9 +135,9 @@ let WEBSITE_DATA = [
 // 	credit: ""
 // },
 	
-{	name: "Spike Lee's Film 'Chiraq'",
+{	name: "Spike Lee's 'Chiraq'",
 	img: "images/Chiraq-Poster-UK.jpg",
-	blurb: "Featured performer",
+	blurb: "Featured Dancer in the film",
 	link: "",
 	credit: ""
 },
@@ -192,7 +192,7 @@ let WEBSITE_DATA = [
 
 {	name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'",
 	img: "images/RebeccaHiteTeicheira.jpg",
-	blurb: "Site-Specific Performances in Manhattan 2015",
+	blurb: "Site-specific Performances in Manhattan 2015",
 	link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/",
 	credit: "photo: Talya Charef"
 },
