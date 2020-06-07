@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "Stefanie Batten Bland's 'A Place of Sun'",
-	img: "images/20120510BAC-slide-ICIC-articleLargecropped.jpg",
+	img: "images/Ruby Washington",
 	blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
 	link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 	credit: "photo: Julieta Cervantes"
