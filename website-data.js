@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	img: "images/69604_557193287654529_1668116553_n.jpg",
 	blurb: "Performances at the 92nd Street Y 2013",
 	link: "https://vimeo.com/58922736",
-	credit: ""
+	credit: "photo: Dana Katz"
 },
 
 {	name: "HBO television series 'Boardwalk Empire'",
