@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 },
 {	
 	name: "Netta Yerushalmy's 'Paramodernities'",
-	img: "images/nyla-paramodernities.jpg",
+	img: "images/Unknown.jpeg",
 	blurb: "NYC premiere at New York Live Arts 2018",
 	link: "https://newyorklivearts.org/event/paramodernities/",
 	credit: "photo: Maria Baranova"
@@ -101,7 +101,7 @@ let WEBSITE_DATA = [
 },
 
 {	name: "ODC Performance (Press)",
-	img: "images/Unknown.jpeg",
+	img: "images/nyla-paramodernities.jpg",
 	blurb: "Review of PM #3&4 at ODC in San Francisco",
 	link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere",
 	credit: "photo: Andrew Spear"
