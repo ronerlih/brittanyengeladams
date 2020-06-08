@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Cunningham Centennial 'Conversations with Merce'",
-		img: "images/59694604_10156421603797725_8517050113678376960_n.jpg",
+		img: "images/NETTA_WITH+MERCE_BKW.jpg",
 		blurb: "Choreography by Netta Yerushalmy/Performances at Skirball 2019",
 		link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 		credit: "photo: Ian Douglas",
