@@ -118,7 +118,7 @@ let WEBSITE_DATA = [
 	{ name: "Spike Lee's 'Chiraq'", img: "images/Chiraq-Poster-UK.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/RebeccaHiteTeicheira.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
-	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performeances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
+	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
 	{ name: "Stefanie Batten Bland's 'Patient(ce)", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo: Mark Millman" },
 
@@ -142,7 +142,7 @@ let WEBSITE_DATA = [
 	// 	credit: "photo: Janelle Jones"
 	// },
 
-	{ name: "Dana Katz's 'Prospect Minds'", img: "images/69604_557193287654529_1668116553_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
+	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
 
 	{
 		name: "Stefanie Batten Bland's 'A Place of Sun'",
