@@ -1,5 +1,12 @@
 let WEBSITE_DATA = [
 	{
+		name: "Tessellations",
+		img: "images/who_wood_picture1.png",
+		blurb: "Collage",
+		link: "https://www.brittanyengeladams.com/who-wood.html/",
+		credit: ""
+	},
+	{
 		name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 		img: "images/press.png",
 		blurb: "Performances at Danspace St. Marks Church 2020",
