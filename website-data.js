@@ -1,8 +1,15 @@
 let WEBSITE_DATA = [
 	{
+		name: "Tessellation Figure 3",
+		img: "images/red-wood_picture1.png",
+		blurb: "'Interior Landscape'. magazine clipping, online collage, 2020.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: ""
+	},
+	{
 		name: "Tessellation Figure 1",
 		img: "images/who_wood_picture1.png",
-		blurb: "'Interior Landscape'.magazine clipping, online collage, 2020.",
+		blurb: "'Interior Landscape'. magazine clipping, online collage, 2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
