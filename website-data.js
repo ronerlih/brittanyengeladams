@@ -1,8 +1,8 @@
 let WEBSITE_DATA = [
 	{
-		name: "Online Collage/Tessellations",
+		name: "Tessellation Figure 1",
 		img: "images/who_wood_picture1.png",
-		blurb: "",
+		blurb: "'Interior Landscape'.magazine clipping, online collage, 2020.
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
