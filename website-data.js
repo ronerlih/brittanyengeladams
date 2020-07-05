@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Architecture of a Memory'",
 		img: "images/digital_sculpture_picture2.png",
-		blurb: "3D scan. Digital Sculpture. 2020.",
+		blurb: "3D Scan. Digital Sculpture. 2020.",
 		link: "",
 		credit: ""
 	},
@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Trending-Videos. Live-Recording. 2018.",
+		blurb: "Trending Videos. Live Recording. 2018.",
 		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
