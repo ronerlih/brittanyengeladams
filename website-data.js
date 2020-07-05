@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Bodies of Impermanence'",
 		img: "images/skeletal-data_picture2.png",
-		blurb: "Kinect-camera. Skeletal-avitar. 2020.",
+		blurb: "Kinect Camera. Skeletal Avitar. 2020.",
 		link: "",
 		credit: ""
 	},
