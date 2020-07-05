@@ -8,21 +8,21 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "'landscape of interiors' Tessellation",
+		name: "'interior landscape' tessellation 1",
 		img: "images/who_wood_picture1.png",
 		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
-		name: "'landscape of interiors' tessellation",
+		name: "'interiors lanscape' tessellation 2",
 		img: "images/who-blue_picture1.png",
 		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
 		{
-		name: "'landscape of interior' tessellation",
+		name: "'interior landscape' tessellation 3",
 		img: "images/red-who_picture1.png",
 		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
