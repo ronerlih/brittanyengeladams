@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	{
-		name: "'between non-human'",
+		name: "'bodies of impermanence'",
 		img: "images/skeletal-data_picture2.png",
 		blurb: "kinect camera.skeletal-avitar. 2020.",
 		link: "",
