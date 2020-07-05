@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "'between non-human'",
-		img: "images/skeletal-data_picture1.png",
+		img: "images/skeletal-data_picture2.png",
 		blurb: "kinect camera.skeletal-avitar. 2020.",
 		link: "",
 		credit: ""
