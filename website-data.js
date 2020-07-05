@@ -1,44 +1,44 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'architecture of memory'",
+		name: "'Architecture of a Memory'",
 		img: "images/digital_sculpture_picture2.png",
-		blurb: "3d scan. digital sculpture,2020.",
+		blurb: "3D scan. Digital Sculpture. 2020.",
 		link: "",
 		credit: ""
 	},
 	{
-		name: "'impermanence'",
+		name: "'Bodies of Impermanence'",
 		img: "images/skeletal-data_picture2.png",
-		blurb: "kinect-camera. skeletal-avitar,2020.",
+		blurb: "Kinect-camera. Skeletal-avitar. 2020.",
 		link: "",
 		credit: ""
 	},
 	
 		{
-		name: "'interior landscape' tessellation 1",
+		name: "'Interior Landscape' Tessellation 1",
 		img: "images/who_wood_picture1.png",
-		blurb: "magazine clippings. online collage,2020.",
+		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
-		name: "'interior lanscape' tessellation 2",
+		name: "'Interior Lanscape' Tessellation 2",
 		img: "images/who-blue_picture1.png",
-		blurb: "magazine clippings. online collage,2020.",
+		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
 		{
-		name: "'interior landscape' tessellation 3",
+		name: "'Interior Landscape' Tessellation 3",
 		img: "images/red-who_picture1.png",
-		blurb: "magazine clippings. online collage,2020.",
+		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: ""
 	},
 	{
-		name: "'youtube improv' webpage",
+		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "trending-videos.live-recording 2018.",
+		blurb: "Trending-Videos. Live-Recording. 2018.",
 		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
