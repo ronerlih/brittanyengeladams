@@ -1,30 +1,38 @@
-let WEBSITE_DATA = [
-			{
-		name: "'Youtube Improv'",
-		img: "images/youtube_improv_picture1.png",
-		blurb: "webpage. live-recording 2018.",
-		link: "https://vimeo.com/429453098",
+let WEBSITE_DATA = [		
+	{
+		name: "'architecture of memory'",
+		img: "images/digital_sculpture_picture2.png",
+		blurb: "3D scan.online-sculpture,2020.",
+		link: "",
 		credit: ""
 	},
+	
 		{
-		name: "'Interior Landscape' Tessellation",
+		name: "'landscape of interiors' Tessellation",
 		img: "images/who_wood_picture1.png",
-		blurb: "magazine clippings. online-collage, 2020.",
+		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
-		name: "'Interior Landscape' Tessellation",
+		name: "'landscape of interiors' tessellation",
 		img: "images/who-blue_picture1.png",
-		blurb: "magazine clippings. online-collage, 2020.",
+		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
 		{
-		name: "'Interior Landscape' Tessellation",
+		name: "'landscape of interior' tessellation",
 		img: "images/red-who_picture1.png",
-		blurb: "magazine clippings. online-collage, 2020.",
+		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: ""
+	},
+	{
+		name: "'youtube improv' webpage",
+		img: "images/youtube_improv_picture1.png",
+		blurb: "trending-videos.live-recording 2018.",
+		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
 	{
