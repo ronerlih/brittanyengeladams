@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'bodies of impermanence'",
 		img: "images/skeletal-data_picture2.png",
-		blurb: "kinect-camera. skeletal-avitar, 2020.",
+		blurb: "kinect-camera. skeletal-avitar,2020.",
 		link: "",
 		credit: ""
 	},
@@ -17,21 +17,21 @@ let WEBSITE_DATA = [
 		{
 		name: "'interior landscape' tessellation 1",
 		img: "images/who_wood_picture1.png",
-		blurb: "magazine clippings. online collage, 2020.",
+		blurb: "magazine clippings. online collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
 		name: "'interior lanscape' tessellation 2",
 		img: "images/who-blue_picture1.png",
-		blurb: "magazine clippings. online collage, 2020.",
+		blurb: "magazine clippings. online collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
 		{
 		name: "'interior landscape' tessellation 3",
 		img: "images/red-who_picture1.png",
-		blurb: "magazine clippings. online collage, 2020.",
+		blurb: "magazine clippings. online collage,2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: ""
 	},
