@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	{
-		name: "'interiors lanscape' tessellation 2",
+		name: "'interior lanscape' tessellation 2",
 		img: "images/who-blue_picture1.png",
 		blurb: "magazine clippings.online-collage,2020.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
