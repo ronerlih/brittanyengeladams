@@ -168,7 +168,7 @@ let WEBSITE_DATA = [
 
 	{ name: "Orit Ben Shitrit's 'A ward of feral horses'", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
 
-	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/the-great-gatsby-girls.jpg", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
+	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.jpg", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
 	{ name: "HBO television series 'Boardwalk Empire'", img: "images/onyxgirl.jpg", blurb: "Co-star in Season 4 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
@@ -189,7 +189,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Stefanie Batten Bland's 'A Place of Sun'",
-		img: "images/sbbegg.jpg",
+		img: "images/sbbcrop.jpg",
 		blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo: Rubby Washington",
