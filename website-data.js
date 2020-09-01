@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [		
 	{
 		name: "'Architecture of a Memory'",
-		img: "images/digital_sculpture_picture2.png",
+		img: "images/memory2.png.png",
 		blurb: "3D Scan. Digital Sculpture. 2020.",
 		link: "",
 		credit: ""
@@ -28,13 +28,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
-		{
-		name: "'Emergent Landscape' Tessellation 3",
-		img: "images/red-who_picture1.png",
-		blurb: "Magazine Clippings. Online Collage. 2020.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: ""
-	},
+// 		{
+// 		name: "'Emergent Landscape' Tessellation 3",
+// 		img: "images/red-who_picture1.png",
+// 		blurb: "Magazine Clippings. Online Collage. 2020.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: ""
+// 	},
 	{
 		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
