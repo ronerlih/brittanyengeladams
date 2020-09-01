@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 	// 	credit: ""
 	// },
 
-	{ name: "Spike Lee's 'Chiraq'", img: "images/Chiraq-Poster-UK.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
+	{ name: "Spike Lee's 'Chiraq'", img: "images/spikeleejoint.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/RebeccaHiteTeicheira.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
@@ -170,7 +170,7 @@ let WEBSITE_DATA = [
 
 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/the-great-gatsby-girls.jpg", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
-	{ name: "HBO television series 'Boardwalk Empire'", img: "images/onyx-dancers.jpg", blurb: "Co-star in Season 4 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
+	{ name: "HBO television series 'Boardwalk Empire'", img: "images/onyxgirl.jpg", blurb: "Co-star in Season 4 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
 	// {	name: "The Forward interview",
 	// 	img: "images/Ailey_II_s_Brittany_Engel-Adams._Photo_by_Eduardo_Patino_NYC-prv.jpg",
@@ -189,7 +189,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Stefanie Batten Bland's 'A Place of Sun'",
-		img: "images/RubyWashington.jpg",
+		img: "images/sbbegg.jpg",
 		blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo: Rubby Washington",
