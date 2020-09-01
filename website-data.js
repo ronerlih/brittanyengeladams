@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
-		img: "images/press.png",
+		img: "images/23Okwui.jpg",
 		blurb: "Performances at Danspace St. Marks Church 2020",
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo: Sasha Arutyunova",
