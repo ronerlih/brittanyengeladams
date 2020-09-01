@@ -159,7 +159,7 @@ let WEBSITE_DATA = [
 	// },
 
 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikeleejoint.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
-	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/RebeccaHiteTeicheira.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
+	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
