@@ -95,7 +95,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Guggenheim Museum 'Works & Process'",
-		img: "images/MichelleTabnick.jpg",
+		img: "images/worksandprocess.jpg",
 		blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "photo: Michelle Tabnick",
