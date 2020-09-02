@@ -142,7 +142,7 @@ let WEBSITE_DATA = [
 	// 	credit: "photo: Paula Lobo",
 	// },
 
-	{ name: "Open Space San Francisco MOMA (Press)", img: "images/christopherduggan2.png", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
+	{ name: "Open Space San Francisco MOMA (Press)", img: "images/NDPP.jpg", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
 	// {	name: "New York Times instagram",
 	// 	img: "images/10instagram-facebookJumbo.jpg",
