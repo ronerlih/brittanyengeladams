@@ -117,7 +117,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Donna Uchizono Company's 'March Under an Empty Reign'",
-		img: "images/10_Photo_by_Julieta_Cervantes_-_Hristoula_Hrakas_Julie_Alexander_Antonio_Ramos_smaller_sizeevent_image.jpg",
+		img: "images/march.png",
 		blurb: "Performances at the Joyce Theater for Quadrille Festival 2018 ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
 		credit: "photo: Julieta Cervantes",
