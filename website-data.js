@@ -42,6 +42,13 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+		{
+		name: "Pat Catterson' 'Project 114: Many in one'",
+		img: "images/patcatterson.png",
+		blurb: "online presentation with dancers from the US and Abroad",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 		img: "images/23Okwui.jpg",
