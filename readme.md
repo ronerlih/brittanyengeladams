@@ -19,5 +19,5 @@ https://console.aws.amazon.com/cloudfront/home?region=us-east-1#distribution-set
   - tap on invalidations
   - copy latest invalidation
   - tap invalidate 
-
-[**project board**](https://github.com/users/ronerlih/projects/7)
+ 
+🔮 [**project board**](https://github.com/users/ronerlih/projects/7)
