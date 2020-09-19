@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
-		img: "images/Rainer_by_StudioD.jpg",
+		img: "images/paula court .jpg",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival",
 		link: "",
 		credit: "photo: Stubio D ",
