@@ -44,10 +44,10 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
-		img: "images/paula court .jpg",
+		img: "images/paulacourt.jpg",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival",
 		link: "",
-		credit: "photo: Stubio D ",
+		credit: "photo: Paula Court",
 	},
 			{
 		name: "Guggenheim Works and Process 'Virtual Commissions'",
