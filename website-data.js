@@ -42,6 +42,20 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+			{
+		name: "'The Raindears' Yvonne Rainer's Company",
+		img: "images/Rainer_by_StudioD.jpg",
+		blurb: "Outdoor performance of Rainers early scores at the Titan Festival",
+		link: "",
+		credit: "photo: Stubio D ",
+	},
+			{
+		name: "Guggenheim Works and Process 'Virtual Commissions'",
+		img: "images/worksandprocessGugge.jpg",
+		blurb: "Creating a film in collaboration with Annie-B Parson, David Lang and Ron Erlih",
+		link: "https://www.guggenheim.org/event/event_series/works-process",
+		credit: "",
+	},
 		{
 		name: "Pat Catterson' 'Project 114: Many in one'",
 		img: "images/patcatterson.png",
