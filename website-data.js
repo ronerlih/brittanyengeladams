@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "'Emergent Landscape' Tessellation 1",
-		img: "images/who_wood_picture1.png",
+		img: "images/who_wood_picture1.png", 
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 				{
-		name: "'Cape Cod Modern House Trust Residency",
+		name: "Cape Cod Modern House Trust Residency",
 		img: "images/kugelgipslower.jpg",
 		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1) Curated by Asiya Wadud.",
 		link: "https://ccmht.org",
