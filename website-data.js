@@ -42,6 +42,13 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+				{
+		name: "'Cape Cod Modern House Trust Residency",
+		img: "images/kugelgipslower.jpg",
+		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1)curated by Asiya Wadud ",
+		link: "https://ccmht.org",
+		credit: "photo: Cape Cod Modern House Trust",
+	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
 		img: "images/paulacourt.jpg",
