@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 				{
 		name: "'Cape Cod Modern House Trust Residency",
 		img: "images/kugelgipslower.jpg",
-		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1)curated by Asiya Wadud ",
+		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1) Curated by Asiya Wadud ",
 		link: "https://ccmht.org",
 		credit: "photo: Cape Cod Modern House Trust",
 	},
