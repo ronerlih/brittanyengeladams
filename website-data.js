@@ -52,12 +52,12 @@ let WEBSITE_DATA = [
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
 		img: "images/paulacourt.jpg",
-		blurb: "Outdoor performance of Rainers early scores at the Titan Festival.",
-		link: "",
+		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 at 3:30 and 4:30pm.",
+		link: "https://www.kurimanzutto.com",
 		credit: "photo: Paula Court",
 	},
 			{
-		name: "Guggenheim Works and Process 'Virtual Commissions'",
+		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
 		img: "images/worksandprocessGugge.jpg",
 		blurb: "Creating a film in collaboration with Annie-B Parson, David Lang and Ron Erlih.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Pat Catterson' 'Project 114: Many in one'",
 		img: "images/patcatterson.png",
-		blurb: "online presentation with dancers from the US and Abroad",
+		blurb: "online presentation with dancers from the US and Abroad July 2020",
 		link: "",
 		credit: "",
 	},
