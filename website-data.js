@@ -57,9 +57,9 @@ let WEBSITE_DATA = [
 		credit: "photo: Paula Court",
 	},
 				{
-		name: "Artist Talk at University of Missouri-Kansas City on October 14",
+		name: "Artist Talk at University of Missouri-Kansas City",
 		img: "images/90.jpeg",
-		blurb: "Artist talk on dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
+		blurb: "Artist talk on Oct 14 about dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
