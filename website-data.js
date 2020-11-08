@@ -47,7 +47,7 @@ let WEBSITE_DATA = [
 		img: "images/capecodview.jpg",
 		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1) Curated by Asiya Wadud.",
 		link: "https://ccmht.org",
-		credit: "photo: Cape Cod Modern House Trust",
+		credit: "",
 	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
@@ -55,6 +55,13 @@ let WEBSITE_DATA = [
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: Paula Court",
+	},
+				{
+		name: "Artist Talk at University of Missouri-Kansas City on October 14",
+		img: "images/.jpg",
+		blurb: "Artist talk on dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
+		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+		credit: "",
 	},
 			{
 		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
