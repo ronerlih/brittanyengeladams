@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [		
 	{
 		name: "'Architecture of a Memory'",
-		img: "images/memory2.png",
+		img: "images/snapshot22.png",
 		blurb: "3D Scan. Digital Sculpture. 2020.",
 		link: "",
 		credit: ""
