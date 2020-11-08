@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	},
 				{
 		name: "Cape Cod Modern House Trust Residency",
-		img: "images/kugelgipslower.jpg",
+		img: "images/capecodview.jpg",
 		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1) Curated by Asiya Wadud.",
 		link: "https://ccmht.org",
 		credit: "photo: Cape Cod Modern House Trust",
@@ -58,7 +58,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
-		img: "images/worksandprocessGugge.jpg",
+		img: "images/HandDanceImage.jpg",
 		blurb: "Film collaboration with Annie-B Parson, David Lang and Ron Erlih.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "",
