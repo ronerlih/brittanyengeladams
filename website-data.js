@@ -71,10 +71,17 @@ let WEBSITE_DATA = [
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
+		{
+		name: "Pam Tanowitz 'Past, Present, Future Film'",
+		img: "images/",
+		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
+		link: "",
+		credit: "photo: ",
+	},
 			{
 		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Film collaboration with Annie-B Parson, David Lang and Ron Erlih.",
+		blurb: "Made a Film collaboration with Annie-B Parson, David Lang and Ron Erlih.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "",
 	},
