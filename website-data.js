@@ -59,10 +59,10 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
-		img: "images/paulacourt.jpg",
+		img: "images/Yvonnesite.jpg",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
-		credit: "photo: Paula Court",
+		credit: "",
 	},
 				{
 		name: "Artist Talk at University of Missouri-Kansas City",
