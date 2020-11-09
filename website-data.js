@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "'Youtube Improv' Performance at the Victoria J. Mastrobuono Theater",
-		img: "images/youtube_improv_picture1.png",
+		img: "images/cropb.png",
 		blurb: "Dancers perform a score while interacting with Youtube video content. 2018.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
