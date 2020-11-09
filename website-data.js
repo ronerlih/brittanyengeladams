@@ -50,9 +50,9 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 				{
-		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
+		name: "The Guggenheim Museum 'Works and Process'",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Made a Film in collaboration with Annie-B Parson, David Lang and Ron Erlih.",
+		blurb: "Made a Film in collaboration with Annie-B Parson, David Lang and Ron Erlih. Premieres November 2 2020.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "",
 	},
