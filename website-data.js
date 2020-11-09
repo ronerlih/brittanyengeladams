@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers",
 		img: "images/cropb.png",
-		blurb: "Performance at the Victoria J. Mastrobuono Theater. 2018.",
+		blurb: "Performance at the Victoria J. Mastrobuono Theater at Mason Gross school of the Arts, Rutgers Univers. 2018.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
