@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Pam Tanowitz Dance'Past, Present, Future Film'",
-		img: "images/pam.jpg",
+		img: "images/IMG_3295.JPG",
 		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: ",
