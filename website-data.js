@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "'Liminal Space'",
-		img: "images/skeletal-data_picture2.png",
+		img: "images/skeletalvideoedit00_00_23_07Still019.jpg",
 		blurb: "Kinect Camera. Skeletal Avitar. 2020.",
 		link: "https://vimeo.com/436986855",
 		credit: ""
