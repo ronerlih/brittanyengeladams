@@ -38,10 +38,18 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Trending Videos. Live Recording. 2018.",
+		blurb: "Trending Videos, and randomizing the outcome. Live Recording. 2018.",
+		link: "https://vimeo.com/brittanyengeladams",
+		credit: ""
+	},
+		{
+		name: "'Youtube Improv' Performance at the Victoria J. Mastrobuono Theater",
+		img: "images/youtube_improv_picture1.png",
+		blurb: "Dancers perform a score while interacting with Youtube video content. 2018.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+		
 				{
 		name: "Cape Cod Modern House Trust Residency",
 		img: "images/capecodview.jpg",
