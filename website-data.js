@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency",
 		img: "images/capecodview.jpg",
-		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1) Curated by Asiya Wadud.",
+		blurb: "Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1 2020) Curated by Asiya Wadud.",
 		link: "https://ccmht.org",
 		credit: "",
 	},
