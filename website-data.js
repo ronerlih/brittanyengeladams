@@ -49,6 +49,13 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+				{
+		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
+		img: "images/HandDanceImage.jpg",
+		blurb: "Made a Film collaboration with Annie-B Parson, David Lang and Ron Erlih.",
+		link: "https://www.guggenheim.org/event/event_series/works-process",
+		credit: "",
+	},
 		
 				{
 		name: "Cape Cod Modern House Trust Residency",
@@ -78,13 +85,7 @@ let WEBSITE_DATA = [
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: ",
 	},
-			{
-		name: "Guggenheim Works and Process 'Virtual Commissions'premieres on November 2",
-		img: "images/HandDanceImage.jpg",
-		blurb: "Made a Film collaboration with Annie-B Parson, David Lang and Ron Erlih.",
-		link: "https://www.guggenheim.org/event/event_series/works-process",
-		credit: "",
-	},
+
 		{
 		name: "Pat Catterson' 'Project 114: Many in one'",
 		img: "images/patcatterson.png",
