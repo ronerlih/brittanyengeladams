@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Artist Talk at University of Missouri-Kansas City",
 		img: "images/90.jpeg",
-		blurb: "Artist talk on Oct 14 2020 about dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
+		blurb: "Zoom Artist Talk on Oct 14 2020 about dancing in the 21st Century with Associate Professor of Dance Michael Blake and his Dance History class.",
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
