@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 			{
-		name: "'The Raindears' Yvonne Rainer's Company",
+		name: " 'The Raindears' Yvonne Rainer's Company",
 		img: "images/PASSINGYR.png",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Pam Tanowitz Dance'Past, Present, Future Film'",
+		name: "Pam Tanowitz Dance 'Past, Present, Future Film'",
 		img: "images/PAMFILMS.png",
 		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
