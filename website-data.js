@@ -38,14 +38,14 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Trending Videos, and randomizing the outcome. Live Recording. 2018.",
+		blurb: "Trending Videos. Randomizing The Outcome. Live Recording. 2018.",
 		link: "https://vimeo.com/brittanyengeladams",
 		credit: ""
 	},
 		{
-		name: "'Youtube Improv' Performance at the Victoria J. Mastrobuono Theater",
+		name: "'Youtube Improv' with Dancers",
 		img: "images/cropb.png",
-		blurb: "Dancers perform a score while interacting with Youtube video content. 2018.",
+		blurb: "Performance at the Victoria J. Mastrobuono Theater. 2018.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
@@ -60,14 +60,14 @@ let WEBSITE_DATA = [
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
 		img: "images/paulacourt.jpg",
-		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 at 3:30 and 4:30pm.",
+		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: Paula Court",
 	},
 				{
 		name: "Artist Talk at University of Missouri-Kansas City",
 		img: "images/90.jpeg",
-		blurb: "Artist talk on Oct 14 about dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
+		blurb: "Artist talk on Oct 14 2020 about dancing in the 21st century with Associate Professor Michael Blake's Dance History class.",
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
