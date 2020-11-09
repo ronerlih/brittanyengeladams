@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "'The Raindears' Yvonne Rainer's Company",
-		img: "images/Yvonnesite.jpg",
+		img: "images/PASSINGYR.png",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
 		credit: "",
