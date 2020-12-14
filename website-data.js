@@ -49,6 +49,13 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
+			{
+		name: "Pam Tanowitz Dance 'Gustave Le Gray No 2 and Finally Unfinished:Part 1'",
+		img: "images/Pamjoyce.jpg",
+		blurb: "Performance at the Joyce Theater, a live-streamed event premieres on December 12 at 5pm",
+		link: "https://www.joyce.org/pam-tanowitz-dance",
+		credit: "photo:Erin Baiano ",
+	},
 				{
 		name: "The Guggenheim Museum 'Works and Process'",
 		img: "images/HandDanceImage.jpg",
