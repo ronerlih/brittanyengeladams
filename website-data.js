@@ -1,17 +1,15 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'Architecture of Memory'",
+		name: "'Architecture of Memory - archiving, imagining and choreographing memory'",
 		img: "images/snapshot22.png",
-		blurb: "archiving, imagining and choreographing memory.",
+		blurb: "In the project architecture of memory I’m trying to establish a connection with my past and to my ancestors and there is a paradoxical tension between what is present - in the form of my body and its intuition, and what is missing - the rituals, stories and cultural traditions. What I’ve inherited (the thereness) has been missing (or parts missing), yet its absence is present. The intuitive capacity to bridge the past to the present is not enough.",
 		link: "",
 		credit: ""
 	},
 	{
 		name: "'Memory Dance'",
 		img: "images/memorydance.png",
-		blurb: "3d scanning movement scanning/mapping and rendering using motion capture technology and AI software. I am looping my movements just like a musical looper. The video of the looper program records and loops my movements. It shows the live camera feed from the kinect, and superimposes my movements in the frame.
-
-",
+		blurb: "3d scanning movement scanning/mapping and rendering using motion capture technology and AI software. I am looping my movements just like a musical looper. The video of the looper program records and loops my movements. It shows the live camera feed from the kinect, and superimposes my movements in the frame.",
 		link: "https://vimeo.com/436986855",
 		credit:""
 	},
