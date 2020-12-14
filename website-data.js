@@ -43,9 +43,9 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 		{
-		name: "'Youtube Improv' with Dancers",
+		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "Performance at the Victoria J. Mastrobuono Theater at Mason Gross school of the Arts, Rutgers University. 2018. Projected on Stage is YouTube Improv, the dancers interact with each other and the video content. The rules of the game confront the dancers and demand real-time improvisations and responses to the video content.",
+		blurb: "There are two versions of Youtube Improv. the first version is the visual version of it, where projected on stage is The Youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
