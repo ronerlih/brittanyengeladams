@@ -64,13 +64,6 @@ let WEBSITE_DATA = [
 		link: "https://ccmht.org",
 		credit: "",
 	},
-			{
-		name: "Pam Tanowitz Dance 'Gustave Le Gray, No. 2 and Finally Unfinished: Part 1'
-		img: "images/pamjoyce.jpg",
-		blurb: "Performance at The Joyce Theater - a live broadcast event",
-		link: "",
-		credit: "photo:Erin Baiano",
-	},
 
 			{
 		name: " 'The Raindears' Yvonne Rainer's Company",
