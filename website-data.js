@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 				{
 		name: "The Guggenheim Museum 'Works and Process'",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Made a Film in collaboration with Annie-B Parson, David Lang and Ron Erlih. Premieres November 2 2020.",
+		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home.The software used for the video detects hand gestures and overlays an image of a hand selected from a database of hand images. These images have been aggregated from data sets used to develop ai models.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "",
 	},
