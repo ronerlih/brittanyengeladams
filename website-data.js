@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Pam Tanowitz Dance Finally Unfinished: Part 1'",
-		img: "images/pamjoyce.jpg",
+		img: "images/pamlive.jpg",
 		blurb: "Performance at the Joyce Theater, a live-streamed event premieres on December 12 at 5pm",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo:Erin Baiano ",
