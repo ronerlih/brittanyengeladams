@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "'Memory Dance'",
+		name: "'Memory Dance using motion capture technology and AI software'",
 		img: "images/memorydance2.png",
 		blurb: "Video demonstration of my process working with movement capture recording and AI technology. I am looping my movements just like a musical looper. Ron and I made a looper program that records and loops my movements, it shows the live camera feed from the kinect, and superimposes my movements in the frame.The looper combines movement mapping/scanning techniques and AI software with technology kinect, a retrofitted game console controller.The kinect has infrared sensors used to capture 3d data.The looper creates a choreography of memory that I call the memory dance.",
 		link: "https://vimeo.com/436986855",
@@ -18,16 +18,16 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "'Emergent Landscape' Tessellation 1",
+		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
-		blurb: "Magazine Clippings. Online Collage. 2020. The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
+		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
-		name: "'Emergent Lanscape' Tessellation 2",
+		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
-		blurb: "Magazine Clippings. Online Collage. 2020.The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
+		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Youtube Improv' Webpage",
+		name: "'Youtube Improv' Live automated Webpage, 2018",
 		img: "images/youtube_improv_picture1.png",
 		blurb: "Trending Videos. Randomizing The Outcome. Live Recording. 2018. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture",
 		link: "https://vimeo.com/429453098",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "The Guggenheim Museum 'Works and Process'",
+		name: "The Guggenheim Museum commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
 		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home.The software used for the video detects hand gestures and overlays an image of a hand selected from a database of hand images. These images have been aggregated from data sets used to develop ai models.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
