@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Architecture of Memory'",
 		img: "images/snapshot22.png",
-		blurb: "3D Scan. Digital Sculpture. 2020.",
+		blurb: "archiving, imagining and choreographing memory.",
 		link: "",
 		credit: ""
 	},
