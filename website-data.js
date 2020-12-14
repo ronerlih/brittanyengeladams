@@ -38,14 +38,14 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Webpage",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Trending Videos. Randomizing The Outcome. Live Recording. 2018.",
+		blurb: "Trending Videos. Randomizing The Outcome. Live Recording. 2018. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
 		{
 		name: "'Youtube Improv' with Dancers",
 		img: "images/cropb.png",
-		blurb: "Performance at the Victoria J. Mastrobuono Theater at Mason Gross school of the Arts, Rutgers University. 2018.",
+		blurb: "Performance at the Victoria J. Mastrobuono Theater at Mason Gross school of the Arts, Rutgers University. 2018. Projected on Stage is YouTube Improv, the dancers interact with each other and the video content. The rules of the game confront the dancers and demand real-time improvisations and responses to the video content.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
