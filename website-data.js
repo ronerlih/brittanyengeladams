@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Youtube Improv' Live automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
+		name: "'Youtube Improv' Live Automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
 		img: "images/youtube_improv_picture1.png",
 		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture",
 		link: "https://vimeo.com/429453098",
@@ -55,7 +55,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 			{
-		name: "Pam Tanowitz Dance Finally Unfinished: Part 1'",
+		name: "'Pam Tanowitz Dance' Finally Unfinished: Part 1'",
 		img: "images/pamlive.jpg",
 		blurb: "Performance at the Joyce Theater, a live-streamed event premieres on December 12 at 5pm",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "The Guggenheim Museum commissioned by 'Works and Process' 2020",
+		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
 		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home.The software used for the video detects hand gestures and overlays an image of a hand selected from a database of hand images. These images have been aggregated from data sets used to develop ai models.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
