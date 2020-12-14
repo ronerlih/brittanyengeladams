@@ -7,11 +7,11 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	{
-		name: "'Liminal Space'",
+		name: "'Memory Dance'",
 		img: "images/skeletalvideoedit00_00_23_07Still019.jpg",
-		blurb: "Kinect Camera. Skeletal Avitar. 2020.",
+		blurb: "3d scanning movement scanning/mapping and rendering using motion capture technology and AI software .",
 		link: "https://vimeo.com/436986855",
-		credit: ""
+		credit:""
 	},
 	
 		{
