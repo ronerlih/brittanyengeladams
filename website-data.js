@@ -66,10 +66,10 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Pam Tanowitz Dance 'Gustave Le Gray, No. 2 and Finally Unfinished: Part 1'
-		img: "images/pamjoyce.JPG",
+		img: "images/pamjoyce.jpg",
 		blurb: "Performance at The Joyce Theater - a live broadcast event",
-		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
-		credit: "photo:Erin Baiano ",
+		link: "",
+		credit: "photo:Erin Baiano",
 	},
 
 			{
