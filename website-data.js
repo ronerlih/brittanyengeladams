@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'Architecture of a Memory'",
+		name: "'Architecture of Memory'",
 		img: "images/snapshot22.png",
 		blurb: "3D Scan. Digital Sculpture. 2020.",
 		link: "",
@@ -64,6 +64,14 @@ let WEBSITE_DATA = [
 		link: "https://ccmht.org",
 		credit: "",
 	},
+			{
+		name: "Pam Tanowitz Dance 'Gustave Le Gray, No. 2 and Finally Unfinished: Part 1'
+		img: "images/pamjoyce.JPG",
+		blurb: "Performance at The Joyce Theater - a live broadcast event",
+		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
+		credit: "photo:Erin Baiano ",
+	},
+
 			{
 		name: " 'The Raindears' Yvonne Rainer's Company",
 		img: "images/PASSINGYR.png",
