@@ -6,6 +6,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+	
+	
 	{
 		name: "'Memory Dance'",
 		img: "images/memorydance2.png",
@@ -18,14 +20,14 @@ let WEBSITE_DATA = [
 		{
 		name: "'Emergent Landscape' Tessellation 1",
 		img: "images/who_wood_picture1.png", 
-		blurb: "Magazine Clippings. Online Collage. 2020.",
+		blurb: "Magazine Clippings. Online Collage. 2020. The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
 	{
 		name: "'Emergent Lanscape' Tessellation 2",
 		img: "images/who-blue_picture1.png",
-		blurb: "Magazine Clippings. Online Collage. 2020.",
+		blurb: "Magazine Clippings. Online Collage. 2020.The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: ""
 	},
@@ -46,7 +48,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "There are two versions of Youtube Improv. the first version is the visual version of it, where projected on stage is The Youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "Inspired by the idea of going viral. Youtube improv replicates a logic that produces hypervisibility as the acceleration and circulation of popular media.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
