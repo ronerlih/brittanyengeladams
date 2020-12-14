@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'Architecture of Memory - archiving, imagining and choreographing memory'",
+		name: "'Architecture of Memory' - Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "In the project architecture of memory I’m trying to establish a connection with my past and to my ancestors and there is a paradoxical tension between what is present - in the form of my body and its intuition, and what is missing - the rituals, stories and cultural traditions. What I’ve inherited (the thereness) has been missing (or parts missing), yet its absence is present. The intuitive capacity to bridge the past to the present is not enough.",
 		link: "",
@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "'Memory Dance using motion capture technology and AI software'",
+		name: "'Memory Dance' using Motion Capture Technology and AI Software",
 		img: "images/memorydance2.png",
 		blurb: "Video demonstration of my process working with movement capture recording and AI technology. I am looping my movements just like a musical looper. Ron and I made a looper program that records and loops my movements, it shows the live camera feed from the kinect, and superimposes my movements in the frame.The looper combines movement mapping/scanning techniques and AI software with technology kinect, a retrofitted game console controller.The kinect has infrared sensors used to capture 3d data.The looper creates a choreography of memory that I call the memory dance.",
 		link: "https://vimeo.com/436986855",
@@ -39,9 +39,9 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Youtube Improv' Live automated Webpage, 2018",
+		name: "'Youtube Improv' Live automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Trending Videos. Randomizing The Outcome. Live Recording. 2018. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture",
+		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture",
 		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
