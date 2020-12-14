@@ -45,6 +45,8 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/429453098",
 		credit: ""
 	},
+	
+	
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
@@ -59,6 +61,9 @@ let WEBSITE_DATA = [
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo:Erin Baiano ",
 	},
+	
+	
+	
 				{
 		name: "The Guggenheim Museum 'Works and Process'",
 		img: "images/HandDanceImage.jpg",
@@ -66,6 +71,9 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "",
 	},
+	
+	
+	
 		
 				{
 		name: "Cape Cod Modern House Trust Residency",
@@ -75,6 +83,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
+	
 			{
 		name: " 'The Raindears' Yvonne Rainer's Company",
 		img: "images/PASSINGYR.png",
@@ -82,6 +92,8 @@ let WEBSITE_DATA = [
 		link: "https://www.kurimanzutto.com",
 		credit: "",
 	},
+	
+	
 				{
 		name: "Artist Talk at University of Missouri-Kansas City",
 		img: "images/90.jpeg",
@@ -104,6 +116,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 	{
 		name: "Okwui Okpokwasili 'Sitting on a Man's Head'",
 		img: "images/23Okwui.jpg",
@@ -111,6 +125,9 @@ let WEBSITE_DATA = [
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo: Sasha Arutyunova",
 	},
+	
+	
+	
 	{
 		name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 		img: "images/AnnieBMoodRoom.png",
@@ -119,6 +136,8 @@ let WEBSITE_DATA = [
 		credit: "photo: Annie-B Parson",
 	},
 
+	
+	
 	{
 		name: "Lars Jan's 'The White Album'",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
@@ -126,6 +145,8 @@ let WEBSITE_DATA = [
 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
 		credit: "photo: Reed Hutchinson",
 	},
+	
+	
 
 	{
 		name: "Yvonne Rainer's 'Mattress Dance'",
@@ -141,6 +162,8 @@ let WEBSITE_DATA = [
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
+	
+	
 	{
 		name: "Bates College 'Horton Workshop'",
 		img: "images/75513556_10156732753759080_5236135170473459712_n.jpg",
@@ -148,6 +171,8 @@ let WEBSITE_DATA = [
 		link: "https://www.batesdancefestival.org/about/faculty/",
 		credit: "photo: BDF",
 	},
+	
+	
 	{
 		name: "Cunningham Centennial 'Conversations with Merce'",
 		img: "images/skirlball.jpg",
@@ -155,6 +180,8 @@ let WEBSITE_DATA = [
 		link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
 		credit: "photo: Ian Douglas",
 	},
+	
+	
 	{
 		name: "Guggenheim Museum 'Works & Process'",
 		img: "images/worksandprocess.jpg",
@@ -162,6 +189,8 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "photo: Michelle Tabnick",
 	},
+	
+	
 	{
 		name: "Lars Jan's 'The White Album'",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
@@ -169,6 +198,8 @@ let WEBSITE_DATA = [
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
+	
+	
 	{
 		name: "Netta Yerushalmy's 'Paramodernities'",
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
@@ -177,6 +208,7 @@ let WEBSITE_DATA = [
 		credit: "photo: Andrew Spear",
 	},
 
+	
 	{
 		name: "Donna Uchizono Company's 'March Under an Empty Reign'",
 		img: "images/march.png",
