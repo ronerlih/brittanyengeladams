@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Memory Dance'",
 		img: "images/memorydance2.png",
-		blurb: "3d scanning movement scanning/mapping and rendering using motion capture technology and AI software. I am looping my movements just like a musical looper. The looper program records and loops my movements, it shows the live camera feed from the kinect, and superimposes my movements in the frame.",
+		blurb: "Video demonstration of my process working with movement capture recording and AI technology. I am looping my movements just like a musical looper. Ron and I made a looper program that records and loops my movements, it shows the live camera feed from the kinect, and superimposes my movements in the frame. The looper combines movement mapping/scanning techniques and AI software with technology kinect, a retrofitted game console controller. The kinect has infrared sensors used to capture 3d data. The looper creates a choreography of memory that I call the memory dance..",
 		link: "https://vimeo.com/436986855",
 		credit:""
 	},
