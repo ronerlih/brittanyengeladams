@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Architecture of Memory' - Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
-		blurb: "In the project architecture of memory I’m trying to establish a connection with my past and to my ancestors and there is a paradoxical tension between what is present - in the form of my body and its intuition, and what is missing - the rituals, stories and cultural traditions. What I’ve inherited (the thereness) has been missing (or parts missing), yet its absence is present. The intuitive capacity to bridge the past to the present is not enough.",
+		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology like Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
 		credit: ""
 	},
