@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "Inspired by the idea of going viral. Youtube improv replicates a logic that produces hypervisibility as the acceleration and circulation of popular media.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "Inspired by the phenomenon of 'going viral'. Youtube improv replicates the logic producing hypervisibility by the accelerating the circulatiion of trending videos.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
