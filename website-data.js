@@ -76,10 +76,10 @@ let WEBSITE_DATA = [
 	
 		
 				{
-		name: "Cape Cod Modern House Trust Residency. Artist in Residence at The Cape Cod Modern Trust (October 25 to November 1 2020) Curated by Asiya Wadud.",
+		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
 		blurb: "I had a wonderful experience during this residency. It was rejuvenating to leave the city during lockdown for ten days and to be surrounded by and immersed in the nature of Cape Cod with its breathtaking water views. We got to stay in these beautiful modern homes which had been restored, and rescued from deterioration by the trust several years ago. The architectural features of the homes were super inspiring for me as a mover and improviser. I made a site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
-		link: "https://ccmht.org",
+		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "",
 	},
 
