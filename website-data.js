@@ -55,9 +55,9 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 			{
-		name: "'Pam Tanowitz Dance' The Joyce Theater with a live broadcast performance event.",
+		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
 		img: "images/pamlive.jpg",
-		blurb: "Created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and the unique costume design by Reid and Harriet. ",
+		blurb: "'Finally Unfinished: Part 1' created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and the unique costume design by Reid and Harriet. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
