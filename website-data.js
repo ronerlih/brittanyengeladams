@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "Inspired by the phenomenon of 'going viral'. Youtube improv replicates this process, accelerating the circulatiion of trending videos that produced hypervisibility.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "Inspired by the phenomena of going viral. Youtube improv stimulates this process of hypervisibility--accelerating and circulating trending videos until the program crashes.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
+		blurb: "Site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "",
 	},
