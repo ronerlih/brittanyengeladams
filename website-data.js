@@ -166,7 +166,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Bates College 'Horton Workshop'",
-		img: "images/75513556_10156732753759080_5236135170473459712_n.jpg",
+		img: "images/Bates2inside.jpeg",
 		blurb: "Bates Summer Dance Festival 2019",
 		link: "https://www.batesdancefestival.org/about/faculty/",
 		credit: "photo: BDF",
