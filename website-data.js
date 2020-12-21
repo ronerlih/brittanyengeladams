@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'Architecture of Memory'--Archiving, Imagining and Choreographing Memory",
+		name: "'Architecture of Memory' –- Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "Site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
+		blurb: "Site-specific video improvisation. The video takes place at the kugel Gips House, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "",
 	},
