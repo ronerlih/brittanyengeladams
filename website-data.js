@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [		
 	{
-		name: "'Architecture of Memory' - Archiving, Imagining and Choreographing Memory",
+		name: "'Architecture of Memory'--Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "Inspired by the phenomena of going viral. Youtube improv stimulates this process of hypervisibility--accelerating and circulating trending videos until the program crashes.  There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: ""
 	},
