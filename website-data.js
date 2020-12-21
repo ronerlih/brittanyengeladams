@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Architecture of Memory' - Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
-		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology like Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
+		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
 		credit: ""
 	},
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "Rejuvenating experience to leave the city during lockdown, and to be surrounded by nature and stay in beautiful modern homes that had been restored, and rescued from deterioration by the trust several years ago. The architectural features of the homes were super inspiring as a mover and improviser. I made a site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
+		blurb: "site-specific video improvisation. The video takes place at the kugel gips house, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "",
 	},
