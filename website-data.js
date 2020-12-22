@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 		img: "images/bigdance.JPG",
 		blurb: "Residency at Atlantic Center for the Arts 2020",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
-		credit: "photo: Annie-B Parson",
+		credit: "photo:",
 	},
 
 	
