@@ -113,7 +113,7 @@ let WEBSITE_DATA = [
 		img: "images/PAMFILMS.png",
 		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
-		credit: "photo: ",
+		credit: "",
 	},
 
 		{
