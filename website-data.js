@@ -294,11 +294,11 @@ let WEBSITE_DATA = [
 		credit: "photo: Rubby Washington",
 	},
 		{
-		name: "Magazine appearence 'Real Simple Magazine'",
+		name: "Magazine appearence 'Real Simple Magazine August 2010'",
 		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "featured in Real Simple Magazine. ",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photo: Louise Erhard",
+		blurb: "featured in the article on flexibility in Real Simple Magazine. ",
+		link: "",
+		credit: "photo: Robert Maxwell",
 	},
 
 	{
