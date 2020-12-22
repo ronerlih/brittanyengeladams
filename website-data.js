@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/snapshot22.png",
 		blurb: "Architecture of Memory will be published in the MRPJ #55 print edition organized around temporalities that resist progressive or linear logics.",
 		link: "https://movementresearch.org/publications/performance-journal",
-		credit: ""
+		credit: "color rendering of 3d scan by Brittany Engel-Adams"
 	},
 	{
 		name: "'Architecture of Memory' –- Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
-		credit: ""
+		credit: "color rendering of 3d scan by Brittany Engel-Adams"
 	},
 	
 	
