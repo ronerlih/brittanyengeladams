@@ -130,7 +130,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
-		img: "images/AnnieBMoodRoom.png",
+		img: "images/bigdance.JPG",
 		blurb: "Residency at Atlantic Center for the Arts 2020",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 		credit: "photo: Annie-B Parson",
