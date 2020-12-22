@@ -295,7 +295,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Magazine appearence 'Real Simple Magazine August 2010'",
-		img: "images/realsimplemagazineinside.jpeg",
+		img: "images/flexibilityrealsimpleBIG.jpg",
 		blurb: "featured in the article on flexibility in Real Simple Magazine. ",
 		link: "",
 		credit: "photo: Robert Maxwell",
