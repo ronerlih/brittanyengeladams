@@ -301,4 +301,11 @@ let WEBSITE_DATA = [
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 		credit: "photo: Eduardo Patino",
 	},
+	{
+		name: "Book appearence 'The Young and The Banging'",
+		img: "images/abookappearance.jpg",
+		blurb: "featured in The Young and Banging, a book showcasing young artist living in downton New York City. ",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "photo: Louise Erhardt",
+	},
 ];
