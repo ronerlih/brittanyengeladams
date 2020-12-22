@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Lars Jan's 'The White Album'",
-		img: "images/whitealbumuclaplaybookinterior.jpeg",
+		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
 		blurb: "Performances at UCLA 2019.",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
