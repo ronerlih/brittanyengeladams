@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [	
 	{
-		name: "'Publication of 'Architecture of Memory' for The Movement Research Performance Journal #55 edition'",
+		name: "Publication of 'Architecture of Memory' for The Movement Research Performance Journal #55 edition",
 		img: "images/HIGHRESX600copy4.png",
 		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition which is organized around temporalities that resist progressive or linear logics.",
 		link: "https://movementresearch.org/publications/performance-journal",
