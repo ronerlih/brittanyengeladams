@@ -59,7 +59,7 @@ let WEBSITE_DATA = [
 		img: "images/cropb.png",
 		blurb: "There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
-		credit: ""
+		credit: "photo: still from video"
 	},
 			{
 		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 		img: "images/HandDanceImage.jpg",
 		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home.The software used for the video detects hand gestures and overlays an image of a hand selected from a database of hand images. These images have been aggregated from data sets used to develop ai models.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
-		credit: "",
+		credit: "photo: still from video",
 	},
 	
 	
@@ -87,7 +87,7 @@ let WEBSITE_DATA = [
 		img: "images/capecodview.jpg",
 		blurb: "Site-specific video improvisation. The video takes place at the kugel Gips House, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
-		credit: "",
+		credit: "photo: still from video",
 	},
 
 	
@@ -97,7 +97,7 @@ let WEBSITE_DATA = [
 		img: "images/PASSINGYR.png",
 		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
 		link: "https://www.kurimanzutto.com",
-		credit: "",
+		credit: "photo: still from video",
 	},
 	
 	
@@ -113,7 +113,7 @@ let WEBSITE_DATA = [
 		img: "images/PAMFILMS.png",
 		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
-		credit: "",
+		credit: "photo: still from video",
 	},
 
 		{
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 		img: "images/PATCat.png",
 		blurb: "online presentation with dancers from the US and Abroad July 2020",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
-		credit: "",
+		credit: "photo: still from video",
 	},
 	
 	
