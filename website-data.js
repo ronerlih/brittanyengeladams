@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Emily Coates' 'Ode to Oskar Schlemmer'",
-		img: "images/Document-Journal_Oskar_2.jpg",
+		img: "images/schlmer.JPG",
 		blurb: "Performa Gala 2019",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
