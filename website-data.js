@@ -157,7 +157,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Yvonne Rainer's 'Mattress Dance'",
-		img: "images/artforummagazineyvonne.png",
+		img: "images/article15_1064x.jpg",
 		blurb: "Performa Festival 2019",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
