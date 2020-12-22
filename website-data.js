@@ -183,7 +183,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Guggenheim Museum 'Works & Process'",
+		name: "Performance at The Guggenheim Museum 'Works & Process'",
 		img: "images/04282019-WORKS-AND-PROCESS-ErycPerezdeTaglePhotography-100.jpg",
 		blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
