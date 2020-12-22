@@ -14,7 +14,6 @@ let WEBSITE_DATA = [
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
-	
 	{
 		name: "'Memory Dance' using Motion Capture Technology and AI Software",
 		img: "images/memorydance2.png",
@@ -22,7 +21,6 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
-	
 	
 		{
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
