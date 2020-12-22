@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/HIGHRESX600copy4.png",
 		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition which is organized around temporalities that resist progressive or linear logics.",
 		link: "https://movementresearch.org/publications/performance-journal",
-		credit: "color rendering of 3d scan by Brittany Engel-Adams"
+		credit: "3d scan by Brittany Engel-Adams"
 	},
 	{
 		name: "'Architecture of Memory' –- Archiving, Imagining and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. The portraits are distillations of performative moments of practice.",
 		link: "",
-		credit: "color rendering of 3d scan by Brittany Engel-Adams"
+		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
 	
@@ -140,7 +140,7 @@ let WEBSITE_DATA = [
 		img: "images/bigdance.JPG",
 		blurb: "Residency at Atlantic Center for the Arts 2020",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
-		credit: "photo:",
+		credit: "photo: Big Dance Theater",
 	},
 
 	
