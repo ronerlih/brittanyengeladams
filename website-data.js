@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		img: "images/memorydance2.png",
 		blurb: "Video demonstration of my process working with movement capture recording and AI technology. I am looping my movements just like a musical looper. Ron and I made a looper program that records and loops my movements, it shows the live camera feed from the kinect, and superimposes my movements in the frame. The looper combines movement mapping/scanning techniques and AI software with technology kinect, a retrofitted game console controller.The kinect has infrared sensors used to capture 3d data. The looper creates a choreography of memory that I call the memory dance.",
 		link: "https://vimeo.com/436986855",
-		credit:""
+		credit:"photo: still from video"
 	},
 	
 	
@@ -29,14 +29,14 @@ let WEBSITE_DATA = [
 		img: "images/who_wood_picture1.png", 
 		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: ""
+		credit: "tessellation by Brittany Engel-Adams"
 	},
 	{
 		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
 		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: ""
+		credit: "tessellation by Brittany Engel-Adams"
 	},
 // 		{
 // 		name: "'Emergent Landscape' Tessellation 3",
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		img: "images/youtube_improv_picture1.png",
 		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/429453098",
-		credit: ""
+		credit: "photo: still from video"
 	},
 	
 	
