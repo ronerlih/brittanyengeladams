@@ -295,7 +295,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Magazine appearence 'Real Simple Magazine'",
-		img: "images/abookappearance.jpg",
+		img: "images/realsimplemagazineinside.jpeg",
 		blurb: "featured in Real Simple Magazine. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo: Louise Erhard",
