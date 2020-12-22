@@ -257,7 +257,7 @@ let WEBSITE_DATA = [
 
 	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
-	{ name: "Stefanie Batten Bland's 'Patient(ce)", img: "images/MiguelAnaya.jpeg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo: Miguel Anaya" },
+	{ name: "Stefanie Batten Bland's 'Patient(ce)", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
 	{ name: "Orit Ben Shitrit's 'A ward of feral horses'", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
