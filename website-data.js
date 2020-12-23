@@ -83,9 +83,9 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "Site-specific video improvisation. The video takes place at the kugel Gips House, the home where I stayed while in residency at The Cape Cod Modern Home Trust. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
+		blurb: "Before Zeta, is a site-specific improvisational dance video that takes place at the Kugel Gips house-the lovely home where I stayed while in residency at The Cape Cod Modern Home Trust, curated by Asiya Wadud. The video pays homage to the Nauset people, the ancestors of the land. I danced on the deck of the Kugel Gips house during a rainstorm and tried to embody and embrace the natural elements of the environment, as an offering to give back to the land, a gesture of appreciation for my time spent there.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
-		credit: "photo: still from video",
+		credit: "photo: still from video of 'Before Zeta'",
 	},
 
 	
