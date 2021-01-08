@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "'Avatar Duet' using motion capture recordings, data collection, programming and virtual reality.",
-		img: "images/116157455_10219554538907016_1378988017376762566_n.jpg",
+		img: "images/20200616_161444.jpg",
 		blurb: "I started this project with my collaborator Ron while researching possibilities for interaction of movements and data. Our point of departure was inspired from our last project which used chance, youtube videos and an improvisational dance score. We wanted to find potential interaction between movement and data that we could use. We looked at comments from youtube and other social media contexts like images from instagram or tweets. Another interesting route was detecting a person’s pose using a camera or sensor. Ron and I worked with motion capture technology to collect and record my movements. After we collected the data we experimented with different ways of processing and programming the data. Then we constructed a software for the data output and tested the new software to understand its interactive capabilities, to gain a better understanding of those potential interactions. We first started experimenting with a kinect sensor, essentially a camera feed and infrared depth feed. We tested a few available machine learning models that could predict a pose in the form of a skeleton of a person in the frame. I started with mirroring the skeleton to create a skeletal avatar adjacent to me insync with my movements.",
 		link: "",
 		credit:"photo: still from video"
