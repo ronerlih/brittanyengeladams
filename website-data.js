@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	{
-		name: "'Architecture of Memory' –- Archiving, Imagining and Choreographing Memory",
+		name: "'Architecture of Memory' –- Archiving, Imagining, and Choreographing Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory tackles family, loss, fiction and the imagination, and combines archival research with fictional manipulation of memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture. I am using the 3d scanning and rendering as a form of portraiture and archival tool. The portraits are distillations of performative moments of practice.",
 		link: "",
@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 		{
-		name: "'Avatar Duet' A.I and Human Movement Interactions--using motion capture recordings, data collection, programming and A.I.",
+		name: "'Avatar Duet' AI and Human Movement Interactions--using motion capture recordings, data collection, programming and AI.",
 		img: "images/20200616_161444.jpg",
 		blurb: "I started this project with my collaborator Ron while researching possibilities for interaction of movements and data. Our point of departure was inspired from our last project which used chance, youtube videos and an improvisational dance score. We wanted to find potential interaction between movement and data that we could use. We looked at comments from youtube and other social media contexts like images from instagram or tweets. Another interesting route was detecting a person’s pose using a camera or sensor. Ron and I worked with motion capture technology to collect and record my movements. After we collected the data we experimented with different ways of processing and programming the data. Then we constructed a software for the data output and tested the new software to understand its interactive capabilities, to gain a better understanding of those potential interactions. We first started experimenting with a kinect sensor, essentially a camera feed and infrared depth feed. We tested a few available machine learning models that could predict a pose in the form of a skeleton of a person in the frame. I started with mirroring the skeleton to create a skeletal avatar adjacent to me insync with my movements.",
 		link: "",
