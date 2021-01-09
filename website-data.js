@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Live Automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and intdeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bring the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
