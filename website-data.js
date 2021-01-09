@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication of 'Architecture of Memory' for Movement Research Performance Journal #55 edition",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition which is organized around temporalities that resist progressive or linear logics. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
+		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition 'no before no after' an yearlong project by the Movement Research Performance Journal, which is organized around temporalities that resist progressive or linear logics. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
