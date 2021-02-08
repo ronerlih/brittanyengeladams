@@ -178,8 +178,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Bates College 'Horton Workshop'",
 		img: "images/Bates2inside.jpeg",
-		blurb: "Bates Summer Dance Festival 2019. Horton-based technique and experimental approach to choreographic process. Using Horton vocabulary and building choreographic operations (or scores) that form counter-modes/moments, destabilizing the practice, and challenging the constructs of modern dance, and its limited-notions of how the body should move.",
-		link: "https://www.batesdancefestival.org/about/faculty/",
+		blurb: "Bates Summer Dance Festival 2019. Horton-based technique and experimental approach to choreographic process. Using Horton vocabulary and building choreographic operations (or scores), forming counter-modes/moments that's destabilizing the practice, and challenging constructs of modern dance and its limited notions of how the body should move.
 		credit: "photo: BDF",
 	},
 	
