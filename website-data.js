@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. om a database of hand images.",
+		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "photo: still from video",
 	},
@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "Before Zeta, is a site-specific improvisational dance video that takes place at the Kugel Gips house-the lovely home where I stayed while in residency at The Cape Cod Modern Home Trust, curated by Asiya Wadud.",
+		blurb: "Before Zeta, is a site-specific dance video that takes place at the Kugel Gips house-the lovely home where I stayed while in residency at The Cape Cod Modern Home Trust. Curated by Asiya Wadud.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
