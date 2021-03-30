@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication of 'Architecture of Memory' for Movement Research Performance Journal #55 edition",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition 'no before no after' an yearlong project by the Movement Research Performance Journal, which is organized around temporalities that resist progressive or linear logics. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
+		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition 'no before no after'an yearlong project by the Movement Research Performance Journal. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
@@ -17,12 +17,12 @@ let WEBSITE_DATA = [
 	{
 		name: "'Memory Dance' using Motion Capture Technology and AI Software",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with movement capture recording and AI technology. Ron and I made a looper program that records and loops my movements, it creates a choreography of memory that I call memory dance.",
+		blurb: "Video demonstration of my process working with movement capture recording and AI technology. It is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We made a looper program that records and loops my movements, it creates a choreography of memory that I call memory dance.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
 		{
-		name: "'Avatar Duet' AI and Human Movement Interactions.",
+		name: "'Avatar Duet'",
 		img: "images/20200616_161444.jpg",
 		blurb: "",
 		link: "",
@@ -31,14 +31,14 @@ let WEBSITE_DATA = [
 		{
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
-		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
+		blurb: "The tesselations are collages made from magazine clippings.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
 	{
 		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
-		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape.",
+		blurb: "The tesselations are collages made from magazine clippings.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Youtube Improv' Live Automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos.",
+		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "There are two versions of Youtube Improv, the first version is the visual version, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
