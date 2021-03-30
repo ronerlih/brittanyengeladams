@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 		{
-		name: "'Avatar Duet' AI and Human Movement Interactions--using motion capture recordings, data collection, programming and AI.",
+		name: "'Avatar Duet' AI and Human Movement Interactions.",
 		img: "images/20200616_161444.jpg",
 		blurb: "",
 		link: "",
