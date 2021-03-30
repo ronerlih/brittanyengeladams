@@ -1,13 +1,13 @@
 let WEBSITE_DATA = [	
 	{
-		name: "Publication of 'Architecture of Memory' for Movement Research Performance Journal #55 edition",
+		name: "Movement Research Performance Journal #55 edition",
 		img: "images/HIGHRESx602copy3.png",
 		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition 'no before no after'an yearlong project by the Movement Research Performance Journal. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	{
-		name: "'Architecture of Memory' –- Archiving, Imagining, and Choreographing Memory",
+		name: "'Archiving and Imagining Memory",
 		img: "images/snapshot22.png",
 		blurb: "The project Architecture of Memory tackles ancestry, loss, facticity and the imagination, and combines archival research with  manipulation of fictional memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture.",
 		link: "",
@@ -15,9 +15,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "'Memory Dance' using Motion Capture Technology and AI Software",
+		name: "'Memory Dance' using Motion Capture and AI",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with movement capture recording and AI technology. It is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We made a looper program that records and loops my movements, it creates a choreography of memory that I call memory dance.",
+		blurb: "Video demonstration of my process working with movement capture recording and AI technology. Memory Dance is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We made a looper program that records and loops my movements, it creates a choreography of memory that I call memory dance.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Youtube Improv' Live Automated Webpage, Collecting Trending Videos and Randomizing the Outcome, 2018",
+		name: "'Live Automated Webpage, Collects Trending Videos and Randomizes the Outcome, 2018",
 		img: "images/youtube_improv_picture1.png",
 		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
