@@ -68,7 +68,7 @@ let WEBSITE_DATA = [
 			{
 		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
 		img: "images/pamlive.jpg",
-		blurb: "'Finally Unfinished: Part 1' created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and the unique costume design by Reid and Harriet. ",
+		blurb: " ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
+		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "photo: still from video",
 	},
