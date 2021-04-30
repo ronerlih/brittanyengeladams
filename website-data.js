@@ -2,29 +2,29 @@ let WEBSITE_DATA = [
 	{
 		name: "Movement Research Performance Journal #55 edition",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory will be published in the upcoming MRPJ print edition 'no before no after'a yearlong project by the Movement Research Performance Journal. Editors In-Chief Mayfield Brooks and Joshua Lubin-Levy.",
+		blurb: "'Architecture of Memory' is being featured in Movement Research Performance Journal, Issue #55, Editor-in-chief mayfield brooks, and Joshua Lubin-Levy. Issue #55 will be released in its standard form in Spring 2021. To view my contribution on the MRPJ website, click on the image above.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	{
 		name: "'Archiving and Imagining Memory",
 		img: "images/snapshot22.png",
-		blurb: "The project Architecture of Memory tackles ancestry, loss, facticity and the imagination, and combines archival research with  manipulation of fictional memory and hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self portraiture.",
+		blurb: "'Arcitecture of Memory' tackles ancestry, loss, facticity, and the imagination. It's a digital catalog with maps, tessellations, 3D scans, and 3D avatars, and combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture.",
 		link: "",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
 	{
-		name: "'Memory Dance' using Motion Capture and AI",
+		name: "'Memory Dance' Motion Capture Recording and Artificial Intelligence",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with movement capture recording and AI technology. Memory Dance is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We made a looper program that records and loops my movements, it creates a choreography of memory that I call memory dance.",
+		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence. Memory Dance is a collaborative work I made with Ron Erlih. The program for Memory Dance uses an Artifical Intelligent Machine Learning Model, that recognizes a human posture, and creates a live mirror avatar replicating my changing postures. It functions similarly to a musical “looper,” where I can record my movement as the AI model recognizes my posture, repeats and overlays it with my other movement recordings.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
 		{
 		name: "'Avatar Duet'",
 		img: "images/20200616_161444.jpg",
-		blurb: "",
+		blurb: "I started this project with my collaborator Ron Erlih while researching possibilities for interaction of movements and data. Our point of departure was inspired from our last project which used chance, youtube videos and an improvisational dance score. We wanted to find potential interaction between movement and data that we could use. We looked at comments from youtube and other social media contexts like images from instagram or tweets. Another interesting route was detecting a person’s pose using a camera or sensor. Ron and I worked with motion capture technology to collect and record my movements. After we collected the data we experimented with different ways of processing and programming the data. Then we constructed a software for the data output and tested the new software to understand its interactive capabilities, to gain a better understanding of those potential interactions. We first started experimenting with a kinect sensor, essentially a camera feed and infrared depth feed. We tested a few available machine learning models that could predict a pose in the form of a skeleton of a person in the frame. I started with mirroring the skeleton to create a skeletal avatar adjacent to me insync with my movements",
 		link: "",
 		credit:"photo: still from video"
 	},
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Live Automated Webpage, Collects and Randomizes Trending Videos, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih a software engineer and visual artist. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
+		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "",
+		blurb: "The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 				{
 		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Hand Dance Is a dance film commissioned by The Guggenheim Works and Process, that was made in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and choreographer/dancer Brittany Engel-Adams.",
+		blurb: "'Hand Dance', is a dance film commissioned by the Guggenheim Works and Process, it was made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Link to view Hand Dance online",
 		link: "https://www.guggenheim.org/event/event_series/works-process",
 		credit: "photo: still from video",
 	},
