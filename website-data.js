@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.",
+		blurb: "The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content.",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
