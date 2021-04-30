@@ -107,9 +107,9 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: " 'The Raindears' Yvonne Rainer's Company",
+		name: "Yvonne Rainer's Diagonal Redux",
 		img: "images/PASSINGYR.png",
-		blurb: "Outdoor performance of Rainers early scores at the Titan Festival on Oct 17 2020 at 3:30 and 4:30pm.",
+		blurb: "Diagonal” was originally a section of “Terrain”, an evening-length dance choreographed by Yvonne Rainer and performed at Judson Church in 1963. Yvonne Rainer's Diagonal Redux will be performed for the opening of TITAN, New York City in 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: still from video",
 	},
