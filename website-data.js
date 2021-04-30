@@ -28,6 +28,11 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"photo: still from video"
 	},
+	
+	
+	
+	
+	
 		{
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
