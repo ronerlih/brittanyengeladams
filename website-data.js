@@ -212,9 +212,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Lars Jan's 'The White Album'",
+		name: "Lars Jan's 'The White Album', at UCLA, in 2019",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Performances at UCLA 2019.",
+		blurb: "Created by director and visual artist Lars Jan, Joan Didion’s “The White Album” uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos just as the Beatles’ so-called White Album (1968) was appropriated by Charles Manson and his murderous “family.”.",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
