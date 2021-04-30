@@ -123,9 +123,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Pam Tanowitz Dance 'Past, Present, Future Film'",
+		name: "Pam Tanowitz Dance 'Past, Present, Future Film Festival'",
 		img: "images/PAMFILMS.png",
-		blurb: "Dancer in Film by Pam Tanowitz Dance in collaboration with the filmmaker, Liz Sargent",
+		blurb: "Dance film 'Dancers (Slightly out of shape)' choreographed by Pam Tanowitz in collaboration with dancers, directed by Liz Sargent, premieres on May 10th 2021 on All-Star Arts TV for Past, Present, Future Dance Film Festival.",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: still from video",
 	},
