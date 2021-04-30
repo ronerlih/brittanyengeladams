@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Yvonne Rainer's 'Mattress Dance'",
 		img: "images/article15_1064x.jpg",
-		blurb: "Performa Festival 2019",
+		blurb: "Yvonne Rainer's 1965 work 'Parts of Some Sextet' reconstructed and reimagined with Emily Coates, for the 2019 Performa Biennial.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
 	},
