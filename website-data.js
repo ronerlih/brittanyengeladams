@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Emily Coates' 'Ode to Oskar Schlemmer'",
 		img: "images/schlmer.JPG",
-		blurb: "Performa Gala 2019",
+		blurb: "Performa Gala 2019. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
