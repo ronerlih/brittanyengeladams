@@ -152,7 +152,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 		img: "images/bigdance.JPG",
-		blurb: "Residency at Atlantic Center for the Arts 2020",
+		blurb: "The  Mood Room, a new evening-length piece directed by Annie-B Parson, is inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982) which very lightly references Chekhov’s Three Sisters with both a hilarious disrespect – and with a recognition of the internal intention of the regret, despair and relational complexity in the Chekhov text.",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 		credit: "photo: Big Dance Theater",
 	},
