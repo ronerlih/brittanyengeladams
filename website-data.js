@@ -41,14 +41,14 @@ let WEBSITE_DATA = [
 			
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
-		blurb: "The tesselations are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Clcik on the Image to view, and to interact with the tesselation.",
+		blurb: "The tessellation are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Clcik on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
 	{
 		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
-		blurb: "The tesselations are collages made from magazine clippings.The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Clcik on the Image to view, and to interact with the tesselation.",
+		blurb: "The tesselations are collages made from magazine clippings.The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Clcik on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
