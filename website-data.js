@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Live Automated Webpage, Collects and Randomizes Trending Videos, 2018",
+		name: "'Live Automated Webpage, Collects and Randomizes Trending Videos, software version 2018",
 		img: "images/youtube_improv_picture1.png",
 		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
