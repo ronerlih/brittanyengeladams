@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Archiving and Imagining Memory",
 		img: "images/snapshot22.png",
-		blurb: "'Arcitecture of Memory' tackles ancestry, loss, facticity, and the imagination. It's a digital catalog with maps, tessellations, 3D scans, and 3D avatars, and combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture.",
+		blurb: "'“Architecture of Memory,” is being published in Movement Research Performance Journal Issue #55. The project tackles ancestry, loss, facticity and the imagination; and combines archival research with manipulation of fictional memory via hacked Kinect technology and Artificially Intelligent machine learning software, that I use to create 3D avatars and 3D avatars of my body as a form of self portraiture.",
 		link: "",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
