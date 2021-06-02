@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content.",
+		blurb: "'YouTube Improv' 2018, is a Live Automated webpage that collects random videos and randomizes the outcome, using computational data (Algorithms), graphs, probability outcomes. Made in collaboration between myself and visual artist Ron Erlih. Ron and I wrote a software that plays trending YouTube videos in a random order as a score for Improvisation.  The Youtube Improv software expands Improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. There are Two Versions of YouTube Improv: The First Version, is the Visual Version, where Projected on Stage is the YouTube webpage. The dancers interact with the YouTube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The Second Version, is Only the Audio from the YouTube webpage. The dancers are being prompted by Only Listening to the YouTube clips that are randomly queued.",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
