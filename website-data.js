@@ -16,12 +16,7 @@ let WEBSITE_DATA = [
 	},
 
 	
-		{
-			
-			
-			
-			
-			
+		{		
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
@@ -61,7 +56,7 @@ let WEBSITE_DATA = [
 			{
 		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
 		img: "images/pamlive.jpg",
-		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and takes place throughout the empty Joyce Theater. Costume design by Reid and Harriet.",
+		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. Costume design by Reid and Harriet.",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
