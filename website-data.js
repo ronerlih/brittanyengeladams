@@ -24,14 +24,14 @@ let WEBSITE_DATA = [
 			
 		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
-		blurb: "The tessellation are collages made from magazine clippings. The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Click on the Image to view, and to interact with the tessellation.",
+		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
 	{
 		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
-		blurb: "The tesselations are collages made from magazine clippings.The collage was doubled and mirrored and then embeded online. These interactive tessellations zoom inward and outward, shifting the scale and the configuration of patterns creates an emergent landscape. Click on the Image to view, and to interact with the tessellation.",
+		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Live Automated Webpage, Collects and Randomizes Trending Videos, software version 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording. Youtube Improv is a collaborative work I made with my partner, Ron Erlih. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
+		blurb: " Live Recording of Youtube Improv, a collaborative work made with Ron Erlih. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "'YouTube Improv' 2018, is a Live Automated webpage that collects random videos and randomizes the outcome, using computational data (Algorithms), graphs, probability outcomes. Made in collaboration between myself and visual artist Ron Erlih. Ron and I wrote a software that plays trending YouTube videos in a random order as a score for Improvisation.  The Youtube Improv software expands Improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. There are Two Versions of YouTube Improv: The First Version, is the Visual Version, where Projected on Stage is the YouTube webpage. The dancers interact with the YouTube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The Second Version, is Only the Audio from the YouTube webpage. The dancers are being prompted by Only Listening to the YouTube clips that are randomly queued.",
+		blurb: "'YouTube Improv'is a Live Automated webpage that collects random videos and randomizes the outcome.",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
