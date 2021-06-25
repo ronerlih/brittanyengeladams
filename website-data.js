@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [	
 	{
-		name: "Architecture of Memory. ",
+		name: "Architecture of Memory",
 		img: "images/HIGHRESx602copy3.png",
 		blurb: "Architecture of Memory: A repository of recollections - that place loss and rupture as opportunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Memory Dance' Motion Capture Recording and Artificial Intelligence",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence. Memory Dance is a collaborative work I made with Ron Erlih. The program for Memory Dance uses an Artifical Intelligent Machine Learning Model, that recognizes a human posture, and creates a live mirror avatar replicating my changing postures. It functions similarly to a musical “looper,” where I can record my movement as the AI model recognizes my posture, repeats and overlays it with my other movement recordings.",
+		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence. Memory Dance is a collaborative work I made with Ron Erlih.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -43,9 +43,9 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Live Automated Webpage, Collects and Randomizes Trending Videos, software version 2018",
+		name: "'Live Automated Webpage, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording of Youtube Improv, a collaborative work made with Ron Erlih. We wrote a software that plays trending youtube videos in a random order as a score for improvisation.",
+		blurb: " Live Recording of Youtube Improv. YouTube Improv is a live-automated webpage that collects and randomizes trending Videos as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -54,14 +54,14 @@ let WEBSITE_DATA = [
 		{
 		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
 		img: "images/cropb.png",
-		blurb: "'YouTube Improv'is a Live Automated webpage that collects random videos and randomizes the outcome.",
+		blurb: "'",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
 			{
 		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
 		img: "images/pamlive.jpg",
-		blurb: "Finally Unfinished: Part 1' created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and the unique costume design by Reid and Harriet.",
+		blurb: "Finally Unfinished: Part 1' created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and costume design by Reid and Harriet.",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
@@ -135,7 +135,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
 		img: "images/bigdance.JPG",
-		blurb: "The  Mood Room, a new evening-length piece directed by Annie-B Parson, is inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982) which very lightly references Chekhov’s Three Sisters with both a hilarious disrespect – and with a recognition of the internal intention of the regret, despair and relational complexity in the Chekhov text.",
+		blurb: "The Mood Room, a new evening-length piece directed by Annie-B Parson, is inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982) which very lightly references Chekhov’s Three Sisters with both a hilarious disrespect – and with a recognition of the internal intention of the regret, despair and relational complexity in the Chekhov text.",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 		credit: "photo: Big Dance Theater",
 	},
