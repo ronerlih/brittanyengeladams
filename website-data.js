@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory. ",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory:  (2021 Movement Research Performance Journal, Issue #55). ",
+		blurb: "Architecture of Memory: Positions loss and rupture as opporunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
@@ -80,9 +80,9 @@ let WEBSITE_DATA = [
 	
 		
 				{
-		name: "Cape Cod Modern House Trust Residency. Artist in Residence from Oct 25 to Nov 1 2020, curated by Asiya Wadud.",
+		name: "Cape Cod Modern House Trust - Artist in Residence.",
 		img: "images/capecodview.jpg",
-		blurb: "Before Zeta, is a site-specific dance video that takes place at the Kugel Gips house-the lovely home where I stayed while in residency at The Cape Cod Modern Home Trust. Curated by Asiya Wadud.",
+		blurb: "Before Zeta: Video dance taken at the Kugel Gips House, in Cape Cod; Curated by Asiya Wadud.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
