@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "'Memory Dance' Motion Capture Recording and Artificial Intelligence",
+		name: "Memory Dance - Motion Capture Recording and Artificial Intelligence",
 		img: "images/memorydance2.png",
 		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence in collaboration with Ron Erlih.",
 		link: "https://vimeo.com/436986855",
@@ -17,14 +17,14 @@ let WEBSITE_DATA = [
 
 	
 		{		
-		name: "'Emergent Landscape' Tessellation 1. Magazine Clippings. Online Collage. 2020.",
+		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who_wood_picture1.png", 
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
 	{
-		name: "'Emergent Lanscape' Tessellation 2. Magazine Clippings. Online Collage. 2020.",
+		name: "Emergent Lanscape - Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -53,20 +53,14 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
-			{
-		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
-		img: "images/pamlive.jpg",
-		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. Costume design by Reid and Harriet.",
-		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo: Reid Bartelme",
-	},
+
 	
 	
 	
 				{
-		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
+		name: "Hand Dance -- Commissioned by The Guggenheim Museum  'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
-		blurb: "'Hand Dance' dance film commissioned by the Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		blurb: "'Hand Dance'a dance film commissioned by (Guggenheim Works and Process 2020), made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
@@ -82,7 +76,7 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video of 'Before Zeta'",
 	},
 
-	
+
 	
 			{
 		name: "Yvonne Rainer's Diagonal Redux",
@@ -100,6 +94,7 @@ let WEBSITE_DATA = [
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
+	
 		{
 		name: "Pam Tanowitz Dance 'Past, Present, Future Film Festival'",
 		img: "images/PAMFILMS.png",
@@ -107,7 +102,15 @@ let WEBSITE_DATA = [
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: still from video",
 	},
-
+	
+			{
+		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
+		img: "images/pamlive.jpg",
+		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. Costume design by Reid and Harriet.",
+		link: "https://www.joyce.org/pam-tanowitz-dance",
+		credit: "photo: Reid Bartelme",
+	},
+	
 		{
 		name: "Pat Catterson' 'Project 114: Many in one' 2020",
 		img: "images/PATCat.png",
