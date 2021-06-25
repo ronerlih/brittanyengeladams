@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 			{
 		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
 		img: "images/pamlive.jpg",
-		blurb: "Finally Unfinished: Part 1' created in collaboration with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and will take place throughout the empty Joyce Theater. Tanowitz invites audience members to engage further with an interactive companion piece created in collaboration with director Jeremy Jacob. This interactive website, specially crafted for audience members, acts as a curio cabinet that weaves and juxtaposes images, writings, videos, and other inspirations from Tanowitz's creative process, and costume design by Reid and Harriet.",
+		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom, this new work is the second iteration of Tanowitz’s site-specific dances and takes place throughout the empty Joyce Theater. Costume design by Reid and Harriet.",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
@@ -92,31 +92,31 @@ let WEBSITE_DATA = [
 			{
 		name: "Yvonne Rainer's Diagonal Redux",
 		img: "images/PASSINGYR.png",
-		blurb: "Diagonal” was originally a section of “Terrain”, an evening-length dance choreographed by Yvonne Rainer and performed at Judson Church in 1963. Yvonne Rainer's Diagonal Redux will be performed for the opening of TITAN, New York City in 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+		blurb: "Diagonal” was originally a section of “Terrain”, an evening-length dance choreographed by Yvonne Rainer originally performed at Judson Church in 1963. Yvonne Rainer's Diagonal Redux will be performed for the opening of TITAN, New York City in 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: still from video",
 	},
 	
 	
 				{
-		name: "Artist Talk at University of Missouri-Kansas City",
+		name: "Artist Talk at University of Missouri-Kansas City 2020",
 		img: "images/90.jpeg",
-		blurb: "Zoom Artist Talk on Oct 14 2020 about dancing in the 21st Century with Associate Professor of Dance Michael Blake and his Dance History class.",
+		blurb: "Artist Talk on what it means to be a dancer in the 21st Century, with Associate Professor of Dance, Michael Blake for his Dance History course.",
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
 		{
 		name: "Pam Tanowitz Dance 'Past, Present, Future Film Festival'",
 		img: "images/PAMFILMS.png",
-		blurb: "Dance film 'Dancers (Slightly out of shape)' choreographed by Pam Tanowitz in collaboration with dancers, directed by Liz Sargent, premieres on May 10th 2021 on All-Star Arts TV for Past, Present, Future Dance Film Festival.",
+		blurb: "Dance film 'Dancers (Slightly out of shape)' choreographed by Pam Tanowitz with dancers, directed by Liz Sargent, on All-Star Arts TV for Past, Present, Future Dance Film Festival.",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: still from video",
 	},
 
 		{
-		name: "Pat Catterson' 'Project 114: Many in one'",
+		name: "Pat Catterson' 'Project 114: Many in one' 2020",
 		img: "images/PATCat.png",
-		blurb: "online presentation with dancers from the US and Abroad July 2020",
+		blurb: "video dance with artists from the US and Abroad",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
