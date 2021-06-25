@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 				{
 		name: "The Guggenheim Museum Commissioned by 'Works and Process' 2020",
 		img: "images/HandDanceImage.jpg",
-		blurb: "'Hand Dance', is a dance film commissioned by the Guggenheim Works and Process, it was made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		blurb: "'Hand Dance' dance film commissioned by the Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
@@ -80,9 +80,9 @@ let WEBSITE_DATA = [
 	
 		
 				{
-		name: "Cape Cod Modern House Trust - Artist in Residence.",
+		name: "Cape Cod Modern House Trust - Artist in Residence, curated by Asiya Wadud.",
 		img: "images/capecodview.jpg",
-		blurb: "Before Zeta: Video dance taken at the Kugel Gips House, in Cape Cod; Curated by Asiya Wadud.",
+		blurb: "Before Zeta: Video dance taken at the Kugel Gips House, in Cape Cod.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
@@ -265,7 +265,7 @@ let WEBSITE_DATA = [
 
 	{ name: "Orit Ben Shitrit's 'A ward of feral horses'", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
 
-	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
+// 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
 	{ name: "HBO television series 'Boardwalk Empire'", img: "images/onyx-dancers.jpg", blurb: "Co-star in Season 4 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
@@ -282,7 +282,7 @@ let WEBSITE_DATA = [
 	// 	credit: "photo: Janelle Jones"
 	// },
 
-	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
+// 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
 
 	{
 		name: "Stefanie Batten Bland's 'A Place of Sun'",
