@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory: A repository of recollections - that place loss and rupture as opportunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
+		blurb: "Architecture of Memory: A repository of recollections, that place loss and rupture as opportunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Memory Dance' Motion Capture Recording and Artificial Intelligence",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence. Memory Dance is a collaborative work I made with Ron Erlih.",
+		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence. Memory Dance was made in collaboration with Ron Erlih.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 	{
 		name: "'Live Automated Webpage, 2018",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording of Youtube Improv. YouTube Improv is a live-automated webpage that collects and randomizes trending Videos as a score for improvisation.",
+		blurb: " Live Recording of Youtube Improv. YouTube Improv is a live-automated webpage that collects and randomizes trending videos as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
