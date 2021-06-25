@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory. ",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory: Positions loss and rupture as opporunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
+		blurb: "Architecture of Memory: A repository of recollections that place loss and rupture as opporunity for transformation and growth (2021 Movement Research Performance Journal, Issue #55). ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
