@@ -1,16 +1,9 @@
 let WEBSITE_DATA = [	
 	{
-		name: "Movement Research Performance Journal #55 edition",
+		name: "Architecture of Memory. ",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "'Architecture of Memory' is being published in Movement Research Performance Journal, Issue #55, Editor-in-chief mayfield brooks, and Joshua Lubin-Levy.",
+		blurb: "Architecture of Memory:  (2021 Movement Research Performance Journal, Issue #55). ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "3d scan by Brittany Engel-Adams"
-	},
-	{
-		name: "'Archiving and Imagining Memory",
-		img: "images/snapshot22.png",
-		blurb: "'“Architecture of Memory,” tackles ancestry, loss, facticity and the imagination; and combines archival research with manipulation of fictional memory via hacked Kinect technology and Artificially Intelligent machine learning software, that I use to create 3D avatars and 3D avatars of my body as a form of self portraiture.",
-		link: "",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
@@ -21,17 +14,7 @@ let WEBSITE_DATA = [
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
-		{
-		name: "'Avatar Duet'",
-		img: "images/20200616_161444.jpg",
-		blurb: "Avatar Duet' AI and Human Movement Interactions--using motion capture recordings, data collection, programming and AI. I started this project with my collaborator Ron while researching possibilities for interaction of movements and data. Our point of departure was inspired from our last project which used chance, youtube videos as an improvisational dance score. We wanted to find potential interaction between movement and data that we could use. We looked at comments from youtube and other social media contexts like images from instagram or tweets. Another interesting route was detecting a person’s pose using a camera or sensor. Ron and I worked with motion capture technology to collect and record my movements. After we collected the data we experimented with different ways of processing and programming the data. Then we constructed a software for the data output and tested the new software to understand its interactive capabilities, to gain a better understanding of those potential interactions.",
-		link: "",
-		credit:"photo: still from video"
-	},
-	
-	
-	
-	
+
 	
 		{
 			
