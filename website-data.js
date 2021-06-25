@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance - Motion Capture Recording and Artificial Intelligence",
 		img: "images/memorydance2.png",
-		blurb: "Video demonstration of my process working with Movement Capture Recording and Artificial Intelligence in collaboration with Ron Erlih.",
+		blurb: "Video demonstration of my process working with movement capture recording and artificial intelligence in collaboration with Ron Erlih.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
