@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (avatar):",
 		img: "images/memorydance2.png", 
-		blurb: "Explores the construct and material of the digital identity (avatar) as mapped to the body and (pre)conditioned by history and culture. Brittany Engel-Adams uses data visualization and hacked kinect technology to sync, record and loop a dance that memories a digital identification of itself. ",
+		blurb: "Explores the construct and material of the digital identity (avatar) as mapped to the body and (pre)conditioned by history and culture. Brittany Engel-Adams uses data visualization and hacked kinect technology to sync, record and loop a dance that memories itself as (avatar). ",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
