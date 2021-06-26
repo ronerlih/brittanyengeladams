@@ -253,7 +253,7 @@ let WEBSITE_DATA = [
 	// 	credit: ""
 	// },
 
-	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
+// 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
@@ -290,17 +290,17 @@ let WEBSITE_DATA = [
 		credit: "photo: Rubby Washington",
 	},
 		{
-		name: "Magazine appearence 'Real Simple Magazine August 2010'",
+		name: "Real Simple Magazine",
 		img: "images/flexibilityrealsimpleBIG.jpg",
-		blurb: "featured in the article on flexibility in Real Simple Magazine. ",
+		blurb: "Real Simple Magazine Featured in the August 2010 issue . ",
 		link: "",
 		credit: "photo: Robert Maxwell",
 	},
 
 	{
-		name: "Ailey II Company under the direction of Sylvia Waters",
+		name: "Ailey II",
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
-		blurb: "Performances and Community Outreach 2010",
+		blurb: "Ailey II Company Dancer under the direction of Sylvia Waters 2010-2012",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 		credit: "photo: Eduardo Patino",
 	},
