@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Yvonne Rainer Mattress Dance:",
+		name: "Yvonne Rainer - Mattress Dance:",
 		img: "images/article15_1064x.jpg",
 		blurb: "Brittany Engel-Adams performed Yvonne Rainer's 1965 work 'Parts of Some Sextet' reconstructed and reimagined with Emily Coates, for the 2019 Performa Biennial.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
@@ -146,7 +146,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Yvonne Rainer Diagonal Redux:",
+		name: "Yvonne Rainer - Diagonal Redux:",
 		img: "images/PASSINGYR.png",
 		blurb: "Brittany Engel-Adams performed an evening-length piece of Yvonne Rainer titled Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
