@@ -10,11 +10,26 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance",
 		img: "images/memorydance2.png",
-		blurb: "Memory Dance: Explores the construct and material of memory as mapped to the body from history and culture. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore notions of visibility, blackness, femininity and the gaze.",
+		blurb: "Memory Dance: Explores the construct and material of memory as mapped to the body from history and culture. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore historical and contemporary conceptions of time and notions of visibility, blackness, femininity and the gaze.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
-
+	
+          {
+		name: "YouTube Improv, Verson 1",
+		img: "images/youtube_improv_picture1.png",
+		blurb: "YouTube Improv, Version 1: An automated web page that collects and randomizes trending videos as a score for improvisation.",
+		link: "https://vimeo.com/429453098",
+		credit: "photo: still from video"
+	},
+	
+		{
+		name: "Youtube Improv, Version 2",
+		img: "images/cropb.png",
+		blurb: "Performance commissioned by Rutgers University in 2018. The work explores the phenomenology of virality, sociality of community, and self determination in the age of the internet.",
+		link: "https://vimeo.com/312205711",
+		credit: "photo: still from video"
+	},
 	
 		{		
 		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020.",
@@ -23,6 +38,8 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
+	
+	
 	{
 		name: "Emergent Lanscape - Tessellation 2. Magazine Clippings. Online Collage. 2020.",
 		img: "images/who-blue_picture1.png",
@@ -37,25 +54,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/red-who.html",
 // 		credit: ""
 // 	},
-	{
-		name: "YouTube Improv, Verson 1",
-		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv, Version 1: An automated web page that collects and randomizes trending videos as a score for improvisation.",
-		link: "https://vimeo.com/429453098",
-		credit: "photo: still from video"
-	},
-	
-	
-		{
-		name: "Youtube Improv, Version 2",
-		img: "images/cropb.png",
-		blurb: "Performance commissioned by Rutgers University in 2018. The work explores the phenomenology of virality, sociality of community, and self determination in the age of the internet.",
-		link: "https://vimeo.com/312205711",
-		credit: "photo: still from video"
-	},
 
-	
-	
 	
 				{
 		name: "Hand Dance -- Commissioned by The Guggenheim Museum  'Works and Process' 2020",
