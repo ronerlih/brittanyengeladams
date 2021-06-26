@@ -76,21 +76,21 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video of 'Before Zeta'",
 	},
 
-					{
-		name: "University of Missouri-Kansas City - Artist Talk:",
-		img: "images/90.jpeg",
-		blurb: "What it means to be a dancer in the 21st Century for Associate Professor of Dance, Michael Blake Dance History class.",
-		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-		credit: "",
-	},
+// 					{
+// 		name: "University of Missouri-Kansas City - Artist Talk:",
+// 		img: "images/90.jpeg",
+// 		blurb: "What it means to be a dancer in the 21st Century for Associate Professor of Dance, Michael Blake Dance History class.",
+// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+// 		credit: "",
+// 	},
 	
 		
-	{
-		name: "Bates College 'Horton Workshop'",
-		img: "images/Bates2inside.jpeg",
-		blurb: "",
-		credit: "photo: BDF",
-	},
+// 	{
+// 		name: "Bates College 'Horton Workshop'",
+// 		img: "images/Bates2inside.jpeg",
+// 		blurb: "",
+// 		credit: "photo: BDF",
+// 	},
 
 		{
 		name: "Yvonne Rainer Mattress Dance:",
