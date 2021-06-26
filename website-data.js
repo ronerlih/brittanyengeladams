@@ -16,9 +16,9 @@ let WEBSITE_DATA = [
 	},
 	
 					{
-		name: "Cape Cod Modern House Trust Artist in Residence 2020:",
+		name: "Cape Cod Modern House Trust Artist Residency:",
 		img: "images/capecodview.jpg",
-		blurb: "https://Brittany Engel-Adams recently presented two pieces that she worked on while in Wellfleet, Architecture of Memory and Hand Dance, a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
+		blurb: "Brittany Engel-Adams recently presented two pieces that she worked on while in Wellfleet, Architecture of Memory and Hand Dance, a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
