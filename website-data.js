@@ -15,6 +15,13 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 	
+	{
+		name: "Hand Dance:",
+		img: "images/HandDanceImage.jpg",
+		blurb: "Dance film commissioned in 2020 by Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "photo: still from video",
+	},
 	
           {
 		name: "YouTube Improv, Verson 1:",
@@ -32,13 +39,7 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video"
 	},
 	
-		{
-		name: "Hand Dance:",
-		img: "images/HandDanceImage.jpg",
-		blurb: "Dance film commissioned in 2020 by Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo: still from video",
-	},
+
 	
 		{		
 		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020:",
@@ -77,26 +78,27 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video of 'Before Zeta'",
 	},
 
+					{
+		name: "University of Missouri-Kansas City - Artist Talk:",
+		img: "images/90.jpeg",
+		blurb: "What it means to be a dancer in the 21st Century for Associate Professor of Dance, Michael Blake Dance History class.",
+		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+		credit: "",
+	},
+	
 
 	
 			{
 				
 		name: "Yvonne Rainer's Diagonal Redux",
 		img: "images/PASSINGYR.png",
-		blurb: "Diagonal” was originally a section of “Terrain”, an evening-length dance choreographed by Yvonne Rainer originally performed at Judson Church in 1963. Yvonne Rainer's Diagonal Redux will be performed for the opening of TITAN, New York City in 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+		blurb: "Evening-length performance of Yvonne Rainer's Diagonal Redux for the opening of TITAN Festival, New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: still from video",
 	},
 	
 	
-				{
-		name: "Artist Talk at University of Missouri-Kansas City 2020",
-		img: "images/90.jpeg",
-		blurb: "Artist Talk on what it means to be a dancer in the 21st Century, with Associate Professor of Dance, Michael Blake for his Dance History course.",
-		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-		credit: "",
-	},
-	
+
 		{
 		name: "Pam Tanowitz Dance 'Past, Present, Future Film Festival'",
 		img: "images/PAMFILMS.png",
