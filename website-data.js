@@ -93,6 +93,48 @@ let WEBSITE_DATA = [
 // 		credit: "photo: BDF",
 // 	},
 
+	{
+		name: "Lars Jan The White Album - Sydney Festival:",
+		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
+		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at Sydney Festival, 2020.",
+		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
+		credit: "photo: Reed Hutchinson",
+	},
+	
+		{
+		name: "Lars Jan The White Album - UCLA",
+		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
+		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at University of California, Los Angeles, 2019.",
+		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
+		credit: "photo: Reed Hutchinson ",
+	},
+	
+		{
+		name: "Emily Coates - Performa Gala",
+		img: "images/schlmer.JPG",
+		blurb: "Ode to Oskar Schlemmer choreogrpahed by Emily Coates for the 2019 Performa Gala. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
+		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
+		credit: "photo: BFA",
+	},
+	
+		{
+		name: "Okwui Okpokwasili and Peter Born:",
+		img: "images/23Okwui.jpg",
+		blurb: "'Sitting on a Man's Head' Performances at Danspace St. Marks Church, in New York City, 2020",
+		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
+		credit: "photo: Sasha Arutyunova",
+	},
+	
+		{
+		name: "Big Dance Theater - Mood Room:",
+		img: "images/bigdance.JPG",
+		blurb: "'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982)",
+		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
+		credit: "photo: Big Dance Theater",
+	},
+	
+	
+	
 		{
 		name: "Yvonne Rainer Mattress Dance:",
 		img: "images/article15_1064x.jpg",
@@ -110,87 +152,45 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video",
 	},
 	
-	
+				{
+		name: "'Pam Tanowitz Dance - The Joyce Theater:",
+		img: "images/pamlive.jpg",
+		blurb: "Brittany Engel-Adams performs in a live broadcast performance event from the Joyce Theater in New York City. 'Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. ",
+		link: "https://www.joyce.org/pam-tanowitz-dance",
+		credit: "photo: Reid Bartelme",
+	},
 
 		{
 		name: "Pam Tanowitz Dance - Film Festival:",
 		img: "images/PAMFILMS.png",
-		blurb: "'Dancers slightly out of shape' a film choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
+		blurb: "Brittany Engel-Adams performs in a dance film commisioned by ALL Star Television. Choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: still from video",
 	},
 	
-			{
-		name: "'Pam Tanowitz Dance - The Joyce Theater:",
-		img: "images/pamlive.jpg",
-		blurb: "A live broadcast performance event. 'Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. ",
-		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo: Reid Bartelme",
-	},
+
 	
 		{
 		name: "Pat Catterson - Project 114:",
 		img: "images/PATCat.png",
-		blurb: "A site-specific dance film choreogrpahed by Pat Catterson for an online event with artists from the United States and Abroad",
+		blurb: "Brittany Engel-Adams performs in site-specific dance film choreogrpahed by Pat Catterson for an online event with artists from the United States and Abroad",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
 	
 	
-	{
-		name: "Okwui Okpokwasili and Peter Born:",
-		img: "images/23Okwui.jpg",
-		blurb: "'Sitting on a Man's Head' Performances at Danspace St. Marks Church, in New York City, 2020",
-		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
-		credit: "photo: Sasha Arutyunova",
-	},
-	
-	
-	
-	{
-		name: "Annie-B Parson - Big Dance Theater:",
-		img: "images/bigdance.JPG",
-		blurb: "'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982)",
-		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
-		credit: "photo: Big Dance Theater",
-	},
 
 	
 	
-	{
-		name: "Lars Jan The White Album - Sydney Festival:",
-		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
-		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at Sydney Festival, 2020.",
-		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
-		credit: "photo: Reed Hutchinson",
-	},
-	
-		{
-		name: "Lars Jan The White Album - UCLA",
-		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at University of California, Los Angeles, 2019.",
-		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
-		credit: "photo: Reed Hutchinson ",
-	},
-	
 
-	{
-		name: "Emily Coates - Performa Gala",
-		img: "images/schlmer.JPG",
-		blurb: "Ode to Oskar Schlemmer choreogrpahed by Emily Coates for the 2019 Performa Gala. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
-		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
-		credit: "photo: BFA",
-	},
 	
-	
-	
-	{
-		name: "Cunningham Centennial 'Conversations with Merce'",
-		img: "images/skirlball.jpg",
-		blurb: "Choreography by Netta Yerushalmy/Performances at Skirball 2019",
-		link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
-		credit: "photo: Ian Douglas",
-	},
+// 	{
+// 		name: "Cunningham Centennial 'Conversations with Merce'",
+// 		img: "images/skirlball.jpg",
+// 		blurb: "Choreography by Netta Yerushalmy/Performances at Skirball 2019",
+// 		link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
+// 		credit: "photo: Ian Douglas",
+// 	},
 	
 	
 // 	{
