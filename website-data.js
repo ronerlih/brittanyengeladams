@@ -38,18 +38,18 @@ let WEBSITE_DATA = [
 // 		credit: ""
 // 	},
 	{
-		name: "'Live Automated Webpage, 2018",
+		name: "YouTube Improv, Verson 1",
 		img: "images/youtube_improv_picture1.png",
-		blurb: " Live Recording of Youtube Improv. YouTube Improv is a live-automated webpage that collects and randomizes trending videos as a score for improvisation.",
+		blurb: "YouTube Improv, Version 1: An automated web page that collects and randomizes trending videos as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
 	
 	
 		{
-		name: "'Youtube Improv' with Dancers, Rutgers University 2018",
+		name: "Youtube Improv, Version 2",
 		img: "images/cropb.png",
-		blurb: "'",
+		blurb: "Performance commissioned by Rutgers University in 2018. The work explores the phenomenology of virality, sociality of community, and self determination in the age of the internet.",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
