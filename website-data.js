@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Hand Dance:",
+		name: "Hand Dance - Dance Film:",
 		img: "images/HandDanceImage.jpg",
 		blurb: "Dance film commissioned in 2020 by Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -103,7 +103,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Yvonne Rainer Diagonal Redux",
+		name: "Yvonne Rainer Diagonal Redux:",
 		img: "images/PASSINGYR.png",
 		blurb: "Evening-length performance of Yvonne Rainer's Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
@@ -129,7 +129,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Pat Catterson - Project 114: ",
+		name: "Pat Catterson - Project 114:",
 		img: "images/PATCat.png",
 		blurb: "A site-specific dance film choreogrpahed by Pat Catterson for an online event with artists from the United States and Abroad",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
@@ -158,26 +158,26 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Lars Jan's The White Album:",
+		name: "Lars Jan The White Album - Sydney Festival:",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
-		blurb: "Performances at Sydney Festival 2020",
+		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at Sydney Festival, 2020.",
 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
 		credit: "photo: Reed Hutchinson",
 	},
 	
 		{
-		name: "Lars Jan's 'The White Album', at UCLA, in 2019",
+		name: "Lars Jan The White Album - UCLA",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Created by director and visual artist Lars Jan, Joan Didion’s “The White Album” uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos just as the Beatles’ so-called White Album (1968) was appropriated by Charles Manson and his murderous “family.”.",
+		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at University of California, Los Angeles, 2019.",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
 	
 
 	{
-		name: "Emily Coates' 'Ode to Oskar Schlemmer'",
+		name: "Emily Coates - Performa Gala",
 		img: "images/schlmer.JPG",
-		blurb: "Performa Gala 2019. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
+		blurb: "Ode to Oskar Schlemmer choreogrpahed by Emily Coates for the 2019 Performa Gala. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
