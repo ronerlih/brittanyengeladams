@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv, Verson 1:",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a digital-based performance that explores the phenomena of virality as an algorithmic rupture and byproduct of the proliferation of the internet: Click on the image to watch a recording of the YouTube Improv webpage.",
+		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a digital-based performance piece that explores the phenomena of virality as an algorithmic rupture and byproduct of the proliferation of the internet and its popularity: Click on the image to watch a recording of the YouTube Improv Web page.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "In Brittany Engel-Adams and Ron Erlih new performance YouTube Improv projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		blurb: "In Brittany Engel-Adams and Ron Erlih new performance piece YouTube Improv projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "https://www.artconnect.com/mina/events/youtube-improv",
 		credit: "photo: still from video"
 	},
