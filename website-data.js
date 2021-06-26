@@ -8,9 +8,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Memory Dance:",
-		img: "images/memorydance2.png",
-		blurb: "Explores the construct and material of memory as mapped to the body from history and culture.",
+		name: "Memory Dance (avatar):",
+		img: "images/memorydance2.png", 
+		blurb: "Explores the construct and material of the digital identity (or avatar) as mapped to the body from history and culture. Brittany Engel-Adams uses data visualization and hacked kinect technology that syncs, records and loops her dance to mirror the movements of the avatar. ",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "Explores the phenomena of virality, sociality of community, and questions around autonomy in the age of the internet. Commissioned by Rutgers University in 2018. ",
+		blurb: "Explores the phenomena of virality, gathering notions of community, and questions around self determination and autonomy in the digital age of the internet. Commissioned by Rutgers University in 2018. ",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
