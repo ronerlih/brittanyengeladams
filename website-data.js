@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory:",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "An ongoing research-project and repository of recollections that place loss and rupture as opportunity for transformation and growth. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55. ",
+		blurb: "An ongoing research-project and repository of recollections that place loss and rupture as opportunity for transformation and growth. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore historical and contemporary conceptions of time, visibility, blackness, femininity and the gaze. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55. ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance:",
 		img: "images/memorydance2.png",
-		blurb: "Explores the construct and material of memory as mapped to the body from history and culture. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore historical and contemporary conceptions of time and notions of visibility, blackness, femininity and the gaze.",
+		blurb: "Explores the construct and material of memory as mapped to the body from history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
