@@ -43,8 +43,8 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "Explores the phenomena of virality and gatherings notions of a community to puts forth questions, and the concerns of self determination and autonomy in the age of the internet. Choreogrpahy made in collaboration with students from Rutgers University. Presented and Commissioned by Rutgers University in 2018. ",
-		link: "https://vimeo.com/312205711",
+		blurb: "In Brittany Engel-Adams and Ron Erlih new performance YouTube Improv projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		link: "https://www.artconnect.com/mina/events/youtube-improv",
 		credit: "photo: still from video"
 	},
 	
