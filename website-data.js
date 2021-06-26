@@ -15,6 +15,14 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 	
+					{
+		name: "Cape Cod Modern House Trust Artist in Residence 2020:",
+		img: "images/capecodview.jpg",
+		blurb: "https://Brittany Engel-Adams recently presented two pieces that she worked on while in Wellfleet, Architecture of Memory and Hand Dance, a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "photo: still from video of 'Before Zeta'",
+	},
+	
 	{
 		name: "Hand Dance:",
 		img: "images/HandDanceImage.jpg",
@@ -68,13 +76,6 @@ let WEBSITE_DATA = [
 	
 	
 		
-				{
-		name: "Cape Cod Modern House Trust Artist Residency 2020:",
-		img: "images/capecodview.jpg",
-		blurb: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/.",
-		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
-		credit: "photo: still from video of 'Before Zeta'",
-	},
 
 // 					{
 // 		name: "University of Missouri-Kansas City - Artist Talk:",
