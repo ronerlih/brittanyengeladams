@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (avatar):",
 		img: "images/memorydance2.png", 
-		blurb: "Explores the construct and material of the digital identity (avatar) as mapped to the body and (pre)conditioned by history and culture. Brittany Engel-Adams uses data visualization and hacked kinect technology to sync, record and loop a dance that memories itself as her avatar. ",
+		blurb: "Explores the construct and material of the digital identity (avatar) as mapped to the body and (pre)conditioned by history and culture. Brittany Engel-Adams uses data visualization and hacked kinect technology to sync, record and loop a dance that memories a digital identification of itself. ",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -67,8 +67,6 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-	
 		
 				{
 		name: "Cape Cod Modern House Trust Artist Residency:",
@@ -86,13 +84,27 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		
+	{
+		name: "Bates College 'Horton Workshop'",
+		img: "images/Bates2inside.jpeg",
+		blurb: "",
+		credit: "photo: BDF",
+	},
 
+		{
+		name: "Yvonne Rainer Mattress Dance:",
+		img: "images/article15_1064x.jpg",
+		blurb: "Yvonne Rainer's 1965 work 'Parts of Some Sextet' reconstructed and reimagined with Emily Coates, for the 2019 Performa Biennial.",
+		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
+		credit: "photo: Adam Kremer",
+	},
 	
 			{
 				
 		name: "Yvonne Rainer's Diagonal Redux",
 		img: "images/PASSINGYR.png",
-		blurb: "Evening-length performance of Yvonne Rainer's Diagonal Redux for the opening of TITAN Festival, New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+		blurb: "Evening-length performance of Yvonne Rainer's Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: still from video",
 	},
@@ -100,34 +112,34 @@ let WEBSITE_DATA = [
 	
 
 		{
-		name: "Pam Tanowitz Dance 'Past, Present, Future Film Festival'",
+		name: "Pam Tanowitz Dance Film Festival:",
 		img: "images/PAMFILMS.png",
-		blurb: "Dance film 'Dancers (Slightly out of shape)' choreographed by Pam Tanowitz with dancers, directed by Liz Sargent, on All-Star Arts TV for Past, Present, Future Dance Film Festival.",
+		blurb: "'Dancers slightly out of shape' a film choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
 		credit: "photo: still from video",
 	},
 	
 			{
-		name: "'Pam Tanowitz Dance' at the Joyce Theater, a live broadcast performance event.",
+		name: "'Pam Tanowitz Dance - The Joyce Theater:",
 		img: "images/pamlive.jpg",
-		blurb: "Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. Costume design by Reid and Harriet.",
+		blurb: "A live broadcast performance event. 'Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
 	
 		{
-		name: "Pat Catterson' 'Project 114: Many in one' 2020",
+		name: "Pat Catterson - Project 114: ",
 		img: "images/PATCat.png",
-		blurb: "video dance with artists from the US and Abroad",
+		blurb: "A site-specific dance film choreogrpahed by Pat Catterson for an online event with artists from the United States and Abroad",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
 	
 	
 	{
-		name: "Okwui Okpokwasili and Peter Born's 'Sitting on a Man's Head'",
+		name: "Okwui Okpokwasili and Peter Born:",
 		img: "images/23Okwui.jpg",
-		blurb: "Performances at Danspace St. Marks Church 2020",
+		blurb: "'Sitting on a Man's Head' Performances at Danspace St. Marks Church, in New York City, 2020",
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo: Sasha Arutyunova",
 	},
@@ -135,9 +147,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Annie-B Parson – Big Dance Theater 'Mood Room'",
+		name: "Annie-B Parson - Big Dance Theater:",
 		img: "images/bigdance.JPG",
-		blurb: "The Mood Room, a new evening-length piece directed by Annie-B Parson, is inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982) which very lightly references Chekhov’s Three Sisters with both a hilarious disrespect – and with a recognition of the internal intention of the regret, despair and relational complexity in the Chekhov text.",
+		blurb: "'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982)",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 		credit: "photo: Big Dance Theater",
 	},
@@ -145,7 +157,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Lars Jan's 'The White Album'",
+		name: "Lars Jan's The White Album:",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
 		blurb: "Performances at Sydney Festival 2020",
 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
@@ -155,13 +167,6 @@ let WEBSITE_DATA = [
 	
 
 	{
-		name: "Yvonne Rainer's 'Mattress Dance'",
-		img: "images/article15_1064x.jpg",
-		blurb: "Yvonne Rainer's 1965 work 'Parts of Some Sextet' reconstructed and reimagined with Emily Coates, for the 2019 Performa Biennial.",
-		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
-		credit: "photo: Adam Kremer",
-	},
-	{
 		name: "Emily Coates' 'Ode to Oskar Schlemmer'",
 		img: "images/schlmer.JPG",
 		blurb: "Performa Gala 2019. A tribute to Schlemmer’s dances of the Bauhaus by choreographer and Yale University dance scholar Emily Coates and costume designers Reid & Harriet",
@@ -169,13 +174,6 @@ let WEBSITE_DATA = [
 		credit: "photo: BFA",
 	},
 	
-	
-	{
-		name: "Bates College 'Horton Workshop'",
-		img: "images/Bates2inside.jpeg",
-		blurb: "",
-		credit: "photo: BDF",
-	},
 	
 	
 	{
@@ -205,24 +203,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Netta Yerushalmy's 'Paramodernities'",
-		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-		blurb: "NYC premiere at New York Live Arts 2018",
-		link: "https://newyorklivearts.org/event/paramodernities/",
-		credit: "photo: Andrew Spear",
-	},
 
 	
 	{
-		name: "Donna Uchizono Company's 'March Under an Empty Reign'",
+		name: "Donna Uchizono Company's March Under an Empty Reign:",
 		img: "images/march.png",
-		blurb: "Performances at the Joyce Theater for Quadrille Festival 2018 ",
+		blurb: "Performances for Quadrille Festival at The Joyce Theater, 2018 ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
 		credit: "photo: Julieta Cervantes",
 	},
 
-	{ name: "Donna Uchizono Company's 'Iron Jane'", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
+	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
 
 	{
 		name: "Netta Yerushalmy's 'Paramodernities'",
@@ -243,6 +234,13 @@ let WEBSITE_DATA = [
 
 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
+	{
+		name: "Netta Yerushalmy's 'Paramodernities'",
+		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
+		blurb: "NYC premiere at New York Live Arts 2018",
+		link: "https://newyorklivearts.org/event/paramodernities/",
+		credit: "photo: Andrew Spear",
+	},
 	// {	name: "New York Times instagram",
 	// 	img: "images/10instagram-facebookJumbo.jpg",
 	// 	blurb: "Ny Times video of Madison Square Park residency",
@@ -258,18 +256,18 @@ let WEBSITE_DATA = [
 	// },
 
 // 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
-	{ name: "Naomi Goldberg Hass's Dances for a Variable Population '10027'", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances in Manhattan 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
+	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
-	{ name: "Punchdrunk 'Sleep No more'", img: "images/tn-500_giafrese-0304.jpg", blurb: "Performances at the McKittrick Hotel 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
+	{ name: "Punchdrunk Sleep No more:", img: "images/tn-500_giafrese-0304.jpg", blurb: "Guest Artist in Punchdrunk Sleep No more at the McKittrick Hotel in New York City, 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
-	{ name: "Stefanie Batten Bland's 'Patient(ce)", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
+// 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
-	{ name: "Orit Ben Shitrit's 'A ward of feral horses'", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
+	{ name: "Orit Ben Shitrit A ward of feral horses:", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 2014 directed by Orit Ben Shitrit. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
-	{ name: "HBO television series 'Boardwalk Empire'", img: "images/onyx-dancers.jpg", blurb: "Co-star in Season 4 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
+	{ name: "Boardwalk Empire:", img: "images/onyx-dancers.jpg", blurb: "Co-star in the 4th season HBO television series, 2013", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
 	// {	name: "The Forward interview",
 	// 	img: "images/Ailey_II_s_Brittany_Engel-Adams._Photo_by_Eduardo_Patino_NYC-prv.jpg",
@@ -289,22 +287,22 @@ let WEBSITE_DATA = [
 	{
 		name: "Stefanie Batten Bland's 'A Place of Sun'",
 		img: "images/sbbcrop.jpg",
-		blurb: "Residency and Performance at Baryshnikov Arts Center 2012",
+		blurb: "Baryshnikov Arts Center Residency and Performance with Company Stefanie Batten Bland in New York city, 2012",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo: Rubby Washington",
 	},
 		{
-		name: "Real Simple Magazine",
+		name: "Real Simple Magazine:",
 		img: "images/flexibilityrealsimpleBIG.jpg",
-		blurb: "Real Simple Magazine Featured in the August 2010 issue . ",
+		blurb: "Featured in the August 2010 issue of Real Simple Magazine. ",
 		link: "",
 		credit: "photo: Robert Maxwell",
 	},
 
 	{
-		name: "Ailey II",
+		name: "Ailey II:",
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
-		blurb: "Ailey II Company Dancer under the direction of Sylvia Waters 2010-2012",
+		blurb: "Company Dancer under the direction of Sylvia Waters in New York City from 2010-2012.",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 		credit: "photo: Eduardo Patino",
 	},
