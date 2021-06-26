@@ -233,7 +233,7 @@ let WEBSITE_DATA = [
 	// 	credit: "photo: Paula Lobo",
 	// },
 
-	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
+// 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
 	{
 		name: "Netta Yerushalmy - NYLA",
