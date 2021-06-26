@@ -153,7 +153,7 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "'Pam Tanowitz Dance - The Joyce Theater:",
+		name: "Pam Tanowitz Dance - The Joyce Theater:",
 		img: "images/pamlive.jpg",
 		blurb: "Brittany Engel-Adams performs in a live performance event broadcasted from the Joyce Theater in New York City. 'Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
