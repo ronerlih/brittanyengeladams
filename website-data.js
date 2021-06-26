@@ -1,38 +1,38 @@
 let WEBSITE_DATA = [	
 	{
-		name: "Architecture of Memory",
+		name: "Architecture of Memory:",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Architecture of Memory: A repository of recollections that place loss and rupture as opportunity for transformation and growth. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55. ",
+		blurb: "An ongoing research-project and repository of recollections that place loss and rupture as opportunity for transformation and growth. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55. ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
 	{
-		name: "Memory Dance",
+		name: "Memory Dance:",
 		img: "images/memorydance2.png",
-		blurb: "Memory Dance: Explores the construct and material of memory as mapped to the body from history and culture. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore historical and contemporary conceptions of time and notions of visibility, blackness, femininity and the gaze.",
+		blurb: "Explores the construct and material of memory as mapped to the body from history and culture. Brittany Engel-Adams uses archival research and hacked Kinect technology to explore historical and contemporary conceptions of time and notions of visibility, blackness, femininity and the gaze.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
 	
           {
-		name: "YouTube Improv, Verson 1",
+		name: "YouTube Improv, Verson 1:",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv, Version 1: An automated web page that collects and randomizes trending videos as a score for improvisation.",
+		blurb: "Automated web page collecting and randomizes viral videos as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
 	
 		{
-		name: "Youtube Improv, Version 2",
+		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "Performance commissioned by Rutgers University in 2018. The work explores the phenomenology of virality, sociality of community, and self determination in the age of the internet.",
+		blurb: "Explores the phenomenology of virality, sociality of community, and autonomy in the age of the internet. Commissioned by Rutgers University in 2018. ",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
 	
 		{		
-		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020.",
+		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020:",
 		img: "images/who_wood_picture1.png", 
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Lanscape - Tessellation 2. Magazine Clippings. Online Collage. 2020.",
+		name: "Emergent Lanscape - Tessellation 2. Magazine Clippings. Online Collage. 2020:",
 		img: "images/who-blue_picture1.png",
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -57,9 +57,9 @@ let WEBSITE_DATA = [
 
 	
 				{
-		name: "Hand Dance -- Commissioned by The Guggenheim Museum  'Works and Process' 2020",
+		name: "Hand Dance:",
 		img: "images/HandDanceImage.jpg",
-		blurb: "'Hand Dance'a dance film commissioned by (Guggenheim Works and Process 2020), made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		blurb: "Dance film commissioned by (Guggenheim Works and Process 2020), made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
@@ -68,9 +68,9 @@ let WEBSITE_DATA = [
 	
 		
 				{
-		name: "Cape Cod Modern House Trust - Artist in Residence, curated by Asiya Wadud.",
+		name: "Cape Cod Modern House Trust Artist Residency:",
 		img: "images/capecodview.jpg",
-		blurb: "Before Zeta: Video dance taken at the Kugel Gips House, in Cape Cod.",
+		blurb: "curated by Asiya Wadud.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
@@ -78,6 +78,7 @@ let WEBSITE_DATA = [
 
 	
 			{
+				
 		name: "Yvonne Rainer's Diagonal Redux",
 		img: "images/PASSINGYR.png",
 		blurb: "Diagonal” was originally a section of “Terrain”, an evening-length dance choreographed by Yvonne Rainer originally performed at Judson Church in 1963. Yvonne Rainer's Diagonal Redux will be performed for the opening of TITAN, New York City in 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
