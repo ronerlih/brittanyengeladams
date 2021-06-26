@@ -69,9 +69,9 @@ let WEBSITE_DATA = [
 	
 		
 				{
-		name: "Cape Cod Modern House Trust Artist Residency:",
+		name: "Cape Cod Modern House Trust Artist Residency 2020:",
 		img: "images/capecodview.jpg",
-		blurb: "curated by Asiya Wadud.",
+		blurb: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/.",
 		link: "https://www.youtube.com/watch?v=kp6U3XAKQjk&t=72s",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Yvonne Rainer's Diagonal Redux",
+		name: "Yvonne Rainer Diagonal Redux",
 		img: "images/PASSINGYR.png",
 		blurb: "Evening-length performance of Yvonne Rainer's Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
@@ -112,7 +112,7 @@ let WEBSITE_DATA = [
 	
 
 		{
-		name: "Pam Tanowitz Dance Film Festival:",
+		name: "Pam Tanowitz Dance - Film Festival:",
 		img: "images/PAMFILMS.png",
 		blurb: "'Dancers slightly out of shape' a film choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
@@ -164,6 +164,13 @@ let WEBSITE_DATA = [
 		credit: "photo: Reed Hutchinson",
 	},
 	
+		{
+		name: "Lars Jan's 'The White Album', at UCLA, in 2019",
+		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
+		blurb: "Created by director and visual artist Lars Jan, Joan Didion’s “The White Album” uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos just as the Beatles’ so-called White Album (1968) was appropriated by Charles Manson and his murderous “family.”.",
+		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
+		credit: "photo: Reed Hutchinson ",
+	},
 	
 
 	{
@@ -185,22 +192,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Performance at The Guggenheim Museum 'Works & Process'",
-		img: "images/04282019-WORKS-AND-PROCESS-ErycPerezdeTaglePhotography-100.jpg",
-		blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
-		link: "https://www.guggenheim.org/event/event_series/works-process",
-		credit: "photo: Michelle Tabnick",
-	},
+// 	{
+// 		name: "Performance at The Guggenheim Museum 'Works & Process'",
+// 		img: "images/04282019-WORKS-AND-PROCESS-ErycPerezdeTaglePhotography-100.jpg",
+// 		blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
+// 		link: "https://www.guggenheim.org/event/event_series/works-process",
+// 		credit: "photo: Michelle Tabnick",
+// 	},
 	
 	
-	{
-		name: "Lars Jan's 'The White Album', at UCLA, in 2019",
-		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Created by director and visual artist Lars Jan, Joan Didion’s “The White Album” uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos just as the Beatles’ so-called White Album (1968) was appropriated by Charles Manson and his murderous “family.”.",
-		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
-		credit: "photo: Reed Hutchinson ",
-	},
 	
 	
 
@@ -235,12 +235,21 @@ let WEBSITE_DATA = [
 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
 	{
-		name: "Netta Yerushalmy's 'Paramodernities'",
+		name: "Netta Yerushalmy Paramodernities",
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-		blurb: "NYC premiere at New York Live Arts 2018",
+		blurb: "New York Live Arts Premiere 2018",
 		link: "https://newyorklivearts.org/event/paramodernities/",
 		credit: "photo: Andrew Spear",
 	},
+	
+		{
+		name: "Stefanie Batten Bland A Place of Sun:",
+		img: "images/sbbcrop.jpg",
+		blurb: "Baryshnikov Arts Center Residency and Performance with Company Stefanie Batten Bland in New York city, 2012",
+		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
+		credit: "photo: Rubby Washington",
+	},
+	
 	// {	name: "New York Times instagram",
 	// 	img: "images/10instagram-facebookJumbo.jpg",
 	// 	blurb: "Ny Times video of Madison Square Park residency",
@@ -256,7 +265,7 @@ let WEBSITE_DATA = [
 	// },
 
 // 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
-	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
+// 	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
 	{ name: "Punchdrunk Sleep No more:", img: "images/tn-500_giafrese-0304.jpg", blurb: "Guest Artist in Punchdrunk Sleep No more at the McKittrick Hotel in New York City, 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
@@ -284,20 +293,7 @@ let WEBSITE_DATA = [
 
 // 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
 
-	{
-		name: "Stefanie Batten Bland's 'A Place of Sun'",
-		img: "images/sbbcrop.jpg",
-		blurb: "Baryshnikov Arts Center Residency and Performance with Company Stefanie Batten Bland in New York city, 2012",
-		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
-		credit: "photo: Rubby Washington",
-	},
-		{
-		name: "Real Simple Magazine:",
-		img: "images/flexibilityrealsimpleBIG.jpg",
-		blurb: "Featured in the August 2010 issue of Real Simple Magazine. ",
-		link: "",
-		credit: "photo: Robert Maxwell",
-	},
+
 
 	{
 		name: "Ailey II:",
@@ -308,10 +304,17 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Book appearence 'The Young and The Banging'",
+		name: "The Young and The Banging:",
 		img: "images/abookappearance.jpg",
-		blurb: "featured in The Young and Banging, a book showcasing young artist living in downton New York City. ",
+		blurb: "Featured Book appearence in The Young and Banging, a book showcasing up incoming artist residing in downtown New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo: Louise Erhard",
+	},
+			{
+		name: "Real Simple Magazine:",
+		img: "images/flexibilityrealsimpleBIG.jpg",
+		blurb: "Featured in the August 2010 issue of Real Simple Magazine. ",
+		link: "",
+		credit: "photo: Robert Maxwell",
 	},
 ];
