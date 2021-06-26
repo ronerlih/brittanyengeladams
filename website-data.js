@@ -155,7 +155,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Pam Tanowitz Dance - The Joyce Theater:",
 		img: "images/pamlive.jpg",
-		blurb: "Brittany Engel-Adams performs in a live performance event broadcasted from the Joyce Theater in New York City. 'Finally Unfinished: Part 1' created with her dancers while in quarantine via Zoom. ",
+		blurb: "Brittany Engel-Adams dances in a live performance event broadcasted from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
@@ -173,7 +173,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Pat Catterson - Project 114:",
 		img: "images/PATCat.png",
-		blurb: "Brittany Engel-Adams performs in site-specific dance film choreogrpahed by Pat Catterson for an online event with artists from the United States and Abroad",
+		blurb: "Brittany Engel-Adams performs a site-specific dance choreogrpahed by Pat Catterson for an online film with dancers from United States and Abroad",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
