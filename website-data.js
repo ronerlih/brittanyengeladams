@@ -15,6 +15,14 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 	
+		{
+		name: "Hand Dance - Dance Film:",
+		img: "images/HandDanceImage.jpg",
+		blurb: "Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "photo: still from video",
+	},
+	
 	{
 		name: "Cape Cod Modern House Trust Artist Residency:",
 		img: "images/capecodview.jpg",
@@ -23,18 +31,11 @@ let WEBSITE_DATA = [
 		credit: "photo: still from video of 'Before Zeta'",
 	},
 	
-	{
-		name: "Hand Dance - Dance Film:",
-		img: "images/HandDanceImage.jpg",
-		blurb: "Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo: still from video",
-	},
 	
           {
 		name: "YouTube Improv, Verson 1:",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "Brittany Engel-Adams and Ron Erlih design and program an automated web page YouTube Imporov for live performance. YouTube Improv compiles and collects viral videos and randomizes the outcome as a score for improvisation.",
+		blurb: "Brittany Engel-Adams and Ron Erlih designed and programed an Automated Web Page YouTube Imporov for live performance. YouTube Improv compiles and collects viral videos and randomizes the outcome as a score for improvisation.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -42,7 +43,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "Explores the phenomena of virality and gatherings notions of community, that puts forth questions around self determination and autonomy in the age of the internet. Made in collaboration with Rutgers Students, Commissioned by Rutgers University in 2018. ",
+		blurb: "Explores the phenomena of virality and gatherings notions of a community to puts forth questions, and the concerns of self determination and autonomy in the age of the internet. Choreogrpahy made in collaboration with students from Rutgers University. Presented and Commissioned by Rutgers University in 2018. ",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
 	},
@@ -96,7 +97,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Lars Jan The White Album - Sydney Festival:",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
-		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at Sydney Festival, 2020.",
+		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at Sydney Festival, 2020.",
 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
 		credit: "photo: Reed Hutchinson",
 	},
@@ -104,7 +105,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Lars Jan The White Album - UCLA",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Brittany Engel-Adams performs in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performances at University of California, Los Angeles, 2019.",
+		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at University of California, Los Angeles, 2019.",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
@@ -112,7 +113,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emily Coates - Performa Gala",
 		img: "images/schlmer.JPG",
-		blurb: "Brittany Engel-Adams perfroms in an Ode to Oskar Schlemmer for the Performa Gala event, choreogrpahed by Yale University Dance Scholar, Emily Coates. Brittany Engel-Adams will perform several tribute dances to commemorate the Bauhaus legacy and the artist Oskar Schlemmer.",
+		blurb: "Brittany Engel-Adams in an Ode to Oskar Schlemmer for The 2019 Performa Gala event. A reconstruction of several of Oskar Schlemmer dances to commemorate the Bauhaus legacy and the artist.",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
