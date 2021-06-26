@@ -214,7 +214,7 @@ let WEBSITE_DATA = [
 		credit: "photo: Julieta Cervantes",
 	},
 
-	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
+// 	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
 
 	{
 		name: "Netta Yerushalmy - Jacobs Pillow",
