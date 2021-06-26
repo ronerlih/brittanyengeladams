@@ -247,7 +247,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Stefanie Batten Bland A Place of Sun:",
 		img: "images/sbbcrop.jpg",
-		blurb: "Brittany Engel-Adams founding member of Company SBB engages in the Baryshnikov Arts Center Residency and Performance with Stefanie Batten Bland and her company, in New York city, 2012",
+		blurb: "Brittany Engel-Adams in Residency and Performance at the Baryshnikov Arts Center with Stefanie Batten Bland and her company, in New York city, 2012",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo: Rubby Washington",
 	},
