@@ -160,13 +160,13 @@ let WEBSITE_DATA = [
 		credit: "photo: Reid Bartelme",
 	},
 
-		{
-		name: "Pam Tanowitz Dance - Film Festival:",
-		img: "images/PAMFILMS.png",
-		blurb: "Brittany Engel-Adams performs in a dance film commisioned by ALL Star Television. Choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
-		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
-		credit: "photo: still from video",
-	},
+// 		{
+// 		name: "Pam Tanowitz Dance - Film Festival:",
+// 		img: "images/PAMFILMS.png",
+// 		blurb: "Brittany Engel-Adams performs in a dance film commisioned by ALL Star Television. Choreographed by Pam Tanowitz with dancers and directed by Liz Sargent for The Past, Present, Future Dance Film Festival.",
+// 		link: "https://www.bard.edu/news/releases/pr/fstory.php?id=3113",
+// 		credit: "photo: still from video",
+// 	},
 	
 
 	
