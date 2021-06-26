@@ -15,13 +15,6 @@ let WEBSITE_DATA = [
 		credit:"photo: still from video"
 	},
 	
-	{
-		name: "Hand Dance:",
-		img: "images/HandDanceImage.jpg",
-		blurb: "Dance film commissioned in 2020 by Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo: still from video",
-	},
 	
           {
 		name: "YouTube Improv, Verson 1:",
@@ -37,6 +30,14 @@ let WEBSITE_DATA = [
 		blurb: "Explores the phenomena of virality, gathering notions of community, and questions around self determination and autonomy in the digital age of the internet. Commissioned by Rutgers University in 2018. ",
 		link: "https://vimeo.com/312205711",
 		credit: "photo: still from video"
+	},
+	
+		{
+		name: "Hand Dance:",
+		img: "images/HandDanceImage.jpg",
+		blurb: "Dance film commissioned in 2020 by Guggenheim Works and Process, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "photo: still from video",
 	},
 	
 		{		
