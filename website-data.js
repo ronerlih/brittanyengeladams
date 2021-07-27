@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv, Verson 1:",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a digital-based performance piece that explores the phenomena of virality as an algorithmic rupture and byproduct of the proliferation of the internet and its popularity: Click on the image to watch a recording of the YouTube Improv Web page.",
+		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a digital-based performance piece that explores the phenomena of virality as an algorithmic rupture and byproduct of capitol, racism, empire and the proliferation of the internet and its popularity: Click on the image to watch a recording of the YouTube Improv Web page.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
