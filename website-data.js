@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar):",
 		img: "images/avatar_ron.png", 
-		blurb: "'Memory Dance' explores constructs of identitiy, visibility, gender and race, as mapped to the body and (pre)conditioned by history and culture.",
+		blurb: "'Memory Dance' explores constructs of identitiy, visibility, gender and race, as notated/mapped to the body and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance - Dance Film:",
 		img: "images/HandDanceImage.jpg",
-		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice, the song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn.",
+		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice, which inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
@@ -33,15 +33,15 @@ let WEBSITE_DATA = [
 	
 	
           {
-		name: "YouTube Improv, Verson 1:",
+		name: "YouTube Improv-2018,1.0):",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture.",
+		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
 	
 		{
-		name: "Youtube Improv, Version 2:",
+		name: "Youtube Improv-2018,2.0:",
 		img: "images/cropb.png",
 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "https://www.artconnect.com/mina/events/youtube-improv",
@@ -129,7 +129,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Big Dance Theater - Mood Room:",
 		img: "images/bigdance.JPG",
-		blurb: " Brittany Engel-Adams is currenly working on the performance piece 'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet, a French-born visual artist and playwright who first settled in NYC in 1965 and then relocated his practice to Los Angeles. “The Mood Room” will work specifically from the text of Cointet’s The Five Sisters (1982)",
+		blurb: " Brittany Engel-Adams is currenly working on the performance piece 'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet. “The Mood Room” works specifically from the text of Cointet’s The Five Sisters (1982)",
 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
 		credit: "photo: Big Dance Theater",
 	},
@@ -156,7 +156,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Pam Tanowitz Dance - The Joyce Theater:",
 		img: "images/pamlive.jpg",
-		blurb: "Brittany Engel-Adams dances in a live performance event broadcasted from the Joyce Theater in New York City. ",
+		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo: Reid Bartelme",
 	},
@@ -174,7 +174,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Pat Catterson - Project 114:",
 		img: "images/PATCat.png",
-		blurb: "Brittany Engel-Adams performs a site-specific dance choreogrpahed by Pat Catterson for an online film with dancers from United States and Abroad",
+		blurb: "Pat Catterson's 'Project 114' a dance film of a series of site-specific solos with performers across the globe.",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
@@ -208,21 +208,21 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "Donna Uchizono Company's March Under an Empty Reign:",
+		name: "Donna Uchizono Company - March Under an Empty Reign (2018):",
 		img: "images/march.png",
-		blurb: "Brittany Engel-Adams performs for Quadrille Dance Festival at The Joyce Theater, 2018. ",
+		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
 		credit: "photo: Julieta Cervantes",
 	},
 
 // 	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
 
-	{
-		name: "Netta Yerushalmy - Jacobs Pillow",
-		img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
-		blurb: "Brittany Engel-Adams premieres Netta Yerushalmy's the Encyclopedia version of Paramodernities at Jacobs Pillow in 2017",
-		link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
-		credit: "photo: Andrew Spear",
+// 	{
+// 		name: "Netta Yerushalmy - Jacobs Pillow",
+// 		img: "images/merlin_142057272_a312d7a4-4768-432a-b8f2-fb8b93a6b3d7-articleLarge.jpg",
+// 		blurb: "Brittany Engel-Adams premieres Netta Yerushalmy's the Encyclopedia version of Paramodernities at Jacobs Pillow in 2017",
+// 		link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
+// 		credit: "photo: Andrew Spear",
 	},
 	// { name: "ODC Performance (Press)", img: "images/nyla-paramodernities.jpg", blurb: "Review of PM #3&4 at ODC in San Francisco", link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere", credit: "photo: Andrew Spear" },
 	// { name: "Netta Yerushalmy", img: "images/NDPP.jpg", blurb: "BAC story by Neil Greenberg", link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1", credit: "photo: Janelle Jones" },
@@ -237,27 +237,27 @@ let WEBSITE_DATA = [
 // 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
 
 	{
-		name: "Netta Yerushalmy - NYLA",
+		name: "Netta Yerushalmy - Paramodernities (2018):",
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-		blurb: "Brittany Engel-Adams perfroms Netta Yerushalmy's the Encyclopedia version of Paramodernities at New York Live Arts Premiere 2018",
+		blurb: "Netta Yerushalmy's Paramodernities - residencies, performances, and tours",
 		link: "https://newyorklivearts.org/event/paramodernities/",
 		credit: "photo: Andrew Spear",
 	},
 	
 		{
-		name: "Stefanie Batten Bland A Place of Sun:",
+		name: "Stefanie Batten Bland - a place of Sun (2012):",
 		img: "images/sbbcrop.jpg",
-		blurb: "Brittany Engel-Adams in Residency and Performance at the Baryshnikov Arts Center with Stefanie Batten Bland and her company, in New York city, 2012",
+		blurb: "Stefanie Batten Blands' 'a place of Sun'- residencies, performances, and tours",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo: Rubby Washington",
 	},
 	
-	// {	name: "New York Times instagram",
-	// 	img: "images/10instagram-facebookJumbo.jpg",
-	// 	blurb: "Ny Times video of Madison Square Park residency",
-	// 	link: "https://www.nytimes.com/2017/08/10/arts/dance/netta-yerushalmy-paramodernities-madison-square-park.html",
-	// 	credit: "photo: Adam Golfer"
-	// },
+// 	{	name: "New York Times instagram",
+// 		img: "images/10instagram-facebookJumbo.jpg",
+// 		blurb: "Ny Times video of Madison Square Park residency",
+// 		link: "https://www.nytimes.com/2017/08/10/arts/dance/netta-yerushalmy-paramodernities-madison-square-park.html",
+// 		credit: "photo: Adam Golfer"
+// 	},
 
 	// {	name: "LMCC Gala 2017",
 	// 	img: "images/gala.webp",
