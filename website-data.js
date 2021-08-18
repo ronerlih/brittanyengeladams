@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/avatar_ron.png", 
-		blurb: "'Memory Dance' explores constructs of identitiy, visibility, gender and race, as notated/mapped to the body and (pre)conditioned by history and culture.",
+		blurb: "'Memory Dance' uses data visualization techniques to explore constructs of identitiy, visibility, gender and race, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv (2018):",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture.",
+		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 		{		
 		name: "Emergent Landscape - Tessellation 1.(2020):",
 		img: "images/who_wood_picture1.png", 
-		blurb: "Click on the Image to view, and to interact with the tessellation.",
+		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Emergent Lanscape - Tessellation 2.(2020):",
 		img: "images/who-blue_picture1.png",
-		blurb: "Click on the Image to view, and to interact with the tessellation.",
+		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "tessellation by Brittany Engel-Adams"
 	},
@@ -79,9 +79,9 @@ let WEBSITE_DATA = [
 		
 
 	{
-		name: "University of Missouri-Kansas City - Artist Talk:",
+		name: "University of Missouri-Kansas City - Artist Talk (2020):",
 		img: "images/90.jpeg",
-		blurb: "Associate Professor of Dance, Michael Blake's Dance History class, talk on dance in the 21st Century.",
+		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
 		credit: "",
 	},
@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Bates College Summer Dance Festival (2019)",
 		img: "images/Bates2inside.jpeg",
-		blurb: "Teaching Horton Workshops for the Bates Summer Dance Festival",
+		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
 		credit: "photo: BDF",
 	},
 
@@ -105,13 +105,13 @@ let WEBSITE_DATA = [
 		{
 		name: "Lars Jan - The White Album (2019-2020)",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Lars Jan's The White Album for festivals at UCLA and Sydney Festival in Australia",
+		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
 	
 		{
-		name: "Emily Coates - Performa Gala",
+		name: "Emily Coates - Performa Gala (2019)",
 		img: "images/schlmer.JPG",
 		blurb: "Emily Coates' Ode to Oskar Schlemmer, a reconstruction for The 2019 Performa Gala event in New York City.",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Yvonne Rainer - Mattress Dance (2019):",
 		img: "images/article15_1064x.jpg",
-		blurb: "Yvonne Rainer with Emily Coates 'Parts of Some Sextet' for the 2019 Performa Biennial.",
+		blurb: "Yvonne Rainer with Emily Coates 'Parts of Some Sextet' for the 2019 Performa Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
 	},
