@@ -1,14 +1,14 @@
 let WEBSITE_DATA = [	
 	{
-		name: "Architecture of Memory:",
+		name: "Architecture of Memory (2021):",
 		img: "images/brit_sitting_wall.png",
-		blurb: "'Architecture of Memory'(AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture with which to view the unforeseeable and make connections between past/present/future. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55.",
+		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture with which to view the unforeseeable and make connections between past/present/future. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
 	{
-		name: "Memory Dance (Avatar):",
+		name: "Memory Dance (Avatar) (2020):",
 		img: "images/avatar_ron.png", 
 		blurb: "'Memory Dance' explores constructs of identitiy, visibility, gender and race, as notated/mapped to the body and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
@@ -16,37 +16,37 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Hand Dance - Dance Film:",
+		name: "Hand Dance - Dance Film (2020):",
 		img: "images/HandDanceImage.jpg",
-		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice, which inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn.",
+		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
 	
 	{
-		name: "Cape Cod Modern House Trust Artist Residency:",
+		name: "Cape Cod Modern House Trust Artist Residence (2020):",
 		img: "images/capecodview.jpg",
-		blurb: "Artist Residency at CCMHT working on two pieces presented, 'Architecture of Memory' and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process.",
+		blurb: "Artist Residency at CCMHT.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
 	
 	
           {
-		name: "YouTube Improv-2018,1.0):",
+		name: "YouTube Improv (2018):",
 		img: "images/youtube_improv_picture1.png",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
 	
-		{
-		name: "Youtube Improv-2018,2.0:",
-		img: "images/cropb.png",
-		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
-		link: "https://www.artconnect.com/mina/events/youtube-improv",
-		credit: "photo: still from video"
-	},
+// 		{
+// 		name: "Youtube Improv-2018,2.0:",
+// 		img: "images/cropb.png",
+// 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+// 		link: "https://www.artconnect.com/mina/events/youtube-improv",
+// 		credit: "photo: still from video"
+// 	},
 	
 
 	
@@ -78,34 +78,34 @@ let WEBSITE_DATA = [
 	
 		
 
-// 					{
-// 		name: "University of Missouri-Kansas City - Artist Talk:",
-// 		img: "images/90.jpeg",
-// 		blurb: "What it means to be a dancer in the 21st Century for Associate Professor of Dance, Michael Blake Dance History class.",
-// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-// 		credit: "",
-// 	},
-	
-		
-// 	{
-// 		name: "Bates College 'Horton Workshop'",
-// 		img: "images/Bates2inside.jpeg",
-// 		blurb: "",
-// 		credit: "photo: BDF",
-// 	},
-
-	{
-		name: "Lars Jan The White Album - Sydney Festival:",
-		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
-		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at Sydney Festival, 2020.",
-		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
-		credit: "photo: Reed Hutchinson",
+					{
+		name: "University of Missouri-Kansas City - Artist Talk:",
+		img: "images/90.jpeg",
+		blurb: "Associate Professor of Dance, Michael Blake's Dance History class, talk on dance in the 21st Century.",
+		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+		credit: "",
 	},
 	
+		
+	{
+		name: "Bates College Summer Dance Festival (2019)",
+		img: "images/Bates2inside.jpeg",
+		blurb: "Teaching Horton Workshops for the Bates Summer Dance Festival",
+		credit: "photo: BDF",
+	},
+
+// 	{
+// 		name: "Lars Jan The White Album - Sydney Festival:",
+// 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
+// 		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at Sydney Festival, 2020.",
+// 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
+// 		credit: "photo: Reed Hutchinson",
+// 	},
+	
 		{
-		name: "Lars Jan The White Album - UCLA",
+		name: "Lars Jan - The White Album (2019-2020)",
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
-		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at University of California, Los Angeles, 2019.",
+		blurb: "Lars Jan's The White Album for festivals at UCLA and Sydney Festival in Australia",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo: Reed Hutchinson ",
 	},
@@ -113,40 +113,40 @@ let WEBSITE_DATA = [
 		{
 		name: "Emily Coates - Performa Gala",
 		img: "images/schlmer.JPG",
-		blurb: "Brittany Engel-Adams in an Ode to Oskar Schlemmer for The 2019 Performa Gala event. A reconstruction of several of Oskar Schlemmer dances to commemorate the Bauhaus legacy and the artist.",
+		blurb: "Emily Coates' Ode to Oskar Schlemmer, a reconstruction for The 2019 Performa Gala event in New York City.",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
 	
 		{
-		name: "Okwui Okpokwasili and Peter Born:",
+		name: "Okwui Okpokwasili and Peter Born - Sitting on a Man's Head (2020):",
 		img: "images/23Okwui.jpg",
-		blurb: "Brittany Engel-Adams performs Sitting on a Man's Head by Okwui Okpokwasili and Peter Born at Danspace St. Marks Church in New York City, 2020",
+		blurb: "Okwui Okpokwasili and Peter Born 'Sitting on a Man's Head' for utterances from the choir at Danspace St. Marks Church in New York City.",
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo: Sasha Arutyunova",
 	},
 	
-		{
-		name: "Big Dance Theater - Mood Room:",
-		img: "images/bigdance.JPG",
-		blurb: " Brittany Engel-Adams is currenly working on the performance piece 'Mood Room' a new evening-length piece directed by Annie-B Parson, inspired by the work of Guy de Cointet. “The Mood Room” works specifically from the text of Cointet’s The Five Sisters (1982)",
-		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
-		credit: "photo: Big Dance Theater",
-	},
+// 		{
+// 		name: "Big Dance Theater - Mood Room Residency:",
+// 		img: "images/bigdance.JPG",
+// 		blurb: " Big Dance Theaters' 'Mood Room' directed by Annie-B Parson,  works specifically from the text of Cointet’s The Five Sisters (1982)",
+// 		link: "https://atlanticcenterforthearts.org/master-artist/annie-b-parson/",
+// 		credit: "photo: Big Dance Theater",
+// 	},
 	
 	
 	
 		{
-		name: "Yvonne Rainer - Mattress Dance:",
+		name: "Yvonne Rainer - Mattress Dance (2019):",
 		img: "images/article15_1064x.jpg",
-		blurb: "Brittany Engel-Adams performed Yvonne Rainer's 1965 work 'Parts of Some Sextet' reconstructed and reimagined with Emily Coates, for the 2019 Performa Biennial.",
+		blurb: "Yvonne Rainer with Emily Coates 'Parts of Some Sextet' for the 2019 Performa Biennial.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
 	},
 	
 			{
 				
-		name: "Yvonne Rainer - Diagonal Redux:",
+		name: "Yvonne Rainer - Diagonal Redux (2020):",
 		img: "images/PASSINGYR.png",
 		blurb: "Brittany Engel-Adams performed an evening-length piece of Yvonne Rainer titled Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
@@ -154,7 +154,7 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "Pam Tanowitz Dance - The Joyce Theater:",
+		name: "Pam Tanowitz Dance - Finally Unfinished Pt 1 (2020):",
 		img: "images/pamlive.jpg",
 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "Pat Catterson - Project 114:",
+		name: "Pat Catterson - Project 114 (2020):",
 		img: "images/PATCat.png",
 		blurb: "Pat Catterson's 'Project 114' a dance film of a series of site-specific solos with performers across the globe.",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
@@ -269,12 +269,12 @@ let WEBSITE_DATA = [
 // 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 // 	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
-	{ name: "Punchdrunk Sleep No more:", img: "images/tn-500_giafrese-0304.jpg", blurb: "Brittany Engel-Adams is invited to perform as a guest artist in Punchdrunk Sleep No more at the McKittrick Hotel in New York City, 2015", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
+	{ name: "Punchdrunk Sleep No more (2015):", img: "images/tn-500_giafrese-0304.jpg", blurb: "Guest performance artist for Punchdrunk's Sleep No more.", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
-	{ name: "Orit Ben Shitrit A ward of feral horses:", img: "images/OritBenShitrit_Dance.jpg", blurb: "Brittany Engel-Adams in the EMPAC commissioned dance film A ward of feral horses, directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
+	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
@@ -298,25 +298,25 @@ let WEBSITE_DATA = [
 
 
 	{
-		name: "Ailey II:",
+		name: "Ailey II (2010-2012):",
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
-		blurb: "Brittany Engel-Adams tours, teaches, and performs nationally and internationally as a Company Dancer with Ailey II under the direction of Sylvia Waters in New York City from 2010-2012.",
+		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 		credit: "photo: Eduardo Patino",
 	},
 	
 	{
-		name: "The Young and The Banging:",
+		name: "The Young and The Banging - Publication (2011):",
 		img: "images/abookappearance.jpg",
-		blurb: "Brittany Engel-Adams makes a book appearance in The Young and Banging. The Young and Banging is a book that showcases the next generation of emergent up-and-coming artist residing in downtown New York City. ",
+		blurb: "The Young and Banging yearbook style book featuring emergent artist influencing downtown dance scene in New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo: Louise Erhard",
 	},
-			{
-		name: "Real Simple Magazine:",
-		img: "images/flexibilityrealsimpleBIG.jpg",
-		blurb: "Brittany Engel-Adams is photographed by Robert Maxwell for a feature in the August 2010 edition of Real Simple Magazine. ",
-		link: "",
-		credit: "photo: Robert Maxwell",
-	},
+// 			{
+// // 		name: "Real Simple Magazine:",
+// // 		img: "images/flexibilityrealsimpleBIG.jpg",
+// // 		blurb: "Brittany Engel-Adams is photographed by Robert Maxwell for a feature in the August 2010 edition of Real Simple Magazine. ",
+// // 		link: "",
+// // 		credit: "photo: Robert Maxwell",
+// // 	},
 ];
