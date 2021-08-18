@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 	
 		
 
-					{
+	{
 		name: "University of Missouri-Kansas City - Artist Talk:",
 		img: "images/90.jpeg",
 		blurb: "Associate Professor of Dance, Michael Blake's Dance History class, talk on dance in the 21st Century.",
@@ -312,6 +312,7 @@ let WEBSITE_DATA = [
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo: Louise Erhard",
 	},
+	
 // 			{
 // // 		name: "Real Simple Magazine:",
 // // 		img: "images/flexibilityrealsimpleBIG.jpg",
@@ -319,4 +320,5 @@ let WEBSITE_DATA = [
 // // 		link: "",
 // // 		credit: "photo: Robert Maxwell",
 // // 	},
+	
 ];
