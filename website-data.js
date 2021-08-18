@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 
 	
 		{		
-		name: "Emergent Landscape - Tessellation 1. Magazine Clippings. Online Collage. 2020:",
+		name: "Emergent Landscape - Tessellation 1.(2020):",
 		img: "images/who_wood_picture1.png", 
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Lanscape - Tessellation 2. Magazine Clippings. Online Collage. 2020:",
+		name: "Emergent Lanscape - Tessellation 2.(2020):",
 		img: "images/who-blue_picture1.png",
 		blurb: "Click on the Image to view, and to interact with the tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
