@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory:",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Brittany Engel-Adams' research-project and choreography of recollections, brings together personal narrative and historical accounts, using Hacked Kinect technology, a retrofitted game console controller,  with which to view and draw connections between past and present.",
+		blurb: "Brittany Engel-Adams' research-project and choreography of recollections, “Architecture of Memory’” brings together personal narrative and historical accounts, using Kinect, a retrofitted game console controller and AI Machine learning technology, as an aperture with which to draw connections between past, present and future.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
