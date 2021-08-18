@@ -2,15 +2,15 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory:",
 		img: "images/brit_sitting_wall.png",
-		blurb: "Brittany Engel-Adams' iterative movement-research that brings personal narrative and historical accounts together, as an aperture with which to view unforeseeable connections between past/present/future. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55.",
+		blurb: "'Architecture of Memory'(AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture with which to view unforeseeable connections between past/present/future. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
 	
 	{
-		name: "Memory Dance (avatar):",
+		name: "Memory Dance (Avatar):",
 		img: "images/avatar_ron.png", 
-		blurb: "Explores the construct and the materiality of the digital identification (avatar) as mapped to the body and (pre)conditioned by history and culture using data visualization to notate and record movement.",
+		blurb: "'Memory Dance' explores constructs of identitiy, visibility, gender and race, as mapped to the body and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo: still from video"
 	},
@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance - Dance Film:",
 		img: "images/HandDanceImage.jpg",
-		blurb: "Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. Click on the image above to view 'Hand Dance' online",
+		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice, the song inspired an intimate hand dance set in Ron and Brittany's kitchen in Brooklyn.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo: still from video",
 	},
@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Cape Cod Modern House Trust Artist Residency:",
 		img: "images/capecodview.jpg",
-		blurb: "Brittany Engel-Adams recently presented two pieces that she worked on while in residency at the Cape Cod Modern Home Trust in Wellfleet, Architecture of Memory and Hand Dance, a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
+		blurb: "Artist Residency at CCMHT working on two pieces presented, 'Architecture of Memory' and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo: still from video of 'Before Zeta'",
 	},
@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv, Verson 1:",
 		img: "images/youtube_improv_picture1.png",
-		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture: Click on the image to watch a recording of the YouTube Improv Web page.",
+		blurb: "YouTube Improv is a poetic data-driven collaboration between artists Ron Erlih and Brittany Engel-Adams. YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture.",
 		link: "https://vimeo.com/429453098",
 		credit: "photo: still from video"
 	},
@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv, Version 2:",
 		img: "images/cropb.png",
-		blurb: "In Brittany Engel-Adams and Ron Erlih new performance piece YouTube Improv projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "https://www.artconnect.com/mina/events/youtube-improv",
 		credit: "photo: still from video"
 	},
