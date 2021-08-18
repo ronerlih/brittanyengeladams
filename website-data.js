@@ -72,7 +72,8 @@ let WEBSITE_DATA = [
 // 		blurb: "Magazine Clippings. Online Collage. 2020.",
 // 		link: "https://www.brittanyengeladams.com/red-who.html",
 // 		credit: ""
-// 	},
+// 	}
+         ,
 
 	
 	
