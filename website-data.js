@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory:",
 		img: "images/HIGHRESx602copy3.png",
-		blurb: "Brittany Engel-Adams' ongoing research-project and repository of recollections that place loss and rupture as opportunity for transformation and growth. Brittany Engel-Adams uses archival research and Hacked Kinect technology to explore historical and contemporary conceptions of time, visibility of blackness, femininity and the gaze. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55. ",
+		blurb: "Brittany Engel-Adams' research-project and choreography of recollections, brings together personal narrative and historical accounts, using Hacked Kinect technology, a retrofitted game console controller,  with which to view and draw connections between past and present.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
