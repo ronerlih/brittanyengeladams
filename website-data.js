@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Yvonne Rainer - Mattress Dance (2019):",
 		img: "images/article15_1064x.jpg",
-		blurb: "Yvonne Rainer with Emily Coates 'Parts of Some Sextet' for the 2019 Performa Biennial in New York City.",
+		blurb: "Yvonne Rainer with Emily Coates  'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
 	},
@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 				
 		name: "Yvonne Rainer - Diagonal Redux (2020):",
 		img: "images/PASSINGYR.png",
-		blurb: "Brittany Engel-Adams performed an evening-length piece of Yvonne Rainer titled Diagonal Redux for the opening of TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+		blurb: "Yvonne Rainer evening-length piece 'Diagonal Redux' for the TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
 		credit: "photo: still from video",
 	},
@@ -239,7 +239,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Netta Yerushalmy - Paramodernities (2018):",
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-		blurb: "Netta Yerushalmy's Paramodernities - residencies, performances, and tours",
+		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
 		link: "https://newyorklivearts.org/event/paramodernities/",
 		credit: "photo: Andrew Spear",
 	},
