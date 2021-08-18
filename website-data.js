@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [	
 	{
 		name: "Architecture of Memory:",
-		img: "images/HIGHRESx602copy3.png",
+		img: "images/brit_sitting_wall.png",
 		blurb: "Brittany Engel-Adams' iterative choreographic research that brings together personal narrative and historical accounts using Kinect-a retrofitted game console controller, and AI Machine learning technology, as an aperture with which to view, map, and notate unforeseeable links between past, present and future. Publication forthcoming 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
