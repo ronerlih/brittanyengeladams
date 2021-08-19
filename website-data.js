@@ -113,7 +113,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emily Coates - Performa Gala (2019)",
 		img: "images/schlmer.JPG",
-		blurb: "Emily Coates' Ode to Oskar Schlemmer, a reconstruction for The 2019 Performa Gala event in New York City.",
+		blurb: "Emily Coates' Ode to Oskar Schlemmer for The 2019 Performa Gala event in New York City.",
 		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
 		credit: "photo: BFA",
 	},
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Yvonne Rainer - Mattress Dance (2019):",
 		img: "images/article15_1064x.jpg",
-		blurb: "Yvonne Rainer with Emily Coates  'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
+		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
 	},
@@ -174,7 +174,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Pat Catterson - Project 114 (2020):",
 		img: "images/PATCat.png",
-		blurb: "Pat Catterson's 'Project 114' a dance film of a series of site-specific solos with performers across the globe.",
+		blurb: "Pat Catterson's 'Project 114' a dance film for a series of site-specific solos with performers across the globe.",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
 		credit: "photo: still from video",
 	},
