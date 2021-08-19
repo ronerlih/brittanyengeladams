@@ -278,7 +278,7 @@ let WEBSITE_DATA = [
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
-	{ name: "Boardwalk Empire:", img: "images/onyx-dancers.jpg", blurb: "HBO television series Boardwalk Empire'Co-star in the 4th season ", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
+	{ name: "Boardwalk Empire - (2013-2014):", img: "images/onyx-dancers.jpg", blurb: "HBO television series Boardwalk Empire'Co-star in the 4th season ", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
 	// {	name: "The Forward interview",
 	// 	img: "images/Ailey_II_s_Brittany_Engel-Adams._Photo_by_Eduardo_Patino_NYC-prv.jpg",
