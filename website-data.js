@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 // 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 // 	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
-	{ name: "Punchdrunk Sleep No more (2015):", img: "images/tn-500_giafrese-0304.jpg", blurb: "Guest performance artist for Punchdrunk's Sleep No more.", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
+	{ name: "Punchdrunk Sleep No more (2015):", img: "images/tn-500_giafrese-0304.jpg", blurb: "Punchdrunk's Sleep No more guest artist for the New Years Eve Event at The Mckittrick Hotel in New York City.", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
 
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
@@ -278,7 +278,7 @@ let WEBSITE_DATA = [
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
-	{ name: "Boardwalk Empire:", img: "images/onyx-dancers.jpg", blurb: "Brittany Engel-Adams is Co-star in the 4th season HBO television series", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
+	{ name: "Boardwalk Empire:", img: "images/onyx-dancers.jpg", blurb: "HBO television series Boardwalk Empire'Co-star in the 4th season ", link: "http://boardwalkempire.wikia.com/wiki/Brittany_Engel-Adams", credit: "HBO photo" },
 
 	// {	name: "The Forward interview",
 	// 	img: "images/Ailey_II_s_Brittany_Engel-Adams._Photo_by_Eduardo_Patino_NYC-prv.jpg",
@@ -308,7 +308,7 @@ let WEBSITE_DATA = [
 	{
 		name: "The Young and The Banging - Publication (2011):",
 		img: "images/abookappearance.jpg",
-		blurb: "The Young and Banging yearbook style book featuring emergent artist influencing downtown dance scene in New York City. ",
+		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo: Louise Erhard",
 	},
