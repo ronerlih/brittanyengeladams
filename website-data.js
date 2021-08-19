@@ -298,7 +298,7 @@ let WEBSITE_DATA = [
 
 
 	{
-		name: "Ailey II (2010-2012):",
+		name: "Ailey II (2009-2011):",
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
 		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
