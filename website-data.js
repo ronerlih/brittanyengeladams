@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_sitting_wall.png",
-		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to bring the viewer to experience an enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
+		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to take the viewer on an experience of the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
