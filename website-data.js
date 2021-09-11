@@ -1,15 +1,15 @@
 let WEBSITE_DATA = [
 		{
-		name: "Farewell 2020. 3D Virtual Scene:",
+		name: "Farewell/RAM (2020) 3D Virtual Scene:",
 		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d scan by Ron Erlih and Brittany Engel-Adams"
 	},
 	{
-		name: "Architecture of Memory (2021):",
+		name: "Architecture of Memory/AOM (2021):",
 		img: "images/brit_sitting_wall.png",
-		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture with which to experience the composition of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
+		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience an enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "3d scan by Brittany Engel-Adams"
 	},
