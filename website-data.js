@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
 		blurb: "Artist Residency at CCMHT.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: still from video of 'Before Zeta'",
+		credit: "photo: Province Town Independent",
 	},
 	
 	
