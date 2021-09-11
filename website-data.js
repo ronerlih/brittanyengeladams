@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Yvonne Rainer - Mattress Dance (2019):",
-		img: "images/article15_1064x.jpg",
+		img: "images/performayvonnerainer.png",
 		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
 		credit: "photo: Adam Kremer",
