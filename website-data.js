@@ -83,7 +83,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Pam Tanowitz Dance -- Bard Fischer SummerScape Dance Festival (2021):",
-		img: "images/capecodview.jpg",
+		img: "images/STILLPAMTANOWITZ.jpg",
 		blurb: "Pam Tanowitz and Jesse Montgomery’s collaboration “I was waiting for the echo of a better day” World Premiere at Fischer Bard, SummerScape Dance Festival July, 2021.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo: Maria Baranova",
