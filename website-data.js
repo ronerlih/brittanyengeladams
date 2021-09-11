@@ -131,11 +131,11 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Emily Coates - Performa Gala (2019)",
+		name: "Emily Coates - Schlemmer Loops for Performa Opening Night Gala (2019)",
 		img: "images/schlmer.JPG",
-		blurb: "Emily Coates' Ode to Oskar Schlemmer for The 2019 Performa Gala event in New York City.",
-		link: "https://www.documentjournal.com/2019/11/performa-revives-the-legacy-of-oskar-schlemmer-the-bauhauss-avant-garde-theater-visionary/",
-		credit: "photo: BFA",
+		blurb: "Schlemmer Loops for Performa 19 Opening Night Gala: A Performa Bauhaus Inspired Festivity, New York, featuring Miguel Anaya, Reid Bartelme, Brittany Engel-Adams, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet.",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo copyright: Paula Court. Courtesy of Performa",
 	},
 	
 		{
