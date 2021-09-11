@@ -80,6 +80,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: ""
 	},
+		{
+		name: "Moriah Evans -- REPOSE (2021):",
+		img: "images/STILLPAMTANOWITZ.jpg",
+		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "photo: Maria Baranova",
+	},
 
 		{
 		name: "Pam Tanowitz Dance -- Bard Fischer SummerScape Dance Festival (2021):",
