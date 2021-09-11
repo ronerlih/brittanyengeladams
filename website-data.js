@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "3d scan and scene by Ron Erlih and Brittany Engel-Adams"
+		credit: "3d scan and virtual scene by Ron Erlih and Brittany Engel-Adams"
 	},
 	{
 		name: "Architecture of Memory (2021):",
@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/snapshot033.png", 
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
-		credit:"3d scan in Wellfleet Massachusetts by Brittany Engel-Adams"
+		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts."
 	},
 	
 		{
