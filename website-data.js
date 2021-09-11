@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 		{
 		name: "Farewell 2020. 3D Virtual Scene:",
-		img: "images/brit_sitting_wall.png",
+		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d scan by Ron Erlih and Brittany Engel-Adams"
