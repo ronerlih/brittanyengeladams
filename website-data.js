@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 		img: "images/handancepressimage.JPG",
 		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo credit: Courtesy of the artist",
+		credit: "photo copyright: Courtesy of the artist",
 	},
 	
 	{
@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
 		blurb: "Artist Residency at CCMHT.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo credit: Province Town Independent",
+		credit: "photo copyright: Province Town Independent",
 	},
 	
 	
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo credit: Courtesy of the artist"
+		credit: "photo copyright: Courtesy of the artist"
 	},
 	
 // 		{
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 // 		img: "images/cropb.png",
 // 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
-// 		credit: "photo: Courtesy of the artist"
+// 		credit: "photo copyright: Courtesy of the artist"
 // 	},
 	
 
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 		img: "images/who_wood_picture1.png", 
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
 	},
 	
 	
@@ -71,21 +71,21 @@ let WEBSITE_DATA = [
 		img: "images/who-blue_picture1.png",
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
 	},
 		{
 		name: "'Emergent Landscape' Tessellation 3",
 		img: "images/red-who_picture1.png",
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
 	},
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
 		img: "images/MORIAHEVANSBEACHSTILL.jpg",
 		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo credit: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
+		credit: "photo copyright: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
 	},
 
 		{
@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 		img: "images/STILLPAMTANOWITZ.jpg",
 		blurb: "Pam Tanowitz and Jesse Montgomery’s collaboration “I was waiting for the echo of a better day” World Premiere at Fischer Bard, SummerScape Dance Festival July, 2021.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo credit: pictured left to right Brittany Engel-Adams, Zachary Gonder, and Maile Okamura: by Maria Baranova",
+		credit: "photo copyright: pictured left to right Brittany Engel-Adams, Zachary Gonder, and Maile Okamura: by Maria Baranova",
 	},
 	
 		
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Summer Dance Festival (2019)",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-		credit: "photo credit: Courtesy of Bates Dance Festival",
+		credit: "photo copyright: Courtesy of Bates Dance Festival",
 	},
 
 // 	{
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 // 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-2.jpg",
 // 		blurb: "Brittany Engel-Adams in Lars Jan's The White Album. The White Album uses a modern-day house party as a visual score to Joan Didion’s seminal essay that witnesses the end of 1960s’ countercultural dream—hijacked by violence and chaos. Performed at Sydney Festival, 2020.",
 // 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
-// 		credit: "photo: Reed Hutchinson",
+// 		credit: "photo copyright: Reed Hutchinson",
 // 	},
 	
 		{
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
 		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
-		credit: "photo credit: Reed Hutchinson ",
+		credit: "photo copyright: Reed Hutchinson ",
 	},
 	
 		{
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 		img: "images/23Okwui.jpg",
 		blurb: "Okwui Okpokwasili and Peter Born 'Sitting on a Man's Head' for utterances from the choir at Danspace St. Marks Church in New York City.",
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
-		credit: "photo: Sasha Arutyunova",
+		credit: "photo copyright: Sasha Arutyunova",
 	},
 	
 // 		{
@@ -161,7 +161,7 @@ let WEBSITE_DATA = [
 		img: "images/performayvonnerainer.png",
 		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
-		credit: "photo: Adam Kremer",
+		credit: "photo copyright: Adam Kremer",
 	},
 	
 			{
@@ -178,7 +178,7 @@ let WEBSITE_DATA = [
 		img: "images/pamlive.jpg",
 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo: Reid Bartelme",
+		credit: "photo copyright: Photo Courtesy of Pam Tanowitz Dance.",
 	},
 
 // 		{
@@ -251,7 +251,7 @@ let WEBSITE_DATA = [
 	// 	img: "images/women-enter.jpg",
 	// 	blurb: "Review of Paramodernities #3 at the Museum of the American Indian",
 	// 	link: "https://www.culturebot.org/2017/09/27419/dancing-a-history-and-defining-a-project-some-notes-on-netta-yerushalmys-paramodernities-3/",
-	// 	credit: "photo: Paula Lobo",
+	// 	credit: "photo copyright: Paula Lobo",
 	// },
 
 // 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
@@ -261,7 +261,7 @@ let WEBSITE_DATA = [
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
 		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
 		link: "https://newyorklivearts.org/event/paramodernities/",
-		credit: "photo: Andrew Spear",
+		credit: "photo copyright: Andrew Spear",
 	},
 	
 		{
@@ -276,7 +276,7 @@ let WEBSITE_DATA = [
 // 		img: "images/10instagram-facebookJumbo.jpg",
 // 		blurb: "Ny Times video of Madison Square Park residency",
 // 		link: "https://www.nytimes.com/2017/08/10/arts/dance/netta-yerushalmy-paramodernities-madison-square-park.html",
-// 		credit: "photo: Adam Golfer"
+// 		credit: "photo copyright: Adam Golfer"
 // 	},
 
 	// {	name: "LMCC Gala 2017",
@@ -289,7 +289,7 @@ let WEBSITE_DATA = [
 // 	{ name: "Spike Lee's 'Chiraq'", img: "images/spikelee.jpg", blurb: "Featured dancer in film 2016", link: "", credit: "" },
 // 	{ name: "Naomi Goldberg Hass - Dances for a Variable Population 10027:", img: "images/10418387_10153392349399837_6724538421473409268_n.jpg", blurb: "Site-specific Performances for the public in Manhattan, 2015", link: "https://www.dvpnyc.org/10027-everything-you-need-to-know/", credit: "photo: Talya Charef" },
 
-	{ name: "Punchdrunk Sleep No more (2015):", img: "images/tn-500_giafrese-0304.jpg", blurb: "Punchdrunk's Sleep No more guest artist for the New Years Eve Event at The Mckittrick Hotel in New York City.", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit: "SNM photo" },
+	{ name: "Punchdrunk Sleep No more (2015):", img: "images/tn-500_giafrese-0304.jpg", blurb: "Punchdrunk's Sleep No more guest artist for the New Years Eve Event at The Mckittrick Hotel in New York City.", link: "https://www.broadwayworld.com/article/Photo-Flash-Inside-McKittrick-Hotels-New-Years-Eve-Party-THE-KINGS-WINTER-MASQUERADE-20150102", credit "SNM photo" },
 
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 	// 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
 	// 	blurb: "Performance of PM #4 choreography by Netta Yerushalmy 2018",
 	// 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
-	// 	credit: "photo: Janelle Jones"
+	// 	credit: "photo copyright: Janelle Jones"
 	// },
 
 // 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
@@ -322,7 +322,7 @@ let WEBSITE_DATA = [
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
 		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
-		credit: "photo: Eduardo Patino",
+		credit: "photo copyright: Eduardo Patino",
 	},
 	
 	{
@@ -330,7 +330,7 @@ let WEBSITE_DATA = [
 		img: "images/abookappearance.jpg",
 		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photo: Louise Erhard",
+		credit: "photo copyright: Louise Erhard",
 	},
 	
 // 			{
