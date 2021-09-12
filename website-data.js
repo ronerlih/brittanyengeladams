@@ -167,10 +167,10 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Yvonne Rainer - Diagonal Redux (2020):",
-		img: "images/PASSINGYR.png",
-		blurb: "Yvonne Rainer evening-length piece 'Diagonal Redux' for the TITAN Festival in New York City, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+		img: "images/yvonnediaganolreduxpress.JPG",
+		blurb: "Yvonne Rainer's evening-length piece 'Diagonal Redux' for TITAN, New York City, October 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://www.kurimanzutto.com",
-		credit: "photo: still from video",
+		credit: "photo copyright: PJ Rountree",
 	},
 	
 				{
