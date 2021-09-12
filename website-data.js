@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 		img: "images/HANDDANCEWIHPRESS.JPG",
 		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo: still from video",
+		credit: "photo credit: Courtesy of the artist",
 	},
 	
 	{
@@ -35,16 +35,16 @@ let WEBSITE_DATA = [
 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
 		blurb: "Artist Residency at CCMHT.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: Province Town Independent",
+		credit: "photo credit: Province Town Independent",
 	},
 	
 	
           {
 		name: "YouTube Improv (2018):",
-		img: "images/youtube_improv_picture1.png",
+		img: "images/HANDDANCEWIHPRESS.JPG.",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
 		link: "https://vimeo.com/429453098",
-		credit: "photo: still from video"
+		credit: "photo credit: Courtesy of the artist"
 	},
 	
 // 		{
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 // 		img: "images/cropb.png",
 // 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
-// 		credit: "photo: still from video"
+// 		credit: "photo: Courtesy of the artist"
 // 	},
 	
 
@@ -78,14 +78,14 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: ""
+		credit: "tessellation by Brittany Engel-Adams"
 	},
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
 		img: "images/MORIAHEVANSBEACHSTILL.jpg",
 		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
+		credit: "photo credit: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
 	},
 
 		{
@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 		img: "images/STILLPAMTANOWITZ.jpg",
 		blurb: "Pam Tanowitz and Jesse Montgomery’s collaboration “I was waiting for the echo of a better day” World Premiere at Fischer Bard, SummerScape Dance Festival July, 2021.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: pictured left to right Brittany Engel-Adams, Zachary Gonder, and Maile Okamura: by Maria Baranova",
+		credit: "photo credit: pictured left to right Brittany Engel-Adams, Zachary Gonder, and Maile Okamura: by Maria Baranova",
 	},
 	
 		
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Summer Dance Festival (2019)",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-		credit: "photo: BDF",
+		credit: "photo credit: Courtesy of Bates Dance Festival",
 	},
 
 // 	{
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
 		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
-		credit: "photo: Reed Hutchinson ",
+		credit: "photo credit: Reed Hutchinson ",
 	},
 	
 		{
