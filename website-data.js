@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 		img: "images/MORIAHEVANSBEACHSTILL.jpg",
 		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat by Maria Baranova",
+		credit: "photo: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
 	},
 
 		{
@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 		img: "images/STILLPAMTANOWITZ.jpg",
 		blurb: "Pam Tanowitz and Jesse Montgomery’s collaboration “I was waiting for the echo of a better day” World Premiere at Fischer Bard, SummerScape Dance Festival July, 2021.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo: Maria Baranova",
+		credit: "photo: pictured left to right Brittany Engel-Adams, Zachary Gonder, and Maile Okamura: by Maria Baranova",
 	},
 	
 		
