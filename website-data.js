@@ -84,7 +84,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
-		img: "images/MORIAHEVANSBEACHSTILL.jpg",
+		img: "images/moriahevansreposepress.JPG",
 		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo copyright: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
