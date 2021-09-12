@@ -149,7 +149,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Okwui Okpokwasili and Peter Born - Sitting on a Man's Head (2020):",
-		img: "images/23Okwui.jpg",
+		img: "images/okwuinytimes.png",
 		blurb: "Okwui Okpokwasili and Peter Born 'Sitting on a Man's Head' for utterances from the choir at Danspace St. Marks Church in New York City.",
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo copyright: Sasha Arutyunova",
