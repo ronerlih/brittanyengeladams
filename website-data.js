@@ -73,6 +73,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
 	},
+	
 		{
 		name: "'Emergent Landscape' Tessellation 3",
 		img: "images/red-who_picture1.png",
@@ -80,6 +81,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
 	},
+	
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
 		img: "images/MORIAHEVANSBEACHSTILL.jpg",
@@ -88,6 +90,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: pictured left to right: Brittany Engel-Adams, Melanie Greene, Marc Crousillat: by Maria Baranova",
 	},
 
+	
 		{
 		name: "Pam Tanowitz Dance -- Bard Fischer SummerScape Dance Festival (2021):",
 		img: "images/STILLPAMTANOWITZ.jpg",
@@ -97,7 +100,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-
+ 
 	{
 		name: "University of Missouri-Kansas City - Artist Talk (2020):",
 		img: "images/90.jpeg",
@@ -106,13 +109,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+	
+	
+	
 	{
 		name: "Bates College Summer Dance Festival (2019)",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
 		credit: "photo copyright: Courtesy of Bates Dance Festival",
 	},
+	
+	
 
 // 	{
 // 		name: "Lars Jan The White Album - Sydney Festival:",
@@ -121,6 +128,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.sydneyfestival.org.au/events/joan-didions-the-white-album",
 // 		credit: "photo copyright: Reed Hutchinson",
 // 	},
+	
 	
 		{
 		name: "Lars Jan - The White Album (2019-2020)",
@@ -138,6 +146,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright:Paula Court.Courtesy of Performa",
 	},
 	
+	
 		{
 		name: "Okwui Okpokwasili and Peter Born - Sitting on a Man's Head (2020):",
 		img: "images/23Okwui.jpg",
@@ -145,6 +154,7 @@ let WEBSITE_DATA = [
 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
 		credit: "photo copyright: Sasha Arutyunova",
 	},
+	
 	
 // 		{
 // 		name: "Big Dance Theater - Mood Room Residency:",
@@ -165,6 +175,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Adam Kremer",
 	},
 	
+	
 			{
 				
 		name: "Yvonne Rainer - Diagonal Redux (2020):",
@@ -174,6 +185,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Performance documentaion of Yvonne Rainer's 'Diaonal Redux' Courtesy of Kurimanzutto, Mexico City/ New York, Photo PJ Rountree",
 	},
 	
+	
 	                {
 				
 		name: "Pam Tanowitz Dance - Finally Unfinished Pt 1 (2020):",
@@ -182,6 +194,7 @@ let WEBSITE_DATA = [
 		link: "https://www.joyce.org/pam-tanowitz-dance",
 		credit: "photo copyright: Photo Courtesy of Pam Tanowitz Dance",
 	},
+	
 
 // 		{
 // 		name: "Pam Tanowitz Dance - Film Festival:",
@@ -203,7 +216,6 @@ let WEBSITE_DATA = [
 	
 	
 
-	
 	
 
 	
@@ -227,7 +239,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-
 	
 	{
 		name: "Donna Uchizono Company - March Under an Empty Reign (2018):",
@@ -237,6 +248,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Courtesy of Julieta Cervantes",
 	},
 
+	
 // 	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
 
 // 	{
@@ -335,6 +347,7 @@ let WEBSITE_DATA = [
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo copyright: Courtesy of Louise Erhard",
 	},
+	
 	
 // 			{
 // // 		name: "Real Simple Magazine:",
