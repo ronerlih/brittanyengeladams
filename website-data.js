@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 		img: "images/performayvonnerainer.png",
 		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
-		credit: "photo copyright: Adam Kremer",
+		credit: "photo copyright: Performance documentaion, photo by Adam Kremer",
 	},
 	
 	
@@ -182,7 +182,7 @@ let WEBSITE_DATA = [
 		img: "images/REDUXPRESS.JPG",
 		blurb: "Yvonne Rainer's evening-length piece 'Diagonal Redux' 2020, for TITAN, New York City, October 17, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://titan.kurimanzutto.com/artists/yvonne-rainer",
-		credit: "photo copyright: Performance documentaion of Yvonne Rainer's 'Diaonal Redux' Courtesy of Kurimanzutto, Mexico City/ New York, Photo PJ Rountree",
+		credit: "photo copyright: Performance documentaion Courtesy of Kurimanzutto, Photo by PJ Rountree",
 	},
 	
 	
@@ -192,7 +192,7 @@ let WEBSITE_DATA = [
 		img: "images/pamlive.jpg",
 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo copyright: Photo Courtesy of Pam Tanowitz Dance",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Pam Tanowitz Dance",
 	},
 	
 
@@ -211,7 +211,7 @@ let WEBSITE_DATA = [
 		img: "images/PATCat.png",
 		blurb: "Pat Catterson's 'Project 114' a dance film for a series of site-specific solos with performers across the globe.",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
-		credit: "photo copyright: Photo Courtesy of artist",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of artist",
 	},
 	
 	
@@ -245,7 +245,7 @@ let WEBSITE_DATA = [
 		img: "images/march.png",
 		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
-		credit: "photo copyright: Courtesy of Julieta Cervantes",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Julieta Cervantes",
 	},
 
 	
@@ -276,7 +276,7 @@ let WEBSITE_DATA = [
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
 		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
 		link: "https://newyorklivearts.org/event/paramodernities/",
-		credit: "photo copyright: Courtesy of Andrew Spear",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Andrew Spear",
 	},
 	
 		{
@@ -284,7 +284,7 @@ let WEBSITE_DATA = [
 		img: "images/sbbcrop.jpg",
 		blurb: "Stefanie Batten Blands' 'a place of Sun'- residencies, performances, and tours",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
-		credit: "photo copyright: Courtesy of Rubby Washington",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Rubby Washington",
 	},
 	
 // 	{	name: "New York Times instagram",
@@ -337,7 +337,7 @@ let WEBSITE_DATA = [
 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
 		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
-		credit: "photo copyright: Eduardo Patino",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
 	},
 	
 	{
