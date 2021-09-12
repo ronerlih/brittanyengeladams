@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 		img: "images/brit_sitting_wall.png",
 		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal",
-		credit: "color rendering of 3d scan by Brittany Engel-Adams"
+		credit: "color rendering of 3d scan by Brittany Engel-Adams",
 	},
 	
 	{
@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/snapshot033.png", 
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
-		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts."
+		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts.",
 	},
 	
 		{
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: Courtesy of the artist"
+		credit: "photo copyright: Courtesy of the artist",
 	},
 	
 // 		{
@@ -71,14 +71,14 @@ let WEBSITE_DATA = [
 		img: "images/who-blue_picture1.png",
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
 	},
 		{
 		name: "'Emergent Landscape' Tessellation 3",
 		img: "images/red-who_picture1.png",
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
 	},
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
@@ -312,7 +312,7 @@ let WEBSITE_DATA = [
 	// 	img: "images/20065885_458129447883975_4156221487059042304_n.jpg",
 	// 	blurb: "Performance of PM #4 choreography by Netta Yerushalmy 2018",
 	// 	link: "https://www.rwu.edu/events/alive-arts-series-paramodernities-netta-yerushalmy",
-	// 	credit: "photo copyright: Janelle Jones"
+	// 	credit: "photo copyright: Janelle Jones",
 	// },
 
 // 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
