@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 		img: "images/who_wood_picture1.png", 
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
 	},
 	
 	
@@ -71,14 +71,14 @@ let WEBSITE_DATA = [
 		img: "images/who-blue_picture1.png",
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
 	},
 		{
 		name: "'Emergent Landscape' Tessellation 3",
 		img: "images/red-who_picture1.png",
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "photo copyright: Photo Courtesy of artist. Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
 	},
 		{
 		name: "Moriah Evans -- REPOSE (2021):",
@@ -157,6 +157,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
+			
 		name: "Yvonne Rainer - Mattress Dance (2019):",
 		img: "images/performayvonnerainer.png",
 		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
@@ -170,10 +171,11 @@ let WEBSITE_DATA = [
 		img: "images/REDUXPRESS.JPG",
 		blurb: "Yvonne Rainer's evening-length piece 'Diagonal Redux' 2020, for TITAN, New York City, October 17, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
 		link: "https://titan.kurimanzutto.com/artists/yvonne-rainer",
-		credit: "photo copyright: Performance documentaion of Yvonne Rainer's 'Diaonal Redux.' Courtesy of Kurimanzutto, Mexico City/ New York, Photo: PJ Rountree",
+		credit: "photo copyright: Performance documentaion of Yvonne Rainer's 'Diaonal Redux' Courtesy of Kurimanzutto, Mexico City/ New York, Photo PJ Rountree",
 	},
 	
-				{
+	                {
+				
 		name: "Pam Tanowitz Dance - Finally Unfinished Pt 1 (2020):",
 		img: "images/pamlive.jpg",
 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
