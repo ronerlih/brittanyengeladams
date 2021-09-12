@@ -246,6 +246,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.jacobspillow.org/events/paramodernities-netta-yerushalmy/",
 // 		credit: "photo: Andrew Spear",
 // 	},
+	
 	// { name: "ODC Performance (Press)", img: "images/nyla-paramodernities.jpg", blurb: "Review of PM #3&4 at ODC in San Francisco", link: "https://culturevulture.net/dance/paramodernities-west-coast-premiere", credit: "photo: Andrew Spear" },
 	// { name: "Netta Yerushalmy", img: "images/NDPP.jpg", blurb: "BAC story by Neil Greenberg", link: "https://bacnyc.org/residencies/resident/netta-yerushalmy1", credit: "photo: Janelle Jones" },
 	// {
