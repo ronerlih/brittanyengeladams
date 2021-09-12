@@ -132,10 +132,10 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Emily Coates - Schlemmer Loops for Performa Opening Night Gala (2019)",
-		img: "images/schlmer.JPG",
+		img: "images/SCHLEMMERLOOP.JPG",
 		blurb: "Schlemmer Loops for Performa 19 Opening Night Gala: A Performa Bauhaus Inspired Festivity, New York, featuring Miguel Anaya, Reid Bartelme, Brittany Engel-Adams, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet.",
 		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo copyright: Paula Court. Courtesy of Performa",
+		credit: "photo copyright:Paula Court.Courtesy of Performa",
 	},
 	
 		{
