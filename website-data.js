@@ -281,7 +281,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Stefanie Batten Bland - a place of Sun (2012):",
-		img: "images/sbbcrop.jpg",
+		img: "images/sbbegg.jpg",
 		blurb: "Stefanie Batten Blands' 'a place of Sun'- residencies, performances, and tours",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Rubby Washington",
