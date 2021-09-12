@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "3d scan and virtual scene by Ron Erlih and Brittany Engel-Adams"
+		credit: "3d scan and virtual scene by Ron Erlih and Brittany Engel-Adams",
 	},
 	{
 		name: "Architecture of Memory (2021):",
@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/snapshot033.png", 
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
-		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts.",
+		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts",
 	},
 	
 		{
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 		img: "images/pamlive.jpg",
 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
 		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo copyright: Photo Courtesy of Pam Tanowitz Dance.",
+		credit: "photo copyright: Photo Courtesy of Pam Tanowitz Dance",
 	},
 
 // 		{
@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 		img: "images/PATCat.png",
 		blurb: "Pat Catterson's 'Project 114' a dance film for a series of site-specific solos with performers across the globe.",
 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
-		credit: "photo: still from video",
+		credit: "photo copyright: Photo Courtesy of artist",
 	},
 	
 	
@@ -212,7 +212,7 @@ let WEBSITE_DATA = [
 // 		img: "images/skirlball.jpg",
 // 		blurb: "Choreography by Netta Yerushalmy/Performances at Skirball 2019",
 // 		link: "https://nyuskirball.org/events/cunningham-centennial/?fbclid=IwAR2pqxII4coGFNkUJmEePC7d_IG945wamkUJS1uG8vFxXPVJYdHeuoqyy2U",
-// 		credit: "photo: Ian Douglas",
+// 		credit: "photo copyright: Courtesy of Ian Douglas",
 // 	},
 	
 	
@@ -221,7 +221,7 @@ let WEBSITE_DATA = [
 // 		img: "images/04282019-WORKS-AND-PROCESS-ErycPerezdeTaglePhotography-100.jpg",
 // 		blurb: "Choreography by Netta Yerushalmy/Designs by Reid Bartelme and Harriet Jung 2019",
 // 		link: "https://www.guggenheim.org/event/event_series/works-process",
-// 		credit: "photo: Michelle Tabnick",
+// 		credit: "photo copyright: Courtesy of Michelle Tabnick",
 // 	},
 	
 	
@@ -234,7 +234,7 @@ let WEBSITE_DATA = [
 		img: "images/march.png",
 		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
-		credit: "photo: Julieta Cervantes",
+		credit: "photo copyright: Courtesy of Julieta Cervantes",
 	},
 
 // 	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
@@ -256,14 +256,14 @@ let WEBSITE_DATA = [
 	// 	credit: "photo copyright: Paula Lobo",
 	// },
 
-// 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo: Christopher Duggan" },
+// 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo copyright: Courtesy of Christopher Duggan" },
 
 	{
 		name: "Netta Yerushalmy - Paramodernities (2018):",
 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
 		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
 		link: "https://newyorklivearts.org/event/paramodernities/",
-		credit: "photo copyright: Andrew Spear",
+		credit: "photo copyright: Courtesy of Andrew Spear",
 	},
 	
 		{
@@ -271,7 +271,7 @@ let WEBSITE_DATA = [
 		img: "images/sbbcrop.jpg",
 		blurb: "Stefanie Batten Blands' 'a place of Sun'- residencies, performances, and tours",
 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
-		credit: "photo: Rubby Washington",
+		credit: "photo copyright: Courtesy of Rubby Washington",
 	},
 	
 // 	{	name: "New York Times instagram",
@@ -296,7 +296,7 @@ let WEBSITE_DATA = [
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
-	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo: Orit Ben-Shitrit" },
+	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo copyright: Courtesy of Orit Ben-Shitrit" },
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
@@ -315,7 +315,7 @@ let WEBSITE_DATA = [
 	// 	credit: "photo copyright: Janelle Jones",
 	// },
 
-// 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo: Dana Katz" },
+// 	{ name: "Dana Katz's 'Prospect Minds'", img: "images/10361964_10205454177886803_7871722208666797287_n.jpg", blurb: "Performances at the 92nd Street Y 2013", link: "https://vimeo.com/58922736", credit: "photo copyright: Courtesy of Dana Katz" },
 
 
 
@@ -332,7 +332,7 @@ let WEBSITE_DATA = [
 		img: "images/abookappearance.jpg",
 		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photo copyright: Louise Erhard",
+		credit: "photo copyright: Courtesy of Louise Erhard",
 	},
 	
 // 			{
@@ -340,7 +340,7 @@ let WEBSITE_DATA = [
 // // 		img: "images/flexibilityrealsimpleBIG.jpg",
 // // 		blurb: "Brittany Engel-Adams is photographed by Robert Maxwell for a feature in the August 2010 edition of Real Simple Magazine. ",
 // // 		link: "",
-// // 		credit: "photo: Robert Maxwell",
+// // 		credit: "photo copyright: Courtesy of Robert Maxwell",
 // // 	},
 	
 ];
