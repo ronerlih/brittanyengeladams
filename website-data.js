@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_sitting_wall.png",
 		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity. Publication 2021, Movement Research Performance Journal, Issue #55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		link: "https://movementresearch.org/publications/performance-journal",
 		credit: "color rendering of 3d scan by Brittany Engel-Adams"
 	},
 	
@@ -41,9 +41,9 @@ let WEBSITE_DATA = [
 	
           {
 		name: "YouTube Improv (2018):",
-		img: "images/HANDDANCEWIHPRESS.JPG.",
+		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
-		link: "https://vimeo.com/429453098",
+		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo credit: Courtesy of the artist"
 	},
 	
