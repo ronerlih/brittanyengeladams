@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Architecture of Memory (2021):",
-		img: "images/brit_floor_fabric_wow.png",
+		img: "images/brit_sitting_wall.png",
 		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' color rendering of 3d scan by Brittany Engel-Adams at CCMHT Artist Residency.",
