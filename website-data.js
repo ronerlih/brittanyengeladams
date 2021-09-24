@@ -147,11 +147,19 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Emily Coates - Schlemmer Loops for Performa Opening Night Gala (2019)",
-		img: "images/SCHLEMMERLOOP.JPG",
-		blurb: "Schlemmer Loops for Performa 19 Opening Night Gala: A Performa Bauhaus Inspired Festivity, New York, featuring Miguel Anaya, Reid Bartelme, Brittany Engel-Adams, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet.",
+		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
+		img: "images/SchlemmerStickDance.jpg",
+		blurb: "Performance Still from Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
 		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo copyright:Paula Court.Courtesy of Performa",
+		credit: "photo copyright: Paula Court.Courtesy of Performa",
+	},
+	
+		{
+		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
+		img: "images/gesturedance.JPG",
+		blurb: "Performance Still from Schlemmer Loops “Gesture Dance” for Performa 19 Opening Night Gala with Miguel Anaya, Reid Bartelme, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet. Photo: Paula Court",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo copyright: Paula Court.Courtesy of Performa",
 	},
 	
 	
