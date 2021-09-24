@@ -1,4 +1,12 @@
 let WEBSITE_DATA = [
+	
+	{
+		name: "Publication oF Architecture of Memory (2021):",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "Publication of Architecture of Memory in Movemement Research Perofrmance Journal Issue 55 “no before no after” conceive in the wake of global pandemic in mind. Is it possible to refuse explanatory narratives, narrative structures, chronologies, and to embrace decomposition, decay, and the repair made possible in coming undone?.",
+		link: "https://movementresearch.org/publications/performance-journal",
+		credit: "'photo courtesy of MRPJ.",
+	},
 		{
 		name: "Farewell (2020) 3D Virtual Scene:",
 		img: "https://ronerlihstudio.com/images/202020.gif",
