@@ -12,14 +12,14 @@ let WEBSITE_DATA = [
 		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "3d scan and virtual scene by Ron Erlih and Brittany Engel-Adams",
+		credit: "3d scan and background by Ron Erlih and Brittany Engel-Adams",
 	},
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_sitting_wall.png",
 		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'disseminate the mesh' color rendering of 3d scan by Brittany Engel-Adams at CCMHT Artist Residency.",
+		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
 	
 		{
@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
 		img: "images/image_normal15.png", 
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
-		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts",
+		credit:"3d scan by Brittany Engel-Adams",
 	},
 	
 		{
@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 		img: "images/handdancethumb.png",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by The Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo copyright: Performance documentaion of 'Hand Dance' Courtesy of Ron Erlih",
+		credit: "photo copyright: Courtesy of Ron Erlih",
 	},
 	
 	{
@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 		img: "images/Fulcher-CCMHT-Residencies-photo-2-courtesy-Brittany-Engel-Adams-copy.jpg",
 		blurb: "Artist Residency at CCMHT.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo copyright: Courtesy of Artsit for Province Town Independent",
+		credit: "photo copyright: Courtesy of Province Town Independent",
 	},
 	
 	
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/youtube-imporv.jpg",
 		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: Performance documentaion of 'YouTube Improv' Courtesy of the artist",
+		credit: "photo copyright: Performance documentaion of 'YouTube Improv'",
 	},
 	
 // 		{
