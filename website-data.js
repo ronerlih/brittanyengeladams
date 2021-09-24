@@ -140,7 +140,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Lars Jan - The White Album (2019-2020)",
-		img: "images/the-white-album-by-joan-didion-lars-jan-early-morning-opera-5.jpg",
+		img: "images/TheWhiteAlbum_CalArts_s-1400-Updated.jpg",
 		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
 		credit: "photo copyright: Reed Hutchinson ",
