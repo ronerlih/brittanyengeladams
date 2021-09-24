@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Cape Cod Modern House Trust Artist Residence (2020):",
-		img: "images/capecodmhtpress.png",
+		img: "images/CAPECODMHTPRESSIMAGE.JPG",
 		blurb: "Artist Residency at CCMHT.",
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo copyright: Province Town Independent",
@@ -349,12 +349,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-// 			{
-// // 		name: "Real Simple Magazine:",
-// // 		img: "images/flexibilityrealsimpleBIG.jpg",
-// // 		blurb: "Brittany Engel-Adams is photographed by Robert Maxwell for a feature in the August 2010 edition of Real Simple Magazine. ",
-// // 		link: "",
-// // 		credit: "photo copyright: Courtesy of Robert Maxwell",
-// // 	},
+			{
+// 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
+// 		img: "images/flexibilityrealsimpleBIG.jpg",
+// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
+// 		link: "",
+// 		credit: "photo copyright: Courtesy of Robert Maxwell",
+// 	},
 	
 ];
