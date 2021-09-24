@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
-	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_Dance.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo copyright: Courtesy of Orit Ben-Shitrit" },
+	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_WARD.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo copyright: Courtesy of Orit Ben-Shitrit" },
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
