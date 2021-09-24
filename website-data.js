@@ -24,10 +24,10 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance - Dance Film (2020):",
-		img: "images/handancepressimage.JPG",
-		blurb: "'Memory Dance' Is a dance film commissioned by The Guggenheim Works and Process, 2020, made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
+		img: "images/handdancethumb.png",
+		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by The Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo copyright: Performance documentaion of 'Hand Dance' Courtesy of the artist",
+		credit: "photo copyright: Performance documentaion of 'Hand Dance' Courtesy of Ron Erlih",
 	},
 	
 	{
