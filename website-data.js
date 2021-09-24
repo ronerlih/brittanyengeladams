@@ -57,22 +57,22 @@ let WEBSITE_DATA = [
 	
 
 	
-		{		
-		name: "Emergent Landscape - Tessellation 1.(2020):",
-		img: "images/who_wood_picture1.png", 
-		blurb: "online tessellation, click to move.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
-	},
+// 		{		
+// 		name: "Emergent Landscape - Tessellation 1.(2020):",
+// 		img: "images/who_wood_picture1.png", 
+// 		blurb: "online tessellation, click to move.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
+// 	},
 	
 	
-	{
-		name: "Emergent Lanscape - Tessellation 2.(2020):",
-		img: "images/who-blue_picture1.png",
-		blurb: "online tessellation, click to move.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
-	},
+// 	{
+// 		name: "Emergent Lanscape - Tessellation 2.(2020):",
+// 		img: "images/who-blue_picture1.png",
+// 		blurb: "online tessellation, click to move.",
+// 		link: "https://www.brittanyengeladams.com/who-blue.html",
+// 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
+// 	},
 	
 		{
 		name: "'Emergent Landscape' Tessellation 3",
