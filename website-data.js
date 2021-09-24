@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance (Avatar) (2020):",
-		img: "images/snapshot033.png", 
+		img: "images/image_normal15.png", 
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams, at The Cape Cod Modern House Trust Artist Residency in Wellfleet Massachusetts",
