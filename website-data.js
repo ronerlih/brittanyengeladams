@@ -22,6 +22,14 @@ let WEBSITE_DATA = [
 		credit: "'disseminate the mesh' color rendering of 3d scan by Brittany Engel-Adams at CCMHT Artist Residency.",
 	},
 	
+		{
+		name: "Kinesphere (2021):",
+		img: "images/Blue.jpg",
+		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan of myself.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "'Color rendering of 3d scan by Brittany Engel-Adams.",
+	},
+	
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/image_normal15.png", 
