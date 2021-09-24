@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Architecture of Memory (2021):",
-		img: "images/brit_sitting_wall.png",
+		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Architecture of Memory' (AOM) iterative choreographic research that brings personal narrative and historical accounts together, as an aperture to view and experience the enigmatic-otherwordly landscape of shadows and dark matter that both undergird and haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
@@ -25,7 +25,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Kinesphere (2021):",
 		img: "images/Blue.jpg",
-		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan of myself.'",
+		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'Color rendering of 3d scan by Brittany Engel-Adams.",
 	},
