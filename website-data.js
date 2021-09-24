@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 		name: "Kinesphere (2021):",
 		img: "images/Blue.jpg",
 		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		link: "",
 		credit: "'Color rendering of 3d scan by Brittany Engel-Adams.",
 	},
 	
@@ -36,6 +36,14 @@ let WEBSITE_DATA = [
 		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
+	},
+	
+		{
+		name: "Requiem. Rain Portrait (2020):",
+		img: "images/rain.jpg", 
+		blurb: "'Photographed in the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. ",
+		link: "",
+		credit:"photogrpahed by Ron Erlih",
 	},
 	
 		{
