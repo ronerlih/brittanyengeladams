@@ -10,9 +10,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (2020) 3D Virtual Scene:",
 		img: "https://ronerlihstudio.com/images/202020.gif",
-		blurb: "Farewell 2020. Made in collaboration between Artist's Brittany Engel-Adams and Ron Erlih",
+		blurb: "brittany engel adams.com, ron erlih studio.com.Thanks:threejs,react-three-fiber,drei",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "3d scan and background by Ron Erlih and Brittany Engel-Adams",
+		credit: "3d data, 3d scence by Ron Erlih and Brittany Engel-Adams",
 	},
 	{
 		name: "Architecture of Memory (2021):",
