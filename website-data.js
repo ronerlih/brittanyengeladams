@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 		credit: "'photo courtesy of MRPJ.",
 	},
 		{
-		name: "Farewell (2020):",
+		name: "Farewell:",
 		img: "https://ronerlihstudio.com/images/202020.gif",
 		blurb: "brittany engel adams.com, ron erlih studio.com.Thanks:threejs,react-three-fiber,drei",
 		link: "https://ronerlih.github.io/2020/",
