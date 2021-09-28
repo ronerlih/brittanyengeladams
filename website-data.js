@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "'Architecture of Memory' is spatializing practice and research combining technology and dance, working with 3d-data, spatial-data, color-data, infrared sensors, motion capture, and machine learning technology to place rupture and loss as opportunity for growth and transformation. A Column from the publication of 'Architecture of Memory' is in the Movement Research Perofrmance Journal Issue 55 'no before no after'.",
+		blurb: "'Architecture of Memory' is radical spatializing practice and research combines archival research, dance and technology, to bridge historical and contemporary concepts of time, and to draw haunting intersections that challenge our conception of humanity and shake the humanist foundation of modernist civilization. A Column from the publication of 'Architecture of Memory' is in the Movement Research Perofrmance Journal Issue 55 'no before no after'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic, is a research project that weaves together personal and historical narrative, digital technology, robotics, and proprioceptive research, to offer a tactile-view of the immaterial, and enigmatic shadows, and ghosts that both undergird and haunt humanity. Can we render compassion and empathy to the non-luminous components of society that are systematically invisibilized.",
+		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic, is a research project that weaves together personal and historical narrative, digital technology, robotics, and proprioceptive research, to offer a tactile-view of the immaterial, and enigmatic shadows, and ghosts that both undergird and haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
