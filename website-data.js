@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' is iterative choreographic research that weaves together personal narrative, digital technology, data science, robotics, cinematography, and historical accounts together as an aperture from which to experience a tactile-view of the enigmatic, otherworldly landscape of darkness and matter that both undergirds and haunts humanity.",
+		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic and covid cofinemement, is iterative choreographic research that weaves together personal and historical narratives, digital technologies, robotics, and proprioceptive research, as an aperture from which to reposition oneself, inside the decay and the shadows, that both haunt and undergrid humanity, as opportunity for expanding compassion and empathy for the non-luminous components of our society.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
