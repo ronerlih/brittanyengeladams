@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "'Architecture of Memory' is spatial-data research that places rupture and loss as opportunity for growth and transformation. A Column of the publication of (AOM) is in the Movement Research Perofrmance Journal Issue 55 'no before no after'. MR Journal #55 was conceived in the wake of global pandemic in mind. Is it possible to refuse explanatory narratives, narrative structures, chronologies, and to embrace decomposition, decay, and the repair made possible in coming undone.",
+		blurb: "'Architecture of Memory' is spatializing practice and research combines technology and dance, using 3d-data, spatial-data, color-data, infrared sensors, motion capture and machine learning technology, that places rupture and loss as opportunity for growth and transformation. A Column from the publication of 'Architecture of Memory' is in the Movement Research Perofrmance Journal Issue 55 'no before no after'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
