@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "Publication of Architecture of Memory in Movemement Research Perofrmance Journal Issue 55 'no before no after' conceive in the wake of global pandemic in mind. Is it possible to refuse explanatory narratives, narrative structures, chronologies, and to embrace decomposition, decay, and the repair made possible in coming undone?.",
+		blurb: "Publication of Architecture of Memory in Movement Research Perofrmance Journal Issue 55 'no before no after' conceived in the wake of global pandemic in mind. in mind. Is it possible to refuse explanatory narratives, narrative structures, chronologies, and to embrace decomposition, decay, and the repair made possible in coming undone?.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
