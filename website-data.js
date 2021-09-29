@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic, is a research project that weaves together personal and historical narrative, digital technology, robotics, and proprioceptive research, to offer a tactile-view of the immaterial, and enigmatic shadows, and ghosts that both undergird and haunt humanity.",
+		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic, is a research project that weaves together personal and historical narrative, digital technology and proprioceptive research, to offer counter-glimpse at the materiality of the enigmatic, dark matter and componenets that both undergird and haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
