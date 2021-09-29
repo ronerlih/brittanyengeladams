@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "Architecture of Memory is radical spatializing practice and research combines archival research, dance, and technology as a topological tool that bridges historical and contemporary conceptions of time, and draws haunting intersections between human morality and technology, that might challenge conceptions of humanity and shake the humanist foundation of modernist civilization. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now",
+		blurb: "'Architecture of Memory' is radical spatializing practice and research. It combines archival research, dance, and technology as a topological tool, that bridges historical and contemporary conceptions of time, and draws haunting intersections between humanity, morality, and technology, that challenges conceptions of humanity and shakes the humanist foundation of modernist civilization. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
