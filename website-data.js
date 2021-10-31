@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance (Avatar) (2020):",
-		img: "images/image_normal15.png", 
+		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
 		blurb: "'Memory Dance' (RAM) Explores constructs of identity using data-science and dance techniques that maps movement to the body.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
