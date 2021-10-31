@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' is a research project at the intersection of dance and technology that weaves together personal narrative with historical accounts as an aperature to view the past/present/future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
+		credit: "'3d digital scan' by Brittany Engel-Adams.",
 	},
 	
 		{
@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 		img: "images/Blue.jpg",
 		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
 		link: "",
-		credit: "'Color rendering of 3d scan by Brittany Engel-Adams.",
+		credit: "'Color rendering of 3d digital scan by Brittany Engel-Adams.",
 	},
 	
 	{
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
-		img: "images/SchlemmerStickDance.jpg",
+		img: "images/IMG_0044.JPG",
 		blurb: "Performance Still from Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
 		link: "https://yalemaquette.com/New-Geometries/",
 		credit: "photo copyright: Paula Court.Courtesy of Performa",
