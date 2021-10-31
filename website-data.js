@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "'Architecture of Memory' is radical spatializing practice and research. It combines archival research, dance, and technology as a topological tool, that bridges historical and contemporary conceptions of time, and draws haunting intersections between humanity, morality, and technology, that challenges conceptions of humanity and shakes the humanist foundation of modernist civilization. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now",
+		blurb: "'Architecture of Memory' combines archival research, dance, and technology as a tool, to bridges historical and contemporary conceptions of time, and draw intersections between humanity, morality, and technology, that challenges conceptions of humanity and shakes the humanist foundation of modernist civilization. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) conceived in the wake of global pandemic, is a research project that weaves together personal and historical narrative, digital technology and proprioceptive research, to offer counter-glimpse at the materiality of the enigmatic, dark matter and components that both undergird and haunt humanity.",
+		blurb: "'Architecture of Memory' (AOM) is a research project that weaves together personal and historical narrative, digital technology and proprioceptive research, to offer counter-glimpse at the enigmatic matter and forgotten components of society that haunt humanity.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
