@@ -33,18 +33,18 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/image_normal15.png", 
-		blurb: "'Memory Dance' (RAM) uses data visualization techniques to explore constructs of identitiy and visibility, as notated and mapped to the body, and (pre)conditioned by history and culture.",
+		blurb: "'Memory Dance' (RAM) Explores constructs of identity using data-science and dance techniques to explore the ways movement is notated, and mapped to the body.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
 	},
 	
-		{
-		name: "Requiem. Rain Portrait (2020):",
-		img: "images/rain.jpg", 
-		blurb: "'Photographed in the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. ",
-		link: "",
-		credit:"photogrpahed by Ron Erlih",
-	},
+// 		{
+// 		name: "Requiem. Rain Portrait (2020):",
+// 		img: "images/rain.jpg", 
+// 		blurb: "'Photographed in the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. ",
+// 		link: "",
+// 		credit:"photogrpahed by Ron Erlih",
+// 	},
 	
 		{
 		name: "Hand Dance - Dance Film (2020):",
