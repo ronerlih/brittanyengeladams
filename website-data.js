@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Publication oF Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-		blurb: "'Architecture of Memory' combines archival research, dance, and technology as a tool, to bridges historical and contemporary conceptions of time, and draw intersections between humanity, morality, and technology, that challenges conceptions of humanity and shakes the humanist foundation of modernist civilization. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now",
+		blurb: "It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.--MRPJ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'photo courtesy of MRPJ.",
 	},
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) is a research project that weaves together personal and historical narrative, digital technology and proprioceptive research, to offer counter-glimpse at the enigmatic matter and forgotten components of society that haunt humanity.",
+		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' is a research project at the intersection of dance and technology that weaves persoanl narrative with historical accounts together as an aperature to view history. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
