@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' is a research project at the intersection of dance and technology that weaves persoanl narrative with historical accounts together as an aperature to view history. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
+		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' is a research project at the intersection of dance and technology that weaves personal narrative with historical accounts together as an aperature to view history. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'disseminate the mesh' by Brittany Engel-Adams.",
 	},
@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/image_normal15.png", 
-		blurb: "'Memory Dance' (RAM) Explores constructs of identity using data-science and dance as movement notated and mapped to the body.",
+		blurb: "'Memory Dance' (RAM) Explores constructs of identity using data-science and dance techniques that maps movement to the body.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
 	},
