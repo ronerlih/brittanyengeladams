@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
-		blurb: "'Memory Dance' (RAM) Uses digital-art and dance techniques to explore constructs of identity as a mathematical topology that maps to the body.",
+		blurb: "'Memory Dance' Uses digital-art and dance techniques to explore constructs of identity, from a geopolitical context, as a topological lithograph that maps to the body.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
 	},
