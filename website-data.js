@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Maquette(2021):",
 		img: "images/maquette.JPG",
-		blurb: "Maquette 21, is a robotic moving platform that moves autonomously in the space. The maquette explores the coexistence of humans with our machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art. I’m using the Maquette to explore this tenuous relationship between humans and machines.",
+		blurb: "Maquette 21, is a robotic moving platform that moves autonomously in the space. The maquette explores the coexistence and tenuous relationship between humans and machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "'",
 	},
@@ -125,13 +125,13 @@ let WEBSITE_DATA = [
 	
 		
  
-	{
-		name: "University of Missouri-Kansas City - Artist Talk (2020):",
-		img: "images/90.jpeg",
-		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
-		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-		credit: "",
-	},
+// 	{
+// 		name: "University of Missouri-Kansas City - Artist Talk (2020):",
+// 		img: "images/90.jpeg",
+// 		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
+// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -179,13 +179,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Okwui Okpokwasili and Peter Born - Sitting on a Man's Head (2020):",
-		img: "images/okwuinytimes.png",
-		blurb: "Okwui Okpokwasili and Peter Born 'Sitting on a Man's Head' for utterances from the choir at Danspace St. Marks Church in New York City.",
-		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
-		credit: "photo copyright: Sasha Arutyunova",
-	},
+// 		{
+// 		name: "Okwui Okpokwasili and Peter Born - Sitting on a Man's Head (2020):",
+// 		img: "images/okwuinytimes.png",
+// 		blurb: "Okwui Okpokwasili and Peter Born 'Sitting on a Man's Head' for utterances from the choir at Danspace St. Marks Church in New York City.",
+// 		link: "https://danspaceproject.org/2020/01/16/platform-2020//",
+// 		credit: "photo copyright: Sasha Arutyunova",
+// 	},
 	
 	
 // 		{
@@ -272,13 +272,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Donna Uchizono Company - March Under an Empty Reign (2018):",
-		img: "images/Thin_Air_by_Cervantes.jpg",
-		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
-		link: "https://www.joyce.org/performances/donna-uchizono-company",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of Cervantes",
-	},
+// 	{
+// 		name: "Donna Uchizono Company - March Under an Empty Reign (2018):",
+// 		img: "images/Thin_Air_by_Cervantes.jpg",
+// 		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
+// 		link: "https://www.joyce.org/performances/donna-uchizono-company",
+// 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Cervantes",
+// 	},
 
 	
 // 	{ name: "Donna Uchizono Company's Iron Jane:", img: "images/ironjane.jpg", blurb: "Residency at Maggie Allesee National Center for Choreography 2018", link: "http://www.mancc.org/artists/donna-uchizono/", credit: "photo: Chris Cameron" },
@@ -343,7 +343,7 @@ let WEBSITE_DATA = [
 // 	{ name: "Stefanie Batten Bland Patient(ce):", img: "images/New-Music-Thank-You-resize.jpg", blurb: "Performances at Harlem Stage Gatehouse 2015", link: "https://www.dance-enthusiast.com/features/view/SBB-15-Requiem", credit: "photo:" },
 
 
-	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_WARD.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo copyright: Courtesy of Orit Ben-Shitrit" },
+// 	{ name: "Orit Ben Shitrit A ward of feral horses - Film (2012):", img: "images/OritBenShitrit_WARD.jpg", blurb: "EMPAC commissioned dance film 'A ward of feral horses,' directed by Orit Ben Shitrit in 2014. ", link: "http://empac.rpi.edu/events/2015/spring/dance-screen/ward-feral-horses.pdf", credit: "photo copyright: Courtesy of Orit Ben-Shitrit" },
 
 // 	{ name: "The Great Gatsby 'Movie Premiere'", img: "images/gatsby.JPG", blurb: "Performances at the Great Gatsby Movie Premiere in NYC 2013", link: "https://www.businessinsider.com/the-great-gatsby-new-york-premiere-and-party-2013-5", credit: "GG photo" },
 
@@ -366,13 +366,13 @@ let WEBSITE_DATA = [
 
 
 
-	{
-		name: "Ailey II (2009-2011):",
-		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
-		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
-		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
-	},
+// 	{
+// 		name: "Ailey II (2009-2011):",
+// 		img: "images/Ailey_II_in_Thang_Dao_s_Echoes_Photo_by_Eduardo_Patino.jpg",
+// 		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
+// 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
+// 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
+// 	},
 	
 	{
 		name: "The Young and The Banging - Publication (2011):",
@@ -383,12 +383,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-// 			{
-// // 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
-// // 		img: "images/realsimplemagazineinside.jpeg",
-// // 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
-// // 		link: "",
-// // 		credit: "photo copyright: Courtesy of Robert Maxwell",
-// // 	},
+			{
+// 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
+// 		img: "images/realsimplemagazineinside.jpeg",
+// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
+// 		link: "",
+// 		credit: "photo copyright: Courtesy of Robert Maxwell",
+// 	},
 	
 ];
