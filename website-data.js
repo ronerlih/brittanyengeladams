@@ -1,14 +1,14 @@
 let WEBSITE_DATA = [
 	
 	{
-		name: "Maquette (2021):",
+		name: "Maquette (2021)",
 		img: "images/maquette.jpg",
 		blurb: "Maquette 21, is a robotic moving platform that moves autonomously in the space. The maquette explores the coexistence and tenuous relationship between humans and machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "'",
 	},
 		{
-		name: "Farewell (2020):",
+		name: "Farewell (2020)",
 		img: "images/morning.png",
 		blurb: "brittany engel adams.com, ron erlih studio.com.Thanks:threejs,react-three-fiber,drei",
 		link: "https://ronerlih.github.io/2020/",
@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Architecture of Memory, publication (2021):",
+		name: "Architecture of Memory, publication (2021)",
 		img: "images/MRPJ55_CoverImage.jpg",
 		blurb: "'Architecture of Memory' brings together personal narrative with historical accounts as a way to view unexpected connections between past, present, and future. Publication in the Movement Research Performance Journal Issue 55 'no before no after'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
 	
           {
-		name: "YouTube Improv (2018):",
+		name: "YouTube Improv (2018)",
 		img: "images/youtube22.jpeg",
 		blurb: "YouTube Improv is an immersive performance work by Ron Erlih and Brittany Engel-Adams. It uses a live automated webpage to shuffle popular YouTube videos, during a live performance. The webpage produces spontaneity, and indeterminacy, and also produces videos YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey",
 		link: "https://www.artrabbit.com/events/youtube-improv",
@@ -92,7 +92,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Lanscape - Tessellation 2.(2020):",
+		name: "Emergent Lanscape - Tessellation 2.(2020)",
 		img: "images/who-blue_picture1.png",
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 // 		{
-// 		name: "Moriah Evans -- REPOSE (2021):",
+// 		name: "Moriah Evans -- REPOSE (2021)",
 // 		img: "images/moriahevansreposepress.JPG",
 // 		blurb: "REPOSE by choreographer Moriah Evans for Beach Sessions Dance Series, at Far Rockaway Beach, on August 29, 2021 from 1:00pm-7:00pm. A 6 hour, 1.4 mile performance with 21 performers.",
 // 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
