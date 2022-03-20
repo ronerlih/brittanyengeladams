@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Farewell (2020):",
-		img: "morning.png",
+		img: "images/morning.png",
 		blurb: "brittany engel adams.com, ron erlih studio.com.Thanks:threejs,react-three-fiber,drei",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d data, 3d scence, 3d virtual scene Scene by Ron Erlih and Brittany Engel-Adams",
@@ -73,7 +73,7 @@ let WEBSITE_DATA = [
 	
 // 		{
 // 		name: "Youtube Improv (2018)",
-// 		img: "images/youtube22.png",
+// 		img: "images/youtube22.jpeg",
 // 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
 // 		credit: "photo copyright: Courtesy of the artist"
