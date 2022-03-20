@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		img: "images/MRPJ55_CoverImage.jpg",
 		blurb: "'Architecture of Memory' brings together personal narrative with historical accounts as a way to view unexpected connections between past, present, and future. Publication in the Movement Research Performance Journal Issue 55 'no before no after'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'3d digital scan' by Brittany Engel-Adams.",
+		credit: "'.",
 	},
 	
 // 		{
@@ -36,7 +36,7 @@ let WEBSITE_DATA = [
 		img: "images/244451302_10222325852748130_8895255123095863580_n.jpeg", 
 		blurb: "I make 3D digital sculptures and avatars, interwoven with iterative studies of motion using Kinect, motion capture technology. The Kinect pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.“Memory Dance” uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body.",
 		link: "https://vimeo.com/436986855",
-		credit:"3d scan by Brittany Engel-Adams",
+		credit:"",
 	},
 	
 // 		{
