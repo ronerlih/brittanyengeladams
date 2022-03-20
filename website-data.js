@@ -16,8 +16,8 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Architecture of Memory (2021):",
-		img: "images/brit_floor_fabric_wow.png",
+		name: "Architecture of Memory, publication (2021):",
+		img: "images/MRPJ55_CoverImage.jpg",
 		blurb: "'Architecture of Memory' brings together personal narrative with historical accounts as a way to view unexpected connections between past, present, and future. Publication in the Movement Research Performance Journal Issue 55 'no before no after'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'3d digital scan' by Brittany Engel-Adams.",
@@ -377,7 +377,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "The Young and The Banging (2011):",
+		name: "The Young and The Banging, publication (2011)",
 		img: "images/abookappearance.jpg",
 		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
@@ -387,7 +387,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-	       name: " American Health and Wellness:(2010)",
+	       name: " American Health and Wellness, publication (2010)",
 		img: "images/realsimplemagazineinside.jpeg",
 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility.(10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
 		link: "",
