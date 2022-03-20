@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
-		blurb: "'Memory Dance' Uses digital-art and dance techniques to explore constructs of identity, from a geopolitical context, as a topological lithograph that maps to the body.",
+		blurb: "I make 3D digital sculptures and avatars, interwoven with iterative studies of motion using Kinect, motion capture technology, that began during COVID-19 confinement with my collaborator Ron Erlih.The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.“Memory Dance” uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position. This recomposition of durations resonates with the time and loneliness of quarantine and lockdown, learning new ways to observe and make home to survive.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
 	},
