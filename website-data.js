@@ -162,13 +162,13 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Reed Hutchinson ",
 	},
 	
-		{
-		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
-		img: "images/IMG_0044.JPG",
-		blurb: "Performance Still from Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo copyright: Paula Court.Courtesy of Performa",
-	},
+// 		{
+// 		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
+// 		img: "images/IMG_0044.JPG",
+// 		blurb: "Performance Still from Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
+// 		link: "https://yalemaquette.com/New-Geometries/",
+// 		credit: "photo copyright: Paula Court.Courtesy of Performa",
+// 	},
 	
 		{
 		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
