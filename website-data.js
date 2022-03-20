@@ -238,13 +238,13 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "Pat Catterson - Project 114 (2020):",
-		img: "images/PATCat.png",
-		blurb: "Pat Catterson's 'Project 114' a dance film for a series of site-specific solos with performers across the globe.",
-		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of artist",
-	},
+// 		{
+// 		name: "Pat Catterson - Project 114 (2020):",
+// 		img: "images/PATCat.png",
+// 		blurb: "Pat Catterson's 'Project 114' a dance film for a series of site-specific solos with performers across the globe.",
+// 		link: "https://www.youtube.com/watch?v=ofOgXjjHz9U&list=PLD_RI35fj9t2VF--VSpYFWu-UfXQuJ1rj&index=9",
+// 		credit: "photo copyright: Performance Documentation, Photo Courtesy of artist",
+// 	},
 	
 	
 
