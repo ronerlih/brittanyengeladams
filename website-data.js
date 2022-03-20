@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette(2021):",
-		img: "images/maquette.JPG",
+		img: "images/maquette.jpg",
 		blurb: "Maquette 21, is a robotic moving platform that moves autonomously in the space. The maquette explores the coexistence and tenuous relationship between humans and machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "'",
