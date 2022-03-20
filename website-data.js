@@ -1,12 +1,12 @@
 let WEBSITE_DATA = [
 	
-// 	{
-// 		name: "Publication of Architecture of Memory (2021):",
-// 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
-// 		blurb: "It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.--MRPJ",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "'photo courtesy of MRPJ.",
-// 	},
+	{
+		name: "Maquette(2021):",
+		img: "images/maquette.JPG",
+		blurb: "Maquette 21, is a robotic moving platform, inspired by Choreographer Deborah Hay's work “Solo” and Philosopher Walter Benjamin's “The work of art in the age of mechanical reproduction.” Ron Erlih and I assembled the Maquette using electrical circuitry, Arduino, bluetooth and other equipment. Currently we are developing a score for the platform to move autonomously in the space. The score will explore the coexistence of humans with our machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art. I’m using the Maquette to explore this tenuous relationship between humans and machines.",
+		link: "",
+		credit: "'",
+	},
 		{
 		name: "Farewell (2020):",
 		img: "https://ronerlihstudio.com/images/202020.gif",
