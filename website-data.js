@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Maquette(2021):",
 		img: "images/maquette.JPG",
-		blurb: "Maquette 21, is a robotic moving platform, inspired by Choreographer Deborah Hay's work “Solo” and Philosopher Walter Benjamin's “The work of art in the age of mechanical reproduction.” Ron Erlih and I assembled the Maquette using electrical circuitry, Arduino, bluetooth and other equipment. Currently we are developing a score for the platform to move autonomously in the space. The score will explore the coexistence of humans with our machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art. I’m using the Maquette to explore this tenuous relationship between humans and machines.",
+		blurb: "Maquette 21, is a robotic moving platform that moves autonomously in the space. The maquette will explore the coexistence of humans with our machines. Walter Benjamin talks about using the machine in order to make art, that we lose the “aura” of the artwork, in his essay is in a sense a requiem to handmade art. I’m using the Maquette to explore this tenuous relationship between humans and machines.",
 		link: "",
 		credit: "'",
 	},
