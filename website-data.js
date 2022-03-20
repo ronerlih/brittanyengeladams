@@ -56,7 +56,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Cape Cod Modern House Trust Artist Residence (2020):",
-		img: "images/cape.jpeg",
+		img: "images/244423358_10222305130390084_8423898398504092536_n.jpeg",
 		blurb: "Artist Residency at CCMHT.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo copyright: Courtesy of Province Town Independent",
