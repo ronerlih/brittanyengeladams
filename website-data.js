@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 	
 	{
-		name: "Publication oF Architecture of Memory (2021):",
+		name: "Publication of Architecture of Memory (2021):",
 		img: "images/631C6A1A-CAAE-4458-9B91-2A5EEA266C44.JPG",
 		blurb: "It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.--MRPJ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -14,13 +14,13 @@ let WEBSITE_DATA = [
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d data, 3d scence, 3d virtual scene Scene by Ron Erlih and Brittany Engel-Adams",
 	},
-	{
-		name: "Architecture of Memory (2021):",
-		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' weaves together personal narrative with historical accounts as an aperature to view the future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'3d digital scan' by Brittany Engel-Adams.",
-	},
+// 	{
+// 		name: "Architecture of Memory (2021):",
+// 		img: "images/brit_floor_fabric_wow.png",
+// 		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' weaves together personal narrative with historical accounts as an aperature to view the future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit: "'3d digital scan' by Brittany Engel-Adams.",
+// 	},
 	
 // 		{
 // 		name: "Kinesphere (2021):",
