@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance (Avatar) (2020):",
 		img: "images/memory.jpg", 
-		blurb: "I make 3D digital sculptures and avatars, interwoven with iterative studies of motion using Kinect, motion capture technology, that began during COVID-19 confinement with my collaborator Ron Erlih.The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.“Memory Dance” uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position. This recomposition of durations resonates with the time and loneliness of quarantine and lockdown, learning new ways to observe and make home to survive.",
+		blurb: "I make 3D digital sculptures and avatars, interwoven with iterative studies of motion using Kinect, motion capture technology, that began during COVID-19 confinement with my collaborator Ron Erlih.The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.“Memory Dance” uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
 	},
@@ -72,8 +72,8 @@ let WEBSITE_DATA = [
 	},
 	
 // 		{
-// 		name: "Youtube Improv-2018,2.0:",
-// 		img: "images/cropb.png",
+// 		name: "Youtube Improv (2018)",
+// 		img: "images/youtube22.png",
 // 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
 // 		credit: "photo copyright: Courtesy of the artist"
@@ -81,13 +81,13 @@ let WEBSITE_DATA = [
 	
 
 	
-		{		
-		name: "Emergent Landscape - Tessellation 1.(2020):",
-		img: "images/who_wood_picture1.png", 
-		blurb: "online tessellation, click to move.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
-	},
+// 		{		
+// 		name: "Emergent Landscape - Tessellation 1.(2020):",
+// 		img: "images/who_wood_picture1.png", 
+// 		blurb: "online tessellation, click to move.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams"
+// 	},
 	
 	
 	{
@@ -98,13 +98,13 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
 	},
 	
-		{
-		name: "'Emergent Landscape' Tessellation 3",
-		img: "images/red-who_picture1.png",
-		blurb: "Magazine Clippings. Online Collage. 2020.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "photo copyright:Tessellation by Brittany Engel-Adams",
-	},
+// 		{
+// 		name: "'Emergent Landscape' Tessellation 3",
+// 		img: "images/red-who_picture1.png",
+// 		blurb: "Magazine Clippings. Online Collage. 2020.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "photo copyright:Tessellation by Brittany Engel-Adams",
+// 	},
 	
 // 		{
 // 		name: "Moriah Evans -- REPOSE (2021):",
