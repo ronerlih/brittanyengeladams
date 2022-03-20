@@ -22,13 +22,13 @@ let WEBSITE_DATA = [
 		credit: "'3d digital scan' by Brittany Engel-Adams.",
 	},
 	
-		{
-		name: "Kinesphere (2021):",
-		img: "images/Blue.jpg",
-		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
-		link: "",
-		credit: "'Color rendering of 3d digital scan by Brittany Engel-Adams.",
-	},
+// 		{
+// 		name: "Kinesphere (2021):",
+// 		img: "images/Blue.jpg",
+// 		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
+// 		link: "",
+// 		credit: "'Color rendering of 3d digital scan by Brittany Engel-Adams.",
+// 	},
 	
 	{
 		name: "Memory Dance (Avatar) (2020):",
