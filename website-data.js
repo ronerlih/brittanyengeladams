@@ -381,12 +381,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-// 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
-// 		img: "images/realsimplemagazineinside.jpeg",
-// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
-// 		link: "",
-// 		credit: "photo copyright: Courtesy of Robert Maxwell",
-// 	},
+// 			{
+// // 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
+// // 		img: "images/realsimplemagazineinside.jpeg",
+// // 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
+// // 		link: "",
+// // 		credit: "photo copyright: Courtesy of Robert Maxwell",
+// // 	},
 	
 ];
