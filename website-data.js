@@ -218,14 +218,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	                {
+// 	                {
 				
-		name: "Pam Tanowitz Dance - Finally Unfinished Pt 1 (2020):",
-		img: "images/pamjoyce.jpg",
-		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
-		link: "https://www.joyce.org/pam-tanowitz-dance",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of Pam Tanowitz Dance",
-	},
+// 		name: "Pam Tanowitz Dance - Finally Unfinished Pt 1 (2020):",
+// 		img: "images/pamjoyce.jpg",
+// 		blurb: "Pam Tanowitz Dance's 'Finally Unifinished' live performance event broadcast from the Joyce Theater in New York City. ",
+// 		link: "https://www.joyce.org/pam-tanowitz-dance",
+// 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Pam Tanowitz Dance",
+// 	},
 	
 
 // 		{
