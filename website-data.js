@@ -374,6 +374,7 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
 // 	},
 	
+	
 	{
 		name: "The Young and The Banging - Publication (2011):",
 		img: "images/abookappearance.jpg",
@@ -384,7 +385,8 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
+				
+	       name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
 		img: "images/realsimplemagazineinside.jpeg",
 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
 		link: "",
