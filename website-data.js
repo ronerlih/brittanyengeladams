@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Farewell (2020):",
-		img: "https://ronerlihstudio.com/images/202020.gif",
+		img: "morning.png",
 		blurb: "brittany engel adams.com, ron erlih studio.com.Thanks:threejs,react-three-fiber,drei",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d data, 3d scence, 3d virtual scene Scene by Ron Erlih and Brittany Engel-Adams",
