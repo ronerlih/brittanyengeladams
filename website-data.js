@@ -311,13 +311,13 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Andrew Spear",
 // 	},
 	
-		{
-		name: "Stefanie Batten Bland - A Place of Sun (2012):",
-		img: "images/20120510BAC-slide-MEWF-superJumbo.jpg",
-		blurb: "Stefanie Batten Blands' 'a place of Sun'- Residency and Performances at the Baryshnikov Art Center NYC",
-		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
-		credit: "photo copyright: Performance Documentation, Photographer Julieta Cervantes for The New York Times",
-	},
+// 		{
+// 		name: "Stefanie Batten Bland - A Place of Sun (2012):",
+// 		img: "images/20120510BAC-slide-MEWF-superJumbo.jpg",
+// 		blurb: "Stefanie Batten Blands' 'a place of Sun'- Residency and Performances at the Baryshnikov Art Center NYC",
+// 		link: "https://www.nytimes.com/2012/05/22/arts/dance/stefanie-batten-blands-place-of-sun-at-baryshnikov.html",
+// 		credit: "photo copyright: Performance Documentation, Photographer Julieta Cervantes for The New York Times",
+// 	},
 	
 // 	{	name: "New York Times instagram",
 // 		img: "images/10instagram-facebookJumbo.jpg",
