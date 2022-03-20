@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
           {
 		name: "YouTube Improv (2018):",
-		img: "images/youtube22.jpg",
+		img: "images/youtube22.jpeg",
 		blurb: "YouTube Improv is an immersive performance work by Ron Erlih and Brittany Engel-Adams. It uses a live automated webpage to shuffle popular YouTube videos, during a live performance. The webpage produces spontaneity, and indeterminacy, and also produces videos YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo copyright: Performance documentaion of 'YouTube Improv'",
@@ -125,13 +125,13 @@ let WEBSITE_DATA = [
 	
 		
  
-// 	{
-// 		name: "University of Missouri-Kansas City - Artist Talk (2020):",
-// 		img: "images/90.jpeg",
-// 		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
-// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-// 		credit: "",
-// 	},
+	{
+		name: "University of Missouri-Kansas City - Artist Talk (2020):",
+		img: "images/90.jpeg",
+		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
+		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+		credit: "",
+	},
 	
 	
 	
@@ -154,13 +154,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-		{
-		name: "Lars Jan - The White Album (2019-2020)",
-		img: "images/TheWhiteAlbum_CalArts_s-1400-Updated.jpg",
-		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
-		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
-		credit: "photo copyright: Reed Hutchinson ",
-	},
+// 		{
+// 		name: "Lars Jan - The White Album (2019-2020)",
+// 		img: "images/TheWhiteAlbum_CalArts_s-1400-Updated.jpg",
+// 		blurb: "Lars Jan's The White Album festivals at UCLA, in California and Sydney Festival in Australia",
+// 		link: "https://arts.ucla.edu/single/the-white-album-by-joan-didion/",
+// 		credit: "photo copyright: Reed Hutchinson ",
+// 	},
 	
 // 		{
 // 		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
@@ -170,13 +170,13 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: Paula Court.Courtesy of Performa",
 // 	},
 	
-		{
-		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
-		img: "images/coates.jpg",
-		blurb: "Performance Still from Schlemmer Loops “Gesture Dance” for Performa 19 Opening Night Gala with Miguel Anaya, Reid Bartelme, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet. Photo: Paula Court",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo copyright: Mike Vitelli",
-	},
+// 		{
+// 		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
+// 		img: "images/coates.jpg",
+// 		blurb: "Performance Still from Schlemmer Loops “Gesture Dance” for Performa 19 Opening Night Gala with Miguel Anaya, Reid Bartelme, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet. Photo: Paula Court",
+// 		link: "https://yalemaquette.com/New-Geometries/",
+// 		credit: "photo copyright: Mike Vitelli",
+// 	},
 	
 	
 // 		{
@@ -198,24 +198,24 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
+// 		{
 			
-		name: "Yvonne Rainer - Mattress Dance (2019):",
-		img: "images/performayvonnerainer.png",
-		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
-		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
-		credit: "photo copyright: Performance documentaion, photo by Adam Kremer",
-	},
+// 		name: "Yvonne Rainer - Mattress Dance (2019):",
+// 		img: "images/performayvonnerainer.png",
+// 		blurb: "Yvonne Rainer with Emily Coates'Parts of Some Sextet' the evening-length piece commissioned by Performa for the 2019 Biennial in New York City.",
+// 		link: "https://www.nytimes.com/2019/11/12/arts/dance/yvonne-rainer-parts-of-some-sextets-performa.html",
+// 		credit: "photo copyright: Performance documentaion, photo by Adam Kremer",
+// 	},
 	
 	
-			{
+// 			{
 				
-		name: "Yvonne Rainer - Diagonal Redux (2020):",
-		img: "images/REDUXPRESS.JPG",
-		blurb: "Yvonne Rainer's evening-length piece 'Diagonal Redux' 2020, for TITAN, New York City, October 17, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
-		link: "https://titan.kurimanzutto.com/artists/yvonne-rainer",
-		credit: "photo copyright: Performance documentaion Courtesy of Kurimanzutto, Photo by PJ Rountree",
-	},
+// 		name: "Yvonne Rainer - Diagonal Redux (2020):",
+// 		img: "images/REDUXPRESS.JPG",
+// 		blurb: "Yvonne Rainer's evening-length piece 'Diagonal Redux' 2020, for TITAN, New York City, October 17, 2020. Performers: Emily Coates, Brittany Engel-Adams, Patricia Hoffbauer, Emmanuèlle Phuon, Keith Sabado, Timothy Ward.",
+// 		link: "https://titan.kurimanzutto.com/artists/yvonne-rainer",
+// 		credit: "photo copyright: Performance documentaion Courtesy of Kurimanzutto, Photo by PJ Rountree",
+// 	},
 	
 	
 // 	                {
@@ -384,11 +384,11 @@ let WEBSITE_DATA = [
 	
 	
 			{
-// 		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
-// 		img: "images/realsimplemagazineinside.jpeg",
-// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
-// 		link: "",
-// 		credit: "photo copyright: Courtesy of Robert Maxwell",
-// 	},
+		name: " American Health and Wellness: Real Simple Magazine August 2010, Edition",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility. Pg. 152, (10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
+		link: "",
+		credit: "photo copyright: Courtesy of Robert Maxwell",
+	},
 	
 ];
