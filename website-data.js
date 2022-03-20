@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021):",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' is a research project at the intersection of dance and technology that weaves together personal narrative with historical accounts as an aperature to view the past/present/future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
+		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' weaves together personal narrative with historical accounts as an aperature to view the future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'. Available Now ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'3d digital scan' by Brittany Engel-Adams.",
 	},
@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv (2018):",
 		img: "images/youtube-imporv.jpg",
-		blurb: "YouTube Improv is a data-driven performance-based piece that explores 'virality' as an algorithmic rupture and byproduct of society, capital and popular culture for Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey.",
+		blurb: "YouTube Improv is an immersive performance work by Ron Erlih and Brittany Engel-Adams. It uses a live automated webpage to shuffle popular YouTube videos, during a live performance. The webpage produces spontaneity, and indeterminacy, and also produces videos YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo copyright: Performance documentaion of 'YouTube Improv'",
 	},
