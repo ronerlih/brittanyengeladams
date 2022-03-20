@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance (Avatar) (2020):",
-		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
+		img: "images/memory.jpg", 
 		blurb: "I make 3D digital sculptures and avatars, interwoven with iterative studies of motion using Kinect, motion capture technology, that began during COVID-19 confinement with my collaborator Ron Erlih.The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.“Memory Dance” uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position. This recomposition of durations resonates with the time and loneliness of quarantine and lockdown, learning new ways to observe and make home to survive.",
 		link: "https://vimeo.com/436986855",
 		credit:"3d scan by Brittany Engel-Adams",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
           {
 		name: "YouTube Improv (2018):",
-		img: "images/youtube-imporv.jpg",
+		img: "images/youtube22.jpg",
 		blurb: "YouTube Improv is an immersive performance work by Ron Erlih and Brittany Engel-Adams. It uses a live automated webpage to shuffle popular YouTube videos, during a live performance. The webpage produces spontaneity, and indeterminacy, and also produces videos YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo copyright: Performance documentaion of 'YouTube Improv'",
