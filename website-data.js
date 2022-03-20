@@ -14,13 +14,14 @@ let WEBSITE_DATA = [
 		link: "https://ronerlih.github.io/2020/",
 		credit: "3d data, 3d scence, 3d virtual scene Scene by Ron Erlih and Brittany Engel-Adams",
 	},
-// 	{
-// 		name: "Architecture of Memory (2021):",
-// 		img: "images/brit_floor_fabric_wow.png",
-// 		blurb: "'Architecture of Memory' (AOM) Architecture of Memory' weaves together personal narrative with historical accounts as an aperature to view the future. Pg 72-77 'Architecture of Memory' in the Movement Research Performance Journal Issue 55 'no before no after'.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "'3d digital scan' by Brittany Engel-Adams.",
-// 	},
+	
+	{
+		name: "Architecture of Memory (2021):",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "'Architecture of Memory' brings together personal narrative with historical accounts as a way to view unexpected connections between past, present, and future. Publication in the Movement Research Performance Journal Issue 55 'no before no after'.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "'3d digital scan' by Brittany Engel-Adams.",
+	},
 	
 // 		{
 // 		name: "Kinesphere (2021):",
