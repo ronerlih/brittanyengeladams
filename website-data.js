@@ -274,10 +274,10 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Donna Uchizono Company - March Under an Empty Reign (2018):",
-		img: "images/march.png",
+		img: "images/Thin_Air_by_Cervantes.jpg",
 		blurb: "Donna Uchizono Company's March Under an Empty Reign - residency at MANCC, performance at Quadrille Dance Festival. ",
 		link: "https://www.joyce.org/performances/donna-uchizono-company",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of Julieta Cervantes",
+		credit: "photo copyright: Performance Documentation, Photo Courtesy of Cervantes",
 	},
 
 	
@@ -303,13 +303,13 @@ let WEBSITE_DATA = [
 
 // 	{ name: "Open Space San Francisco MOMA (Press)", img: "images/IMG_5467.JPG", blurb: "Review of PM #3&4", link: "https://openspace.sfmoma.org/2018/04/lineage-mimicry-and-ambivalence/", credit: "photo copyright: Courtesy of Christopher Duggan" },
 
-	{
-		name: "Netta Yerushalmy - Paramodernities (2018):",
-		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
-		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
-		link: "https://newyorklivearts.org/event/paramodernities/",
-		credit: "photo copyright: Performance Documentation, Photo Courtesy of Andrew Spear",
-	},
+// 	{
+// 		name: "Netta Yerushalmy - Paramodernities (2018):",
+// 		img: "images/merlin_142057125_728b3c73-ff0a-498e-a3c0-b5dd2ef50857-jumbo.jpg",
+// 		blurb: "Netta Yerushalmy's 'Paramodernities' - residencies, performances, and tours",
+// 		link: "https://newyorklivearts.org/event/paramodernities/",
+// 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Andrew Spear",
+// 	},
 	
 		{
 		name: "Stefanie Batten Bland - A Place of Sun (2012):",
