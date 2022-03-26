@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 	
 	{
-		name: "Robot(2021)",
+		name: "Robot (2021)",
 		img: "images/maquette.jpg",
 		blurb: " a robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels, and an acrylic cover.",
 		link: "",
@@ -58,7 +58,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Cape Cod Modern House Trust Artist Residence (2020):",
 		img: "images/244423358_10222305130390084_8423898398504092536_n.jpeg",
-		blurb: "Artist Residency at CCMHT.", 
+		blurb: "'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water' from the provincetown independent.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "photo copyright: Courtesy of Province Town Independent",
 	},
