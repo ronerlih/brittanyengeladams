@@ -126,23 +126,23 @@ let WEBSITE_DATA = [
 	
 		
  
-	{
-		name: "University of Missouri-Kansas City - Artist Talk (2020):",
-		img: "images/90.jpeg",
-		blurb: "Associate Professor of Dance, Michael Blake's Dance History class talk about dance in the 21st Century on Zoom.",
-		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-		credit: "",
-	},
+// 	{
+// 		name: "University of Missouri-Kansas City - Artist Talk (2020):",
+// 		img: "images/90.jpeg",
+// 		blurb: ".",
+// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+// 		credit: "",
+// 	},
 	
 	
 	
 	
-	{
-		name: "Bates College Summer Dance Festival (2019)",
-		img: "images/Bates2inside.jpeg",
-		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-		credit: "photo copyright: Courtesy of Bates Dance Festival",
-	},
+// 	{
+// 		name: "Bates College Summer Dance Festival (2019)",
+// 		img: "images/Bates2inside.jpeg",
+// 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
+// 		credit: "photo copyright: Courtesy of Bates Dance Festival",
+// 	},
 	
 	
 
@@ -166,7 +166,7 @@ let WEBSITE_DATA = [
 // 		{
 // 		name: "Emily Coates - The Yale Maquette New Geometries: Dance and architecture in a changed world)",
 // 		img: "images/IMG_0044.JPG",
-// 		blurb: "Performance Still from Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
+// 		blurb: "Schlemmer Loops “Stick Dance” for Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus: Choreography by Emily Coates, costumes by Reid+Harriet. Conversation about The Schlemmer Loops in The Yale Maquette New Geometries: Dance and architecture in a changed world with Emily Coates and Max Wirsing. Click link below.",
 // 		link: "https://yalemaquette.com/New-Geometries/",
 // 		credit: "photo copyright: Paula Court.Courtesy of Performa",
 // 	},
