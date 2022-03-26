@@ -376,22 +376,22 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	{
-		name: "The Young and The Banging, publication (2011)",
-		img: "images/abookappearance.jpg",
-		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photo copyright: Courtesy of Louise Erhard",
-	},
+// 	{
+// 		name: "The Young and The Banging, publication (2011)",
+// 		img: "images/abookappearance.jpg",
+// 		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
+// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+// 		credit: "photo copyright: Courtesy of Louise Erhard",
+// 	},
 	
 	
-			{
+// 			{
 				
-	       name: " American Health and Wellness, publication (2010)",
-		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility.(10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
-		link: "",
-		credit: "photo copyright: Courtesy of Robert Maxwell",
-	},
+// 	       name: " American Health and Wellness, publication (2010)",
+// 		img: "images/realsimplemagazineinside.jpeg",
+// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility.(10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
+// 		link: "",
+// 		credit: "photo copyright: Courtesy of Robert Maxwell",
+// 	},
 	
 ];
