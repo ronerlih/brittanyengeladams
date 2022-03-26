@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Robot (2021)",
 		img: "images/IMG_6419.jpg",
-		blurb: " a robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels, and an acrylic cover.",
+		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels, and an acrylic cover.",
 		link: "",
 		credit: "'",
 	},
