@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory, publication (2021)",
 		img: "images/MRPJ55_CoverImage.jpg",
-		blurb: "'Architecture of Memory' a project that places loss and rupture as opportunity for growth and transformation. Publication in the Movement Research Performance Journal Issue 55 'no before no after'.",
+		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal No.55: 'It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal'..",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'.",
 	},
