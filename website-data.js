@@ -12,7 +12,7 @@ let WEBSITE_DATA = [
 		img: "images/morning.png",
 		blurb: "'In memory dance the machine reads me as I expand focus in a swell of sensation. A luminous cloud forms like a halo or layer of skin, almost pictographically motions itself and can be moved through: like atoms and fragments. This work is filled with counter-moments. In the stillness of some of these, pressed up against walls and furniture in domestic spaces. This potent recomposition of durations resonates with the time and loneliness of quarantine and lockdown, learning new ways to observe and make home to survive, in the tiny worldings of a living room.'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "3d data, 3d scence, 3d virtual provided by the artist",
+		credit: "",
 	},
 	
 	{
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 		img: "images/handdancethumb.png",
 		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Works and Process made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. The song inspired an intimate hand dance set in Ron and Brittany’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets suggesting a larger world beyond their home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo provided by the artist",
+		credit: "",
 	},
 	
 	{
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/capecape.png",
 		blurb: "'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water - Provincetown Independent.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "photo copyright: Courtesy of Province Town Independent",
+		credit: "",
 	},
 	
 	
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 		img: "images/youtube22.jpeg",
 		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "Performance photo of 'YouTube Improv'",
+		credit: "'",
 	},
 	
 // 		{
