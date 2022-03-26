@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Robot (2021)",
-		img: "images/IMG_6419.HEIC",
+		img: "images/machine.HEIC",
 		blurb: " a robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels, and an acrylic cover.",
 		link: "",
 		credit: "'",
@@ -67,7 +67,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv (2018)",
 		img: "images/youtube22.jpeg",
-		blurb: "YouTube Improv is an immersive performance work by Ron Erlih and Brittany Engel-Adams. It uses a live automated webpage to shuffle popular YouTube videos, during a live performance. The webpage produces spontaneity, and indeterminacy, and also produces videos YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do Rutgers University, at the Victoria J. Mastrobuono Theater, New Brunswick New Jersey",
+		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo copyright: Performance documentaion of 'YouTube Improv'",
 	},
