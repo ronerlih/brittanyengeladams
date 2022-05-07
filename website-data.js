@@ -67,7 +67,7 @@ let WEBSITE_DATA = [
           {
 		name: "YouTube Improv (2018)",
 		img: "images/youtube22.jpeg",
-		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity. The performers on stage have to adjust their trajectory of movements according to the algorithmic orchestrated playlist, as we all do.",
+		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "'",
 	},
