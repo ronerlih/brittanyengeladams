@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (2020)",
 		img: "images/morning.png",
-		blurb: "'3D Scene'.",
+		blurb: "'Interactive 3D Scene'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
