@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance - Dance Film (2020):",
-		img: "images/handdancethumb.png",
+		img: "images/hands.JPG",
 		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Works and Process made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. The song inspired an intimate hand dance set in Ron and Brittany’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets suggesting a larger world beyond their home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
