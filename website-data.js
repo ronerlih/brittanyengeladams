@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (2020)",
 		img: "images/morning.png",
-		blurb: "'In memory dance the machine reads me as I expand focus in a swell of sensation. A luminous cloud forms like a halo or layer of skin, almost pictographically motions itself and can be moved through: like atoms and fragments. This work is filled with counter-moments. In the stillness of some of these, pressed up against walls and furniture in domestic spaces. This potent recomposition of durations resonates with the time and loneliness of quarantine and lockdown, learning new ways to observe and make home to survive, in the tiny worldings of a living room.'.",
+		blurb: "'3D Scene'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
