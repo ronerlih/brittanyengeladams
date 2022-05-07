@@ -16,9 +16,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Publication of Architecture of Memory in MRPJ No 55 (2021)",
+		name: "Architecture of Memory (2021)",
 		img: "images/data.jpeg",
-		blurb: "'It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal'. - Movement Research Performance Journal",
+		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'.",
 	},
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance - Dance Film (2020):",
 		img: "images/hands.JPG",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Works and Process made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. The song inspired an intimate hand dance set in Ron and Brittany’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets suggesting a larger world beyond their home.",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Works and Process made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
