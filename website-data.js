@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	{
-		name: "Memory Dance (Avatar) (2020):",
+		name: "Skeletal Avatar (2020):",
 		img: "images/test2.png", 
 		blurb: "'Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
