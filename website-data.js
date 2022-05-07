@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Robot (2021/2022)",
 		img: "images/IMG_9186.jpg",
-		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels, and an acrylic cover.",
+		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels.",
 		link: "",
 		credit: "'",
 	},
@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Architecture of Memory (2021)",
 		img: "images/movementresearch.jpeg",
-		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.'",
+		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'.",
 	},
