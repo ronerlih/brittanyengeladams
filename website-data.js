@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Robot (2021/2022)",
 		img: "images/IMG_9186.jpg",
-		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Made in collaboration between Ron Erlih and Brittany Engel-Adams",
+		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Made in collaboration between Ron Erlih and Brittany Engel-Adams, Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
 		credit: "'",
 	},
