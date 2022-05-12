@@ -13,6 +13,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "'",
 	},
+	
+		{
+		name: "Architecture of Memory (2021)",
+		img: "images/movementresearch.jpeg",
+		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "'.",
+	},
 		{
 		name: "Farewell (2020)",
 		img: "images/morning.png",
@@ -21,13 +29,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Architecture of Memory (2021)",
-		img: "images/movementresearch.jpeg",
-		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'.",
-	},
+
 	
 // 		{
 // 		name: "Kinesphere (2021):",
