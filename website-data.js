@@ -1,13 +1,13 @@
 let WEBSITE_DATA = [
 		{
-		name: "BodyMouth (2022)",
+		name: "BodyMouth",
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
 		credit: "'",
 	},
 	{
-		name: "Robot (2021/2022)",
+		name: "Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams.",
 		link: "",
@@ -15,14 +15,14 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Architecture of Memory (2021)",
+		name: "Architecture of Memory",
 		img: "images/movementresearch.jpeg",
 		blurb: "Publication of Architecture of Memory in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "'.",
 	},
 		{
-		name: "Farewell (2020)",
+		name: "Farewell/2020",
 		img: "images/morning.png",
 		blurb: "'3D Scene' by Brittany Engel-Adams and Ron Erlih.",
 		link: "https://ronerlih.github.io/2020/",
@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 
 	
 // 		{
-// 		name: "Kinesphere (2021):",
+// 		name: "Kinesphere:",
 // 		img: "images/Blue.jpg",
 // 		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
 // 		link: "",
@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	{
-		name: "Skeletal Avatar (2020):",
+		name: "Skeletal Avatar:",
 		img: "images/test2.png", 
 		blurb: "'Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
@@ -56,7 +56,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Hand Dance - Dance Film (2020):",
+		name: "Hand Dance - Dance Film/2020:",
 		img: "images/hands.JPG",
 		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Works and Process made in collaboration between David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -73,7 +73,7 @@ let WEBSITE_DATA = [
 	
 	
           {
-		name: "YouTube Improv (2018)",
+		name: "YouTube Improv",
 		img: "images/youtube22.jpeg",
 		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
