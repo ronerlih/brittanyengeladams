@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth (2022)",
 		img: "images/bodymouth.png",
-		blurb: "BodyMouth is a movement and sound work made in collaboration between Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
+		blurb: "BodyMouth is a movement and sound work made in collaboration between Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech.",
 		link: "",
 		credit: "'",
 	},
@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (2020)",
 		img: "images/morning.png",
-		blurb: "'Interactive 3D Scene'.",
+		blurb: "'3D Scene' by Brittany Engel-Adams and Ron Erlih.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
