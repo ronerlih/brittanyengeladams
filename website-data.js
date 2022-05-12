@@ -1,5 +1,11 @@
 let WEBSITE_DATA = [
-	
+		{
+		name: "BodyMouth (2022)",
+		img: "images/",
+		blurb: "BodyMouth is a movement and sound work made in collaboration between Kat Mustatea and Sidney San Martin that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
+		link: "",
+		credit: "'",
+	},
 	{
 		name: "Robot (2021/2022)",
 		img: "images/IMG_9186.jpg",
