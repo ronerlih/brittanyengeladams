@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 		credit: "'",
 	},
 	{
-		name: "Human Robot",
+		name: "Human/Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams.",
 		link: "",
