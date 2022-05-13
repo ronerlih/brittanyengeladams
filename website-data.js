@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
-		credit: "photo copyright: Courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
+		credit: "photo copyright: courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
 	},
 	{
 		name: "Human/Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "photo copyright: Courtesy of artist / 2021 CCMHT artsit in residence'",
+		credit: "photo copyright: courtesy of artist / 2021 CCMHT artsit in residence",
 	},
 	
 		{
@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/capescan.jpg",
 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "photo copyright: Courtsey of artist",
+		credit: "photo copyright: courtsey of artist",
 	},
 		{
 		name: "Farewell (3D Scene)",
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo copyright: Courtesy of artist",
+		credit: "photo copyright: courtesy of artist",
 	},
 	
 // 	{
@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 		img: "images/youtubeweb.jpeg",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist, as we all do. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: Performance photo at Victoria J. Mastrobuono Theater",
+		credit: "photo copyright: performance photograph courtesy of artist",
 	},
 	
 // 		{
@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 // 		img: "images/youtube22.jpeg",
 // 		blurb: "'YouTube Improv' projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
-// 		credit: "photo copyright: Courtesy of the artist"
+// 		credit: "photo copyright: courtesy of the artist"
 // 	},
 	
 
@@ -95,7 +95,7 @@ let WEBSITE_DATA = [
 // 		img: "images/who_wood_picture1.png", 
 // 		blurb: "online tessellation, click to move.",
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "photo copyright: Courtesy of artist"
+// 		credit: "photo copyright: courtesy of artist"
 // 	},
 	
 	
@@ -104,7 +104,7 @@ let WEBSITE_DATA = [
 // 		img: "images/who-blue_picture1.png",
 // 		blurb: " digital collage/tessellation.",
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "photo copyright: Courtesy of artist",
+// 		credit: "photo copyright: courtesy of artist",
 // 	},
 	
 		{
@@ -112,7 +112,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "digital collage/tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "photo copyright: Courtesy of artist",
+		credit: "photo copyright: courtesy of artist",
 	},
 	
 // 		{
