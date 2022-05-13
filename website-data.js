@@ -11,15 +11,15 @@ let WEBSITE_DATA = [
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "photo copyright: 2021 CCMHT artsit in residence courtesy of artist'",
+		credit: "photo copyright: Courtesy of artist / 2021 CCMHT artsit in residence'",
 	},
 	
 		{
 		name: "Architecture of Memory",
-		img: "images/movementresearch.jpeg",
+		img: "images/capescan.jpg",
 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "photo copyright: Courtsey of Movement Research",
+		credit: "photo copyright: Courtsey of artist",
 	},
 		{
 		name: "Farewell (3D Scene)",
