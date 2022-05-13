@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
-		credit: "Pictured: Mizuho Kappa courtesy of Tatiana Stolpovskaya'",
+		credit: "photo copyright: Pictured Mizuho Kappa courtesy of Tatiana Stolpovskaya'",
 	},
 	{
 		name: "Human/Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "Photo from 2021 CCMHT Artsit Residency'",
+		credit: "Photo copyright: Photograph of 2021 CCMHT Artsit Residency.'",
 	},
 	
 		{
@@ -24,9 +24,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell/2020",
 		img: "images/morning.png",
-		blurb: "'3D Scene' by Brittany Engel-Adams and Ron Erlih.",
+		blurb: "'3D Scene'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "",
+		credit: "photo copyright: Still from 3D scene courtesy of artist. ",
 	},
 	
 
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/test2.png", 
 		blurb: "'Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
-		credit:"",
+		credit:"photo copyright: Courtesy of OpenNI Cookbook Kinect Model. ",
 	},
 	
 // 		{
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses Machine Learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Photo copyright: Courtesy of Ron Erlih",
+		credit: "Photo copyright: Photograph courtesy of artist",
 	},
 	
 // 	{
@@ -95,7 +95,7 @@ let WEBSITE_DATA = [
 		img: "images/who_wood_picture1.png", 
 		blurb: "online tessellation, click to move.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "Tessellation by Brittany Engel-Adams"
+		credit: "photo copyright: Courtesy of artist"
 	},
 	
 	
@@ -112,7 +112,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "Magazine Clippings. Online Collage. 2020.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Tessellation by Brittany Engel-Adams",
+		credit: "photo copyright: Courtesy of artist",
 	},
 	
 // 		{
