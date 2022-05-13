@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
-		credit: "photo copyright: Pictured Mizuho Kappa courtesy of Tatiana Stolpovskaya'",
+		credit: "photo copyright: Courtesy Tatiana Stolpovskaya (pictured Mizuho Kappa).",
 	},
 	{
 		name: "Human/Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "Photo copyright: Photograph of 2021 CCMHT Artsit Residency.'",
+		credit: "Photo copyright: 2021 CCMHT Artsit Residency courtesy of artist.'",
 	},
 	
 		{
@@ -19,14 +19,14 @@ let WEBSITE_DATA = [
 		img: "images/movementresearch.jpeg",
 		blurb: "'Architecture of Memory' is a work that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "'.",
+		credit: "photo copyright: Courtsey of Movement Research.",
 	},
 		{
 		name: "Farewell/2020",
 		img: "images/morning.png",
 		blurb: "'3D Scene'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: Still from 3D scene courtesy of artist. ",
+		credit: "photo copyright: 3D scene courtesy of artist.",
 	},
 	
 
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/test2.png", 
 		blurb: "'Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
-		credit:"photo copyright: Courtesy of OpenNI Cookbook Kinect Model. ",
+		credit:"photo copyright: OpenNI Cookbook Kinect Model. ",
 	},
 	
 // 		{
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses Machine Learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Photo copyright: Photograph courtesy of artist",
+		credit: "Photo copyright: Courtesy of artist",
 	},
 	
 // 	{
@@ -99,13 +99,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-// 	{
-// 		name: "Emergent Lanscape - Tessellation 2.(2020)",
-// 		img: "images/who-blue_picture1.png",
-// 		blurb: "online tessellation, click to move.",
-// 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
-// 	},
+	{
+		name: "Emergent Lanscape - Tessellation 2.(2020)",
+		img: "images/who-blue_picture1.png",
+		blurb: "online tessellation, click to move.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "photo copyright: Photo Courtesy of artist, Tessellation by Brittany Engel-Adams",
+	},
 	
 		{
 		name: "'Emergent Landscape' Tessellation 3",
