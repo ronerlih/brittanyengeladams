@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 	
           {
 		name: "YouTube Improv",
-		img: "images/youtube22.jpeg",
+		img: "images/youtubeweb.jpeg",
 		blurb: "YouTube Improv is an immersive performance where YouTube video’s are randomly queued that are trending in the venue's proximity. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
 		credit: "photo copyright: Performance photo at Victoria J. Mastrobuono Theater",
