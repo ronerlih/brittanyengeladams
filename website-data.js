@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
-		credit: "'",
+		credit: "Pictured: Mizuho Kappa courtesy of Tatiana Stolpovskaya'",
 	},
 	{
 		name: "Human/Robot",
