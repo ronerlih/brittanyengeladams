@@ -99,13 +99,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	{
-		name: "Emergent Lanscape 2 ",
-		img: "images/who-blue_picture1.png",
-		blurb: " digital collage/tessellation.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "photo copyright: Courtesy of artist",
-	},
+// 	{
+// 		name: "Emergent Lanscape 2 ",
+// 		img: "images/who-blue_picture1.png",
+// 		blurb: " digital collage/tessellation.",
+// 		link: "https://www.brittanyengeladams.com/who-blue.html",
+// 		credit: "photo copyright: Courtesy of artist",
+// 	},
 	
 		{
 		name: "'Emergent Landscape' 3",
