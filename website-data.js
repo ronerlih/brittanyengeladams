@@ -4,14 +4,14 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
 		link: "",
-		credit: "photo copyright: Courtesy Tatiana Stolpovskaya (pictured Mizuho Kappa)",
+		credit: "photo copyright: Courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
 	},
 	{
 		name: "Human/Robot",
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "Photo copyright: 2021 CCMHT Artsit Residency courtesy of artist'",
+		credit: "Photo copyright: 2021 CCMHT artsit in residence courtesy of artist'",
 	},
 	
 		{
@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 		img: "images/morning.png",
 		blurb: "'three.js, java'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: 3D scene courtesy of artist",
+		credit: "photo copyright: 3D scene grab courtesy of artist",
 	},
 	
 
@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar:",
 		img: "images/test2.png", 
-		blurb: "(Kinect, OpenNI dataset) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
+		blurb: "(kinect, OpenNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: OpenNI Cookbook Kinect Model",
 	},
@@ -58,7 +58,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance - Dance Film/2020:",
 		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' uses Machine Learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
+		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "Photo copyright: Courtesy of artist",
 	},
