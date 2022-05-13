@@ -22,9 +22,9 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Courtsey of Movement Research",
 	},
 		{
-		name: "Farewell",
+		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
-		blurb: "'3D Scene'.",
+		blurb: "'three.js'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "photo copyright: 3D scene courtesy of artist",
 	},
