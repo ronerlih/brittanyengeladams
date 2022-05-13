@@ -100,17 +100,17 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Lanscape - Tessellation 2",
+		name: "Emergent Lanscape 2 ",
 		img: "images/who-blue_picture1.png",
-		blurb: "online tessellation, click to move.",
+		blurb: " digital collage/tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "photo copyright: Courtesy of artist",
 	},
 	
 		{
-		name: "'Emergent Landscape' Tessellation 3",
+		name: "'Emergent Landscape' 3",
 		img: "images/red-who_picture1.png",
-		blurb: "Magazine Clippings. Online Collage. 2020.",
+		blurb: "digital collage/tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "photo copyright: Courtesy of artist",
 	},
