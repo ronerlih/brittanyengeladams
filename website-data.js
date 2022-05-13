@@ -42,9 +42,9 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar:",
 		img: "images/test2.png", 
-		blurb: "(kinect, OpenNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
+		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
-		credit:"photo copyright: OpenNI Cookbook Kinect Model",
+		credit:"photo copyright: openNI cookbook kinect model",
 	},
 	
 // 		{
