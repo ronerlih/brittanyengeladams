@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "'",
+		credit: "Photo from 2021 CCMHT Artsit Residency'",
 	},
 	
 		{
