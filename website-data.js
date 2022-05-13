@@ -17,14 +17,14 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory",
 		img: "images/movementresearch.jpeg",
-		blurb: "'Architecture of Memory' is a work that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: Courtsey of Movement Research",
 	},
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
-		blurb: "'three.js'.",
+		blurb: "'three.js, java'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "photo copyright: 3D scene courtesy of artist",
 	},
@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar:",
 		img: "images/test2.png", 
-		blurb: "'Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
+		blurb: "(Kinect, OpenNI dataset) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: OpenNI Cookbook Kinect Model",
 	},
