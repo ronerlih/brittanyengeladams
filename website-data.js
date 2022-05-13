@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 		img: "images/IMG_9186.jpg",
 		blurb: "A robotic automated moving platform: a mini-computer (arduino), specialized omni directional wheels. Design and engineered by Ron Erlih and Brittany Engel-Adams for a performative work.",
 		link: "",
-		credit: "Photo copyright: 2021 CCMHT artsit in residence courtesy of artist'",
+		credit: "photo copyright: 2021 CCMHT artsit in residence courtesy of artist'",
 	},
 	
 		{
@@ -60,7 +60,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Photo copyright: Courtesy of artist",
+		credit: "photo copyright: Courtesy of artist",
 	},
 	
 // 	{
