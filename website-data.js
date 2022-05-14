@@ -56,9 +56,9 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Hand Dance - Dance Film/2020:",
+		name: "Hand Dance - Dance Film",
 		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Works and Process.",
+		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "photo copyright: courtesy of artist",
 	},
