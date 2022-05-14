@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model, that brings a robot and performer face to face on a continuum of kinetic exchanges that pushes them beyond their percieved thresholds.",
+		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model, that brings a robot and performer face to face on a continuum of kinetic exchanges that pushes them beyond their perceived thresholds.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
