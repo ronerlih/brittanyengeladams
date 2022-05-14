@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "Human Robot is a movement score, that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their connection is stilted and deprived by the mechanical reproduction of it.",
+		blurb: "Human Robot is a movement score, that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their kinetic range is stilted and connection deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
