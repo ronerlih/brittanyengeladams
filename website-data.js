@@ -7,9 +7,9 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
 	},
 	{
-		name: "Human/Robot",
+		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "arduino, bluetooth, acrylic.",
+		blurb: "Human Robot is a movement score that directs the movements of a human and robot, their ecology of movements explores the chasm between the quality of human form and gesture, and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
