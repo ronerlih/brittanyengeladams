@@ -8,6 +8,14 @@ let WEBSITE_DATA = [
 	},
 	
 		{
+		name: "Human Robot",
+		img: "images/ahumanrobotstill2.png",
+		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model, that brings a robot and performer face to face on a continuum of kinetic exchanges that pushes them beyond their perceived thresholds.",
+		link: "",
+		credit: "photo copyright: courtesy of artist",
+	},
+	
+		{
 		name: "Architecture of Memory",
 		img: "images/capescan.jpg",
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
@@ -15,13 +23,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: courtsey of artist",
 	},
 	
-	{
-		name: "Human Robot",
-		img: "images/ahumanrobotstill2.png",
-		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model, that brings a robot and performer face to face on a continuum of kinetic exchanges that pushes them beyond their perceived thresholds.",
-		link: "",
-		credit: "photo copyright: courtesy of artist",
-	},
+
 	
 	
 		{
@@ -45,7 +47,7 @@ let WEBSITE_DATA = [
 	{
 		name: "movement-data research (avatar):",
 		img: "images/test2.png", 
-		blurb: "kinect sensor; Essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
+		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: openNI cookbook kinect model",
 	},
