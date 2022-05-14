@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory",
 		img: "images/capescan.jpg",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D avatars. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice--framing an intimate moment, an inward reflective gesture. Publication of 'Architecture of Memory' in The Movement Research Performance Journal 55.",
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice--framing an intimate moment, an inward reflective gesture. Publication of 'Architecture of Memory' in The Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: courtsey of artist",
 	},
