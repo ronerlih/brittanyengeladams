@@ -16,12 +16,14 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Architecture of Memory",
-		img: "images/capescan.jpg",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "photo copyright: courtsey of artist",
+		name: "movement-data research (avatar):",
+		img: "images/test2.png", 
+		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
+		link: "https://vimeo.com/436986855",
+		credit:"photo copyright: openNI cookbook kinect model",
 	},
+	
+	
 	
 
 	
@@ -34,6 +36,14 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: 3D scene grab courtesy of artist",
 	},
 	
+		{
+		name: "Architecture of Memory",
+		img: "images/capescan.jpg",
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "photo copyright: courtsey of artist",
+	},
+	
 
 	
 // 		{
@@ -44,13 +54,7 @@ let WEBSITE_DATA = [
 // 		credit: "'Color rendering of 3d digital scan by Brittany Engel-Adams.",
 // 	},
 	
-	{
-		name: "movement-data research (avatar):",
-		img: "images/test2.png", 
-		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
-		link: "https://vimeo.com/436986855",
-		credit:"photo copyright: openNI cookbook kinect model",
-	},
+
 	
 // 	{
 // 		name: "Skeletal Avatar:",
