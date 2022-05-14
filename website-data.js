@@ -6,13 +6,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "photo copyright: courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
 	},
-	{
-		name: "Human Robot",
-		img: "images/humanrobotstill.png",
-		blurb: "Human Robot is a movement score, that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their kinetic range is stilted and connection deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: "photo copyright: courtesy of artist",
-	},
 	
 		{
 		name: "Architecture of Memory",
@@ -21,6 +14,16 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: courtsey of artist",
 	},
+	
+	{
+		name: "Human Robot",
+		img: "images/humanrobotstill.png",
+		blurb: "Human Robot uses  a movement score that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their kinetic range is stilted and connection deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: "photo copyright: courtesy of artist",
+	},
+	
+	
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
