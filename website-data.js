@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "Human Robot is a movement score that directs the actions of a human and robot in space, their ecology of movements reaches this chasm when the uniqueness and quality of their movement is deprived through the mechanical reproduction of it.",
+		blurb: "Human Robot is a movement score that directs the actions of a human and robot in space, their ecology of movements reaches a chasm when the uniqueness and quality of their movement and exchange is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory",
 		img: "images/capescan.jpg",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice--framing an intimate moment, an inward reflective gesture. Publication of 'Architecture of Memory' in The Movement Research Performance Journal 55.",
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: courtsey of artist",
 	},
