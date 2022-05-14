@@ -40,12 +40,20 @@ let WEBSITE_DATA = [
 // 	},
 	
 	{
-		name: "Skeletal Avatar:",
+		name: "movement-data research (avatar):",
 		img: "images/test2.png", 
-		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
+		blurb: "kinect sensor; Essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: openNI cookbook kinect model",
 	},
+	
+// 	{
+// 		name: "Skeletal Avatar:",
+// 		img: "images/test2.png", 
+// 		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
+// 		link: "https://vimeo.com/436986855",
+// 		credit:"photo copyright: openNI cookbook kinect model",
+// 	},
 	
 // 		{
 // 		name: "Requiem. Rain Portrait (2020):",
