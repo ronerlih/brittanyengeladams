@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "Human Robot is a movement score, that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when the kinetic range is stilted and connection is deprived through the mechanical reproduction of it.",
+		blurb: "Human Robot is a movement score, that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their kinetic range is stilted and connection deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
@@ -98,13 +98,13 @@ let WEBSITE_DATA = [
 	
 
 	
-// 		{		
-// 		name: "Emergent Landscape - Tessellation 1",
-// 		img: "images/who_wood_picture1.png", 
-// 		blurb: "online tessellation, click to move.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "photo copyright: courtesy of artist"
-// 	},
+		{		
+		name: "Emergent Landscape - Tessellation 1",
+		img: "images/who_wood_picture1.png", 
+		blurb: "online tessellation, click to move.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "photo copyright: courtesy of artist"
+	},
 	
 	
 // 	{
