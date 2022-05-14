@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human Robot",
 		img: "images/humanrobotstill.png",
-		blurb: "Human Robot uses  a movement score that directs the actions of a human and a robot in space together, their ecology of movements reaches a chasm when their kinetic range is stilted and connection deprived through the mechanical reproduction of it.",
+		blurb: "Human Robot uses adversarial neural networking and accumulative learning model that brings a robot and performer, face to face, in a kinetically charged exchange, that challenges the very nature of their being and pushes them beyond perceived threshold to a breaking point.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
