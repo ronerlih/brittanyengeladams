@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 		img: "images/youtubeweb.jpeg",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist, as we all do. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: Still from performance",
+		credit: "photo copyright: performance still",
 	},
 	
 // 		{
@@ -114,9 +114,9 @@ let WEBSITE_DATA = [
 		{		
 		name: "Emergent Landscape - Tessellation 1",
 		img: "images/who_wood_picture1.png", 
-		blurb: "tessellation.",
+		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "photo copyright: courtesy of artist"
+		credit: "photo copyright: Brittany Engel-Adams"
 	},
 	
 	
@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+		credit: "photo copyright: Brittany Engel-Adams",
 	},
 	
 // 		{
