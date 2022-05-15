@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model that dictates the actions of a robot and performer dictating their interactions and the trajectory of movements.",
+		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model that directs the actions of a robot and human, dictating their interactions and the trajectory of their movements.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
