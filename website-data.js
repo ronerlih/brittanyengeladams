@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech.",
 		link: "",
-		credit: "photo copyright: courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
+		credit: "photo copyright:Tatiana Stolpovskaya",
 	},
 	
 		{
@@ -12,15 +12,15 @@ let WEBSITE_DATA = [
 		img: "images/giphy2.gif",
 		blurb: "Human Robot is an adversarial neural network and accumulative learning algorithm that directs the actions of a robot and human, dictating their interaction and trajectory of their movements.",
 		link: "",
-		credit: "photo copyright: courtesy of artist",
+		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		{
-		name: "movement-data research (avatar):",
+		name: " skeletal avatar:",
 		img: "images/test2.png", 
 		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
 		link: "https://vimeo.com/436986855",
-		credit:"photo copyright: openNI cookbook kinect model",
+		credit:"photo copyright: openNI",
 	},
 	
 	
@@ -31,9 +31,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
-		blurb: "'three.js, java'.",
+		blurb: "'three.js'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: image 3D scene courtesy of artist",
+		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		{
@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 		img: "images/capescan.jpg",
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "photo copyright: courtsey of artist",
+		credit: "photo copyright: Brittany Engel-Adams",
 	},
 	
 
@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo copyright: courtesy of artist",
+		credit: "photo copyright: Ron Erlih and Brittany Engel-Adams",
 	},
 	
 // 	{
@@ -94,7 +94,7 @@ let WEBSITE_DATA = [
 		img: "images/youtubeweb.jpeg",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist, as we all do. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: performance photograph courtesy of artist",
+		credit: "photo copyright: Still from performance",
 	},
 	
 // 		{
