@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
-		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech. Phoneme by phoneme, dancers sound out full words by performing specific gestures in sequence – these ‘motion monologues’ or ‘bodybabble’ serve as alternate voicings, rewriting and rewiring age-old mythologies of the feminine for our contemporary anxieties.",
+		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech.",
 		link: "",
 		credit: "photo copyright: courtesy of Tatiana Stolpovskaya (pictured Mizuho Kappa)",
 	},
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model that brings a robot and performer face to face on a continuum of kinetic exchanges and directives that pushes them beyond their threshold to tipping point.",
+		blurb: "Human Robot is an adversarial neural network and accumulative learning AI model that brings a robot and performer head to head through a series of directives that reorients their trajectory of movements in space.",
 		link: "",
 		credit: "photo copyright: courtesy of artist",
 	},
