@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 		img: "images/morning.png",
 		blurb: "'three.js, java'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: 3D scene grab courtesy of artist",
+		credit: "photo copyright: image 3D scene courtesy of artist",
 	},
 	
 		{
