@@ -8,6 +8,14 @@ let WEBSITE_DATA = [
 	},
 	
 		{
+		name: "Farewell (3D Scene)",
+		img: "images/morning.png",
+		blurb: "'three.js'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
+	},
+	
+		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
 		blurb: "Human Robot is an adversarial neural network and accumulative learning algorithm that directs the actions of a robot and human, dictating their interaction and trajectory of their movements.",
@@ -15,13 +23,7 @@ let WEBSITE_DATA = [
 		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
 	
-		{
-		name: "Farewell (3D Scene)",
-		img: "images/morning.png",
-		blurb: "'three.js'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
-	},
+	
 	
 		{
 		name: " skeletal avatar:",
