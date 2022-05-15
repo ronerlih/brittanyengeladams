@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 // 		img: "images/test2.png", 
 // 		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 // 		link: "https://vimeo.com/436986855",
-// 		credit:"photo copyright: openNI cookbook kinect model",
+// 		credit:"photo copyright: openNI cookbook",
 // 	},
 	
 // 		{
@@ -110,7 +110,7 @@ let WEBSITE_DATA = [
 		{		
 		name: "Emergent Landscape - Tessellation 1",
 		img: "images/who_wood_picture1.png", 
-		blurb: "digital collage/tessellation.",
+		blurb: "online tessellation visit brittanyengeladams.com/who-wood.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "photo copyright: courtesy of artist"
 	},
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 // 	{
 // 		name: "Emergent Lanscape 2 ",
 // 		img: "images/who-blue_picture1.png",
-// 		blurb: " digital collage/tessellation.",
+// 		blurb: "online tessellation visit.",
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "photo copyright: courtesy of artist",
 // 	},
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 		{
 		name: "'Emergent Landscape' 3",
 		img: "images/red-who_picture1.png",
-		blurb: "digital collage/tessellation.",
+		blurb: "online tessellation visit www.brittanyengeladams.com/red-who.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "photo copyright: courtesy of artist",
 	},
