@@ -16,6 +16,14 @@ let WEBSITE_DATA = [
 	},
 	
 		{
+		name: "Farewell (3D Scene)",
+		img: "images/morning.png",
+		blurb: "'three.js'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
+	},
+	
+		{
 		name: " skeletal avatar:",
 		img: "images/test2.png", 
 		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
@@ -28,13 +36,7 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Farewell (3D Scene)",
-		img: "images/morning.png",
-		blurb: "'three.js'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
-	},
+
 	
 		{
 		name: "Architecture of Memory",
