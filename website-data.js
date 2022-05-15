@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot uses adversarial generative neural networking and accumulative learning algorithm to bring a robot and human face to face directing the trajectory of movements.",
+		blurb: "Human Robot uses adversarial neural networks and accumulative machine learning algorithm in a duet between a robot and human that directs the rules of their interactions.",
 		link: "",
 		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
