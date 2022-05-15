@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot is a duet between a Human and Robot that uses adversarial neural networks and accumulative machine learning algorithms that guides the actions and trajectory of their movements.",
+		blurb: "Human Robot is a duet between a Human and Robot using adversarial neural networks and accumulative machine learning algorithms.",
 		link: "",
 		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 		{
 		name: " skeletal avatar:",
 		img: "images/test2.png", 
-		blurb: "kinect sensor; essentially a camera feed and infrared depth feed, that uses machine learning algorithms from openNI public data set, that predicts a human pose and renders a 'skeleton' of a person that moves adjacent to and insync with their movements.",
+		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI public, mathematical predictions of human pose and renders a skeletal avatar of a person.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: openNI",
 	},
