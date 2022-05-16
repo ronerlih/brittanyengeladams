@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Human Robot",
+		name: "HumanRobot",
 		img: "images/giphy2.gif",
 		blurb: "Human Robot is a duet between a Human and Robot that uses adversarial neural networks and accumulative machine learning algorithms to frame and reflect the nature of their exchange.",
 		link: "",
