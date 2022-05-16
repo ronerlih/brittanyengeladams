@@ -112,28 +112,28 @@ let WEBSITE_DATA = [
 
 	
 		{		
-		name: "Emergent Landscape - Tessellation 1",
+		name: "Emergent Landscape  1",
 		img: "images/who_wood_picture1.png", 
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "photo copyright: Brittany Engel-Adams"
+		credit: ""
 	},
 	
 	
-// 	{
-// 		name: "Emergent Lanscape 2 ",
-// 		img: "images/who-blue_picture1.png",
-// 		blurb: "digital tessellation.",
-// 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "",
-// 	},
+	{
+		name: "Emergent Landscape 2 ",
+		img: "images/who-blue_picture1.png",
+		blurb: "digital tessellation.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 		{
-		name: "'Emergent Landscape' 3",
+		name: "Emergent Landscape 3",
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "photo copyright: Brittany Engel-Adams",
+		credit: "",
 	},
 	
 // 		{
