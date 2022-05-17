@@ -7,6 +7,7 @@ let WEBSITE_DATA = [
 		credit: "photo by Tatiana Stolpovskaya",
 	},
 	
+	
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
@@ -14,6 +15,24 @@ let WEBSITE_DATA = [
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
+	
+		{
+		name: " Skeletal Avatar",
+		img: "images/avatar1.gif", 
+		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
+		link: "https://vimeo.com/436986855",
+		credit:"Brittany Engel-Adams",
+	},
+	
+	
+			{
+		name: "Architecture of Memory",
+		img: "images/bedscan.JPG",
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "Brittany Engel-Adams",
+	},
+	
 	
 		{
 		name: "Human Robot",
@@ -25,14 +44,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: " Skeletal Avatar",
-		img: "images/avatar1.gif", 
-		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
-		link: "https://vimeo.com/436986855",
-		credit:"Brittany Engel-Adams",
-	},
-	
 	
 	
 
@@ -40,13 +51,7 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "Architecture of Memory",
-		img: "images/bedscan.JPG",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Brittany Engel-Adams",
-	},
+
 	
 
 	
