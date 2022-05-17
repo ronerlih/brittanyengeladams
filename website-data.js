@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Loops (2018)",
 		img: "images/Loops2018high.gif",
-		blurb: "Loops is a performative work using live feed cameras, looping the movements of the dancers, and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Cynthia King Dance at Kumble Theater .",
+		blurb: "Loops is a performative work, that uses live feed cameras to record, loop and project the dancers movements. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Cynthia King Dance at Kumble Theater .",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "photo copyright: Brittany Engel-Adams",
 	},
