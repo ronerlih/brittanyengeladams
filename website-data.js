@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/morning.png",
-		blurb: "'three.js'.",
+		blurb: " thanks three.js;java'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory",
-		img: "images/capescan.jpg",
+		img: "images/IMG_9316.JPG",
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller used to create 3D scans of my body as a form of self-portraiture. Publication of 'Architecture of Memory' in Movement Research Performance Journal 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: Brittany Engel-Adams",
