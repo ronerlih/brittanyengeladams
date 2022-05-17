@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Farewell (3D Scene)",
-		img: "images/morning.png",
+		img: "images/3dscene.gif",
 		blurb: " thanks three.js;java'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Brittany Engel-Adams, Ron Erlih",
