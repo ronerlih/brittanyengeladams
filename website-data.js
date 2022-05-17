@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: " skeletal avatar:",
-		img: "images/test2.png", 
+		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI public, mathematical predictions of human pose and renders a skeletal avatar of a person.",
 		link: "https://vimeo.com/436986855",
 		credit:"photo copyright: openNI",
