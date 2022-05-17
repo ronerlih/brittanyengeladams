@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory",
-		img: "images/venusscan.JPG",
+		img: "images/bedscan.JPG",
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "photo copyright: Brittany Engel-Adams",
