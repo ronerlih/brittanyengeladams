@@ -136,6 +136,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Loops (2018)",
+		img: "images/Loops2018high.gif",
+		blurb: "Loops is a performative work using live feed cameras, looping the movements of the dancers, and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Cynthia King Dance at Kumble Theater .",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "photo copyright: Brittany Engel-Adams",
+	},
+	
 // 		{
 // 		name: "Moriah Evans -- REPOSE (2021)",
 // 		img: "images/moriahevansreposepress.JPG",
