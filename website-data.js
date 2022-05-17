@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "HumanRobot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot is a live performance work between a dancer and robot, where they're placed head to head in battle, using generative adversarial neural networks and accumulative machine learning algorithms, as a movement score that correspond to the dimensions of the performance venue,  and are sensitive enough to respond to their environment and each other.",
+		blurb: "Human Robot is a live performance work between a dancer and robot, where they are placed head to head in a battle - using generative adversarial neural networks and accumulative machine learning algorithms - as a movement score that corresponds to the dimensions of the performance venue, their environment and each other.",
 		link: "",
 		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
 	},
