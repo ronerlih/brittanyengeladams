@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech.",
 		link: "",
-		credit: "photo copyright: Tatiana Stolpovskaya",
+		credit: "photo by Tatiana Stolpovskaya",
 	},
 	
 		{
@@ -12,7 +12,7 @@ let WEBSITE_DATA = [
 		img: "images/morning.png",
 		blurb: " thanks three.js;java'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
+		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		{
@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		img: "images/giphy2.gif",
 		blurb: "Human Robot is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
 		link: "",
-		credit: "photo copyright: Brittany Engel-Adams, Ron Erlih",
+		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
 	
@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
 		link: "https://vimeo.com/436986855",
-		credit:"photo copyright: openNI",
+		credit:"Brittany Engel-Adams",
 	},
 	
 	
@@ -45,7 +45,7 @@ let WEBSITE_DATA = [
 		img: "images/bedscan.JPG",
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "photo copyright: Brittany Engel-Adams",
+		credit: "Brittany Engel-Adams",
 	},
 	
 
@@ -81,7 +81,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "photo copyright:Brittany Engel-Adams, Ron Erlih,",
+		credit: "Brittany Engel-Adams, Ron Erlih,",
 	},
 	
 // 	{
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "https://www.artrabbit.com/events/youtube-improv",
-		credit: "photo copyright: performance still",
+		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		{
@@ -106,7 +106,7 @@ let WEBSITE_DATA = [
 		img: "images/Loops2018high.gif",
 		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Cynthia King Dance at Kumble Theater in Brooklyn New York.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "photo copyright: Brittany Engel-Adams",
+		credit: "Brittany Engel-Adams",
 	},
 	
 // 		{
@@ -124,7 +124,7 @@ let WEBSITE_DATA = [
 		img: "images/who_wood_picture1.png", 
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: ""
+		credit: "Brittany Engel-Adams"
 	},
 	
 	
@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 		img: "images/who-blue_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
+		credit: "Brittany Engel-Adams",
 	},
 	
 		{
@@ -141,7 +141,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+		credit: "Brittany Engel-Adams",
 	},
 	
 	
