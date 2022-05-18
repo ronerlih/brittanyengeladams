@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		img: "images/bodymouth.png",
 		blurb: "BodyMouth is a movement/sound work and instrument that turns the body into an instrument for speech.",
 		link: "",
-		credit: "created by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams/ Photo by Tatiana Stolpovskaya",
+		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
 	
 	
@@ -82,7 +82,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Brittany Engel-Adams, Ron Erlih,",
+		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
 	},
 	
 	
