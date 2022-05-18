@@ -108,9 +108,9 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Rutgers University-Concert Curator",
-		img: "images/",
-		blurb: " Curator and faculty advisor for the Student Fall Dance Concert at Mason Gross School of the Arts, at Rutgers University on campus in Loree Dance Theater, from Friday Dec 3--Dec 5 2021.'.",
+		name: "Rutgers University Concert Curator",
+		img: "images/loree.jpeg",
+		blurb: "Curator and faculty advisor for the 2021 Fall Student Dance Concert at Mason Gross School of the Arts, Rutgers University, in Loree Dance Theater, from Friday Dec 3--Dec 5 2021.'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "faculty advisors Brittany Engel-Adams,Pam Tanowitz ",
 	},
