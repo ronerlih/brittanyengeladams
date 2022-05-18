@@ -116,7 +116,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Rutgers University MGSA Dance Concert Curator",
-		img: "images/loreewide.png",
+		img: "images/loreepurple.png",
 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 		link: "",
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
