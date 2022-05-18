@@ -156,6 +156,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Brittany Engel-Adams",
 	},
+	
+		{
+		name: "Shower",
+		img: "images/peterjayvideothumb.jpeg",
+		blurb: "'Shower' is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/transmedia.png",
