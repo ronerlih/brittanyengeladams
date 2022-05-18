@@ -2,9 +2,9 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
-		blurb: "BodyMouth is a movement/sound work and instrument developed by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams that turns the body into an instrument for speech.",
+		blurb: "BodyMouth is a movement/sound work and instrument that turns the body into an instrument for speech.",
 		link: "",
-		credit: "photo by Tatiana Stolpovskaya",
+		credit: "created by Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams/ Photo by Tatiana Stolpovskaya",
 	},
 	
 	
