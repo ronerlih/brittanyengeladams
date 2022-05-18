@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/giphy2.gif",
+		img: "images/humanrobot_two.gif",
 		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
