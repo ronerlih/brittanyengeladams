@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/giphy2.gif",
-		blurb: "Human Robot is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
+		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
-		blurb: "BodyMouth is a movement/sound work and instrument that turns the body into an instrument for speech.",
+		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech.",
 		link: "",
 		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
@@ -152,7 +152,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Time Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
 		link: "",
 		credit: "Brittany Engel-Adams",
 	},
