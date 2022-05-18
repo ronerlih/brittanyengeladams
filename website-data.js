@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		name: " Skeletal Avatar",
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
-		link: "https://vimeo.com/436986855",
+		link: "",
 		credit:"Brittany Engel-Adams",
 	},
 	
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 // 		name: "Skeletal Avatar:",
 // 		img: "images/test2.png", 
 // 		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
-// 		link: "https://vimeo.com/436986855",
+// 		link: "",
 // 		credit:"photo copyright: openNI cookbook",
 // 	},
 	
@@ -102,15 +102,22 @@ let WEBSITE_DATA = [
 		name: "YouTube Improv",
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
-		link: "https://www.artrabbit.com/events/youtube-improv",
+		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		{
 		name: "Time Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Cynthia King Dance at Kumble Theater in Brooklyn New York.",
-		link: "https://ronerlih.github.io/2020/",
+		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		link: "",
+		credit: "Brittany Engel-Adams",
+	},
+		{
+		name: "Shower",
+		img: "images/peterjayvideothumb.jpeg",
+		blurb: "Shower is a performative work made in collaboration with students from the Joffrey Ballet School, inspired by the music of composer Nico Muhly's 'Shower' from his album Mothertongue: II. Presented by The Peter Jay Sharp Theatre's Symphony Space New York in 2014.",
+		link: "",
 		credit: "Brittany Engel-Adams",
 	},
 	
