@@ -63,6 +63,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
+	
 		{
 		name: " Skeletal Avatar",
 		img: "images/avatar1.gif", 
@@ -80,7 +81,6 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
 	},
-	
 	
 
 	
@@ -105,6 +105,15 @@ let WEBSITE_DATA = [
 // 		link: "https://www.artconnect.com/mina/events/youtube-improv",
 // 		credit: "photo copyright: courtesy of the artist"
 // 	},
+	
+	
+			{
+		name: "Rutgers University-Concert Curator",
+		img: "images/",
+		blurb: " Curator and faculty advisor for the Student Fall Dance Concert at Mason Gross School of the Arts, at Rutgers University on campus in Loree Dance Theater, from Friday Dec 3--Dec 5 2021.'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "faculty advisors Brittany Engel-Adams,Pam Tanowitz ",
+	},
 	
 			{
 		name: "Architecture of Memory",
