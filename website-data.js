@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
-		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech.",
+		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
 		link: "",
 		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
