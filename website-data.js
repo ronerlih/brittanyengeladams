@@ -37,13 +37,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Architecture of Memory",
-		img: "images/mombrt.png",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Brittany Engel-Adams",
-	},
+
 	
 	
 
@@ -88,6 +82,18 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "Brittany Engel-Adams, Ron Erlih,",
 	},
+	
+	
+			{
+		name: "Architecture of Memory",
+		img: "images/mombrt.png",
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, it combines archival research of ancestral history with critical fabulation using AI machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "Brittany Engel-Adams",
+	},
+	
+	
+	
 	
 // 	{
 // 		name: "Cape Cod Modern House Trust Artist Residence (2020):",
