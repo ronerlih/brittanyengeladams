@@ -1,4 +1,15 @@
 let WEBSITE_DATA = [
+	
+	
+	
+		{
+		name: "Human Robot",
+		img: "images/giphy2.gif",
+		blurb: "Human Robot is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
@@ -9,25 +20,11 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: " Skeletal Avatar",
-		img: "images/avatar1.gif", 
-		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
-		link: "",
-		credit:"Brittany Engel-Adams",
-	},
+	
 	
 	
 
 	
-	
-		{
-		name: "Human Robot",
-		img: "images/giphy2.gif",
-		blurb: "Human Robot is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
 	
 	
 
@@ -75,6 +72,15 @@ let WEBSITE_DATA = [
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
+	
+		{
+		name: " Skeletal Avatar",
+		img: "images/avatar1.gif", 
+		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
+		link: "",
+		credit:"Brittany Engel-Adams",
+	},
+
 	
 	
 		{
