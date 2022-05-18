@@ -106,22 +106,23 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: courtesy of the artist"
 // 	},
 	
+			{
+		name: "Rutgers University MGSA Dance Concert Program",
+		img: "images/barcode1.JPG",
+		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
+		link: "",
+		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz.",
+	},
 	
 			{
 		name: "Rutgers University MGSA Dance Concert Curator",
 		img: "images/loreewide.png",
-		blurb: "Curator of  Mason Gross School of the Arts, Rutgers University, Fall Student Dance Concert, in Loree Dance Theater in New Brunswick, New Jersey, Dec 3--Dec 5 2021'.",
+		blurb: "Curator of  Mason Gross School of the Arts, Rutgers University, Fall Student Dance Concert, in Loree Dance Theater in New Brunswick, New Jersey, Dec 3--Dec 5 2021 Curator: Brittany Engel-Adams Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz.",
 		link: "",
-		credit: "Curator: Brittany Engel-Adams Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz; Lighting Supervisor: Stephanette Schwartz-Smith  ",
+		credit: "",
 	},
 	
-			{
-		name: "Rutgers University MGSA Dance Concert Program",
-		img: "images/barcode1.JPG",
-		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.'.",
-		link: "",
-		credit: "Curator: Brittany Engel-Adams Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz; Lighting Supervisor: Stephanette Schwartz-Smith ",
-	},
+
 	
 			{
 		name: "Architecture of Memory",
