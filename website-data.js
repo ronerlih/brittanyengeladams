@@ -109,14 +109,14 @@ let WEBSITE_DATA = [
 		{
 		name: "Time Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by Students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		blurb: "Time Loop is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
 		link: "",
 		credit: "Brittany Engel-Adams",
 	},
 		{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower' is a performative work inspired by  musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
+		blurb: "'Shower' is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
 		link: "",
 		credit: "Brittany Engel-Adams",
 	},
