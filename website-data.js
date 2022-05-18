@@ -10,6 +10,15 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
+	
+		{
+		name: "Farewell (3D Scene)",
+		img: "images/3dscene.gif",
+		blurb: " thanks three.js;java'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
@@ -24,19 +33,7 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-	
-	
 
-	
-	
-
-	
-	
-
-	
-
-	
 
 	
 // 		{
@@ -65,13 +62,6 @@ let WEBSITE_DATA = [
 // 		credit:"photogrpahed by Ron Erlih",
 // 	},
 	
-		{
-		name: "Farewell (3D Scene)",
-		img: "images/3dscene.gif",
-		blurb: " thanks three.js;java'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
 	
 		{
 		name: " Skeletal Avatar",
