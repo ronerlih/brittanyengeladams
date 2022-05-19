@@ -257,9 +257,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Emily Coates - Yale Maquette New Geometries Dance and architecture in a changed world",
 		img: "images/coates.jpg",
-		blurb: "Conversation about Oskar Schlemmer and the Bauhaus legacy between Emily Coates and Max Wirsing in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		blurb: "Conversation  between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus, choreography by Emily Coates, photo by Paula Court",
+		credit: "photo by Mike Vitelli for Vogue",
 	},
 	
 // 		{
