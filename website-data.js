@@ -16,13 +16,6 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
-			{
-		name: "Kinesphere",
-		img: "images/kineshere1.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
-		link: "",
-		credit: "Brittany Engel-Adams.",
-	},
 	
 		{
 		name: "Farewell (3D Scene)",
@@ -151,6 +144,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+			{
+		name: "Kinesphere",
+		img: "images/kineshere1.png",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
+		link: "",
+		credit: "Brittany Engel-Adams.",
+	},
 			{
 		name: "Architecture of Memory",
 		img: "images/mombrt.png",
