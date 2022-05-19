@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell (3D Scene)",
 		img: "images/3dscene.gif",
-		blurb: " thanks three.js;java'.",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in  digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present - Thanks three.js;java'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
