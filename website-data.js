@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Before Zeta",
-		img: "images/capebook.png",
+		img: "images/kugelgipslower.jpg",
 		blurb: "As an artist in residence at the Cape Cod Modern House Trust in 2020-2021, I created a site-specific dance film ‘Before Zeta’ at Kugel Gips, the Bauhaus designed home for the CCMHT digital guestbook. ‘Before Zeta’ takes the cartesian grid to map the kinespheric-space of the body to form a series of gestures from a tactile and sonic relation to the environment without relying on optics. This was performed on the deck of the house right before a big storm  ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
