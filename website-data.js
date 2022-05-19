@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell 2020",
 		img: "images/3dscene.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in  digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		blurb: "Farwell 2020: 3d scene, three.js, java. Is it possible to build artificial consciousness similar to human consciousness in  digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
@@ -200,6 +200,14 @@ let WEBSITE_DATA = [
 		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
 		credit: "Brittany Engel-Adams and Jonathan Spooner",
+	},
+	
+		{
+		name: "Maquette 2021",
+		img: "images/arduinobreadboard.jpg",
+		blurb: "Maquette 2021: Arduino, bluetooth, c++. In philosopher Walter Benjamin's Book “The Work of Art in the Age of Mechanical Reproduction” he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time. How will these new technologies impact our humanity and the tradition of contemporary art making?",
+		link: "",
+		credit: "Brittany Engel-Adams",
 	},
 	
 	
