@@ -158,6 +158,14 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "Brittany Engel-Adams",
 	},
+	
+		{
+		name: "Emily Coates - Yale Maquette New Geometries Dance and architecture in a changed world",
+		img: "images/coates.jpg",
+		blurb: "Conversation  between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo by Mike Vitelli for Vogue",
+	},
 
 	
 		{		
@@ -254,13 +262,7 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: Reed Hutchinson ",
 // 	},
 	
-		{
-		name: "Emily Coates - Yale Maquette New Geometries Dance and architecture in a changed world",
-		img: "images/coates.jpg",
-		blurb: "Conversation  between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo by Mike Vitelli for Vogue",
-	},
+	
 	
 // 		{
 // 		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
