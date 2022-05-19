@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
 		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
-		link: "",
+		link: "https://www.harvestworks.org",
 		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
 	
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 		name: "Rutgers University MGSA Dance Concert Program",
 		img: "images/barcode1.JPG",
 		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
-		link: "",
+		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 	},
 	
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 		name: "Rutgers University MGSA Dance Concert Curator",
 		img: "images/loreepurple.png",
 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
-		link: "",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 	},
 	
@@ -146,8 +146,8 @@ let WEBSITE_DATA = [
 		{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower' is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
-		link: "",
+		blurb: "'Shower'is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
+		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
 	
