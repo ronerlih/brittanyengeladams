@@ -256,7 +256,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Emily Coates - Yale Maquette New Geometries Dance and architecture in a changed world",
-		img: "images/IMG_0044.JPG",
+		img: "images/coates.jpg",
 		blurb: "Conversation about Oskar Schlemmer and the Bauhaus legacy between Emily Coates and Max Wirsing in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
 		credit: "Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus, choreography by Emily Coates, photo by Paula Court",
@@ -264,7 +264,7 @@ let WEBSITE_DATA = [
 	
 // 		{
 // 		name: "Emily Coates - Schlemmer Loops Performa Gala, 2019",
-// 		img: "images/coates.jpg",
+// 		img: "images/IMG_0044.JPG",
 // 		blurb: "Performance Still from Schlemmer Loops “Gesture Dance” for Performa 19 Opening Night Gala with Miguel Anaya, Reid Bartelme, Megan Wright. Choreography by Emily Coates, costumes by Reid+Harriet. Photo: Paula Court",
 // 		link: "https://yalemaquette.com/New-Geometries/",
 // 		credit: "photo copyright: Mike Vitelli",
