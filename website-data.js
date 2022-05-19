@@ -36,13 +36,13 @@ let WEBSITE_DATA = [
 
 
 	
-// 		{
-// 		name: "Kinesphere:",
-// 		img: "images/Blue.jpg",
-// 		blurb: "'The Normal Vector. Perpendicular direction from each plane of my body rendered from a digital scan.'",
-// 		link: "",
-// 		credit: "'Color rendering of 3d digital scan by Brittany Engel-Adams.",
-// 	},
+		{
+		name: "Kinesphere",
+		img: "images/kineshere1.png",
+		blurb: "'Kinesphere' is a color rendering of a 3d digital scan of the 'normal vector; perpendicular direction from each plane of my body, from spatial-data using mesh lab and kinect. '",
+		link: "",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 
 	
