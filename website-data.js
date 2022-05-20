@@ -160,7 +160,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Emily Coates Sclemmer loops",
+		name: "Emily Coates Schlemmer loops",
 		img: "images/coates.jpg",
 		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
