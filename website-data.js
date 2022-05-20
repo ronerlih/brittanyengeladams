@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Emergent Landscape 2 ",
-		img: "images/who-blue_picture1.png",
+		img: "images/wholives.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "Brittany Engel-Adams",
