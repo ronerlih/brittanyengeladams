@@ -70,13 +70,7 @@ let WEBSITE_DATA = [
 	
 
 	
-{
-		name: "Before Zeta",
-		img: "images/gips.png",
-		blurb: "As an artist in residence at the Cape Cod Modern House Trust in 2020-2021, I created a site-specific dance film ‘Before Zeta’ at Kugel Gips, the Bauhaus designed home for the CCMHT digital guestbook. ‘Before Zeta’ takes the cartesian grid to map the kinespheric-space of the body to form a series of gestures from a tactile and sonic relation to the environment without relying on optics. This was performed on the deck of the house right before a big storm  ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod.", 
-		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
+
 	
 	
 	
@@ -165,6 +159,14 @@ let WEBSITE_DATA = [
 		blurb: "Conversation  between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
 		credit: "photo by Mike Vitelli for Vogue",
+	},
+	
+	{
+		name: "Before Zeta",
+		img: "images/gips.png",
+		blurb: "Site-specific film ‘Before Zeta’ created for the CCMHT digital guestbook, during an artist residency at Cape Cod Modern Home trust. In the film I am using a proprioceptive method to form relations with the environment that do not rely on optics, rather the involvement of all my senses to guide the movements.", 
+		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
 	},
 
 	
