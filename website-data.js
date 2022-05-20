@@ -88,13 +88,14 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: courtesy of the artist"
 // 	},
 	
-			{
-		name: "Rutgers University MGSA Dance Concert Program",
-		img: "images/barcode1.JPG",
-		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
-		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+		{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		link: "",
+		credit: "Brittany Engel-Adams",
 	},
+	
 	
 			{
 		name: "Rutgers University MGSA Dance Concert Curator",
@@ -116,21 +117,22 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
-		{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
-		link: "",
-		credit: "Brittany Engel-Adams",
+			{
+		name: "Rutgers University MGSA Dance Concert Program",
+		img: "images/barcode1.JPG",
+		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
+		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 	},
 	
-		{
+			{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "'Shower'is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
+
 	
 	
 			{
@@ -181,14 +183,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams"
 	},
-	
-					{
-		name: "Maquette 2021",
-		img: "images/Maquette21high.gif",
-		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+
 	
 	
 	{
@@ -207,6 +202,14 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams",
 	},
 	
+		
+					{
+		name: "Maquette 2021",
+		img: "images/Maquette21high.gif",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
 	
 	
 		{
