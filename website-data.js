@@ -49,6 +49,14 @@ let WEBSITE_DATA = [
 // 		credit:"photogrpahed by Ron Erlih",
 // 	},
 	
+		
+		{
+		name: "Hand Dance - Dance Film",
+		img: "images/hand.jpeg",
+		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
+	},
 	
 	
 		{
@@ -60,14 +68,7 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
-		{
-		name: "Hand Dance - Dance Film",
-		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
-	},
+
 	
 {
 		name: "Before Zeta",
