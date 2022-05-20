@@ -158,9 +158,9 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Emily Coates - Yale Maquette New Geometries Dance and architecture in a changed world",
+		name: "Emily Coates Sclemmer loops",
 		img: "images/coates.jpg",
-		blurb: "Conversation  between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
 		credit: "photo by Mike Vitelli for Vogue",
 	},
@@ -182,6 +182,14 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams"
 	},
 	
+					{
+		name: "Maquette 2021",
+		img: "images/Maquette21high.gif",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
 	
 	{
 		name: "Emergent Landscape 2 ",
@@ -199,13 +207,7 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams",
 	},
 	
-					{
-		name: "Maquette 2021",
-		img: "images/Maquette21high.gif",
-		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+	
 	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity",
