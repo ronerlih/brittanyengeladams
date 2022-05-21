@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Kinesphere",
-		img: "images/kineshere1.png",
+		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
 		link: "",
 		credit: "Brittany Engel-Adams.",
