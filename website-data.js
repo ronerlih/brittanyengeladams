@@ -213,7 +213,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Before Zeta",
-		img: "images/CAPECODMHTPRESSIMAGE.JPG",
+		img: "images/capebook.png",
 		blurb: "Site-specific film ‘Before Zeta’ created for the CCMHT digital guestbook, created during an artist residency at Cape Cod Modern Home trust. In the film I am using a proprioceptive method to make a connection with the space that is not reliant on optics.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
