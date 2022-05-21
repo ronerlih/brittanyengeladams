@@ -1,16 +1,16 @@
 let WEBSITE_DATA = [
 	
 		{
-		name: "Human Robot 2022",
+		name: "Human Robot (2022)",
 		img: "images/human_robot_3.gif",
-		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
+		blurb: "'Human Robot' uses generative adversarial neural networking and accumulative machine learning algorithms as a framework for a series of exchanges between a dancer and robot to unfold where their movements are predetermined by a set of directives but with room for moments of spontaneity and responses to their enviorment  .'",
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
 		
 			{
-		name: "Farewell 2020",
+		name: "Farewell / 3D Scene (2020)",
 		img: "images/farewell.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "https://ronerlih.github.io/2020/",
@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Maquette 2021",
+		name: "Maquette (2021)",
 		img: "images/maquettecc.gif",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
@@ -26,25 +26,25 @@ let WEBSITE_DATA = [
 	},
 	
 			{
-		name: "Architecture of Memory (2021 Publication)",
+		name: "Architecture of Memory / Publication (2021)",
 		img: "images/aom.png",
-		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
+		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; Co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "Brittany Engel-Adams.",
 	},
 	
 	
 		{
-		name: "BodyMouth",
+		name: "BodyMouth / Speech Synthesis",
 		img: "images/screengtrB.png",
-		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
+		blurb: "'BodyMouth' is a work that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
 		link: "https://www.harvestworks.org",
 		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
 	
 	
 	{
-		name: "skeletal avatar research",
+		name: "Skeletal Avatar / Research (2020)",
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
 		link: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 // 		img: "images/barcodeprogram.JPG.",
 // 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-// 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+// 		credit: "Curator-Brittany Engel-Adams, Faculty Advisors-Brittany Engel-Adams and Pam Tanowitz; Lighting Supervisor Stephanette Schwartz",
 // 	},
 	
 	
