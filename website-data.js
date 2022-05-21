@@ -219,7 +219,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Shower 2014",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower'is a performative work inspired by American musical composer Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York in 2014.",
+		blurb: "'Shower' is work made in collaboration with students from the Joffrey Ballet School presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
