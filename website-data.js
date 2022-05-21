@@ -15,13 +15,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
-	
-
-	
-		
-	
-	
-
 
 
 
@@ -198,13 +191,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
 	{
 		name: "Before Zeta",
 		img: "images/capebook.png",
-		blurb: "Artist in residence at the Cape Cod Modern House Trust. I created a film ‘Before Zeta’ for their digital archive. I recieved a lovely write up about it was in The Provincetown Independent : 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
+		blurb: "Artist in residence at the Cape Cod Modern House Trust. I made a film ‘Before Zeta’ for their digital archive and recieved a lovely write up in The Provincetown Independent'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "pictured the book, Midcentury Architecture and Community on the Outer Cape, by Peter McMahon",
+		credit: "(Image) Midcentury Architecture and Community on the Outer Cape, by Peter McMahon",
 	},
+	
+	
 	
 		{		
 		name: "Emergent Landscape  1",
@@ -213,6 +209,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams"
 	},
+	
 	
 			{
 		name: "Farewell 2020",
@@ -232,14 +229,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-		
-	
-	
-	
-
-	
-	
-	
 	
 	
 // 		{
