@@ -45,15 +45,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-
-	
-
-	
-
-	
-	
-	
-	
 // 	{
 // 		name: "Cape Cod Modern Architecture Artist Residence",
 // 		img: "images/capebook.png",
@@ -99,8 +90,7 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-	
+
 	  
 	
 	
@@ -113,13 +103,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Emergent Landscape 3",
-		img: "images/red-who_picture1.png",
-		blurb: "digital tessellation.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
-	},
+// 			{
+// 		name: "Emergent Landscape 3",
+// 		img: "images/red-who_picture1.png",
+// 		blurb: "digital tessellation.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "Brittany Engel-Adams",
+// 	},
 	
 	
 		{
@@ -141,21 +131,8 @@ let WEBSITE_DATA = [
 // 		credit: "Brittany Engel-Adams.",
 // 	},
 	
-		{
-		name: "Ode to Oskar Schlemmer",
-		img: "images/coates.jpg",
-		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo by Mike Vitelli for Vogue",
-	},
 	
-	  {
-		name: "YouTube Improv",
-		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+	
 	
 	
 	{
@@ -179,23 +156,29 @@ let WEBSITE_DATA = [
 	{
 		name: "Before Zeta 2020",
 		img: "images/capebook.png",
-		blurb: "Artist in residence at the Cape Cod Modern House Trust. I made a film ‘Before Zeta’ for their digital archive and recieved a lovely write up in The Provincetown Independent'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
+		blurb: "Artist in residence at the Cape Cod Modern House Trust, a non for profit organization that restores Bauhaus and other Modern designed homes in WellFleet MA. I made a film ‘Before Zeta’ for their digital archive and recieved a lovely write up in The Provincetown Independent'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "(Image) Midcentury Architecture and Community on the Outer Cape, by Peter McMahon",
 	},
 	
-		
+	
 
 	
-	
 		{
-		name: " Skeletal Avatar",
+		name: "skeletal avatar research 2020",
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
 		link: "",
 		credit:"Brittany Engel-Adams",
 	},
 
+			{
+		name: "Ode to Oskar Schlemmer 2019",
+		img: "images/coates.jpg",
+		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo by Mike Vitelli for Vogue",
+	},
 	
 		{		
 		name: "Emergent Landscape  1",
@@ -206,14 +189,6 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	{
-		name: "Time Loop 2018",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
-		link: "",
-		credit: "Brittany Engel-Adams",
-	},
-	
 	
 			{
 		name: "Farewell 2020",
@@ -223,8 +198,21 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
+	  {
+		name: "YouTube Improv",
+		img: "images/YouTubeImprov2.gif",
+		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
 	
-	
+	{
+		name: "Time Loop 2018",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		link: "",
+		credit: "Brittany Engel-Adams",
+	},
 	
 			{
 		name: "Shower 2014",
