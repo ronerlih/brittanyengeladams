@@ -167,13 +167,15 @@ let WEBSITE_DATA = [
 		credit: "photo by Mike Vitelli for Vogue",
 	},
 	
-	{
-		name: "Before Zeta",
-		img: "images/gips.png",
-		blurb: "Site-specific film ‘Before Zeta’ created for the CCMHT digital guestbook, during an artist residency at Cape Cod Modern Home trust. In the film I am using a proprioceptive method to form relations with the environment that do not rely on optics, rather the involvement of all my senses to guide the movements.", 
-		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
+			{
+		name: "Emergent Landscape 3",
+		img: "images/red-who_picture1.png",
+		blurb: "digital tessellation.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "Brittany Engel-Adams",
 	},
+	
+	
 
 	
 		{		
@@ -194,15 +196,6 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams",
 	},
 	
-		{
-		name: "Emergent Landscape 3",
-		img: "images/red-who_picture1.png",
-		blurb: "digital tessellation.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
-	},
-	
-		
 					{
 		name: "Maquette 2021",
 		img: "images/Maquette21high.gif",
@@ -210,6 +203,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
+	
+	
+	{
+		name: "Before Zeta",
+		img: "images/gips.png",
+		blurb: "Site-specific film ‘Before Zeta’ created for the CCMHT digital guestbook, during an artist residency at Cape Cod Modern Home trust. In the film I am using a proprioceptive method to form relations with the environment that do not rely on optics, rather the involvement of all my senses to guide the movements.", 
+		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+	
+
+		
+	
 	
 	
 		{
