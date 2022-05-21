@@ -18,14 +18,7 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-		{
-		name: "Farewell 2020",
-		img: "images/farewell.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},	
+		
 	
 	
 
@@ -180,13 +173,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/control.png",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "",
-		credit: "Stacey Levine, Director, Marketing, Control Group",
-	},
+
 	
 	
 
@@ -226,7 +213,23 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams"
 	},
+	
+			{
+		name: "Farewell 2020",
+		img: "images/farewell.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
 
+			{
+		name: "Transmedia Storytelling in the Age of Proximity 2013",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "",
+		credit: "Stacey Levine, Director, Marketing, Control Group",
+	},
 	
 
 		
