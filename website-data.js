@@ -80,13 +80,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-			{
-		name: "Rutgers University MGSA Dance Concert Curator",
-		img: "images/loreepurple.png",
-		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
-	},
+// 			{
+// 		name: "Rutgers University MGSA Dance Concert Curator",
+// 		img: "images/barcodeprogram.JPG.",
+// 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+// 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+// 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+// 	},
 	
 	
 		{
@@ -100,10 +100,6 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-	
-	
-      
 	
 	
 	
@@ -129,7 +125,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Rutgers University MGSA Dance Concert Program",
-		img: "images/barcode1.JPG",
+		img: "images/loreepurple.png", 
 		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
