@@ -1,6 +1,24 @@
 let WEBSITE_DATA = [
 	
 		{
+		name: "Human Robot",
+		img: "images/human_robot_3.gif",
+		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
+	
+		{
+		name: " Skeletal Avatar",
+		img: "images/avatar1.gif", 
+		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
+		link: "",
+		credit:"Brittany Engel-Adams",
+	},
+	
+	
+		{
 		name: "BodyMouth",
 		img: "images/screengtrB.png",
 		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
@@ -8,13 +26,7 @@ let WEBSITE_DATA = [
 		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
 	},
 	
-		{
-		name: "Human Robot",
-		img: "images/human_robot_3.gif",
-		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+	
 
 
 
@@ -39,13 +51,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: " Skeletal Avatar",
-		img: "images/avatar1.gif", 
-		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
-		link: "",
-		credit:"Brittany Engel-Adams",
-	},
 
 	
 
@@ -74,14 +79,6 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: courtesy of the artist"
 // 	},
 	
-		{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
-		link: "",
-		credit: "Brittany Engel-Adams",
-	},
-	
 	
 			{
 		name: "Rutgers University MGSA Dance Concert Curator",
@@ -91,33 +88,25 @@ let WEBSITE_DATA = [
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 	},
 	
+	
+		{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		link: "",
+		credit: "Brittany Engel-Adams",
+	},
+	
+	
+	
 
 	
 	
 	
-          {
-		name: "YouTube Improv",
-		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+      
 	
-			{
-		name: "Rutgers University MGSA Dance Concert Program",
-		img: "images/barcode1.JPG",
-		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
-		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
-	},
 	
-			{
-		name: "Kinesphere",
-		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
-		link: "",
-		credit: "Brittany Engel-Adams.",
-	},
+	
 	
 			{
 		name: "Shower",
@@ -129,7 +118,6 @@ let WEBSITE_DATA = [
 	
 
 	
-	
 			{
 		name: "Architecture of Memory",
 		img: "images/mombrt.png",
@@ -138,6 +126,32 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams",
 	},
 	
+	
+			{
+		name: "Rutgers University MGSA Dance Concert Program",
+		img: "images/barcode1.JPG",
+		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
+		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+	},
+	
+	
+	
+	    {
+		name: "YouTube Improv",
+		img: "images/YouTubeImprov2.gif",
+		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
+	
+			{
+		name: "Kinesphere",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
+		link: "",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 	
 		{
@@ -148,13 +162,7 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
 	},
 	
-		{
-		name: "Ode to Oskar Schlemmer",
-		img: "images/coates.jpg",
-		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo by Mike Vitelli for Vogue",
-	},
+	
 	
 			{
 		name: "Emergent Landscape 3",
@@ -164,14 +172,15 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams",
 	},
 	
+		{
+		name: "Ode to Oskar Schlemmer",
+		img: "images/coates.jpg",
+		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo by Mike Vitelli for Vogue",
+	},
 	
 	
-
-	
-	
-
-	
-
 	
 	
 	{
@@ -181,14 +190,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "Brittany Engel-Adams",
 	},
-	
-					{
-		name: "Maquette 2021",
-		img: "images/maquettecc.gif",
-		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
-	},
+
 	
 	
 	
@@ -201,6 +203,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "Maquette 2021",
+		img: "images/maquettecc.gif",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
+	},
+	
 	
 		{		
 		name: "Emergent Landscape  1",
@@ -209,6 +219,9 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams"
 	},
+	
+		
+	
 	
 	
 			{
