@@ -8,7 +8,14 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
 	
-	
+		
+			{
+		name: "Farewell 2020",
+		img: "images/farewell.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "Brittany Engel-Adams, Ron Erlih",
+	},
 	
 	{
 		name: "Maquette 2021",
@@ -18,9 +25,17 @@ let WEBSITE_DATA = [
 		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
 	},
 	
+			{
+		name: "Architecture of Memory (2021 Publication)",
+		img: "images/aom.png",
+		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "Brittany Engel-Adams.",
+	},
+	
 	
 		{
-		name: "BodyMouth 2022",
+		name: "BodyMouth",
 		img: "images/screengtrB.png",
 		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
 		link: "https://www.harvestworks.org",
@@ -29,7 +44,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "skeletal avatar research 2020",
+		name: "skeletal avatar research",
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
 		link: "",
@@ -90,21 +105,8 @@ let WEBSITE_DATA = [
 	
 	
 
-
-	
-			{
-		name: "Architecture of Memory (2021 Publication)",
-		img: "images/aom.png",
-		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Brittany Engel-Adams.",
-	},
-	
 	
 
-	
-
-	  
 	
 	
 				{
@@ -191,14 +193,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	
-			{
-		name: "Farewell 2020",
-		img: "images/farewell.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "Brittany Engel-Adams, Ron Erlih",
-	},
+
 	
 	  {
 		name: "YouTube Improv",
