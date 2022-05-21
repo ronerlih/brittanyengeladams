@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 	
 		{
-		name: "Human Robot (2022)",
+		name: "Human Robot/ Performance (2022)",
 		img: "images/human_robot_3.gif",
 		blurb: "'Human Robot' uses generative adversarial neural networking and accumulative machine learning algorithms as a framework for a series of exchanges between a dancer and robot to unfold where their movements are predetermined by a set of directives while allowing room for agency, spontaneity and responses to their enviorment.'",
 		link: "",
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	
 		
 			{
-		name: "Farewell / 3D Scene (2020)",
+		name: "Farewell/ 3D Scene (2020)",
 		img: "images/farewell.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "https://ronerlih.github.io/2020/",
@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Maquette (2021)",
+		name: "Maquette/ Research Robotics (2021)",
 		img: "images/maquettecc.gif",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth / Speech Synthesis",
+		name: "BodyMouth/ Speech Synthesis (2022)",
 		img: "images/screengtrB.png",
 		blurb: "'BodyMouth' is a work that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
 		link: "https://www.harvestworks.org",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Skeletal Avatar / Research (2020)",
+		name: "Skeletal Avatar/ MOCAP Research (2020)",
 		img: "images/avatar1.gif", 
 		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
 		link: "",
@@ -78,9 +78,9 @@ let WEBSITE_DATA = [
 	
 	
 // 	{
-// 		name: "Cape Cod Modern Architecture Artist Residence",
+// 		name: "Cape Cod Modern Architecture/ Artist Residency (2020-2021)",
 // 		img: "images/capebook.png",
-// 		blurb: " 2020-2021 artist in residence at CCMHT. I made a site-specific video titled 'Before Zeta' for their digital archive and the local newspaper The Provincetown Independent wrote about it in an article: 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water.'", 
+// 		blurb: " 2020-2021 artist in residence at CCMHT. I made s short film titled 'Before Zeta' for their digital archive and the local newspaper The Provincetown Independent wrote about it in an article: 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water.'", 
 // 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 // 		credit: "pictured the book, Midcentury Architecture and Community on the Outer Cape, by Peter McMahon ",
 // 	},
@@ -106,15 +106,9 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	
-	
 
-	
-
-	
-	
 				{
-		name: "Curator at Rutgers University",
+		name: "Rutgers University/ Concert Curator (2021)",
 		img: "images/loreepurple.png", 
 		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
@@ -133,7 +127,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance - Dance Film",
+		name: "Hand Dance/ Film (2020)",
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -156,7 +150,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Landscape 2 ",
+		name: "Emergent Landscape 2/Multimedia (2020) ",
 		img: "images/wholives.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -168,7 +162,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Before Zeta 2020",
+		name: "Before Zeta/Film (2020)",
 		img: "images/capebook.png",
 		blurb: "Artist in residence at the Cape Cod Modern House Trust, a non for profit organization that restores Bauhaus and other Modern designed homes in WellFleet MA. I made a film ‘Before Zeta’ for their digital archive and recieved a lovely write up in The Provincetown Independent'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
@@ -181,7 +175,7 @@ let WEBSITE_DATA = [
 
 
 			{
-		name: "Ode to Oskar Schlemmer 2019",
+		name: "Ode to Oskar Schlemmer/Performance (2019)",
 		img: "images/coates.jpg",
 		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
@@ -189,7 +183,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{		
-		name: "Emergent Landscape  1",
+		name: "Emergent Landscape  1/Multimedia (2020)",
 		img: "images/tesszoom.png", 
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -200,7 +194,7 @@ let WEBSITE_DATA = [
 
 	
 	  {
-		name: "YouTube Improv",
+		name: "YouTube Improv/Performance (2018)",
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performance work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
@@ -208,23 +202,23 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Time Loop 2018",
+		name: "Time Loop/Performance (2018)",
 		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		blurb: "'Time Loop' is a dance piece that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow. Performed by students from Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
 		link: "",
 		credit: "Brittany Engel-Adams",
 	},
 	
 			{
-		name: "Shower 2014",
+		name: "Shower/Performance (2014)",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower' is work made in collaboration with students from the Joffrey Ballet School presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
+		blurb: "'Shower' is dance piece developed during The Joffrey New York City Jazz & Contemporary Summer Intensive in 2014, under the direction of Michael Blake, presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
 
 			{
-		name: "Transmedia Storytelling in the Age of Proximity 2013",
+		name: "Transmedia Storytelling in the Age of Proximity/Multimedia (2013)",
 		img: "images/control.png",
 		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
