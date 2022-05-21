@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 		img: "images/aom.png",
 		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; Co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Brittany Engel-Adams.",
+		credit: "",
 	},
 	
 	
@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 		img: "images/maquettecc.gif",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
+		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips.",
 	},
 	
 	
