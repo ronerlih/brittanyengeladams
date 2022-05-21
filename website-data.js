@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 	
 		{
-		name: "Human Robot",
+		name: "Human Robot 2022",
 		img: "images/human_robot_3.gif",
 		blurb: "'Human Robot' is a live performative work between a dancer and robot that uses generative adversarial neural networks and accumulative machine learning algorithms as a movement score, that corresponds to the dimensions of the performance venue, their sensitivity to the environment, and to each other.",
 		link: "",
@@ -10,10 +10,17 @@ let WEBSITE_DATA = [
 	
 	
 	
+	{
+		name: "Maquette 2021",
+		img: "images/maquettecc.gif",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
+	},
 	
 	
 		{
-		name: "BodyMouth",
+		name: "BodyMouth 2022",
 		img: "images/screengtrB.png",
 		blurb: "'BodyMouth' is a movement/sound work and instrument that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
 		link: "https://www.harvestworks.org",
@@ -21,7 +28,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+	{
+		name: "skeletal avatar research 2020",
+		img: "images/avatar1.gif", 
+		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
+		link: "",
+		credit:"Brittany Engel-Adams",
+	},
 
 
 	
@@ -112,13 +125,6 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	{
-		name: "Maquette 2021",
-		img: "images/maquettecc.gif",
-		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
-	},
 	
 		{
 		name: "Hand Dance - Dance Film",
@@ -166,13 +172,7 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "skeletal avatar research 2020",
-		img: "images/avatar1.gif", 
-		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
-		link: "",
-		credit:"Brittany Engel-Adams",
-	},
+
 
 			{
 		name: "Ode to Oskar Schlemmer 2019",
