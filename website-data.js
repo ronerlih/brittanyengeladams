@@ -93,11 +93,11 @@ let WEBSITE_DATA = [
 
 	
 			{
-		name: "Architecture of Memory",
+		name: "Architecture of Memory (2021 Publication)",
 		img: "images/aom.png",
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, photographs, and 3d scans, inspired by  Saidiya Hartman's literary and archival methodology 'critical fabulation', the work combines archival research of ancestral history with critical fabulation - using artificially intelligent machine learning algorithms, and kinect motion-capture technology. Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55.",
+		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Movement Research Journal 55, 'AOM' (pg 72-77), Brittany Engel-Adams. Co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy.",
+		credit: "Brittany Engel-Adams.",
 	},
 	
 	
