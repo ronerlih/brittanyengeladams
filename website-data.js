@@ -95,9 +95,9 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Rutgers University MGSA Dance Concert Program",
+		name: "Curator at Rutgers University",
 		img: "images/loreepurple.png", 
-		blurb: "Third year BFA students created work for the Fall 2021 Dance Concert as a response to a theatrical production or dance performance of the 19th century to the 20th century reimagined for the 21st century stage.",
+		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 	},
