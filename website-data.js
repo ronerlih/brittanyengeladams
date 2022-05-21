@@ -204,10 +204,10 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Maquette 2021",
-		img: "images/Maquette21high.gif",
+		img: "images/maquettecc.gif",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
+		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips in Cape Cod.",
 	},
 	
 	
@@ -216,7 +216,7 @@ let WEBSITE_DATA = [
 		img: "images/capebook.png",
 		blurb: "Artist in residence at the Cape Cod Modern House Trust. I created a film ‘Before Zeta’ for their digital archive. I recieved a lovely write up about it was in The Provincetown Independent : 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water'.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
+		credit: "pictured the book, Midcentury Architecture and Community on the Outer Cape, by Peter McMahon",
 	},
 	
 		{		
