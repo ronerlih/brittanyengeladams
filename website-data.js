@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Avatar",
-		img: "images/avatar1.gif", 
+		img: "images/IMG_9316.JPG", 
 		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"Brittany Engel-Adams",
