@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/human_robot_3.gif",
-		blurb: "'Human Robot' is a performative work that uses generative adversarial neural networking and accumulative machine learning algorithms as a framework for a series of exchanges between a performer and robot to unfold where their movements are predetermined by a set of directives while allowing room for agency, spontaneity and responses to their enviorment.'",
+		blurb: "'Human Robot' is a performative work that uses generative neural networks as a movement score to direct the actions of a human and robot.'",
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
