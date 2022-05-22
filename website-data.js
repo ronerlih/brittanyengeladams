@@ -41,16 +41,16 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/screengtrB.png",
-		blurb: "'BodyMouth' is a work that turns the body into an instrument for speech. Currently in residency at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab in New York.",
+		blurb: "'BodyMouth' is a work that turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
 		link: "https://www.harvestworks.org",
-		credit: "Kat Mustatea, Sidney San Martin, and Brittany Engel-Adams",
+		credit: "",
 	},
 	
 	
 	{
-		name: "Skeletal Avatar",
+		name: "Avatar",
 		img: "images/avatar1.gif", 
-		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
+		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"Brittany Engel-Adams",
 	},
@@ -137,13 +137,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "Kinesphere",
-// 		img: "images/brit_floor_fabric_wow.png",
-// 		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
-// 		link: "",
-// 		credit: "Brittany Engel-Adams.",
-// 	},
+			{
+		name: "Kinesphere",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
+		link: "",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 	
 	
