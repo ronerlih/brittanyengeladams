@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/human_robot_3.gif",
-		blurb: "'Human Robot' is a performative work that uses generative neural networks as a movement score to direct the actions of a human and robot.'",
+		blurb: "'Human Robot' is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work for 16 dancers, and 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
 		credit: "Brittany Engel-Adams, Ron Erlih",
 	},
