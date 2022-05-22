@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 		name: "BodyMouth",
 		img: "images/screengtrB.png",
 		blurb: "'BodyMouth' is a work that uses pink trombone (speech synthesis) and turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
-		link: "https://www.harvestworks.org",
+		link: "",
 		credit: "",
 	},
 	
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Avatar",
 		img: "images/IMG_9316.JPG", 
-		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
+		blurb: " (kinect, xbox, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"",
 	},
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Cape Cod Modern Architecture",
 		img: "images/capebook.png",
-		blurb: "2020-2021 artist residency in Wellfleet MA where I made a film  'Before Zeta' for the Cape Cod Modern House Trust's digital archive.", 
+		blurb: "2020-2021 artist residency at CCMHT in Wellfleet MA where I made a film  'Before Zeta' for the Cape Cod Modern House Trust's digital archive.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
