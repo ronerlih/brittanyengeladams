@@ -3,19 +3,18 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/human_robot_3.gif",
-		blurb: "'Human Robot' is a duet between a human and robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work for 16 dancers, and 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
+		blurb: "'Human Robot' is a duet between a human and robot, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work for 16 dancers, and 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
+		credit: "",
 	},
 	
 		
 			{
 		name: "Farewell 2020",
 		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,  ‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk with tea session to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal?’
-",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,  ‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk with tea session to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal?’",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "Brittany Engel-Adams, Ron Erlih",
+		credit: ",
 	},
 	
 	
