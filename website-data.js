@@ -17,7 +17,6 @@ let WEBSITE_DATA = [
 		credit: ",
 	},
 	
-	
 			{
 		name: "Architecture of Memory",
 		img: "images/aom.png",
