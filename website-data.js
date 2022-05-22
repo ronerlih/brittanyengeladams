@@ -9,29 +9,6 @@ let WEBSITE_DATA = [
 	},
 	
 		
-			{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk with tea session to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
-	
-	
-	
-			{
-				
-		name: "Architecture of Memory",
-		img: "images/aom.png",
-		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-	
-	
-	
-	
-	
 	
 	
 // 	{
@@ -145,6 +122,15 @@ let WEBSITE_DATA = [
 	
 	
 			{
+				
+		name: "Architecture of Memory",
+		img: "images/aom.png",
+		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+			{
 		name: "Kinesphere",
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
@@ -223,6 +209,15 @@ let WEBSITE_DATA = [
 		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
+	
+	
+		{
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk with tea session to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 
 			{
 		name: "Transmedia Storytelling in the Age of Proximity",
@@ -231,6 +226,9 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Stacey Levine, Director, Marketing, Control Group",
 	},
+	
+	
+	
 	
 
 	
