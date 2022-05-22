@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Architecture of Memory",
 		img: "images/aom.png",
-		blurb: "Publication of 'Architecture of Memory' in The Movement Research Performance Journal No 55, (pg 72-77); Author Brittany Engel-Adams; Co-Editors-in-Chief mayfield brooks and Joshua Lubin-Levy; Editorial Director Moriah Evans. Inspired by the work of Saidiya Hartman and her literary and archival methodology 'critical fabulation'.",
+		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
