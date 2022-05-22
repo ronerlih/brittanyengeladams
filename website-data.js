@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
-		credit: "Brittany Engel-Adams, Ron Erlih",
+		credit: "",
 	},
 	
 	{
