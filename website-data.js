@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 		img: "images/IMG_9316.JPG", 
 		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
-		credit:"Brittany Engel-Adams",
+		credit:"",
 	},
 
 
@@ -154,7 +154,7 @@ let WEBSITE_DATA = [
 		img: "images/wholives.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams",
+		credit: "",
 	},
 
 	
@@ -187,7 +187,7 @@ let WEBSITE_DATA = [
 		img: "images/tesszoom.png", 
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "Brittany Engel-Adams"
+		credit: ""
 	},
 	
 		
@@ -206,7 +206,7 @@ let WEBSITE_DATA = [
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
 		link: "",
-		credit: "Brittany Engel-Adams",
+		credit: "",
 	},
 	
 			{
