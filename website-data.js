@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/screengtrB.png",
-		blurb: "'BodyMouth' is a work that turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
+		blurb: "'BodyMouth' is a work that uses pink trombone (speech synthesis) and turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
 		link: "https://www.harvestworks.org",
 		credit: "",
 	},
@@ -131,7 +131,7 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Brittany Engel-Adams, Ron Erlih, David Lang, Annie B Parson",
+		credit: "",
 	},
 	
 	
@@ -142,7 +142,7 @@ let WEBSITE_DATA = [
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
 		link: "",
-		credit: "Brittany Engel-Adams.",
+		credit: "Brittany Engel-Adams",
 	},
 	
 	
