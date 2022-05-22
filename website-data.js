@@ -174,13 +174,13 @@ let WEBSITE_DATA = [
 	
 
 
-			{
-		name: "Ode to Oskar Schlemmer",
-		img: "images/coates.jpg",
-		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
-		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo by Mike Vitelli for Vogue",
-	},
+// 			{
+// 		name: "Ode to Oskar Schlemmer",
+// 		img: "images/coates.jpg",
+// 		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+// 		link: "https://yalemaquette.com/New-Geometries/",
+// 		credit: "photo by Mike Vitelli for Vogue",
+// 	},
 	
 		{		
 		name: "Emergent Landscape  1",
