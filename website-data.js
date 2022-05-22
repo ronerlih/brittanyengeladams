@@ -11,6 +11,16 @@ let WEBSITE_DATA = [
 		
 	
 	
+			{
+				
+		name: "Architecture of Memory",
+		img: "images/aom.png",
+		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+	
 // 	{
 // 		name: "Maquette",
 // 		img: "images/maquettecc.gif",
@@ -30,14 +40,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	{
-		name: "Avatar",
-		img: "images/IMG_9316.JPG", 
-		blurb: " (kinect, xbox, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
-		link: "",
-		credit:"",
-	},
 
 
 	
@@ -120,16 +122,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-			{
-				
-		name: "Architecture of Memory",
-		img: "images/aom.png",
-		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-	
 			{
 		name: "Kinesphere",
 		img: "images/brit_floor_fabric_wow.png",
@@ -153,6 +145,14 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+	{
+		name: "Avatar",
+		img: "images/IMG_9316.JPG", 
+		blurb: " (kinect, xbox, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
+		link: "",
+		credit:"",
+	},
 	
 	{
 		name: "Cape Cod Modern Architecture",
