@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar",
 		img: "images/avatar1.gif", 
-		blurb: "kinect sensor, infrared depth feed, machine learning algorithms, openNI, pose estimation and prediction.",
+		blurb: " (kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"Brittany Engel-Adams",
 	},
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance ",
+		name: "Hand Dance",
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
