@@ -202,9 +202,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Time Loop",
+		name: "Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance in 2018 at Kumble Theater, Brooklyn New York.",
+		blurb: "'Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance 2018 at Kumble Theater, New York City.",
 		link: "",
 		credit: "",
 	},
