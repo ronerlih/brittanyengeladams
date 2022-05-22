@@ -40,8 +40,8 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "BodyMouth",
-		img: "images/harvest.HEIC",
-		blurb: "'BodyMouth' is a work that uses pink trombone (speech synthesis) and turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
+		img: "images/harvest.jpg",
+		blurb: "'BodyMouth' uses pink trombone (speech synthesis) and turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
 		link: "",
 		credit: "",
 	},
