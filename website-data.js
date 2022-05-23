@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 		img: "images/human_robot_3.gif",
 		blurb: "'Human Robot' is a duet between a human and robot, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work for 16 dancers, and 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
-		credit: "",
+		credit: "Choreographery + Engineering + Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 		{
@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		img: "images/maquettemutli.png",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
-		credit: ".",
+		credit: "Choreographery + Engineering + Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 	
@@ -21,9 +21,9 @@ let WEBSITE_DATA = [
 				
 		name: "Architecture of Memory",
 		img: "images/aom.png",
-		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+		credit: "Author + Photographer + Digtial Design: Brittany Engel-Adams.",
 	},
 	
 		{
@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 		img: "images/aom111.png", 
 		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
-		credit:".",
+		credit:"Methodolgy + Practice + Reasearch: Brittany Engel-Adams.",
 	},
 	
 	
@@ -42,9 +42,9 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouthpic.png",
-		blurb: "'BodyMouth' uses pink trombone (speech synthesis) and turns the body into an instrument for speech. Harvestworks TEAM (Technology, Engineering, Art and Music) Lab Residency in New York.",
+		blurb: "'BodyMouth' uses pink trombone (speech synthesis) and maps it to the body as an instrument for speech, made in collaboration with Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
 		link: "",
-		credit: "",
+		credit: "Choreographer: Brittany Engel-Adams.",
 	},
 	
 
@@ -55,7 +55,7 @@ let WEBSITE_DATA = [
 // 		img: "images/test2.png", 
 // 		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
 // 		link: "",
-// 		credit:"photo copyright: openNI cookbook",
+// 		credit:"photo copyright: openNI cookbook.",
 // 	},
 	
 // 		{
@@ -95,39 +95,29 @@ let WEBSITE_DATA = [
 // 		img: "images/barcodeprogram.JPG.",
 // 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-// 		credit: "Curator: Brittany Engel-Adams. Faculty Advisors: Brittany Engel-Adams and Pam Tanowitz",
+// 		credit: "Curator: Brittany Engel-Adams. Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor: Stephanette Schwartz-Smith.",
 // 	},
 	
 	
 
-// 				{
-// 		name: "Rutgers University",
-// 		img: "images/loreepurple.png", 
-// 		blurb: "Concert Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage.",
-// 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-// 		credit: "Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+				{
+		name: "Rutgers University Dance Concert",
+		img: "images/loreepurple.png", 
+		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage.",
+		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+		credit: "Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
+	},
+	
+	
+// 			{
+// 		name: "Tessellation",
+// 		img: "images/red-who_picture1.png",
+// 		blurb: "magazine clippings, collage, javascript.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "Brittany Engel-Adams",
 // 	},
 	
 	
-			{
-		name: "Digital Tessellation 3",
-		img: "images/red-who_picture1.png",
-		blurb: "digital tessellation.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "magazine clippings, javascript",
-	},
-	
-	
-	
-	
-	
-			{
-		name: "Kinesphere",
-		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -137,30 +127,36 @@ let WEBSITE_DATA = [
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
+		credit: "Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater.",
 	},
 	
 	
 	{
-		name: "Digital Tessellation 02",
+		name: "Tessellation",
 		img: "images/wholives.png",
-		blurb: "",
+		blurb: "magazine clippings, collage, javascript.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "magazine clippings, javascript",
+		credit: "Brittany Engel-Adams.",
 	},
 
 	
 	
-	
+			{		
+		name: "Tessellation",
+		img: "images/tesszoom.png", 
+		blurb: "magazine clippings, collage, javascript.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 
 	
 	{
 		name: "Cape Cod Modern Architecture",
 		img: "images/capebook.png",
-		blurb: "Grateful to have been invited as an artist in residence at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.", 
+		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
+		credit: "Midcentury Architecture and Community on the Outer Cape, by Peter McMahon and Christine Cipriani (Metropolis Books, spring 2014)",
 	},
 	
 	
@@ -176,13 +172,7 @@ let WEBSITE_DATA = [
 // 		credit: "photo by Mike Vitelli for Vogue",
 // 	},
 	
-		{		
-		name: "Digital Tessellation 01",
-		img: "images/tesszoom.png", 
-		blurb: "",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "magazine clippings, javascript"
-	},
+
 	
 		
 
@@ -192,23 +182,36 @@ let WEBSITE_DATA = [
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
-		credit: "",
+		credit: "Choreographery and Design: Ron Erlih, Brittany Engel-Adams.",
 	},
+	
 	
 	{
 		name: "Time Loop",
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
 		link: "",
-		credit: "",
+		credit: "Choreographery and Design: Ron Erlih, Brittany Engel-Adams.",
 	},
+	
+	
+			{
+		name: "Kinesphere",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
+		link: "",
+		credit: "3D scan: Brittany Engel-Adams.",
+	},
+	
+	
+	
 	
 			{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "",
+		credit: "Choreographer: Brittany Engel-Adams. Musical Composer: Nico Muhly,
 	},
 	
 	
@@ -217,16 +220,20 @@ let WEBSITE_DATA = [
 		img: "images/farewell2020movhigh.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "",
+		credit: "Concept and Design by Ron Erlih and Brittany Engel-Adams.",
 	},
+	
+	
+	
+	
 
-			{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Transmedia Storytelling in the Age of Proximity",
+// 		img: "images/control.png",
+// 		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -264,12 +271,12 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Bates College Summer Dance Festival (2019)",
-// 		img: "images/Bates2inside.jpeg",
-// 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-// 		credit: "photo copyright: Courtesy of Bates Dance Festival",
-// 	},
+	{
+		name: "Bates College Summer Dance Festival (2019)",
+		img: "images/Bates2inside.jpeg",
+		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
+		credit: "photo copyright: Courtesy of Bates Dance Festival",
+	},
 	
 	
 
