@@ -164,7 +164,6 @@ let WEBSITE_DATA = [
 // 	},
 	
 
-	
 		
 
 	
@@ -189,7 +188,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Kinesphere",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data.'",
 		link: "",
 		credit: "3D scan: Brittany Engel-Adams.",
 	},
@@ -206,6 +205,8 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+
 		{
 		name: "Farewell 2020",
 		img: "images/farewell2020movhigh.gif",
