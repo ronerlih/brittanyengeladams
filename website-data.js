@@ -157,7 +157,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Cape Cod Modern Architecture",
 		img: "images/capebook.png",
-		blurb: "2020-2021 artist residency at CCMHT in Wellfleet MA where I made a film  'Before Zeta' for the Cape Cod Modern House Trust's digital archive.", 
+		blurb: "Grateful to have been invited as an artist in residence at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
