@@ -15,19 +15,19 @@ let WEBSITE_DATA = [
 				
 		name: "Architecture of Memory",
 		img: "images/aom.png",
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+		credit: "Movement Research Journal 55",
 	},
 	
 	
-// 	{
-// 		name: "Maquette",
-// 		img: "images/maquettecc.gif",
-// 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-// 		link: "",
-// 		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips.",
-// 	},
+	{
+		name: "Maquette",
+		img: "images/maquettecc.gif",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: "Brittany Engel-Adams, Ron Erlih in residency at Kugel Gips.",
+	},
 	
 	
 	
@@ -148,10 +148,10 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Re-enactments",
-		img: "images/aomstills.png", 
-		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
-		link: "",
-		credit:".",
+		img: "images/aom111.png", 
+		blurb: "Rendering a Memory interprets and re-enacts individual gestures from family photographs as a way to embody my ancestors..",
+		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
+		credit:"Movement Research Journal 55.",
 	},
 	
 	{
