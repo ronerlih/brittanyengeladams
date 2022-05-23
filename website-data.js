@@ -112,14 +112,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance",
-		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	
 	
 	
 			{
@@ -132,6 +124,14 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+		{
+		name: "Hand Dance",
+		img: "images/hand.jpeg",
+		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	{
