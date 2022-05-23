@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Digital Scan",
-		img: "images/snapshot00.png", 
+		img: "images/aomstills.png", 
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"Re-enactment of a photograph of my great-great grandmother Sue Lemay Cooper standing in Red Bud Baptist Church.",
