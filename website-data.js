@@ -224,7 +224,7 @@ let WEBSITE_DATA = [
 		img: "images/control.png",
 		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
-		credit: "Stacey Levine, Director, Marketing, Control Group",
+		credit: "",
 	},
 	
 	
