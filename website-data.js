@@ -116,9 +116,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance",
 		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater.",
+		credit: "",
 	},
 	
 	
@@ -173,6 +173,14 @@ let WEBSITE_DATA = [
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
 		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
+	},
+	
+	
+	{
+		name: "Bates College Summer Dance Festival (2019)",
+		img: "images/Bates2inside.jpeg",
+		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
+		credit: "Photo courtesy of Bates Dance Festival",
 	},
 	
 	
@@ -272,14 +280,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	
-	
-	{
-		name: "Bates College Summer Dance Festival (2019)",
-		img: "images/Bates2inside.jpeg",
-		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-		credit: "Photo courtesy of Bates Dance Festival",
-	},
+
 	
 	
 
