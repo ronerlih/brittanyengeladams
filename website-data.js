@@ -201,7 +201,7 @@ let WEBSITE_DATA = [
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "Choreography: Brittany Engel-Adams / Musical Composition: Nico Muhly,
+		credit: "Choreography: Brittany Engel-Adams / Musical Composition: Nico Muhly.",
 	},
 	
 	
