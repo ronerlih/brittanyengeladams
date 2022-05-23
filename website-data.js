@@ -103,7 +103,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Emergent Landscape 3",
+		name: "Digital Tessellation 3",
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
@@ -135,9 +135,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Landscape 2",
+		name: "Digital Tessellation 02",
 		img: "images/wholives.png",
-		blurb: "digital tessellation.",
+		blurb: "",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
@@ -147,11 +147,11 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Digital Scan",
+		name: "Re-enactments",
 		img: "images/aomstills.png", 
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
-		credit:"Re-enactment of a photograph of my great-great grandmother Sue Lemay Cooper standing in Red Bud Baptist Church.",
+		credit:".",
 	},
 	
 	{
@@ -176,9 +176,9 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{		
-		name: "Emergent Landscape  1",
+		name: "Digital Tessellation 01",
 		img: "images/tesszoom.png", 
-		blurb: "digital tessellation.",
+		blurb: "",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: ""
 	},
@@ -195,9 +195,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Loop",
+		name: "Time Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "'Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance 2018 at Kumble Theater, New York City.",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
 		link: "",
 		credit: "",
 	},
@@ -205,7 +205,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive in 2014, under the direction of Michael Blake, presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
+		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "",
 	},
