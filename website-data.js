@@ -208,17 +208,20 @@ let WEBSITE_DATA = [
 	
 
 		{
-		name: "Farewell 2020",
+		name:"F arewell 2020",
 		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
+	
+	
+	
 		{
 		name: "Architecture of Memory (Practice)",
 		img: "images/aom111.png", 
-		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
+		blurb: "'Architecture of Memory' is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"Methodolgy + Practice + Reasearch: Brittany Engel-Adams.",
 	},
