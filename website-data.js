@@ -107,7 +107,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+		credit: "magazine clippings, javascript",
 	},
 	
 	
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		img: "images/wholives.png",
 		blurb: "",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
+		credit: "magazine clippings, javascript",
 	},
 
 	
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 		img: "images/tesszoom.png", 
 		blurb: "",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: ""
+		credit: "magazine clippings, javascript"
 	},
 	
 		
