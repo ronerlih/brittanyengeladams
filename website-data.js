@@ -8,7 +8,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+		{
+		name: "Maquette",
+		img: "images/maquettemutli.png",
+		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
+		link: "",
+		credit: ".",
+	},
 	
 	
 			{
@@ -17,17 +23,18 @@ let WEBSITE_DATA = [
 		img: "images/aom.png",
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Movement Research Journal 55",
+		credit: "",
+	},
+	
+		{
+		name: "Architecture of Memory",
+		img: "images/aom111.png", 
+		blurb: "Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
+		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
+		credit:".",
 	},
 	
 	
-	{
-		name: "Maquette",
-		img: "images/maquettemutli.png",
-		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
-		link: "",
-		credit: ".",
-	},
 	
 	
 	
@@ -146,13 +153,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Re-enactments",
-		img: "images/aom111.png", 
-		blurb: "Rendering a Memory interprets and re-enacts individual gestures from family photographs as a way to embody my ancestors..",
-		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
-		credit:"Movement Research Journal 55.",
-	},
+
 	
 	{
 		name: "Cape Cod Modern Architecture",
