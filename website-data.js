@@ -68,7 +68,7 @@ let WEBSITE_DATA = [
 // 		img: "images/capebook.png",
 // 		blurb: " 2020-2021 artist residency at CCMHT where I made film titled 'Before Zeta' for their digital archive and The Provincetown Independent wrote a write up about it: 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water.'", 
 // 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-// 		credit: "pictured the book, Midcentury Architecture and Community on the Outer Cape, by Peter McMahon ",
+// 		credit: "",
 // 	},
 	
 	
@@ -107,7 +107,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "digital tessellation.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
+		credit: "",
 	},
 	
 	
@@ -151,7 +151,7 @@ let WEBSITE_DATA = [
 		img: "images/snapshot00.png", 
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
-		credit:"Re-enactment of my great-great grandmother Sue Lemay Cooper standing in Red Bud Baptist Church.",
+		credit:"Re-enactment of a photograph of my great-great grandmother Sue Lemay Cooper standing in Red Bud Baptist Church.",
 	},
 	
 	{
