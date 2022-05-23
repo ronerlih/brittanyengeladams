@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 				
 		name: "Architecture of Memory",
 		img: "images/aom.png",
-		blurb: "Is a research project that places loss and rupture as opportunity for growth and transformation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data. '",
 		link: "",
-		credit: "Brittany Engel-Adams",
+		credit: "",
 	},
 	
 	
@@ -147,9 +147,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Avatar",
+		name: "Digital Scan",
 		img: "images/IMG_9316.JPG", 
-		blurb: " (kinect, xbox, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
+		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.",
 		link: "",
 		credit:"",
 	},
@@ -214,7 +214,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell 2020",
 		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk with tea session to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
