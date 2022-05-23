@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 		img: "images/aom.png",
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Author + Photographer + Digtial Design: Brittany Engel-Adams.",
+		credit: "Author + Photographer + Digital Design: Brittany Engel-Adams.",
 	},
 	
 		{
@@ -182,7 +182,7 @@ let WEBSITE_DATA = [
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
-		credit: "Choreographery and Design: Ron Erlih, Brittany Engel-Adams.",
+		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
 	},
 	
 	
@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
 		link: "",
-		credit: "Choreographery and Design: Ron Erlih, Brittany Engel-Adams.",
+		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
 	},
 	
 	
@@ -211,7 +211,7 @@ let WEBSITE_DATA = [
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "Choreographer: Brittany Engel-Adams. Musical Composer: Nico Muhly,
+		credit: "Choreography: Brittany Engel-Adams / Musical Composition: Nico Muhly,
 	},
 	
 	
@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 		img: "images/farewell2020movhigh.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'?.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "Concept and Design by Ron Erlih and Brittany Engel-Adams.",
+		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 	
@@ -275,7 +275,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Summer Dance Festival (2019)",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
-		credit: "photo copyright: Courtesy of Bates Dance Festival",
+		credit: "Photo courtesy of Bates Dance Festival",
 	},
 	
 	
