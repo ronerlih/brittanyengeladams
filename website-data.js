@@ -155,13 +155,13 @@ let WEBSITE_DATA = [
 	
 
 
-// 			{
-// 		name: "Ode to Oskar Schlemmer",
-// 		img: "images/coates.jpg",
-// 		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
-// 		link: "https://yalemaquette.com/New-Geometries/",
-// 		credit: "photo by Mike Vitelli for Vogue",
-// 	},
+			{
+		name: "Ode to Oskar Schlemmer",
+		img: "images/coates.jpg",
+		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
+		link: "https://yalemaquette.com/New-Geometries/",
+		credit: "photo by Mike Vitelli for Vogue",
+	},
 	
 
 		
@@ -238,17 +238,32 @@ let WEBSITE_DATA = [
 	
 	
 
-// 			{
-// 		name: "Transmedia Storytelling in the Age of Proximity",
-// 		img: "images/control.png",
-// 		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-// 		link: "",
-// 		credit: "",
-// 	},
+			{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "",
+		credit: "",
+	},
 	
 	
+		{
+		name: "The Young and The Banging (publication)",
+		img: "images/abookappearance.jpg",
+		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike. THE YOUNG AND THE BANGING is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating NEW GENERATION born into the realms of fashion, art and success.’THE YOUNG AND THE BANGING exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process. This installment involves downtown NYC released on September 4th 2008.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "photo by Louise Erhard",
+	},
 	
-	
+		
+			{
+				
+	       name: " American Health and Wellness, publication (2010)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		link: "",
+		credit: "photo by Robert Maxwell",
+	},
 
 	
 	
@@ -508,22 +523,8 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-// 	{
-// 		name: "The Young and The Banging, publication (2011)",
-// 		img: "images/abookappearance.jpg",
-// 		blurb: "The Young and Banging yearbook style book featuring the emerging young artist influencing downtown art scene in New York City. ",
-// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-// 		credit: "photo copyright: Courtesy of Louise Erhard",
-// 	},
+
 	
-	
-// 			{
-				
-// 	       name: " American Health and Wellness, publication (2010)",
-// 		img: "images/realsimplemagazineinside.jpeg",
-// 		blurb: "Feature in the American Health and Wellness 'Real Simple' Magazine in the section on Flexibility.(10 easy minutes a day stretching to help prevent injuries or even illness.) By Sharon Tanenbaum.",
-// 		link: "",
-// 		credit: "photo copyright: Courtesy of Robert Maxwell",
-// 	},
+
 	
 ];
