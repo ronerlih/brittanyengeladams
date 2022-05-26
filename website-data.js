@@ -227,7 +227,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory (Practice)",
+		name: "Architecture of Memory",
 		img: "images/aom111.png", 
 		blurb: "'Architecture of Memory' is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
@@ -248,7 +248,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "The Young and The Banging (publication)",
+		name: "The Young and The Banging (Publication)",
 		img: "images/abookappearance.jpg",
 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike. THE YOUNG AND THE BANGING is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating NEW GENERATION born into the realms of fashion, art and success.’THE YOUNG AND THE BANGING exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process. This installment involves downtown NYC released on September 4th 2008.",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
@@ -258,9 +258,9 @@ let WEBSITE_DATA = [
 		
 			{
 				
-	       name: " American Health and Wellness, publication (2010)",
+	       name: " American Health and Wellness (Publication)",
 		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
 		link: "",
 		credit: "photo by Robert Maxwell",
 	},
