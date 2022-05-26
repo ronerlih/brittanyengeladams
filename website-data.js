@@ -110,7 +110,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+	{
+		name: "New York University, Tisch Summer Dance Residency",
+		img: "images/skirlball.jpeg",
+		blurb: "Ballet Teacher at NYU's Summer Dance Residency Festival in 2021.",
+		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
+		credit: ".",
+	},
 	
 	
 		{
