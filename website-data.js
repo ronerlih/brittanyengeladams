@@ -177,9 +177,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Bates College Summer Dance Festival (2019)",
+		name: "Bates College Summer Dance Festival",
 		img: "images/Bates2inside.jpeg",
-		blurb: "Horton Workshop for the Bates Summer Dance Festival at Bates College in Lewiston, Maine",
+		blurb: "Horton Workshop at Bates Summer Dance Festival in 2019.",
 		credit: "Photo courtesy of Bates Dance Festival",
 	},
 	
