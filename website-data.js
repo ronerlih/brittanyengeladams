@@ -17,6 +17,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+		{
+		name: "Tessellation",
+		img: "images/wholives.png",
+		blurb: "magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
+	
 	
 			{
 				
@@ -123,32 +131,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	{
-		name: "Tessellation",
-		img: "images/wholives.png",
-		blurb: "magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
-	},
 
-	
-	
-
-	
-
-	
-	{
-		name: "Cape Cod Modern Architecture",
-		img: "images/capebook.png",
-		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.Midcentury Architecture and Community on the Outer Cape, by Peter McMahon and Christine Cipriani (Metropolis Books, spring 2014)", 
-		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-	
-	
-
-	
 
 
 			{
@@ -159,7 +142,13 @@ let WEBSITE_DATA = [
 		credit: "photo by Mike Vitelli for Vogue",
 	},
 	
-
+	{
+		name: "Cape Cod Modern Architecture",
+		img: "images/capebook.png",
+		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.Midcentury Architecture and Community on the Outer Cape, by Peter McMahon and Christine Cipriani (Metropolis Books, spring 2014)", 
+		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
 
 	
 	
@@ -171,15 +160,9 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
-		link: "",
-		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
-	},
 	
 	
+
 		{
 		name: "New York University, Tisch Summer Dance Residency",
 		img: "images/skirlball.jpeg",
@@ -189,7 +172,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+	{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
+		link: "",
+		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
+	},
 	
 			{
 		name: "Shower",
@@ -202,13 +191,7 @@ let WEBSITE_DATA = [
 	
 	
 
-		{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
-	},
+	
 	
 			{		
 		name: "Tessellation",
@@ -217,6 +200,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams.",
 	},
+	
 	
 	
 			{
@@ -228,9 +212,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-	
+
 	
 	
 		{
@@ -246,18 +228,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-
-			{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "",
-		credit: "",
+	
+		{
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
 	},
-	
-	
-	
-	
 	
 	
 	
@@ -270,10 +248,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-	
-		
 			{
 				
 	       name: " American Health and Wellness (Publication)",
@@ -283,17 +257,19 @@ let WEBSITE_DATA = [
 		credit: "photo by Robert Maxwell",
 	},
 
-
 	
 	
-		
-	{
-		name: "Youtube Improv",
-		img: "images/YOUTUBEIMPROVPRESS.JPG",
-		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
-		link: "https://www.artconnect.com/mina/events/youtube-improv",
-		credit: ""
+	
+			{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "",
+		credit: "",
 	},
+	
+	
+	
 	
 	  {
 		name: "YouTube Improv",
@@ -302,6 +278,22 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
 	},
+	
+	
+	
+	
+	
+	
+		{
+		name: "Youtube Improv",
+		img: "images/YOUTUBEIMPROVPRESS.JPG",
+		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		link: "https://www.artconnect.com/mina/events/youtube-improv",
+		credit: ""
+	},
+	
+	
+	
 	
 	
 // 		{
