@@ -100,13 +100,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-// 			{
-// 		name: "Tessellation",
-// 		img: "images/red-who_picture1.png",
-// 		blurb: "magazine clippings, collage, javascript.",
-// 		link: "https://www.brittanyengeladams.com/red-who.html",
-// 		credit: "Brittany Engel-Adams",
-// 	},
+			{
+		name: "Tessellation",
+		img: "images/red-who_picture1.png",
+		blurb: "magazine clippings, collage, javascript.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "Brittany Engel-Adams",
+	},
 	
 	
 	
