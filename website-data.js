@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Maquette 2021",
-		img: "images/many.JPG",
+		img: "images/robotprototype.jpeg",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
 		credit: "Choreographery + Engineer + Design: Ron Erlih and Brittany Engel-Adams.",
