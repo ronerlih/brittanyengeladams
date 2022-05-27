@@ -104,15 +104,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+
 	
-	{
-		name: "New York University, Tisch Summer Dance Residency",
-		img: "images/skirlball.jpeg",
-		blurb: "Ballet Teacher at NYU's Summer Dance Residency Festival in 2021.",
-		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
-		credit: "Photo: NYU Skirball.",
+	
+			{
+		name: "Kinesphere",
+		img: "images/brit_floor_fabric_wow.png",
+		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data.'",
+		link: "",
+		credit: "3D scan: Brittany Engel-Adams.",
 	},
-	
 	
 		{
 		name: "Hand Dance",
@@ -200,12 +201,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Kinesphere",
-		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data.'",
-		link: "",
-		credit: "3D scan: Brittany Engel-Adams.",
+		{
+		name: "New York University, Tisch Summer Dance Residency",
+		img: "images/skirlball.jpeg",
+		blurb: "Ballet Teacher at NYU's Summer Dance Residency Festival in 2021.",
+		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
+		credit: "Photo: NYU Skirball.",
 	},
 	
 	
@@ -231,6 +232,8 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
 			{
 				
 		name: "Architecture of Memory - Archival Research",
@@ -240,6 +243,11 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
+	
+	
+	
 		{
 		name: "Architecture of Memory",
 		img: "images/aom111.png", 
@@ -247,6 +255,8 @@ let WEBSITE_DATA = [
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"",
 	},
+	
+	
 	
 	
 	
@@ -261,6 +271,11 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
+	
+	
+	
 		{
 		name: "The Young and The Banging (Publication)",
 		img: "images/abookappearance.jpg",
@@ -268,6 +283,10 @@ let WEBSITE_DATA = [
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "photo by Louise Erhard",
 	},
+	
+	
+	
+	
 	
 		
 			{
