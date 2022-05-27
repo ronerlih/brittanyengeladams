@@ -16,14 +16,7 @@ let WEBSITE_DATA = [
 		credit: "Choreographery + Engineer + Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
-			{
-				
-		name: "Architecture of Memory - Archival Research",
-		img: "images/woodcut2.png",
-		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: ".",
-	},
+	
 	
 			{
 				
@@ -238,14 +231,21 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+				
+		name: "Architecture of Memory - Archival Research",
+		img: "images/woodcut2.png",
+		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 		{
 		name: "Architecture of Memory",
 		img: "images/aom111.png", 
-		blurb: "'Architecture of Memory' is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
+		blurb: "'Architecture of Memory' is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
-		credit:"Methodolgy + Practice + Reasearch: Brittany Engel-Adams.",
+		credit:"",
 	},
 	
 	
