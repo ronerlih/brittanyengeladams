@@ -42,13 +42,13 @@ let WEBSITE_DATA = [
 
 
 	
-// 	{
-// 		name: "Skeletal Avatar:",
-// 		img: "images/test2.png", 
-// 		blurb: "(kinect, openNI) Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers with the artist. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation.'",
-// 		link: "",
-// 		credit:"photo copyright: openNI cookbook.",
-// 	},
+	{
+		name: "Mapping - Proprioceptive Research",
+		img: "images/test2.png", 
+		blurb: "Iterative studies of motion using hacked motion-capture technology (Kinect) and rendering my spatial-data into 3D scans and skeletal avatars. These movement studies were generated during artist residencies and COVID confinement with my collaborator Ron Erlih. The Kinect detects my body and represents it as a skeletal avatar. The infrared sensor of the kinect  affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+		link: "",
+		credit:"",
+	},
 	
 // 		{
 // 		name: "Requiem. Rain Portrait (2020):",
@@ -89,9 +89,9 @@ let WEBSITE_DATA = [
 				{
 		name: "Rutgers University Dance Concert",
 		img: "images/loreepurple.png", 
-		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage.",
+		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-		credit: "Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
+		credit: "",
 	},
 	
 	
