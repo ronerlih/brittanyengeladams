@@ -236,7 +236,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory",
 		img: "images/aom111.png", 
-		blurb: "'Architecture of Memory' is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice.",
+		blurb: "'Architecture of Memory' is an ancestral archival research project, inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"",
 	},
