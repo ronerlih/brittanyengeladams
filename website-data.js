@@ -18,9 +18,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Tessellation",
+		name: "Emergent Landscape 2",
 		img: "images/wholives.png",
-		blurb: "magazine clippings, collage.",
+		blurb: "Tessellation, magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "Brittany Engel-Adams.",
 	},
@@ -104,9 +104,9 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Tessellation",
+		name: "Emergent Landscape 1",
 		img: "images/red-who_picture1.png",
-		blurb: "magazine clippings, collage.",
+		blurb: "Tessellation, magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "Brittany Engel-Adams",
 	},
@@ -194,9 +194,9 @@ let WEBSITE_DATA = [
 	
 	
 			{		
-		name: "Tessellation",
+		name: "Emergent Landscape 3",
 		img: "images/tesszoom.png", 
-		blurb: "magazine clippings, collage.",
+		blurb: "Tessellation, magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "Brittany Engel-Adams.",
 	},
