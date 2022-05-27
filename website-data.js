@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Archival Research",
+		name: "Architecture of Memory - Archival Research",
 		img: "images/woodcut.jpg",
 		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Architecture of Memory",
+		name: "Architecture of Memory - Motion Capture Research",
 		img: "images/aom.png",
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
