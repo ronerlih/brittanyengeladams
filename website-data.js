@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "Mapping - Proprioceptive Research",
+		name: "Mapping (Proprioceptive Research)",
 		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders my spatial-data as 3D scans and skeletal avatars, made in collaborator with Ron Erlih. The infrared sensor of the kinect affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
 		link: "",
@@ -234,9 +234,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory",
+		name: "Architecture of Memory (Publication)",
 		img: "images/aom111.png", 
-		blurb: "'Architecture of Memory' is an ancestral archival research project, inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
+		blurb: "'Architecture of Memory' is an archival research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"",
 	},
@@ -247,7 +247,7 @@ let WEBSITE_DATA = [
 	
 				{
 				
-		name: "Architecture of Memory - Archival Research",
+		name: "Architecture of Memory (Archival Research)",
 		img: "images/woodcut2.png",
 		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
