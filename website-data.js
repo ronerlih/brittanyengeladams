@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Tessellation",
 		img: "images/red-who_picture1.png",
-		blurb: "magazine clippings, collage, javascript.",
+		blurb: "magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "Brittany Engel-Adams",
 	},
@@ -127,20 +127,14 @@ let WEBSITE_DATA = [
 	{
 		name: "Tessellation",
 		img: "images/wholives.png",
-		blurb: "magazine clippings, collage, javascript.",
+		blurb: "magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "Brittany Engel-Adams.",
 	},
 
 	
 	
-			{		
-		name: "Tessellation",
-		img: "images/tesszoom.png", 
-		blurb: "magazine clippings, collage, javascript.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "Brittany Engel-Adams.",
-	},
+
 	
 
 	
@@ -216,7 +210,13 @@ let WEBSITE_DATA = [
 		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
 	},
 	
-	
+			{		
+		name: "Tessellation",
+		img: "images/tesszoom.png", 
+		blurb: "magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 	
 			{
