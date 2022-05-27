@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Mapping - Proprioceptive Research",
-		img: "images/test2.png", 
+		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
 		blurb: "Iterative studies of motion using hacked motion-capture technology (Kinect) and rendering my spatial-data into 3D scans and skeletal avatars. These movement studies were generated during artist residencies and COVID confinement with my collaborator Ron Erlih. The Kinect detects my body and represents it as a skeletal avatar. The infrared sensor of the kinect  affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
 		link: "",
 		credit:"",
