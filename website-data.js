@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 		img: "images/human_robot_3.gif",
 		blurb: "'Human Robot' is a duet between a human and robot, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work for 16 dancers, and 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
-		credit: "Choreographery + Engineer + Design: Ron Erlih and Brittany Engel-Adams.",
+		credit: "Choreography + Software/ Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 		{
@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		img: "images/robotprototype.jpeg",
 		blurb: "Inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art. The choreography of the Maquette echoes this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it over time.",
 		link: "",
-		credit: "Choreographery + Engineer + Design: Ron Erlih and Brittany Engel-Adams.",
+		credit: "Choreography + Software/ Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 	
@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 		img: "images/aom.png",
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Author + Photographer + Digital Design: Brittany Engel-Adams.",
+		credit: "Author Brittany Engel-Adams.",
 	},
 	
 
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/bodymouthpic.png",
 		blurb: "'BodyMouth' uses pink trombone (speech synthesis) and maps it to the body as an instrument for speech, made in collaboration with Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
 		link: "",
-		credit: "Choreographer: Brittany Engel-Adams.",
+		credit: "Choreography Brittany Engel-Adams.",
 	},
 	
 
@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 // 		img: "images/barcodeprogram.JPG.",
 // 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-// 		credit: "Curator: Brittany Engel-Adams. Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor: Stephanette Schwartz-Smith.",
+// 		credit: "Curator/ Brittany Engel-Adams. Faculty Advisors/ Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor/ Stephanette Schwartz-Smith.",
 // 	},
 	
 	
@@ -118,9 +118,9 @@ let WEBSITE_DATA = [
 			{
 		name: "Kinesphere",
 		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' is a color rendering of the 'normal vector - the perpendicular direction from each plane of my body made with mesh lab using spatial-data.'",
+		blurb: "'Kinesphere' a color rendering of the 'normal vector - the perpendicular direction from each plane of my body.'",
 		link: "",
-		credit: "3D scan: Brittany Engel-Adams.",
+		credit: "self-portrait of Brittany Engel-Adams.",
 	},
 	
 		{
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		img: "images/coates.jpg",
 		blurb: "Yale Maquette New Geometries Dance and architecture in a changed world - Conversation between Emily Coates and Max Wirsing about Performa 19 Opening Night Gala Celebrating 100 Years of Bauhaus and Oskar Schlemmer's legacy in The Yale Maquette New Geometries: Dance and architecture in a changed world.",
 		link: "https://yalemaquette.com/New-Geometries/",
-		credit: "photo by Mike Vitelli for Vogue",
+		credit: "photograph by Mike Vitelli for Vogue",
 	},
 	
 	{
@@ -156,7 +156,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Summer Dance Festival",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Horton Workshop at Bates Summer Dance Festival in 2019.",
-		credit: "Photo courtesy of Bates Dance Festival",
+		credit: "Photo by Bates Dance Festival",
 	},
 	
 		
@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 		img: "images/abookappearance.jpg",
 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photo by Louise Erhard",
+		credit: "photograph by Louise Erhard",
 	},
 	
 	
@@ -175,7 +175,7 @@ let WEBSITE_DATA = [
 		img: "images/realsimplemagazineinside.jpeg",
 		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
 		link: "",
-		credit: "photo by Robert Maxwell",
+		credit: "Photograph by Robert Maxwell",
 	},
 
 	
@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 		img: "images/skirlball.jpeg",
 		blurb: "Ballet Teacher at NYU's Summer Dance Residency Festival in 2021.",
 		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
-		credit: "Photo: NYU Skirball.",
+		credit: "Photo from class at NYU Skirball.",
 	},
 	
 	
@@ -195,7 +195,7 @@ let WEBSITE_DATA = [
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
 		link: "",
-		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
+		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 			{
@@ -203,7 +203,7 @@ let WEBSITE_DATA = [
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "'Shower' is a performative work developed during The Joffrey New York City Jazz & Contemporary Summer Intensive presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "Choreography: Brittany Engel-Adams / Musical Composition: Nico Muhly.",
+		credit: "Choreography by Brittany Engel-Adams",
 	},
 	
 	
@@ -259,7 +259,7 @@ let WEBSITE_DATA = [
 		img: "images/farewell2020movhigh.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "Concept and Design: Ron Erlih and Brittany Engel-Adams.",
+		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 	
@@ -268,7 +268,7 @@ let WEBSITE_DATA = [
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
-		credit: "Choreography and Design: Ron Erlih, Brittany Engel-Adams.",
+		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
 	
 	
