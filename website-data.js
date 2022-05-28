@@ -130,7 +130,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Kinesphere",
+		name: "Kinesphere (digital scan)",
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' a color rendering of the 'normal vector - the perpendicular direction from each plane of my body.'",
 		link: "",
@@ -242,7 +242,7 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "Youtube Improv - Research",
+		name: "Youtube Improv (Research)",
 		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
@@ -275,7 +275,7 @@ let WEBSITE_DATA = [
 		img: "images/peterjayvideothumb.jpeg",
 		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country. During the Joffrey NYC Jazz & Contemporary Summer Intensive in 2014, I choreographed a performative work inspired by Composer Nico Muhly’s song 'Shower' from the album Mother Tongue: ll. Presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "Choreography by Brittany Engel-Adams",
+		credit: "",
 	},
 	
 	
@@ -284,7 +284,7 @@ let WEBSITE_DATA = [
 		img: "images/farewell2020movhigh.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "https://ronerlih.github.io/2020/",
-		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
+		credit: "",
 	},
 	
 		{
