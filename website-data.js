@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Bates College Summer Dance Festival Faculty",
 		img: "images/Bates2inside.jpeg",
-		blurb: "Horton Workshop at Bates Summer Dance Festival in 2019.",
+		blurb: "Bates Summer Dance Faculty in 2019 where I led a Horton Workshop. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
 		credit: "Photo by Bates Dance Festival",
 	},
 	
