@@ -37,6 +37,8 @@ let WEBSITE_DATA = [
 	
 
 	
+
+	
 	
 	
 		{
@@ -49,6 +51,15 @@ let WEBSITE_DATA = [
 	
 
 
+				{
+		name: "Rutgers University Dance Concert",
+		img: "images/loreepurple.png", 
+		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
+		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+		credit: "",
+	},
+	
+	
 	
 	{
 		name: "Mapping (Proprioceptive Research)",
@@ -94,13 +105,6 @@ let WEBSITE_DATA = [
 	
 	
 
-				{
-		name: "Rutgers University Dance Concert",
-		img: "images/loreepurple.png", 
-		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
-		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-		credit: "",
-	},
 	
 	
 			{
@@ -141,6 +145,9 @@ let WEBSITE_DATA = [
 		link: "https://yalemaquette.com/New-Geometries/",
 		credit: "photograph by Mike Vitelli for Vogue",
 	},
+	
+	
+	
 	
 	{
 		name: "Cape Cod Modern Architecture",
@@ -226,7 +233,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		blurb: "LTED (proximity technology from Qualcomm 2013). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
 		credit: "",
 	},
@@ -236,7 +243,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/aom111.png", 
-		blurb: "'Architecture of Memory' is an archival research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
+		blurb: "'Architecture of Memory' (2020) is an archival research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"",
 	},
@@ -266,7 +273,7 @@ let WEBSITE_DATA = [
 	  {
 		name: "YouTube Improv",
 		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
+		blurb: "YouTube Improv (2018) is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
 		link: "",
 		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
