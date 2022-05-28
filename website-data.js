@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 	  {
 		name: "YouTube Improv",
 		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv (2018) is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University at the Victoria J. Mastrobuono Theater.",
+		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
 		link: "",
 		credit: "",
 	},
@@ -266,7 +266,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv (Webpage)",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. The webpage accumulates more and more videos causing the page to go into overdrive and eventually crash.",
+		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly. The webpage accumulates more and more videos causing the page to go into overdrive and eventually crash.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
