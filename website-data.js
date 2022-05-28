@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Architecture of Memory - Motion Capture Research",
+		name: "Architecture of Memory (self-portraiture)",
 		img: "images/aom.png",
 		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 
 
 				{
-		name: "Rutgers University Dance Concert",
+		name: "Rutgers University Dance Concert (Curator)",
 		img: "images/loreepurple.png", 
 		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
@@ -134,7 +134,7 @@ let WEBSITE_DATA = [
 		img: "images/brit_floor_fabric_wow.png",
 		blurb: "'Kinesphere' a color rendering of the 'normal vector - the perpendicular direction from each plane of my body.'",
 		link: "",
-		credit: "self-portrait of Brittany Engel-Adams.",
+		credit: "",
 	},
 	
 		{
@@ -173,7 +173,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Summer Dance Festival Faculty",
 		img: "images/Bates2inside.jpeg",
 		blurb: "Bates Summer Dance Faculty in 2019 where I led a Horton Workshop. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		credit: "Photo by Bates Dance Festival",
+		credit: "Photo courtesy of Bates Dance Festival",
 	},
 	
 		
@@ -212,7 +212,7 @@ let WEBSITE_DATA = [
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
 		link: "",
-		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
+		credit: ".",
 	},
 	
 	
@@ -235,28 +235,26 @@ let WEBSITE_DATA = [
 			{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm 2013). The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
 		credit: "",
 	},
 
 	
-	
 		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/aom111.png", 
-		blurb: "'Architecture of Memory' (2020) is an archival research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
-		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
-		credit:"",
+		name: "Youtube Improv - Research",
+		img: "images/YOUTUBEIMPROVPRESS.JPG",
+		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		link: "",
+		credit: ""
 	},
-	
 	
 	
 	
 	
 				{
 				
-		name: "Architecture of Memory (Archival Research)",
+		name: "Architecture of Memory (Family Archive)",
 		img: "images/woodcut2.png",
 		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -289,17 +287,16 @@ let WEBSITE_DATA = [
 		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
 	
-	
-	
-	
-	
 		{
-		name: "Youtube Improv",
-		img: "images/YOUTUBEIMPROVPRESS.JPG",
-		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
-		link: "",
-		credit: ""
+		name: "Architecture of Memory (Publication)",
+		img: "images/aom111.png", 
+		blurb: "'Architecture of Memory' (2020) is an archival research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.",
+		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
+		credit:"",
 	},
+	
+	
+	
 	
 	
 	
