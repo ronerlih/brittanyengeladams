@@ -126,7 +126,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance",
 		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater",
+		blurb: "Hand Dance (2020) is a film commissioned by The Guggenheim Works and Process, made in collaboration between composer David Lang, Annie-B Parson, Ron Erlih, and  Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. om a database of hand images.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
