@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Cape Cod Modern Architecture",
 		img: "images/capebook.png",
-		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.Midcentury Architecture and Community on the Outer Cape, by Peter McMahon and Christine Cipriani (Metropolis Books, spring 2014)", 
+		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
