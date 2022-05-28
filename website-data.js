@@ -126,7 +126,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance",
 		img: "images/hand.jpeg",
-		blurb: "Hand Dance (2020) is a film commissioned by The Guggenheim Works and Process, made in collaboration between composer David Lang, Annie-B Parson, Ron Erlih, and  Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan. The song inspired an intimate hand dance set in Ron and I’s kitchen in Brooklyn. Throughout the film, hands sourced from public data sets are overlaid on top of Brittany’s hand gestures, suggesting a larger world beyond their home. om a database of hand images.",
+		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -273,6 +273,13 @@ let WEBSITE_DATA = [
 	
 	
 	
+		{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YOUTUBEIMPROVPRESS.JPG",
+		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. Over time, the webpage increases the amount of videos it plays at once, causing the page to gradually crash.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 	
 	
 	
@@ -280,7 +287,7 @@ let WEBSITE_DATA = [
 		name: "Youtube Improv",
 		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
-		link: "https://www.artconnect.com/mina/events/youtube-improv",
+		link: "",
 		credit: ""
 	},
 	
