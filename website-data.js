@@ -208,7 +208,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Shower",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "'Shower' is a performative work made in collaboration with the talented students at the Joffrey Ballet School in NYC.  Composer Nico Muhly’s song ‘Shower’ from his album MotherTongue inspired the ensemble through quiet and  explosive movement sequences. Presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
+		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.The performative work 'Shower' was created for the talented students at the Joffrey Jazz and Contemporary Summer intensive. Inspired by Composer Nico Muhly’s song ‘Shower’ from the album Mother Tongue: ll, the song combines sacred and orchestral melodies. Presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "Choreography by Brittany Engel-Adams",
 	},
