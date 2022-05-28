@@ -273,9 +273,9 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Shower",
+		name: "Joffrey NYC Jazz & Contemporary Summer Intensive (2014)",
 		img: "images/peterjayvideothumb.jpeg",
-		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.The performative work 'Shower' was created for the talented students at the Joffrey Jazz and Contemporary Summer intensive. Inspired by Composer Nico Muhly’s song ‘Shower’ from the album Mother Tongue: ll, the song combines sacred and orchestral melodies. Presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
+		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country. During the Joffrey NYC Jazz & Contemporary Summer Intensive in 2014 I choreographed 'Shower' a performative work inspired by Composer Nico Muhly’s song ‘Shower’ from the album Mother Tongue: ll. Presented at The Peter Jay Sharp Theatre's Symphony Space in New York City.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "Choreography by Brittany Engel-Adams",
 	},
