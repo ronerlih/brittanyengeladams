@@ -8,6 +8,16 @@ let WEBSITE_DATA = [
 		credit: "Choreography + Software/ Ron Erlih and Brittany Engel-Adams.",
 	},
 	
+	
+	
+			{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
 		{
 		name: "Maquette 2021",
 		img: "images/robotprototype.jpeg",
@@ -219,15 +229,6 @@ let WEBSITE_DATA = [
 
 	
 	
-			{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "Brittany Engel-Adams.",
-	},
-	
-	
 	
 
 		
@@ -263,11 +264,11 @@ let WEBSITE_DATA = [
 	},
 		
 		{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. The webpage accumulates and increases the amount of videos it plays at once causing the page to go into overdrive and eventually crash.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
 	},
 	
 	
@@ -280,15 +281,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
 		{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. The webpage accumulates and increases the amount of videos it plays at once causing the page to go into overdrive and eventually crash.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "Made in collaboration between Ron Erlih and Brittany Engel-Adams.",
 	},
+	
+	
 	
 	
 	
