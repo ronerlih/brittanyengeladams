@@ -283,7 +283,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Youtube Improv (Webpage)",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. Over time, the webpage increases the amount of videos it plays at once, causing the page to gradually crash.",
+		blurb: "YouTube Improv (2018) is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation. The webpage accumulates and increases the amount of videos it plays at once causing the page to go into overdrive and eventually crash.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
