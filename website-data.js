@@ -52,9 +52,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth (Artist Residency)",
+		name: "BodyMouth",
 		img: "images/bodymouthpic.png",
-		blurb: "'BodyMouth' (speech synthesis) Uses the body as an instrument for speech, made in collaboration with Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
+		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
 		link: "",
 		credit: "",
 	},
