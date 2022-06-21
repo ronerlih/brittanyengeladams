@@ -113,13 +113,13 @@ let WEBSITE_DATA = [
 
 	
 	
-			{
-		name: "Kinesphere (digital scan)",
-		img: "images/brit_floor_fabric_wow.png",
-		blurb: "'Kinesphere' a color rendering of the 'normal vector - the perpendicular direction from each plane of my body.'",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Kinesphere (digital scan)",
+// 		img: "images/brit_floor_fabric_wow.png",
+// 		blurb: "'Kinesphere' a color rendering of the 'normal vector - the perpendicular direction from each plane of my body.'",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 		{
 		name: "Hand Dance",
@@ -140,7 +140,13 @@ let WEBSITE_DATA = [
 // 		credit: "photograph by Mike Vitelli for Vogue",
 // 	},
 	
-	
+// 		{
+// 		name: "The Young and The Banging (Publication)",
+// 		img: "images/abookappearance.jpg",
+// 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
+// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+// 		credit: "photograph by Louise Erhard",
+// 	},
 	
 				{		
 		name: "Emergent Landscape 3",
@@ -170,13 +176,6 @@ let WEBSITE_DATA = [
 	},
 	
 		
-		{
-		name: "The Young and The Banging (Publication)",
-		img: "images/abookappearance.jpg",
-		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photograph by Louise Erhard",
-	},
 	
 	
 			{
