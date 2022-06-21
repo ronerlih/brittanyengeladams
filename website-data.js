@@ -54,9 +54,9 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth (Artist Residency)",
 		img: "images/bodymouthpic.png",
-		blurb: "'BodyMouth' uses pink trombone (speech synthesis) and maps it to the body as an instrument for speech, made in collaboration with Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
+		blurb: "'BodyMouth' (speech synthesis) Uses the body as an instrument for speech, made in collaboration with Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
 		link: "",
-		credit: "Choreography Brittany Engel-Adams.",
+		credit: "",
 	},
 	
 
