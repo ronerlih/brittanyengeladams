@@ -26,15 +26,7 @@ let WEBSITE_DATA = [
 		credit: "Choreography + Software/ Ron Erlih and Brittany Engel-Adams.",
 	},
 	
-	
-		{
-		name: "Emergent Landscape 2",
-		img: "images/wholives.png",
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
-	},
-	
+
 	
 			{
 				
@@ -240,6 +232,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+			{
+		name: "Emergent Landscape 2",
+		img: "images/wholives.png",
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 		{
 		name: "Youtube Improv (Research)",
@@ -254,7 +253,7 @@ let WEBSITE_DATA = [
 	
 				{
 				
-		name: "Architecture of Memory (Family Archive)",
+		name: "Architecture of Memory (Archive)",
 		img: "images/woodcut2.png",
 		blurb: "This remarkable ‘Woodcut’ aka ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. The original Mizrach is in Israel and belongs to my relatives. Manashewitz made one for each of his grandchildren when they were born. This Mizrach  was made for my grandmother Judy Engel, aka ‘Bubie’ (in Yiddish). Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
