@@ -213,14 +213,6 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-		{
-		name: "Hand Dance",
-		img: "images/handdancethumb.png",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 
 		
 	
@@ -280,6 +272,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+		{
+		name: "Hand Dance",
+		img: "images/handdancethumb.png",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/MRPJ55_CoverImage.jpg", 
