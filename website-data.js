@@ -168,24 +168,24 @@ let WEBSITE_DATA = [
 
 	
 	
-	{
-		name: "Bates College Summer Dance Festival Faculty",
-		img: "images/Bates2inside.jpeg",
-		blurb: "Bates Summer Dance Faculty in 2019 where I led a Horton Workshop. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		credit: "Photo courtesy of Bates Dance Festival",
-	},
+// 	{
+// 		name: "Bates College Summer Dance Festival Faculty",
+// 		img: "images/Bates2inside.jpeg",
+// 		blurb: "Bates Summer Dance Faculty in 2019 where I led a Horton Workshop. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
+// 		credit: "Photo courtesy of Bates Dance Festival",
+// 	},
 	
 		
 	
 	
-			{
+// 			{
 				
-	       name: " American Health and Wellness (Publication)",
-		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-		link: "",
-		credit: "Photograph by Robert Maxwell",
-	},
+// 	       name: " American Health and Wellness (Publication)",
+// 		img: "images/realsimplemagazineinside.jpeg",
+// 		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+// 		link: "",
+// 		credit: "Photograph by Robert Maxwell",
+// 	},
 
 	
 	
