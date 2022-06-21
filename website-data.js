@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 				
 		name: "Architecture of Memory (self-portraiture)",
 		img: "images/aom.png",
-		blurb: "Hacking motion capture makes another kind of self-portraiture. It marks where matter and representation meet that crumbles, approximates, and lingers. It gives new dimension to embodied memory’s facticity and absorbs new forms of representation. Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "Author Brittany Engel-Adams.",
 	},
