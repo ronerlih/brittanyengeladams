@@ -142,11 +142,20 @@ let WEBSITE_DATA = [
 	
 	
 	
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
+	
 	
 	{
 		name: "Cape Cod Modern Architecture (Artsit Residency)",
 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
-		blurb: "Artist Residency at Cape Cod Modern House Trust 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' which tackles ancestry, loss, facticity, and the imagination, and Hand Dance, a dance film commissioned by the Guggenheim Works & Process.", 
+		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
@@ -210,15 +219,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-			{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
+
 	
 	
 
@@ -240,7 +241,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Youtube Improv (Research)",
+		name: "Youtube Improv",
 		img: "images/YOUTUBEIMPROVPRESS.JPG",
 		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
@@ -258,14 +259,15 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+	
 		
-		{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly. The webpage accumulates more and more videos causing the page to go into overdrive and eventually crash.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
+// 		{
+// 		name: "Youtube Improv (Webpage)",
+// 		img: "images/YouTubeimprovhigh.gif",
+// 		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly. The webpage accumulates more and more videos causing the page to go into overdrive and eventually crash.",
+// 		link: "https://vimeo.com/manage/videos/429453098",
+// 		credit: ""
+// 	},
 	
 	
 			{
