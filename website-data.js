@@ -142,13 +142,13 @@ let WEBSITE_DATA = [
 // 		credit: "photograph by Louise Erhard",
 // 	},
 	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 				{		
+// 		name: "Emergent Landscape 3",
+// 		img: "images/tesszoom.png", 
+// 		blurb: "Tessellation, magazine clippings, collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 	
 	
 	
