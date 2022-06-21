@@ -45,23 +45,23 @@ let WEBSITE_DATA = [
 	
 
 
-				{
-		name: "Rutgers University Dance Concert (Curator)",
-		img: "images/loreepurple.png", 
-		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
-		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
-		credit: "",
-	},
+// 				{
+// 		name: "Rutgers University Dance Concert (Curator)",
+// 		img: "images/loreepurple.png", 
+// 		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
+// 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+// 		credit: "",
+// 	},
 	
 	
 	
-	{
-		name: "Mapping (Proprioceptive Research)",
-		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders my spatial-data as 3D scans and skeletal avatars, made in collaborator with Ron Erlih. The infrared sensor of the kinect affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
-		link: "",
-		credit:"",
-	},
+// 	{
+// 		name: "Mapping (Proprioceptive Research)",
+// 		img: "images/skeletalvideoedit.00_01_43_19.Still085.jpg", 
+// 		blurb: "Iterative studies of motion using motion-capture technology that renders my spatial-data as 3D scans and skeletal avatars, made in collaborator with Ron Erlih. The infrared sensor of the kinect affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+// 		link: "",
+// 		credit:"",
+// 	},
 	
 // 		{
 // 		name: "Requiem. Rain Portrait (2020):",
@@ -101,13 +101,13 @@ let WEBSITE_DATA = [
 
 	
 	
-			{
-		name: "Emergent Landscape 1",
-		img: "images/red-who_picture1.png",
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
-	},
+// 			{
+// 		name: "Emergent Landscape 1",
+// 		img: "images/red-who_picture1.png",
+// 		blurb: "Tessellation, magazine clippings, collage.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "Brittany Engel-Adams",
+// 	},
 	
 	
 
@@ -124,7 +124,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance",
 		img: "images/handdancethumb.png",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders. Performance + Vocals. + Choreogrpahy + Film Direction by Brittany Engel-Adams. Vocals by Chris Giarmo. Software + Film Direction by Ron Erlih. Costumes by Suzanne Bocanegra. Produced by Sara Pereira da Silva/Big Dance Theater",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
