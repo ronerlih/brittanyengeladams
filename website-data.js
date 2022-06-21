@@ -10,14 +10,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, magazine clippings, collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
 		{
 		name: "Maquette 2021",
 		img: "images/robotprototype.jpeg",
@@ -28,14 +20,14 @@ let WEBSITE_DATA = [
 	
 
 	
-			{
+// 			{
 				
-		name: "Architecture of Memory (self-portraiture)",
-		img: "images/aom.png",
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Author Brittany Engel-Adams.",
-	},
+// 		name: "Architecture of Memory",
+// 		img: "images/aom.png",
+// 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after” conceived by the journal’s co-Editors-in-Chief mayfield brooks and Dr. Joshua Lubin-Levy.",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit: "Author Brittany Engel-Adams.",
+// 	},
 	
 
 	
@@ -218,7 +210,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+	
+			{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 	
 	
