@@ -276,7 +276,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/MRPJ55_CoverImage.jpg", 
-		blurb: "'Architecture of Memory' (2020) is a research project inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation.' It refers to a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface by means of hard research and scattered facts.  Published in Movement Research Performance Journal No 55.",
+		blurb: "’Architecture of Memory'  is a research project that places loss and rupture as opportunity for growth and transformation; inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.  Published in The Movement Research Performance Journal No. 55.",
 		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
 		credit:"",
 	},
