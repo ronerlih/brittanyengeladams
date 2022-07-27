@@ -1,13 +1,15 @@
 let WEBSITE_DATA = [
 	
+	
 		{
-		name: "Human Robot",
-		img: "images/Maquette21high.gif",
-		blurb: "Human Robot inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
 	
+
 	
 	
 // 		{
@@ -251,19 +253,20 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
 	
 				{		
 		name: "Emergent Landscape 3",
 		img: "images/tesszoom.png", 
 		blurb: "Tessellation, magazine clippings, collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
+		{
+		name: "Human Robot",
+		img: "images/Maquette21high.gif",
+		blurb: "Human Robot inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
 		credit: "",
 	},
 	
