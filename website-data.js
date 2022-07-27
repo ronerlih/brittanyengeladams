@@ -260,7 +260,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/Maquette21high.gif",
-		blurb: "Human Robot inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to discuss how we use the machine in order to make art, in his essay is in a sense a requiem to handmade art.'",
+		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
 		link: "",
 		credit: "",
 	},
