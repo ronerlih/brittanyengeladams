@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 	
 	
 // 			{
-// 		name: "Curator of 2021 Student Dance Concert at Rutgers University",
+// 		name: "2021 Student Dance Concert Curator at Rutgers University",
 // 		img: "images/barcodeprogram.JPG.",
 // 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
