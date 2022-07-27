@@ -254,13 +254,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 	
 		{
 		name: "Human Robot",
@@ -295,6 +288,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
+	
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 			{
 		name: "Transmedia Storytelling in the Age of Proximity",
