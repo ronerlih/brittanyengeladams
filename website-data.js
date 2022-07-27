@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
-		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín, in residence at Harvestworks TEAM (Technology, Engineering, Art and Music) Lab.",
+		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
 		link: "https://www.mustatea.com/the-sirens",
 		credit: "",
 	},
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Rutgers University Dance Concert (Curator)",
 		img: "images/barcodeprogram.JPG", 
-		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert. BFA students created work, as a response to a theatrical production, or dance performance of the 19th century to the 20th century, reimagined for the 21st century stage Curator + Faculty Advisor / Brittany Engel-Adams / Faculty Advisor - Pam Tanowitz / Lighting Supervisor - Stephanette Schwartz-Smith.",
+		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert.",
 		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
 		credit: "",
 	},
