@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/Maquette21high (1).gif",
+		img: "images/Maquette21high1.gif",
 		blurb: "Human Robot uses adversarial neural networks and accumulative machine learning, and is inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
 		link: "",
 		credit: "",
@@ -90,9 +90,9 @@ let WEBSITE_DATA = [
 	
 	
 // 			{
-// 		name: "Rutgers University MGSA Dance Concert Curator",
+// 		name: "Curator of 2021 Student Dance Concert at Rutgers University",
 // 		img: "images/barcodeprogram.JPG.",
-// 		blurb: "Curator at Mason Gross School of the Arts, Rutgers University, for the Student Dance Concert in Fall 2021, showcasing Third year BFA students choreogrpahic work, presented on campus in The Loree Dance Theater, New Brunswick, New Jersey, Dec 3--Dec 5 2021. Curator: Brittany Engel-Adams, Faculty Advisors: Brittany Engel-Adams, Pam Tanowitz",
+// 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 // 		credit: "Curator/ Brittany Engel-Adams. Faculty Advisors/ Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor/ Stephanette Schwartz-Smith.",
 // 	},
