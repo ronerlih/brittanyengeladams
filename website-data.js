@@ -184,7 +184,7 @@ let WEBSITE_DATA = [
 		name: "New York University, Tisch Dance Faculty",
 		img: "images/tisch.png",
 		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
-		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
+		link: "https://tisch.nyu.edu/dance/courses",
 		credit: ".",
 	},
 	
@@ -258,7 +258,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/Maquette21high.gif",
-		blurb: "Human Robot inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		blurb: "Human Robot inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to discuss how we use the machine in order to make art, in his essay is in a sense a requiem to handmade art.'",
 		link: "",
 		credit: "",
 	},
@@ -275,7 +275,7 @@ let WEBSITE_DATA = [
 		name: "Publication of Architecture of Memory",
 		img: "images/brit_sitting_wall.png", 
 		blurb: "’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation; inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-		link: "https://s3-us-west-2.amazonaws.com/movementresearch/performance-journal/Architecture-of-Memory.BrittanEngelAdams.MRPJ55.2021.pdf?mtime=20210930162618",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
 	
