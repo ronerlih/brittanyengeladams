@@ -244,6 +244,8 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
 			{
 		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
 		img: "images/peterjayvideothumb.jpeg",
@@ -271,6 +273,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 		{
 		name: "Publication of Architecture of Memory",
 		img: "images/brit_sitting_wall.png", 
@@ -278,6 +281,8 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
+	
 	
 // 				{
 				
@@ -297,7 +302,11 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
+	
+	
+
+	
+	{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/control.png",
 		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
