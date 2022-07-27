@@ -46,10 +46,10 @@ let WEBSITE_DATA = [
 
 
 				{
-		name: "Rutgers University Dance Concert (Curator)",
+		name: "2021 Student Dance Concert Curator at Rutgers University",
 		img: "images/barcodeprogram.JPG", 
-		blurb: "Curator for MGSA at Rutgers University's Fall 2021 Student Dance Concert.",
-		link: "https://dept.camden.rutgers.edu/locations/loree-dance-theater/",
+		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "",
 	},
 	
