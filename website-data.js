@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 		name: "Bates College Horton Workshop",
 		img: "images/Bates2inside.jpeg",
 		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		credit: "Photo courtesy of Bates Dance Festival",
+		credit: "",
 	},
 	
 		
@@ -181,18 +181,18 @@ let WEBSITE_DATA = [
 	
 
 		{
-		name: "New York University, Tisch Summer Dance Residency Faculty",
+		name: "New York University, Tisch Dance Faculty",
 		img: "images/tisch.png",
-		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival.The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
+		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
 		link: "https://tisch.nyu.edu/special-programs/summer-at-tisch/summer-at-tisch-courses/dance?gclid=CjwKCAjwyryUBhBSEiwAGN5OCETKP3fOEgIPBG_sipRTmkKmy-p9BhdTO6-HoMpi_2RTuRTSq9eZzBoC3dsQAvD_BwE&gclsrc=aw.ds",
-		credit: "Photo: NYU Skirball Center.",
+		credit: ".",
 	},
 	
 	
 	{
 		name: "Time Loop",
 		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop' is a performative work that uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. Cynthia King Dance, 2018 at Kumble Theater, New York City.",
+		blurb: "'Time Loop uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
 		link: "",
 		credit: ".",
 	},
