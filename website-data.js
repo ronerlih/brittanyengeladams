@@ -257,7 +257,7 @@ let WEBSITE_DATA = [
 				{		
 		name: "Emergent Landscape 3",
 		img: "images/tesszoom.png", 
-		blurb: "Tessellation, magazine clippings, collage.",
+		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
@@ -295,13 +295,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-// 			{
-// 		name: "Transmedia Storytelling in the Age of Proximity",
-// 		img: "images/control.png",
-// 		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	
+			{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
