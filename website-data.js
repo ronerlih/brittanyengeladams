@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Human Robot",
 		img: "images/Humanrobotron.jpg",
-		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
+		blurb: "'Human Robot' is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
 		credit: "",
 	},
