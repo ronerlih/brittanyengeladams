@@ -64,13 +64,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Mapping (Proprioceptive Research)",
-		img: "images/avatar_ron.png", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
-		link: "",
-		credit:"",
-	},
+// 	{
+// 		name: "Mapping (Proprioceptive Research)",
+// 		img: "images/avatar_ron.png", 
+// 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+// 		link: "",
+// 		credit:"",
+// 	},
 	
 // 		{
 // 		name: "Requiem. Rain Portrait (2020):",
@@ -266,7 +266,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/Maquette21high.gif",
+		img: "images/Ahumanrobotstill",
 		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
 		link: "",
 		credit: "",
