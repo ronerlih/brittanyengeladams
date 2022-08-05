@@ -230,7 +230,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Youtube Improv",
-		img: "images/YOUTUBEIMPROVPRESS.JPG",
+		img: "images/YouTubeImprov2.gif",
 		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
 		credit: ""
