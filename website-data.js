@@ -4,12 +4,28 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell 2020",
 		img: "images/farewell2020movhigh.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
 	
 
+		{
+		name: "Human Robot",
+		img: "images/Humanrobotron.jpg",
+		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
+		link: "",
+		credit: "",
+	},
+	
+	
+		{
+		name: "Hand Dance",
+		img: "images/HANDDANCEWIHPRESS.JPG",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 // 		{
@@ -31,14 +47,6 @@ let WEBSITE_DATA = [
 // 		credit: "Author Brittany Engel-Adams.",
 // 	},
 	
-		{
-				
-	       name: " American Health and Wellness (Publication)",
-		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-		link: "",
-		credit: "Photograph by Robert Maxwell",
-	},
 	
 
 	
@@ -96,27 +104,8 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-// 			{
-// 		name: "2021 Student Dance Concert Curator at Rutgers University",
-// 		img: "images/barcodeprogram.JPG.",
-// 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
-// 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-// 		credit: "Curator/ Brittany Engel-Adams. Faculty Advisors/ Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor/ Stephanette Schwartz-Smith.",
-// 	},
-	
-	
 
 	
-	
-// 			{
-// 		name: "Emergent Landscape 1",
-// 		img: "images/red-who_picture1.png",
-// 		blurb: "Tessellation, magazine clippings, collage.",
-// 		link: "https://www.brittanyengeladams.com/red-who.html",
-// 		credit: "Brittany Engel-Adams",
-// 	},
 	
 	
 
@@ -143,13 +132,6 @@ let WEBSITE_DATA = [
 // 		credit: "photograph by Mike Vitelli for Vogue",
 // 	},
 	
-		{
-		name: "The Young and The Banging (Publication)",
-		img: "images/abookappearance.jpg",
-		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photograph by Louise Erhard",
-	},
 	
 	
 	
@@ -186,15 +168,7 @@ let WEBSITE_DATA = [
 	
 
 	
-	
 
-		{
-		name: "New York University, Tisch Dance Faculty",
-		img: "images/tisch.png",
-		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: ".",
-	},
 	
 	
 	{
@@ -218,6 +192,13 @@ let WEBSITE_DATA = [
 	
 
 
+		{
+		name: "Youtube Improv",
+		img: "images/youtube.jpg",
+		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		link: "",
+		credit: ""
+	},
 		
 	
 
@@ -228,13 +209,31 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "Brittany Engel-Adams.",
 	},
+		
+	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/red-who_picture1.png",
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "Brittany Engel-Adams",
+	},
 	
 		{
-		name: "Youtube Improv",
-		img: "images/youtube.jpg",
-		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		name: "The Young and The Banging (Publication)",
+		img: "images/abookappearance.jpg",
+		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "photograph by Louise Erhard",
+	},
+	
+		{
+				
+	       name: " American Health and Wellness (Publication)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
 		link: "",
-		credit: ""
+		credit: "Photograph by Robert Maxwell",
 	},
 	
 	
@@ -251,7 +250,23 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
+		
+			{
+		name: "2021 Student Dance Concert Curator at Rutgers University",
+		img: "images/barcodeprogram.JPG.",
+		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+		credit: "Curator/ Brittany Engel-Adams. Faculty Advisors/ Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor/ Stephanette Schwartz-Smith.",
+	},
 	
+	
+		{
+		name: "New York University, Tisch Dance Faculty",
+		img: "images/tisch.png",
+		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: ".",
+	},
 	
 	
 			{
@@ -265,21 +280,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Human Robot",
-		img: "images/Humanrobotron.jpg",
-		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
 	
-		{
-		name: "Hand Dance",
-		img: "images/HANDDANCEWIHPRESS.JPG",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 	
 
