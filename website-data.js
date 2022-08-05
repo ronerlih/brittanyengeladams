@@ -143,13 +143,13 @@ let WEBSITE_DATA = [
 // 		credit: "photograph by Mike Vitelli for Vogue",
 // 	},
 	
-// 		{
-// 		name: "The Young and The Banging (Publication)",
-// 		img: "images/abookappearance.jpg",
-// 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
-// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-// 		credit: "photograph by Louise Erhard",
-// 	},
+		{
+		name: "The Young and The Banging (Publication)",
+		img: "images/abookappearance.jpg",
+		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "photograph by Louise Erhard",
+	},
 	
 	
 	
@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 // 	{
 // 		name: "Cape Cod Modern Architecture (Artsit Residency)",
 // 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
-// 		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
+// 		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
 // 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 // 		credit: "",
 // 	},
@@ -175,14 +175,14 @@ let WEBSITE_DATA = [
 		
 	
 	
-// 			{
+			{
 				
-// 	       name: " American Health and Wellness (Publication)",
-// 		img: "images/realsimplemagazineinside.jpeg",
-// 		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-// 		link: "",
-// 		credit: "Photograph by Robert Maxwell",
-// 	},
+	       name: " American Health and Wellness (Publication)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		link: "",
+		credit: "Photograph by Robert Maxwell",
+	},
 
 	
 	
@@ -220,13 +220,13 @@ let WEBSITE_DATA = [
 		
 	
 
-// 			{
-// 		name: "Emergent Landscape 2",
-// 		img: "images/wholives.png",
-// 		blurb: "Tessellation, magazine clippings, collage.",
-// 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "Brittany Engel-Adams.",
-// 	},
+			{
+		name: "Emergent Landscape 2",
+		img: "images/wholives.png",
+		blurb: "Tessellation, magazine clippings, collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 // 		{
 // 		name: "Youtube Improv",
