@@ -14,6 +14,13 @@ let WEBSITE_DATA = [
 	
 	
 	
+		{
+		name: "Human Robot",
+		img: "images/Humanrobotron.jpg",
+		blurb: "'Human Robot' is a duet between a human and Robot, uses adversarial neural networks and accumulative machine learning algorithms, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -34,13 +41,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Human Robot",
-		img: "images/Humanrobotron.jpg",
-		blurb: "'Human Robot' is a duet between a human and Robot, uses adversarial neural networks and accumulative machine learning algorithms, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -51,6 +51,21 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
+	
+	
+			{
+		name: "Emergent Landscape 2",
+		img: "images/wholives.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
+	
+	
+	
+	
+	
 	
 	
 // 		{
@@ -194,13 +209,7 @@ let WEBSITE_DATA = [
 		
 	
 
-			{
-		name: "Emergent Landscape 2",
-		img: "images/wholives.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
-	},
+
 		
 	
 	
