@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "BodyMouth",
-		img: "images/bodymouth.png",
+		img: "images/bodymouth2.jpeg",
 		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
 		link: "https://www.mustatea.com/the-sirens",
 		credit: "",
