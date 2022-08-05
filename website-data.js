@@ -1,6 +1,7 @@
 let WEBSITE_DATA = [
 	
 	
+	
 		{
 		name: "Farewell 2020",
 		img: "images/farewell2020movhigh.gif",
@@ -9,11 +10,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		
+	
+	
+	
+		{
+		name: "BodyMouth",
+		img: "images/bodymouth2.jpeg",
+		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
+		link: "https://www.mustatea.com/the-sirens",
+		credit: "",
+	},
+	
 
+	
+	
 		{
 		name: "Human Robot",
 		img: "images/Humanrobotron.jpg",
-		blurb: "'Human Robot' is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
+		blurb: "'Human Robot' is a duet between a human and Robot, uses adversarial neural networks and accumulative machine learning algorithms, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
 		credit: "",
 	},
@@ -51,22 +66,14 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-		{
-		name: "BodyMouth",
-		img: "images/bodymouth2.jpeg",
-		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
-		link: "https://www.mustatea.com/the-sirens",
-		credit: "",
-	},
-	
+
 
 
 	
 			{
 		name: "Publication of Architecture of Memory",
 		img: "images/mrpj.jpg", 
-		blurb: "’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation; inspired by American writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+		blurb: "’Architecture of Memory' brings together personal narrative and historical accounts using motion capture and machine learning technology as a way to connect past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
