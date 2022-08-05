@@ -266,7 +266,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/Humanrobotron.jpg",
+		img: "images/Humanrobotron.jpeg",
 		blurb: "Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe using the machine in order to make art is in a sense a requiem to handmade art.'",
 		link: "",
 		credit: "",
