@@ -66,7 +66,6 @@ let WEBSITE_DATA = [
 	
 
 	
-	
 
 	
 			{
@@ -76,6 +75,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
 	
 	
 // 	{
@@ -157,13 +157,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "2021 Student Dance Concert Curator at Rutgers University",
-// 		img: "images/loree.jpeg", 
-// 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
-// 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-// 		credit: "",
-// 	},	
 	
 	
 	
@@ -242,31 +235,49 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
+	
+	
+				{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/loree.jpeg", 
+		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+		credit: "",
+	},	
+	
+	
+	
+	
 		
+// 			{
+				
+// 		name: "2021 Student Dance Concert at Rutgers University",
+// 		img: "images/loree.jpeg",
+// 		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+// 		link: "",
+// 		credit:
+				
+// 	},
+	
+	
+			
 			{
-		name: "Curator of 2021 Student Dance Concert at Rutgers University",
-		img: "images/loree.jpeg",
-		blurb: " Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator: Brittany Engel-Adams.",
-		link: "",
-		credit: ",
-	},
-	
-	
-	
-	{
 		name: "Bates College Horton Workshop",
 		img: "images/Bates2inside.jpeg",
 		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		credit: "",
+		link: "",
+		credit:"",
+				
 	},
 		
+	
 	
 	{
 		name: "New York University, Tisch Dance Faculty",
 		img: "images/tisch.png",
 		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
 		link: "https://tisch.nyu.edu/dance/courses",
-		credit: ".",
+		credit: "",
 	},
 	
 	
@@ -276,8 +287,12 @@ let WEBSITE_DATA = [
 		img: "images/timeloops.jpg",
 		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
 		link: "",
-		credit: ".",
+		credit: "",
 	},
+	
+	
+	
+	
 	
 			{
 		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
