@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "2021 Student Dance Concert Curator at Rutgers University",
-		img: "images/barcodeprogram.JPG", 
+		img: "images/loree.jpeg", 
 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "",
@@ -155,13 +155,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Cape Cod Modern Architecture (Artsit Residency)",
-// 		img: "images/CAPECODMHTPRESSIMAGE.JPG",
-// 		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
-// 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-// 		credit: "",
-// 	},
+	{
+		name: "Cape Cod Modern Architecture (Artsit Residency)",
+		img: "images/CAPECODMHTPRESSIMAGE.JPG",
+		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
+		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
 
 	
 	
