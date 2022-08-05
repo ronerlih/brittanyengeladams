@@ -198,9 +198,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loop uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
+		name: "Time Loops",
+		img: "images/timeloops.jpg",
+		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
 		link: "",
 		credit: ".",
 	},
@@ -209,7 +209,7 @@ let WEBSITE_DATA = [
 	
 	  {
 		name: "YouTube Improv",
-		img: "images/YOUTUBEIMPROVPRESS.JPG",
+		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
 		link: "",
 		credit: "",
@@ -231,7 +231,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Youtube Improv",
-		img: "images/YouTubeImprov2.gif",
+		img: "images/youtube.jpg",
 		blurb: "'YouTube Improv' There are two versions of 'Youtube Improv', the first version is the visual one, where projected on stage is the youtube webpage. The dancers interact with the youtube content and each other. The rules of the game confront the dancers and demand real time improvisations and different reactions to the video content. The second version is only the audio from the youtube webpage. The dancers are being prompted by only listening to the youtube clips that are randomly queued.  OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
 		credit: ""
