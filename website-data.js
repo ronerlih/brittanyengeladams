@@ -172,13 +172,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "2021 Student Dance Concert Curator at Rutgers University",
-		img: "images/loree.jpeg", 
-		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-		credit: "",
-	},	
+	
+	
+// 				{
+// 		name: "2021 Student Dance Concert Curator at Rutgers University",
+// 		img: "images/loree.jpeg", 
+// 		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
+// 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+// 		credit: "",
+// 	},	
 	
 	
 	
