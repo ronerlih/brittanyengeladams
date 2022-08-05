@@ -252,9 +252,9 @@ let WEBSITE_DATA = [
 	
 		
 			{
-		name: "2021 Student Dance Concert Curator at Rutgers University",
+		name: "Curator of 2021 Student Dance Concert at Rutgers University",
 		img: "images/barcodeprogram.JPG.",
-		blurb: "Rutgers University Fall 2021 Student Dance Concert Curator at Mason Gross School of the Arts in New Brunswick, New Jersey.",
+		blurb: " Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator: Brittany Engel-Adams",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "Curator/ Brittany Engel-Adams. Faculty Advisors/ Brittany Engel-Adams, Pam Tanowitz. Lighting Supervisor/ Stephanette Schwartz-Smith.",
 	},
