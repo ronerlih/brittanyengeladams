@@ -2,13 +2,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+	
 	
 
 	
@@ -321,30 +315,36 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		{
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
 	
 
 	
 	
-// 				{
+				{
 				
-// 		name: "Family Archive",
-// 		img: "images/woodcut2.png",
-// 		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "",
-// 	},
+		name: "Family Archive",
+		img: "images/woodcut2.png",
+		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 	
-// 				{		
-// 		name: "Emergent Landscape 3",
-// 		img: "images/tesszoom.png", 
-// 		blurb: "Tessellation, Digital-Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "",
-// 	},
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 	
 	
