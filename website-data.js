@@ -9,28 +9,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-
-	
-
-		
-	{
-		name: "Mapping (Proprioceptive Research)",
-		img: "images/avatar1.gif", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
-		link: "",
-		credit:"",
-	},
 	
 	
-			{
+		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/mrpj.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts using digital-art techniques, as an aperature to view intersections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts using digital-art techniques as an aperature to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
 	
-
 
 	
 	
@@ -45,7 +33,20 @@ let WEBSITE_DATA = [
 	
 	
 	
+		
+	{
+		name: "Mapping (Proprioceptive Research)",
+		img: "images/avatar1.gif", 
+		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+		link: "",
+		credit:"",
+	},
 	
+	
+	
+	
+
+
 	
 	
 // 			{
@@ -140,15 +141,6 @@ let WEBSITE_DATA = [
 // 		link: "https://yalemaquette.com/New-Geometries/",
 // 		credit: "photograph by Mike Vitelli for Vogue",
 // 	},
-	
-	
-	
-	
-	
-
-
-	
-	
 	
 	
 	
