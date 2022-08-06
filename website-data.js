@@ -61,13 +61,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Emergent Landscape 2",
-		img: "images/wholives.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
-	},
+// 			{
+// 		name: "Emergent Landscape 2",
+// 		img: "images/wholives.png",
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-blue.html",
+// 		credit: "Brittany Engel-Adams.",
+// 	},
 	
 	
 	
@@ -215,13 +215,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "The Young and The Banging (Publication)",
-		img: "images/abookappearance.jpg",
-		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "photograph by Louise Erhard",
-	},
+// 		{
+// 		name: "The Young and The Banging (Publication)",
+// 		img: "images/abookappearance.jpg",
+// 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
+// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+// 		credit: "photograph by Louise Erhard",
+// 	},
 	
 	
 		{
@@ -338,13 +338,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 				{		
+// 		name: "Emergent Landscape 3",
+// 		img: "images/tesszoom.png", 
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 	
 	
 	
