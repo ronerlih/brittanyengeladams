@@ -2,6 +2,13 @@ let WEBSITE_DATA = [
 	
 	
 	
+		{
+		name: "New York University, Tisch Dance Faculty",
+		img: "images/nyut.jpg",
+		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
+	},
 	
 
 	
@@ -9,7 +16,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Architecture of Memory (Publication)",
 		img: "images/mrpj.jpg", 
-		blurb: "’Architecture of Memory' brings together personal narrative and historical accounts using motion capture and machine learning technology as a way to connect past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts using digital-art techniques, as an aperature to view intersections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
@@ -229,14 +236,6 @@ let WEBSITE_DATA = [
 	},
 		
 	
-	
-	{
-		name: "New York University, Tisch Dance Faculty",
-		img: "images/nyut.jpg",
-		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: "",
-	},
 	
 	
 	
