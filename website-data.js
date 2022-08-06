@@ -1,14 +1,15 @@
 let WEBSITE_DATA = [
 	
 	
-	
-		{
-		name: "New York University, Tisch Dance Faculty",
-		img: "images/nyut.jpg",
-		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
-		link: "https://tisch.nyu.edu/dance/courses",
+					{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/loreepurple.png", 
+		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "",
-	},
+	},	
+	
+
 	
 
 		
@@ -248,6 +249,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
+		{
+		name: "New York University, Tisch Dance Faculty",
+		img: "images/nyut.jpg",
+		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
+	},
+	
+	
 	
 	{
 		name: "Time Loop",
@@ -264,14 +274,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/loreepurple.png", 
-		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-		credit: "",
-	},	
-	
+
 	
 	
 	{
