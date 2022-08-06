@@ -3,19 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
 
-	
-	
-	
-		{
-		name: "Human Robot",
-		img: "images/Humanrobotron.jpg",
-		blurb: "'Human Robot' is a duet between a human and Robot, uses adversarial neural networks and accumulative machine learning algorithms, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
-		link: "",
-		credit: "",
-	},
-	
 	
 	
 			{
@@ -27,15 +15,7 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	
-		{
-		name: "BodyMouth",
-		img: "images/bodymouth2.jpeg",
-		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
-		link: "https://www.mustatea.com/the-sirens",
-		credit: "",
-	},
+
 	
 	
 	
@@ -250,7 +230,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Dance Concert Curator at Rutgers University",
-		img: "images/loree.jpeg", 
+		img: "images/loreepurple.png", 
 		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
 		credit: "",
@@ -313,6 +293,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "BodyMouth",
+		img: "images/bodymouth2.jpeg",
+		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
+		link: "https://www.mustatea.com/the-sirens",
+		credit: "",
+	},
 	
 	
 		{
@@ -324,7 +311,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+		
+		{
+		name: "Human Robot",
+		img: "images/Humanrobotron.jpg",
+		blurb: "'Human Robot' is a duet between a human and Robot, uses adversarial neural networks and accumulative machine learning algorithms, inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
+		link: "",
+		credit: "",
+	},
 
 	
 	
