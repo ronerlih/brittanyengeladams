@@ -177,13 +177,6 @@ let WEBSITE_DATA = [
 		
 	
 	
-	{
-		name: "Emergent Landscape 1",
-		img: "images/red-who_picture1.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
-	},
 	
 	
 // 		{
@@ -209,15 +202,6 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-	
-				{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/loreepurple.png", 
-		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-		credit: "",
-	},	
 	
 	
 	
@@ -256,6 +240,16 @@ let WEBSITE_DATA = [
 	
 	
 	
+			{
+		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
+		img: "images/JBCGyLoisGreenfield1.jpeg",
+		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
+		link: "https://www.joffreyballetschool.com",
+		credit: "Lois Greenfield",
+	},
+	
+	
+	
 	{
 		name: "Time Loop",
 		img: "images/timeloops.jpg",
@@ -268,13 +262,30 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
-		img: "images/JBCGyLoisGreenfield1.jpeg",
-		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
-		link: "https://www.joffreyballetschool.com",
-		credit: "Lois Greenfield",
+	
+	
+	
+				{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/loreepurple.png", 
+		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+		credit: "",
+	},	
+	
+	
+	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/red-who_picture1.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "Brittany Engel-Adams",
 	},
+	
+	
+	
+	
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth2.jpeg",
