@@ -237,7 +237,7 @@ let WEBSITE_DATA = [
 		img: "images/JBCGyLoisGreenfield1.jpeg",
 		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "Lois Greenfield",
+		credit: "photo: Lois Greenfield",
 	},
 	
 	
@@ -274,7 +274,7 @@ let WEBSITE_DATA = [
 		img: "images/red-who_picture1.png",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "Brittany Engel-Adams",
+		credit: "",
 	},
 	
 	
