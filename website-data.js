@@ -31,15 +31,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance",
-		img: "images/HANDDANCEWIHPRESS.JPG",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	
-	
 	
 // 			{
 // 		name: "Emergent Landscape 2",
@@ -217,14 +208,6 @@ let WEBSITE_DATA = [
 	
 	
 
-		
-		{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
 	
 	
 	
@@ -287,17 +270,36 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
-		img: "images/peterjayvideothumb.jpeg",
+		img: "images/JBCGyLoisGreenfield1.jpeg",
 		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
 		link: "https://www.joffreyballetschool.com",
-		credit: "",
+		credit: "Lois Greenfield",
 	},
-	
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth2.jpeg",
 		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
 		link: "https://www.mustatea.com/the-sirens",
+		credit: "",
+	},
+	
+		
+		{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+	
+	
+	
+	
+		{
+		name: "Hand Dance",
+		img: "images/hand.jpeg",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
