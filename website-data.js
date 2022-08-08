@@ -56,13 +56,13 @@ let WEBSITE_DATA = [
 
 	
 	
-// 			{
-// 		name: "Emergent Landscape 2",
-// 		img: "images/wholives.png",
-// 		blurb: "Tessellation, Digital-Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "Brittany Engel-Adams.",
-// 	},
+			{
+		name: "Emergent Landscape 2",
+		img: "images/wholives.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 	
 	
@@ -273,20 +273,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-
-	
-	
-	{
-		name: "Emergent Landscape 1",
-		img: "images/red-who_picture1.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
-	
-	
-	
-	
 		{
 		name: "BodyMouth",
 		img: "images/bodymouth.png",
@@ -345,19 +331,28 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/red-who_picture1.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 
 	
 	
 	
 
 	
-// 	{
-// 		name: "Transmedia Storytelling in the Age of Proximity",
-// 		img: "images/control.png",
-// 		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
