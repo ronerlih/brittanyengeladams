@@ -1,6 +1,15 @@
 let WEBSITE_DATA = [
 	
 	
+	
+		{
+		name: "BodyMouth",
+		img: "images/bodymouth.png",
+		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
+		link: "https://www.mustatea.com/the-sirens",
+		credit: "",
+	},
+	
 					{
 		name: "Dance Concert Curator at Rutgers University",
 		img: "images/barcode1pdf.jpg", 
@@ -269,17 +278,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-	
-	
-		{
-		name: "BodyMouth",
-		img: "images/bodymouth.png",
-		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín.",
-		link: "https://www.mustatea.com/the-sirens",
-		credit: "",
-	},
 	
 		
 		{
