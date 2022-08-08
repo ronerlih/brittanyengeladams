@@ -29,12 +29,11 @@ let WEBSITE_DATA = [
 	},
 	
 
-		
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+			{
+		name: "Human Robot",
+		img: "images/Humanrobotron.jpg",
+		blurb: "Human Robot uses adversarial neural networks and accumulative machine learning algorithms, and is inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
 		credit: "",
 	},
 	
@@ -299,24 +298,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		{
-		name: "Farewell 2020",
-		img: "images/farewell2020movhigh.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
-	
-	
-		
-		{
-		name: "Human Robot",
-		img: "images/Humanrobotron.jpg",
-		blurb: "Human Robot uses adversarial neural networks and accumulative machine learning algorithms, and is inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+	{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/control.png",
+		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
 		credit: "",
 	},
+	
+	
+	
+					{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
+	
 
 	
 	
@@ -341,16 +341,16 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-
-	
 	{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "",
+		name: "Farewell 2020",
+		img: "images/farewell2020movhigh.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
+
+	
+	
 	
 	
 	
