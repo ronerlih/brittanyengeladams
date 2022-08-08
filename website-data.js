@@ -25,7 +25,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capebook.png",
+		img: "images/CAPECODMHTPRESSIMAGE.JPG",
 		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
