@@ -279,7 +279,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/control.png",
-		blurb: "LTED (proximity technology from Qualcomm. The emergence of LTED and proximity technologies wbring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever..",
 		link: "",
 		credit: "",
 	},
