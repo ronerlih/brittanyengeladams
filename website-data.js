@@ -11,14 +11,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
+	
+		{
+		name: "Emergent Landscape 1",
+		img: "images/red-who_picture1.png",
 		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-		
 	
 	
 	{
@@ -269,14 +269,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		{
-		name: "Emergent Landscape 1",
-		img: "images/red-who_picture1.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
 
 	
 
@@ -294,6 +286,14 @@ let WEBSITE_DATA = [
 	
 	
 	
+					{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+		
 	
 		{
 		name: "Hand Dance",
