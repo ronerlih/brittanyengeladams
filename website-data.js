@@ -1,6 +1,12 @@
 let WEBSITE_DATA = [
 	
-	
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/barcode1pdf.jpg", 
+		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+		credit: "",
+	},	
 	
 		{
 		name: "BodyMouth",
@@ -21,13 +27,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/barcode1pdf.jpg", 
-		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
-		credit: "",
-	},	
+	
 	
 	
 	
