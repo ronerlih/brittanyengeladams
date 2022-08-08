@@ -10,7 +10,18 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
+	
+					{		
+		name: "Emergent Landscape 3",
+		img: "images/tesszoom.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+		
+	
+	
+	{
 		name: "Dance Concert Curator at Rutgers University",
 		img: "images/barcode1pdf.jpg", 
 		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
@@ -40,13 +51,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/CAPECODMHTPRESSIMAGE.JPG",
-		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
-		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
+
 	
 	
 		{
@@ -311,13 +316,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-					{		
-		name: "Emergent Landscape 3",
-		img: "images/tesszoom.png", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	
 	
 	
 
@@ -342,6 +341,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 	},
+	
+	
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/CAPECODMHTPRESSIMAGE.JPG",
+		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
+		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+	
 	
 	
 	{
