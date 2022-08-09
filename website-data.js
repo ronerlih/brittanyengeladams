@@ -279,7 +279,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/CG.jpg",
+		img: "images/controlgroup.jpg",
 		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "",
 		credit: "",
@@ -346,7 +346,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Family Archive",
+		name: "Archive",
 		img: "images/woodcutpdf.jpg",
 		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi who lived most of his life in Wormiza, Germany.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -622,7 +622,7 @@ let WEBSITE_DATA = [
 // 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
 // 	},
 	
-	
+	 
 
 	
 
