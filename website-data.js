@@ -266,10 +266,22 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+		{
+		name: "New York University, Tisch ETW Drama Faculty",
+		img: "images/etwpage.jpg",
+		blurb: "ETW was founded in 1975 by prominent theater practitioners who valued the socially conscious artist. These artists developed a training program based on the innovative approaches to physically based acting and performance that were having an enormous influence in and beyond the world of theater. As ETW began to gain national and international attention, it expanded its curriculum to include more traditional approaches to actor training.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
+	},
+	
+	
+	
+	
 		{
 		name: "New York University, Tisch Dance Faculty",
 		img: "images/nyudance.jpg",
-		blurb: "2021 Ballet Faculty at NYU's Summer Dance Residency Festival. The Department of Dance offers two intensive three-week workshops to serve the intermediate-to-advanced NYU and visiting dance student who is preparing to enter the profession. Students may participate in the program for either three or six weeks and will study with a minimum of three different companies in each session while being exposed to the workings of the other companies. Students may register for credit or enroll as a non-credit student.",
+		blurb: "Ballet Faculty at NYU's Summer Dance Residency Festival.",
 		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
 	},
