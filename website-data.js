@@ -18,14 +18,31 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "MoCap Research",
-		img: "images/avatar.jpg", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+			{
+		name: "Human Robot",
+		img: "images/arduino.jpg",
+		blurb: "Human Robot is inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
 		link: "",
-		credit:"",
+		credit: "",
 	},
 	
+	
+	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/redwhogrey.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+
+			{
+		name: "Emergent Landscape 2",
+		img: "images/wholives.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "Brittany Engel-Adams.",
+	},
 	
 	
 	
@@ -42,13 +59,7 @@ let WEBSITE_DATA = [
 	
 
 	
-			{
-		name: "Emergent Landscape 2",
-		img: "images/wholives.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
-	},
+	
 	
 	
 	
@@ -65,13 +76,6 @@ let WEBSITE_DATA = [
 		
 	
 	
-			{
-		name: "Human Robot",
-		img: "images/arduino.jpg",
-		blurb: "Human Robot is inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
 	
 	
 
@@ -332,17 +336,17 @@ let WEBSITE_DATA = [
 	},
 		
 	
-	
+		{
+		name: "MoCap Research",
+		img: "images/avatar.jpg", 
+		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+		link: "",
+		credit:"",
+	},
 	
 
 	
-	{
-		name: "Emergent Landscape 1",
-		img: "images/redwhogrey.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+	
 	
 			{
 				
