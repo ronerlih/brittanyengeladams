@@ -236,7 +236,7 @@ let WEBSITE_DATA = [
 			
 			{
 		name: "Bates College Horton Workshop",
-		img: "images/Bates2inside.jpeg",
+		img: "images/Batesdance.jpg",
 		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
 		link: "",
 		credit:"",
