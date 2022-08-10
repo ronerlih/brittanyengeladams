@@ -15,8 +15,8 @@ let WEBSITE_DATA = [
 	{
 		name: "Dance Concert Curator at Rutgers University",
 		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/theater/facilities/",
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},	
 	
