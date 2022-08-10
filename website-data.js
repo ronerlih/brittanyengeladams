@@ -257,13 +257,7 @@ let WEBSITE_DATA = [
 		credit:"",
 				
 	},
-				{
-		name: "Emergent Landscape 2",
-		img: "images/WHOBLUESCROlL.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+	
 	
 	
 		{
@@ -360,6 +354,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
+	
+	
+	
+				{
+		name: "Emergent Landscape 2",
+		img: "images/WHOBLUESCROlL.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 		{
 		name: "Motion Capture Research",
