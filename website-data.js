@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 		img: "images/WHOBLUESCROlL.gif",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Brittany Engel-Adams.",
+		credit: "",
 	},
 	
 	
