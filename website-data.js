@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance at The Guggenheim",
+		name: "Hand Dance",
 		img: "images/hand.jpeg",
 		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -379,8 +379,8 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Archive",
-		img: "images/woodcutpdf.jpg",
+		name: "Family Archive",
+		img: "images/mizrach.jpg",
 		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
