@@ -12,13 +12,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},	
 	
 	
 	
@@ -298,7 +291,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+		
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersConcertProgram.jpg", 
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 	
 		{
 		name: "New York University, Tisch Dance Faculty",
