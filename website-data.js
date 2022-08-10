@@ -24,14 +24,7 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-				{
-				
-	       name: " American Health and Wellness (Publication)",
-		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-		link: "",
-		credit: "Photograph by Robert Maxwell",
-	},
+
 	
 	
 	
@@ -303,6 +296,20 @@ let WEBSITE_DATA = [
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
+	
+	
+	
+					{
+				
+	       name: " American Health and Wellness (Publication)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		link: "",
+		credit: "Photograph by Robert Maxwell",
+	},
+	
+	
+	
 	
 		{
 		name: "New York University, Tisch Dance Faculty",
