@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth at Virginia Tech",
+		name: "BodyMouth",
 		img: "images/FUTUREHIGH.gif",
 		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín. Fourthcoming Symposium and Exhibition; The next New Media Caucus Symposium takes place from September 30th-October 2nd 2022 at Virginia Tech and will focus on the theme of 'Future Bodies'.",
 		link: "https://futurebodies.newmediacaucus.org/",
