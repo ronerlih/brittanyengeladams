@@ -209,23 +209,23 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "The Young and The Banging (Publication)",
-// 		img: "images/abookappearance.jpg",
-// 		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
-// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-// 		credit: "photograph by Louise Erhard",
-// 	},
+		{
+		name: "The Young and The Banging (Publication)",
+		img: "images/abookappearance.jpg",
+		blurb: "THE YOUNG AND THE BANGING  published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. , ‘A fascinating NEW GENERATION born into the realms of fashion, art and success. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. This installment involves downtown NYC. Released on September 4th 2008.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "photograph by Louise Erhard",
+	},
 	
 	
-// 		{
+		{
 				
-// 	       name: " American Health and Wellness (Publication)",
-// 		img: "images/realsimplemagazineinside.jpeg",
-// 		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-// 		link: "",
-// 		credit: "Photograph by Robert Maxwell",
-// 	},
+	       name: " American Health and Wellness (Publication)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		link: "",
+		credit: "Photograph by Robert Maxwell",
+	},
 	
 	
 	
