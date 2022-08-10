@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth",
+		name: "BodyMouth at Virginia Tech",
 		img: "images/FUTUREHIGH.gif",
 		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín. Fourthcoming Symposium and Exhibition; The next New Media Caucus Symposium takes place from September 30th-October 2nd 2022 at Virginia Tech and will focus on the theme of 'Future Bodies'.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -21,14 +21,15 @@ let WEBSITE_DATA = [
 	},	
 	
 	
-			{
-		name: "Human Robot",
-		img: "images/arduino.jpg",
-		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
 	
+	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpj.jpg", 
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 
@@ -43,7 +44,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+			{
+		name: "Human Robot",
+		img: "images/arduino.jpg",
+		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
+		credit: "",
+	},
 	
 	{
 		name: "Emergent Landscape 1",
@@ -66,13 +73,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/mrpj.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 
 	
