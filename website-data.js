@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+
 	
 	
 		{
@@ -25,6 +25,17 @@ let WEBSITE_DATA = [
 	},
 	
 				{
+				
+	       name: " American Health and Wellness (Publication)",
+		img: "images/realsimplemagazineinside.jpeg",
+		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
+		link: "",
+		credit: "Photograph by Robert Maxwell",
+	},
+	
+	
+	
+	{
 		name: "Human Robot",
 		img: "images/arduino.jpg",
 		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
@@ -33,6 +44,7 @@ let WEBSITE_DATA = [
 	},
 
 	
+
 	
 	
 		{
@@ -210,14 +222,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-				
-	       name: " American Health and Wellness (Publication)",
-		img: "images/realsimplemagazineinside.jpeg",
-		blurb: "American Health and Wellness 'Real Simple' Magazine feature in the section on Flexibility published in 2010.(10 minute a day easy stretching to help prevent injuries or even illness) by Sharon Tanenbaum.",
-		link: "",
-		credit: "Photograph by Robert Maxwell",
-	},
+
 	
 	
 	
