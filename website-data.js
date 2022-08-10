@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 // 		name: "Cape Cod Modern Architecture",
 // 		img: "images/capebook.png",
 // 		blurb: " 2020-2021 artist residency at CCMHT where I made film titled 'Before Zeta' for their digital archive and The Provincetown Independent wrote a write up about it: 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water.'", 
-// 		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+// 		link: "https://https://ccmht.org/",
 // 		credit: "",
 // 	},
 	
@@ -353,8 +353,8 @@ let WEBSITE_DATA = [
 		{
 		name: "Cape Cod Modern Architecture (Residency)",
 		img: "images/CapeCodMHTBOOK.jpg",
-		blurb: "Cape Cod Modern House Trust Artist Residency 2020-2021. Where I presented two pieces that I worked on while in Wellfleet, 'Architecture of Memory' and Hand Dance.", 
-		link: "https://provincetownindependent.org/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
 		credit: "",
 	},
 		
