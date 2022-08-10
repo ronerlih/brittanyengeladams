@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory (Publication)",
+		name: "Architecture of Memory for Movement Research",
 		img: "images/mrpj.jpg", 
 		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -37,9 +37,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance",
+		name: "Hand Dance at The Guggenheim",
 		img: "images/hand.jpeg",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020 made in collaboration between Annie-B Parson, David Lang, Brittany Engel-Adams and Ron Erlih.",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
