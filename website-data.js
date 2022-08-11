@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 		name: "BodyMouth (Performance)",
 		img: "images/FUTUREHIGH.gif",
-		blurb: "Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		blurb: "Performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 			{
 		name: "BodyMouth (Artist Residency)",
 		img: "images/Harvestworks2.jpg",
-		blurb: "'BodyMouth Artsit Residency at Harvestworks with  Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
