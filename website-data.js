@@ -70,7 +70,13 @@ let WEBSITE_DATA = [
 
 	
 
-
+{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersConcertProgram.jpg", 
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 	
 	
 	
@@ -201,9 +207,22 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+ {
+		name: "YouTube Improv",
+		img: "images/youtubemprov1high.gif",
+		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
+		link: "",
+		credit: "",
+	},
 	
 	
+		{
+		name: "New York University, Tisch Dance Faculty",
+		img: "images/nyudance.jpg",
+		blurb: "Tisch Department of Dance, seeks to develop and prepare fully realized dance artists to be critical thinkers, fearless leaders, and fluent performers.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
+	},
 	
 	
 		
@@ -221,13 +240,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	  {
-		name: "YouTube Improv",
-		img: "images/youtubemprov1high.gif",
-		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
-		link: "",
-		credit: "",
-	},
+	 
 	
 	
 
@@ -282,13 +295,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-		{
-		name: "New York University, Tisch Dance Faculty",
-		img: "images/nyudance.jpg",
-		blurb: "Tisch Department of Dance, seeks to develop and prepare fully realized dance artists to be critical thinkers, fearless leaders, and fluent performers.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: "",
-	},
+	
 	
 	
 		{
@@ -297,6 +304,15 @@ let WEBSITE_DATA = [
 		blurb: "ETW was founded in 1975 by prominent theater practitioners who valued the socially conscious artist. These artists developed a training program based on the innovative approaches to physically based acting and performance that were having an enormous influence in and beyond the world of theater. As ETW began to gain national and international attention, it expanded its curriculum to include more traditional approaches to actor training.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
+	},
+	
+	
+	{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
 	},
 	
 		{
@@ -308,13 +324,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -332,24 +342,18 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
 	
 	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capecodmovehigh.gif",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
-	},
+	
 		
 	
+				{		
+		name: "'Wood'",
+		img: "images/WOODBW.jpg", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 	
 	
@@ -405,16 +409,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{		
-		name: "'Wood'",
-		img: "images/WOODBW.jpg", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 		
 	
 
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/capecodmovehigh.gif",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
 	
 	
 	
