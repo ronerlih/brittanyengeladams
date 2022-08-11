@@ -192,7 +192,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
+		link: "",
+		credit: "",
+	},
 	
 	
 
@@ -212,13 +218,7 @@ let WEBSITE_DATA = [
 
 	
 		
-		{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
-		link: "",
-		credit: "",
-	},
+	
 
 
 		
