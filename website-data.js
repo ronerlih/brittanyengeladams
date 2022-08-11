@@ -259,8 +259,8 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgramg.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		img: "images/RutgersProgram.jpg", 
+		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
@@ -314,7 +314,7 @@ let WEBSITE_DATA = [
 				
 // 		name: "2021 Student Dance Concert at Rutgers University",
 // 		img: "images/loree.jpeg",
-// 		blurb: "Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
+// 		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally. Third year BFA Students created work for the Fall 2021 Student Dance Concert, as a response to a theatrical production, or dance performance of the 19th century, to the 20th century, reimagined for the 21st century stage. Curator, Brittany Engel-Adams.",
 // 		link: "",
 // 		credit:
 				
