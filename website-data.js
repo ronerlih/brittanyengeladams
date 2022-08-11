@@ -31,9 +31,9 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "Human Robot",
+		name: "Human-Robot",
 		img: "images/human_robot_3.gif",
-		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		blurb: "Human–Robot: adversarial neural networks and machine-learning algorithms. Human–Robot brings together, a performer and a machine, face to face, in a choreography that explores the chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
 		link: "",
 		credit: "",
 	},
