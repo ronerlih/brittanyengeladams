@@ -244,6 +244,14 @@ let WEBSITE_DATA = [
 	
 
 	
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersConcertProgram.jpg", 
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
+	
 	
 		{
 		name: "New York University, Tisch Dance Faculty",
@@ -254,13 +262,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
 		
 	
 	
@@ -312,6 +313,14 @@ let WEBSITE_DATA = [
 	
 		
 	
+	{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+	
 	
 	
 		{
@@ -323,29 +332,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
-	
 		{
 		name: "Motion Capture Research",
 		img: "images/AVATARINRED.gif", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
 		link: "",
 		credit:"",
-	},
-	
-		
-		{
-		name: "Hand Dance (Film)",
-		img: "images/greenhand.jpg",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
 	},
 	
 				{
@@ -355,6 +347,16 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+		
+		{
+		name: "Hand Dance (Film)",
+		img: "images/greenhand.jpg",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
+	
 	
 	
 	
