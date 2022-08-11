@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "'Red Who'",
+		name: "Emergent Landscape 1",
 		img: "images/redscroll202.gif",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
@@ -355,7 +355,7 @@ let WEBSITE_DATA = [
 		
 	
 				{		
-		name: "'Wood'",
+		name: "Emergent Landscape 3",
 		img: "images/WOODBW.jpg", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -404,7 +404,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "'Blue'",
+		name: "Emergent Landscape 2",
 		img: "images/lives.jpg",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
