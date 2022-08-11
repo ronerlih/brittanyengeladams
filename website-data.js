@@ -250,7 +250,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Time Loop (Performance)",
 		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
 		link: "",
 		credit: "",
 	},
