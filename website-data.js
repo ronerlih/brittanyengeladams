@@ -41,22 +41,9 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance",
-		img: "images/greenhand.jpg",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 	
-	{
-		name: "Emergent Landscape 1",
-		img: "images/redscroll202.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+	
 	
 		
 	
@@ -353,6 +340,13 @@ let WEBSITE_DATA = [
 	},
 	
 		
+		{
+		name: "Hand Dance",
+		img: "images/greenhand.jpg",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 				{
 		name: "Emergent Landscape 2",
@@ -418,7 +412,13 @@ let WEBSITE_DATA = [
 	
 
 	
-	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/redscroll202.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 	
 	
 	
