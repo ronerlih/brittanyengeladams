@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Youtube Improv (Webpage)",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
