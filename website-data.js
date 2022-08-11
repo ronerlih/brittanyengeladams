@@ -57,13 +57,26 @@ let WEBSITE_DATA = [
 	
 	
 		
+			{
+		name: "Bates College Horton Workshop",
+		img: "images/Batesdance.jpg",
+		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
+		link: "",
+		credit:"",
+				
+	},
+	
+	
+	
 	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		name: "Human Robot",
+		img: "images/NODESP.jpg",
+		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
 		credit: "",
 	},
+	
+	
 	
 		
  {
@@ -76,13 +89,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Human Robot",
-		img: "images/NODESP.jpg",
-		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
+
 
 	
 	
@@ -242,15 +249,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		
-			{
-		name: "Bates College Horton Workshop",
-		img: "images/Batesdance.jpg",
-		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		link: "",
-		credit:"",
-				
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersConcertProgram.jpg", 
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
 	},
+		
+	
 	
 	
 	
