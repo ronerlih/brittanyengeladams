@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "'Red'",
+		name: "'WhoRed'",
 		img: "images/redscroll202.gif",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
@@ -393,7 +393,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "'Blue'",
+		name: "'Blue-Who'",
 		img: "images/WHOBLUESCROlL.gif",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -406,7 +406,7 @@ let WEBSITE_DATA = [
 	
 	
 				{		
-		name: "'who-Wood'",
+		name: "'Who-Wood'",
 		img: "images/whowood202.gif", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
