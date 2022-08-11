@@ -3,17 +3,30 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth",
+		name: "BodyMouth (Performance)",
 		img: "images/FUTUREHIGH.gif",
-		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín. Fourthcoming Symposium and Exhibition; The next New Media Caucus Symposium takes place from September 30th-October 2nd 2022 at Virginia Tech and will focus on the theme of 'Future Bodies'.",
+		blurb: "Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
 	
-	
+			{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/FUTUREHIGH.gif",
+		blurb: "'BodyMouth Artsit Residency at Harvestworks with  Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
 	
 	
 
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/capecodmovehigh.gif",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
 	
 	
 		{
@@ -79,13 +92,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Human Robot",
-		img: "images/NODESP.jpg",
-		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -424,15 +431,14 @@ let WEBSITE_DATA = [
 		
 	
 
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capecodmovehigh.gif",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
+	
+	{
+		name: "Human Robot",
+		img: "images/NODESP.jpg",
+		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
 		credit: "",
 	},
-	
-	
 	
 	
 	{
