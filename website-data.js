@@ -407,7 +407,7 @@ let WEBSITE_DATA = [
 	
 				{		
 		name: "'Wood'",
-		img: "images/whowood202.gif", 
+		img: "images/WOODBW.jpg", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
