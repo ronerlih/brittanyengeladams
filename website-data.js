@@ -44,8 +44,25 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-		
 	
+	
+		
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersConcertProgram.jpg", 
+		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
+	
+		
+ {
+		name: "YouTube Improv",
+		img: "images/youtubemprov1high.gif",
+		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -59,6 +76,10 @@ let WEBSITE_DATA = [
 
 	
 	
+	
+	
+	
+	
 // 		{
 // 		name: "The Young and The Banging (Publication)",
 // 		img: "images/abookappearance.jpg",
@@ -70,14 +91,7 @@ let WEBSITE_DATA = [
 
 	
 
-{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersConcertProgram.jpg", 
-		blurb: "Situated within a nationally ranked research university just 45 minutes from New York City, the Dance Department seeks to cultivate a diverse and inclusive community of dance artists of the highest caliber who are collaborative and multi-dimensional in their view and knowledge of the dance field internationally.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
-	
+
 	
 	
 	
@@ -206,14 +220,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
- {
-		name: "YouTube Improv",
-		img: "images/youtubemprov1high.gif",
-		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 		{
