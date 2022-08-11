@@ -28,14 +28,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/MRPJSNAPSHOT.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
-	
 
 	
 	
@@ -391,6 +383,16 @@ let WEBSITE_DATA = [
 		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
+	},
+	
+	
+	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/MRPJSNAPSHOT.jpg", 
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
 	},
 	
 	
