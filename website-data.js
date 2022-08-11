@@ -18,15 +18,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-
 		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capecodmovehigh.gif",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
+		name: "Hand Dance (Film)",
+		img: "images/greenhand.jpg",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+
 	
 	
 		{
@@ -340,6 +339,14 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+	
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/capecodmovehigh.gif",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
 				{
 		name: "Emergent Landscape 2",
 		img: "images/lives.jpg",
@@ -348,13 +355,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-		{
-		name: "Hand Dance (Film)",
-		img: "images/greenhand.jpg",
-		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 	
 	
