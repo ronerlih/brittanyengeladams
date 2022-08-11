@@ -336,6 +336,13 @@ let WEBSITE_DATA = [
 	
 		
 	
+				{
+		name: "Emergent Landscape 2",
+		img: "images/lives.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 	
 	
@@ -356,15 +363,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/WOODBW.jpg", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 	
 	
 	
@@ -392,28 +390,30 @@ let WEBSITE_DATA = [
 	
 	
 	
+		
 	
-
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-				{
-		name: "Emergent Landscape 2",
-		img: "images/lives.jpg",
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/WOODBW.jpg", 
 		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
 	
 	
 	
