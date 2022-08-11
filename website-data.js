@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth (Performance)",
+		name: "BodyMouth",
 		img: "images/FUTUREHIGH.gif",
 		blurb: "'BodyMouth' turns the body into an instrument for speech, made in collaboration between Kat Mustatea and Sidney San Martín. Fourthcoming Symposium and Exhibition; The next New Media Caucus Symposium takes place from September 30th-October 2nd 2022 at Virginia Tech and will focus on the theme of 'Future Bodies'.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -12,22 +12,24 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capecodmovehigh.gif",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
-	},
 	
+
+	
+	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/MRPJSNAPSHOT.jpg", 
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 
 	
 	
 	
-	
 		{
-		name: "Hand Dance (Film)",
+		name: "Hand Dance",
 		img: "images/greenhand.jpg",
 		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -41,6 +43,16 @@ let WEBSITE_DATA = [
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
+	},
+	
+		
+	
+			{
+		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
+		img: "images/JBCGyLoisGreenfield1BW.jpeg",
+		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
+		link: "https://www.joffreyballetschool.com",
+		credit: "photo: Lois Greenfield",
 	},
 	
 	
@@ -371,7 +383,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+		{
+				
+		name: "Family Archive",
+		img: "images/mizrach.jpg",
+		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 	
 	
@@ -405,27 +424,20 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-				
-		name: "Family Archive",
-		img: "images/mizrach.jpg",
-		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-	
 	
 	
 		
 	
 
 		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/MRPJSNAPSHOT.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/capecodmovehigh.gif",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
 	},
+	
+	
 	
 	
 	{
