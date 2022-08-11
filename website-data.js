@@ -30,7 +30,23 @@ let WEBSITE_DATA = [
 	
 
 	
+	{
+		name: "Human Robot",
+		img: "images/NODESP.jpg",
+		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
+		link: "",
+		credit: "",
+	},
 	
+	
+				{
+		name: "Emergent Landscape 2",
+		img: "images/lives.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+		
 	
 	
 	
@@ -70,15 +86,21 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+	{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/Intersection123.jpg",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
 	
 	
 	
 		
  {
-		name: "YouTube Improv",
+		name: "YouTube Improv (Performance)",
 		img: "images/youtubemprov1high.gif",
-		blurb: "YouTube Improv is a performative work where a grid of youtube videos which are trending in the venue's proximity play while dancers on stage adjust their movement score according to the algorithmic orchestrated playlist. Presented by Rutgers University in 2018 at the Victoria J. Mastrobuono Theater.",
+		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
 		link: "",
 		credit: "",
 	},
@@ -226,9 +248,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Time Loop",
+		name: "Time Loop (Performance)",
 		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage.",
+		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
 		link: "",
 		credit: "",
 	},
@@ -307,7 +329,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Youtube Improv (Webpage)",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
+		blurb: "YouTube webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
@@ -324,7 +346,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Motion Capture Research",
+		name: "Motion-Capture (Research)",
 		img: "images/AVATARINRED.gif", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
 		link: "",
@@ -339,14 +361,7 @@ let WEBSITE_DATA = [
 		link: "https://ccmht.org/",
 		credit: "",
 	},
-				{
-		name: "Emergent Landscape 2",
-		img: "images/lives.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-		
+	
 	
 	
 	
@@ -396,13 +411,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/Intersection123.jpg",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
+
 		
 	
 	
@@ -436,15 +445,6 @@ let WEBSITE_DATA = [
 		
 	
 
-	
-	{
-		name: "Human Robot",
-		img: "images/NODESP.jpg",
-		blurb: "Human Robot uses adversarial neural networks and machine learning algorithms, inspired by the work of Walter Benjamin's book “The Work of Art in the Age of Mechanical Reproduction”, he uses the concept of the ‘aura’, to discuss how we use the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.'",
-		link: "",
-		credit: "",
-	},
-	
 	
 	{
 		name: "Farewell 2020",
