@@ -213,7 +213,13 @@ let WEBSITE_DATA = [
 
 	
 		
-	
+		{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
+		link: "",
+		credit: "",
+	},
 
 
 		
@@ -256,13 +262,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live feed cameras to record, loop, and project the movement's of the performers onto the stage. The loops reproduce the dancer's movements, creating an echo of that movement, to be compared to the movements that follow. 2018 Kumble Theater, New York City.",
-		link: "",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -293,6 +293,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Motion Capture Research",
+		img: "images/AVATARINRED.gif", 
+		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
+		link: "",
+		credit:"",
+	},
 	
 		
 	{
@@ -394,13 +401,7 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "Motion Capture Research",
-		img: "images/AVATARINRED.gif", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.'",
-		link: "",
-		credit:"",
-	},
+	
 	
 	
 	{
