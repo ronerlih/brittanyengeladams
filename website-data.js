@@ -275,14 +275,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
+		
+		{
+		name: "New York University, Tisch Dance Faculty",
+		img: "images/nyudance.jpg",
+		blurb: "Tisch Department of Dance, seeks to develop and prepare fully realized dance artists to be critical thinkers, fearless leaders, and fluent performers.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
 	},
-	
 	
 	
 		{
@@ -324,15 +324,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "New York University, Tisch Dance Faculty",
-		img: "images/nyudance.jpg",
-		blurb: "Tisch Department of Dance, seeks to develop and prepare fully realized dance artists to be critical thinkers, fearless leaders, and fluent performers.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: "",
-	},
 	
-
+	
+	{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage is an automated webpage that collects ‘trending’ videos from Youtube and plays them randomly.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 	
 	
 		{
