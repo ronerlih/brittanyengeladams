@@ -405,7 +405,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "'Blue'",
-		img: "images/BLUEWHO.jpg",
+		img: "images/lives.jpg",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
