@@ -213,13 +213,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Cape Cod Modern Architecture",
-// 		img: "images/capebook.png",
-// 		blurb: " 2020-2021 artist residency at CCMHT where I made film titled 'Before Zeta' for their digital archive and The Provincetown Independent wrote a write up about it: 'A storm rolls toward the Outer Cape, stirring the ocean’s waves and sending shivers through the pine forest. Unperturbed, a lone figure dances on the deck of the Kugel/Gips House, nestled among Wellfleet’s kettle ponds. Moving with a certain geometry in mind, Brittany Engel-Adams climbs a rail and tilts her face into the rain, mirroring the angle of the locust leaves around her as they bow with the weight of falling water.'", 
-// 		link: "https://https://ccmht.org/",
-// 		credit: "",
-// 	},
+	{
+		name: "'Before Zeta'",
+		img: "images/capebook.png",
+		blurb: "Before Zeta was filmed outside on the deck of Kugel-Gips, a Bauhaus Modern Home, in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod, ‘Before Zeta’ is a site-specific film created for the Cape Cod Modern House Trust digital guestbook. It uses the cartesian grid to form a dialogue, and series of exchanges between the environment and the body, using tactility and sonic connections as a proprioceptive method non reliant on optics.'", 
+		link: "https://https://ccmht.org/",
+		credit: "",
+	},
 	
 	
 	
