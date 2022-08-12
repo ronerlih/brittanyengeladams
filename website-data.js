@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette Research 2",
-		img: "images/reebok.jpg",
+		img: "images/maquettebox.jpg",
 		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
 		link: "",
 		credit: "",
