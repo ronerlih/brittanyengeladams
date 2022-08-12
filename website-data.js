@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Human-Robot",
+		name: "Human-Robot (Stage 1)",
 		img: "images/human_robot_3.gif",
 		blurb: " Human-Robot: adversarial neural networks and machine learning algorithms. 'Human-Robot' is a duet between a human and Robot; inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
@@ -91,7 +91,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette (stage 2)",
-		img: "images/maquettebox.jpg",
+		img: "images/maquettebox202.jpg",
 		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
 		link: "",
 		credit: "",
