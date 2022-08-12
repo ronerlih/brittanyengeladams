@@ -28,16 +28,14 @@ let WEBSITE_DATA = [
 
 	
 	
-
 	
-	{
+		{
 		name: "Human-Robot",
 		img: "images/human_robot_3.gif",
-		blurb: "Human–Robot: adversarial neural networks and machine-learning algorithms. Human–Robot brings together, a performer and a machine, face to face, in a choreography that explores the chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
+		blurb: " ‘Human-Robot' is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
 		link: "",
 		credit: "",
 	},
-	
 	
 				{
 		name: "Emergent Landscape 2",
@@ -157,7 +155,13 @@ let WEBSITE_DATA = [
 	
 
 
-	
+	{
+		name: "Maquette Research 2",
+		img: "images/reebok.jpg",
+		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -166,7 +170,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Maquette 2021",
+		name: "Maquette Research 1",
 		img: "images/Maquettecolor.jpg",
 		blurb: "Maquette 2021: omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
 		link: "",
