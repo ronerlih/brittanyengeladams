@@ -47,7 +47,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Maquette (test NO. 1)",
+		name: "Maquette (TEST NO. 1)",
 		img: "images/Maquettecolor.jpg",
 		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
 		link: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Maquette (Test NO. 2)",
+		name: "Maquette (TEST NO. 2)",
 		img: "images/maquettebox202.jpg",
 		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
 		link: "",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 				{		
 		name: "Emergent Landscape 3",
-		img: "images/WOODBW.jpg", 
+		img: "images/whowood.gif", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
