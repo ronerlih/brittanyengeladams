@@ -29,7 +29,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance (Research)",
 		img: "images/HanddanceTest.jpg",
-		blurb: "Techniques we could use to make the hand-dance film:Example 1 The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the photage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. We found this image on google, it has the general resemblance to the quality of blending, and we can tweak and manipulate the visual in different ways.",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. We found this image on google, it has the general resemblance to the quality of blending, and we can tweak and manipulate the visual in different ways.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
