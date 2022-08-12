@@ -223,7 +223,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "'Before Zeta' (Film)",
-		img: "images/CAPECODMHTPRESSIMAGE.JPG",
+		img: "images/kugelgipsbw.jpg",
 		blurb: "‘Before Zeta’ was filmed outside on the deck of Kugel-Gips; a Bauhaus Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod. ‘Before Zeta’ is a site-specific film created for the Cape Cod Modern House Trust digital guestbook. It uses the cartesian grid to form a dialogue, and series of exchanges, between the environment and the body, using tactility and sonic connections to form representations, as a proprioceptive method non reliant on optics.'", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
