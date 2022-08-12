@@ -83,6 +83,27 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	{
+		name: "Maquette Research 2",
+		img: "images/maquettebox.jpg",
+		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+	
+	
+	
+	
+		{
+		name: "Maquette Research 1",
+		img: "images/Maquettecolor.jpg",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
+		link: "",
+		credit: " .",
+	},
 	
 	{
 		name: "Transmedia Storytelling in the Age of Proximity",
@@ -162,27 +183,7 @@ let WEBSITE_DATA = [
 	
 
 
-	{
-		name: "Maquette Research 2",
-		img: "images/maquettebox.jpg",
-		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
-		link: "",
-		credit: "",
-	},
 	
-	
-	
-	
-	
-	
-	
-		{
-		name: "Maquette Research 1",
-		img: "images/Maquettecolor.jpg",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
-		link: "",
-		credit: " .",
-	},
 	
 	
 	
