@@ -172,14 +172,7 @@ let WEBSITE_DATA = [
 		
 	
 	
-		
-			{
-		name: "Skeletal-Avatar Research",
-		img: "images/skeletalavatarmodel.jpg",
-		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
-		link: "",
-		credit: "",
-	},
+	
 	
 
 
@@ -424,6 +417,16 @@ let WEBSITE_DATA = [
 		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
+	},
+	
+	
+	
+			{
+		name: "Skeletal-Avatar (Research)",
+		img: "images/skeletalavatarmodel.jpg",
+		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
+		link: "",
+		credit: "",
 	},
 	
 	
