@@ -154,7 +154,7 @@ let WEBSITE_DATA = [
 		
 			{
 		name: "Skeletal-Avatar Research",
-		img: "images/Avatarintro.jpg",
+		img: "images/skeletalavatarmodel.jpg",
 		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
 		link: "",
 		credit: "",
