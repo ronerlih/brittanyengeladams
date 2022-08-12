@@ -38,16 +38,16 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Human-Robot (Stage 1)",
+		name: "Human-Robot",
 		img: "images/human_robot_3.gif",
-		blurb: " Human-Robot: adversarial neural networks and machine learning algorithms. 'Human-Robot' is a duet between a human and Robot; inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.'",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
 	
 	
 		{
-		name: "Maquette (stage 1)",
+		name: "Maquette (test NO. 1)",
 		img: "images/Maquettecolor.jpg",
 		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
 		link: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Maquette (stage 2)",
+		name: "Maquette (Test NO. 2)",
 		img: "images/maquettebox202.jpg",
 		blurb: "The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.'",
 		link: "",
