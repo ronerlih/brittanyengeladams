@@ -46,6 +46,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
+		{
+		name: "Maquette (stage 1)",
+		img: "images/Maquettecolor.jpg",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
+		link: "",
+		credit: " .",
+	},
 	
 				{
 		name: "Emergent Landscape 2",
@@ -89,13 +96,6 @@ let WEBSITE_DATA = [
 	
 		
 	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/WOODBW.jpg", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 	
 	{
 		name: "Maquette (stage 2)",
@@ -109,15 +109,17 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-		{
-		name: "Maquette (stage 1)",
-		img: "images/Maquettecolor.jpg",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
-		link: "",
-		credit: " .",
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/WOODBW.jpg", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
 	},
+	
+	
+	
+	
 	
 	
 	
