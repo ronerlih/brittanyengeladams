@@ -511,13 +511,13 @@ let WEBSITE_DATA = [
 	
 		
  
-	{
-		name: "University of Missouri-Kansas City - Artist Talk (2020):",
-		img: "images/90.jpeg",
-		blurb: "Virtual Artist Talk, at The Univeristy of Missouri-Kansas City, speaking with BFA Dance Students about the stakes of being a dancer in the 21st Century.",
-		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
-		credit: "",
-	},
+// 	{
+// 		name: "University of Missouri-Kansas City - Artist Talk (2020):",
+// 		img: "images/90.jpeg",
+// 		blurb: "Virtual Artist Talk, at The Univeristy of Missouri-Kansas City, speaking with BFA Dance Students about the stakes of being a dancer in the 21st Century.",
+// 		link: "https://conservatory.umkc.edu/areas-of-study/dance.html",
+// 		credit: "",
+// 	},
 	
 	
 
