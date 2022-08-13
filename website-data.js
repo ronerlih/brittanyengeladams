@@ -35,6 +35,24 @@ let WEBSITE_DATA = [
 	},
 	
 
+				{
+		name: "Emergent Landscape 2",
+		img: "images/lives.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	
+	
+	
+	
+		{
+		name: "Maquette (TEST NO. 1)",
+		img: "images/Maquettecolor.jpg",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
+		link: "",
+		credit: " .",
+	},
 	
 	
 	
@@ -47,21 +65,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Maquette (TEST NO. 1)",
-		img: "images/Maquettecolor.jpg",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
-		link: "",
-		credit: " .",
-	},
-	
-				{
-		name: "Emergent Landscape 2",
-		img: "images/lives.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
 		
 	
 	
