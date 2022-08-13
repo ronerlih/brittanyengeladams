@@ -214,7 +214,13 @@ let WEBSITE_DATA = [
 // 		credit:"photogrpahed by Ron Erlih",
 // 	},
 	
-		
+			{
+		name: "Time Loop (Performance)",
+		img: "images/timeloops.jpg",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -261,13 +267,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Time Loop (Performance)",
-		img: "images/timeloops.jpg",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
-		link: "",
-		credit: "",
-	},
+	
 	
 
 	
