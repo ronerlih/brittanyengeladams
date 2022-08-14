@@ -24,6 +24,17 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+			{
+		name: "Avatar (Research)",
+		img: "images/avtarhigh.png",
+		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
 	{
 		name: "BodyMouth (Artist Residency)",
 		img: "images/BMHarvestWorks.jpg",
@@ -33,17 +44,34 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Human-Robot (Research)",
-		img: "images/arduino.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+	
+	
+	{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/Intersection123.jpg",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "https://www.intersection.com/",
 		credit: "",
 	},
 	
 	
 	
+	{
+		name: "Youtube Improv (Webpage)",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 	
+	
+		{
+		name: "Maquette (TEST NO. 1)",
+		img: "images/Maquettecolor.jpg",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
+		link: "",
+		credit: " .",
+	},
 	
 	
 	
@@ -60,11 +88,11 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Maquette (TEST NO. 1)",
-		img: "images/Maquettecolor.jpg",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together.",
-		link: "",
-		credit: " .",
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/capecodmovehigh.gif",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
 	},
 	
 	
@@ -73,6 +101,15 @@ let WEBSITE_DATA = [
 	
 		
 	
+		
+			{
+		name: "Bates College Horton Workshop",
+		img: "images/Batesdance.jpg",
+		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
+		link: "",
+		credit:"",
+				
+	},
 	
 	
 	
@@ -86,31 +123,10 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
+	
 		
-			{
-		name: "Bates College Horton Workshop",
-		img: "images/Batesdance.jpg",
-		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
-		link: "",
-		credit:"",
-				
-	},
-	
-	{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/Intersection123.jpg",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
-	
-			{
-		name: "The Young and The Banging (Publication)",
-		img: "images/TYATBHIGH.jpg",
-		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
 	
 	
 	
@@ -243,7 +259,13 @@ let WEBSITE_DATA = [
 	
 	
 
-	
+		{
+		name: "The Young and The Banging (Publication)",
+		img: "images/TYATBHIGH.jpg",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
+	},
 	
 	
 
@@ -277,13 +299,6 @@ let WEBSITE_DATA = [
 	
 
 	
-	{
-		name: "Dance Concert Curator at Rutgers University",
-		img: "images/RutgersProgram.jpg", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
 	
 	
 		{
@@ -346,14 +361,6 @@ let WEBSITE_DATA = [
 	
 		
 	
-	{
-		name: "Youtube Improv (Webpage)",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
-	
 	
 	
 		{
@@ -373,13 +380,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/capecodmovehigh.gif",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
-	},
 	
 	
 	
@@ -398,6 +398,13 @@ let WEBSITE_DATA = [
 	
 	
 	
+	{
+		name: "Dance Concert Curator at Rutgers University",
+		img: "images/RutgersProgram.jpg", 
+		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 	
 	
 	
@@ -406,7 +413,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+			{
+		name: "Avatar (Research)",
+		img: "images/mombrt1.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -419,6 +432,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
+	
 		{
 		name: "Hand Dance (Film)",
 		img: "images/handdance202.jpg",
@@ -426,6 +442,17 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/MRPJSNAPSHOT.jpg", 
+		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
+	
+	
 	
 	
 	{
@@ -438,23 +465,10 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/MRPJSNAPSHOT.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 	
 	
-			{
-		name: "Avatar (Research)",
-		img: "images/avtarhigh.png",
-		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
-		link: "",
-		credit: "",
-	},
+	
 	
 	
 	
