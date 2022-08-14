@@ -438,7 +438,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance - Film",
-		img: "images/ruins.png",
+		img: "images/handdance202.jpg",
 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -487,7 +487,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance Development",
-		img: "images/HanddanceTest.jpg",
+		img: "images/ruins.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "",
 		credit: "",
