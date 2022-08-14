@@ -115,9 +115,9 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Joffrey NYC Jazz & Contemporary Summer Intensive Faculty",
-		img: "images/JBCGyLoisGreenfield1BW.jpeg",
-		blurb: "Founded in 1953 by Robert Joffrey and Gerald Arpino, Joffrey Ballet School maintains the vision of its founders to transform passionate dance students into versatile, individualistic artists able to collaborate and evolve fluidly in a fast-changing society. With an accredited dance program that offers two core areas of study – ballet and jazz/contemporary – JBS is known for its diverse curriculum and has the largest summer intensive training program in the country.",
+		name: "Joffrey Ballet School NYC",
+		img: "images/joffrey.png",
+		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "photo: Lois Greenfield",
 	},
