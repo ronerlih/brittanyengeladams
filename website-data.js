@@ -248,7 +248,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "'Before Zeta' (Film)",
-		img: "images/capecod1.jpg",
+		img: "images/capecod11.png",
 		blurb: "‘Before Zeta’ was filmed outside on the deck of Kugel-Gips; a Bauhaus Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod. ‘Before Zeta’ is a site-specific film created for the Cape Cod Modern House Trust digital guestbook. It uses the cartesian grid to form a dialogue, and series of exchanges, between the environment and the body, using tactility and sonic connections to form representations, as a proprioceptive method non reliant on optics.'", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -414,7 +414,8 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Avatar (Research)",
+				
+		name: "Avatar",
 		img: "images/mombrt1.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
