@@ -10,21 +10,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/BMHarvestWorks.jpg",
-		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
 	
-		{
-		name: "Hand Dance (Film)",
-		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
+	
 	
 	{
 		name: "Motion-Capture (Research)",
@@ -33,6 +21,31 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 	},
+	
+	
+	
+	{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/BMHarvestWorks.jpg",
+		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
+	
+	
+			{
+		name: "Human-Robot (Research)",
+		img: "images/arduino.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+	
+	
+	
 	
 
 				{
@@ -56,14 +69,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Human-Robot (Research)",
-		img: "images/human_robot_3.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-	
+
 	
 		
 	
@@ -413,6 +419,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Hand Dance (Film)",
+		img: "images/handdance202.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	{
@@ -427,7 +440,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory (Publication)",
-		img: "images/MRPJISSUE72.jpg", 
+		img: "images/MRPJSNAPSHOT.jpg", 
 		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
