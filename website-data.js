@@ -255,7 +255,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+	{
+		name: "Emergent Landscape 1",
+		img: "images/redzoom.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 	
 	
 
@@ -268,13 +274,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-{
-		name: "Emergent Landscape 1",
-		img: "images/redzoom.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+
 	
 	
 // 			{
