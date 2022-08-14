@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth at Virginia Tech",
+		name: "BodyMouth - Live",
 		img: "images/FUTUREHIGH.gif",
 		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -36,7 +36,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "BodyMouth (Residency)",
+		name: "BodyMouth (Artist Residency)",
 		img: "images/bodymouth.png",
 		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Youtube Improv (Webpage)",
+		name: "Youtube Improv Webpage",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Maquette",
+		name: "Maquette 2021",
 		img: "images/maquettereebok.png",
 		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Cape Cod Modern Home Architecture Residency",
+		name: "Cape Cod Modern Architecture (Artist Residency)",
 		img: "images/CapeCodBookbw.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
@@ -115,7 +115,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Joffrey Ballet School NYC (Faculty)",
+		name: "Joffrey Ballet School, NYC - Faculty",
 		img: "images/joffrey.png",
 		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
 		link: "https://www.joffreyballetschool.com",
@@ -237,7 +237,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 			{
-		name: "Time Loop (Performance)",
+		name: "Time Loop - Live",
 		img: "images/Loops2018high.gif",
 		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
 		link: "",
@@ -247,9 +247,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "'Before Zeta' (Film)",
+		name: "Before Zeta - Film",
 		img: "images/capecod11.png",
-		blurb: "‘Before Zeta’ was filmed outside on the deck of Kugel-Gips; a Bauhaus Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ rolled onto the shores of Cape Cod. ‘Before Zeta’ is a site-specific film created for the Cape Cod Modern House Trust digital guestbook. It uses the cartesian grid to form a dialogue, and series of exchanges, between the environment and the body, using tactility and sonic connections to form representations, as a proprioceptive method non reliant on optics.'", 
+		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ crashed onto the shores of Cape Cod.", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
