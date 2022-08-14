@@ -103,9 +103,9 @@ let WEBSITE_DATA = [
 	
 		
 			{
-		name: "Bates College Horton Workshop",
+		name: "Pro Training Program at Bates Dance Festival ",
 		img: "images/batesteach.png",
-		blurb: "2019 Bates Summer Dance Faculty. The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
+		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
 		link: "https://www.batesdancefestival.org/",
 		credit:"",
 				
