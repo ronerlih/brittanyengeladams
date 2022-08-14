@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Motion-Capture (Research)",
-		img: "images/Avatartracking.jpg", 
+		img: "images/avtarhigh.png", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'",
 		link: "",
 		credit:"",
