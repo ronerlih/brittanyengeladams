@@ -426,9 +426,9 @@ let WEBSITE_DATA = [
 	
 		{
 				
-		name: "Archival Research",
+		name: "Archival Method",
 		img: "images/mizrach.jpg",
-		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "Remnants of Ancestors: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
