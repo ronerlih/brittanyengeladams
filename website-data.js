@@ -115,7 +115,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Joffrey Ballet School, NYC - Faculty",
+		name: "Joffrey Ballet School, NYC (Faculty)",
 		img: "images/joffrey.png",
 		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
 		link: "https://www.joffreyballetschool.com",
@@ -308,7 +308,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "New York University, Tisch Dance Faculty",
+		name: "New York University's Tisch Department of Dance (Faculty)",
 		img: "images/tisch.png",
 		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
 		link: "https://tisch.nyu.edu/dance/courses",
@@ -370,7 +370,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "New York University, Tisch ETW Drama Faculty",
+		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
 		img: "images/ETWNYU.jpg",
 		blurb: "ETW was founded in 1975 by prominent theater practitioners who valued the socially conscious artist. These artists developed a training program based on the innovative approaches to physically based acting and performance that were having an enormous influence in and beyond the world of theater. As ETW began to gain national and international attention, it expanded its curriculum to include more traditional approaches to actor training.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
@@ -399,7 +399,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Dance Concert Curator at Rutgers University",
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
 		img: "images/barcodeprogram.JPG", 
 		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
@@ -415,7 +415,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Avatar",
+		name: "Avatar Development",
 		img: "images/metal.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -426,7 +426,7 @@ let WEBSITE_DATA = [
 	
 		{
 				
-		name: "Family Archive",
+		name: "Archival Research",
 		img: "images/mizrach.jpg",
 		blurb: "This ‘Mizrach’ was crafted by my great-great grandfather, Israel Manaschewitz. This Mizrach  was made for my grandmother. Her grandparents, Israel Tzvi Manaschewitz and Chaya Miriam Manaschewitz originally from Brod Galicia, who later immigrated to the U.S in the 1880s. Chaya Manaschewitz, her maiden name was Landau, from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -437,7 +437,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance (Film)",
+		name: "Hand Dance - Film",
 		img: "images/handdance202.jpg",
 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
