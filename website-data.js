@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-		img: "images/ETWNYU.jpg",
+		img: "images/NYUdrama.png",
 		blurb: "ETW was founded in 1975 by prominent theater practitioners who valued the socially conscious artist. These artists developed a training program based on the innovative approaches to physically based acting and performance that were having an enormous influence in and beyond the world of theater. As ETW began to gain national and international attention, it expanded its curriculum to include more traditional approaches to actor training.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
