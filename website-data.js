@@ -150,8 +150,8 @@ let WEBSITE_DATA = [
 	
 		
  {
-		name: "YouTube Improv (Performance)",
-		img: "images/youtubemprov1high.gif",
+		name: "YouTube Improv - Live",
+		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
 		link: "",
 		credit: "",
