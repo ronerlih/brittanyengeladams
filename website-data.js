@@ -11,6 +11,25 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+				{
+		name: "Hand Dance Development",
+		img: "images/ruins.png",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "",
+		credit: "",
+	},
+	
+	
+			{
+				
+		name: "Avatar Development",
+		img: "images/metal.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
 	{
 		name: "Youtube Improv Webpage",
 		img: "images/YouTubeimprovhigh.gif",
@@ -406,15 +425,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-			{
-				
-		name: "Avatar Development",
-		img: "images/metal.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 	
@@ -428,13 +439,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Hand Dance Development",
-		img: "images/ruins.png",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 		{
