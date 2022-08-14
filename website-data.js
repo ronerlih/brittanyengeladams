@@ -446,8 +446,8 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory (Publication)",
-		img: "images/MRPJSNAPSHOT.jpg", 
-		blurb: "’Architecture of Memory' weaves together personal narrative and historical accounts, using digital-art techniques, as an aperture to view unforeseen connections between past, present and future. Publication, 2021 Movement Research Performance Journal, Issue #55.",
+		img: "images/mrpj202.png", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
