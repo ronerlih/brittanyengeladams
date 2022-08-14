@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "MoCap Research",
-		img: "images/avtarhigh.png", 
+		img: "images/AVATARINRED.gif", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
 		link: "",
 		credit:"",
@@ -36,8 +36,8 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Harvest Works Residency",
-		img: "images/harvestworks.png",
+		name: "BodyMouth (Residency)",
+		img: "images/bodymouth.png",
 		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
