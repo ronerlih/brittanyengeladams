@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Emergent Landscape 2",
-		img: "images/biz.jpeg",
+		img: "images/BLUEWHO.jpg",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
