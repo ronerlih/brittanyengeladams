@@ -1,15 +1,32 @@
 let WEBSITE_DATA = [
 	
 	
-	
-			{
-		name: "BodyMouth - Live",
-		img: "images/FUTUREHIGH.gif",
-		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
-		link: "https://futurebodies.newmediacaucus.org/",
+		{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/intersecttech.png",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "https://www.intersection.com/",
 		credit: "",
 	},
 	
+	
+	
+	{
+		name: "Youtube Improv Webpage",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+	
+	
+			{
+		name: "Emergent Landscape 2",
+		img: "images/bluezoom.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 	
 	
@@ -46,37 +63,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/intersecttech.png",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
-	
-	
-	
-	{
-		name: "Youtube Improv Webpage",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
-	
+
 	
 	
 	
 	
 
-				{
-		name: "Emergent Landscape 2",
-		img: "images/bluezoom.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-	
+		
 	
 		{
 		name: "Maquette 2021",
@@ -521,7 +514,14 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
+		
+			{
+		name: "BodyMouth - Live",
+		img: "images/FUTUREHIGH.gif",
+		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
 	
 	
 	
