@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "BodyMouth (Performance)",
+		name: "BodyMouth at Virginia Tech",
 		img: "images/FUTUREHIGH.gif",
 		blurb: "Performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -15,9 +15,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Motion-Capture (Research)",
-		img: "images/Avatartracking.jpg", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'",
+		name: "MoCap Research",
+		img: "images/avtarhigh.png", 
+		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
 		link: "",
 		credit:"",
 	},
@@ -25,18 +25,18 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Avatar (Research)",
-		img: "images/avtarhigh.png",
-		blurb: "'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Avatar (Research)",
+// 		img: "images/avtarhigh.png",
+// 		blurb: "'",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 	
 	{
-		name: "BodyMouth (Artist Residency)",
+		name: "Harvest Works Residency",
 		img: "images/BMHarvestWorks.jpg",
 		blurb: "'BodyMouth in Residency, at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
