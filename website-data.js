@@ -304,7 +304,7 @@ let WEBSITE_DATA = [
 		{
 		name: "New York University, Tisch Dance Faculty",
 		img: "images/nyudanceHIGH.jpg",
-		blurb: "Tisch Department of Dance, seeks to develop and prepare fully realized dance artists to be critical thinkers, fearless leaders, and fluent performers.",
+		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
 		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
 	},
