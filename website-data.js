@@ -140,18 +140,17 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-		
-	
-		
-			{
-		name: "Pro Training Program at Bates Dance Festival ",
-		img: "images/batesteach.png",
-		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
-				
+	{
+		name: "New York University's Tisch Department of Dance (Faculty)",
+		img: "images/tisch.png",
+		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
+		link: "https://tisch.nyu.edu/dance/courses",
+		credit: "",
 	},
+		
+	
+		
+		
 	
 	
 	
@@ -167,7 +166,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		{
+		name: "Pro Training Program at Bates Dance Festival ",
+		img: "images/batesteach.png",
+		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
+				
+	},
 		
 	
 	
@@ -302,13 +308,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "New York University's Tisch Department of Dance (Faculty)",
-		img: "images/tisch.png",
-		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: "",
-	},
+		
 	
 	
 	
