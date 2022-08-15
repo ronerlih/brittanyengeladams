@@ -431,7 +431,7 @@ let WEBSITE_DATA = [
 	
 		{
 				
-		name: "Famil Archive",
+		name: "Family Archive",
 		img: "images/mizrach.jpg",
 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -439,7 +439,15 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Architecture of Memory (Archival Research)",
+		name: "Movement Research Performance Journal (Publication)",
+		img: "images/mrpj202.png", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
+		{
+		name: "Architecture of Memory - Research",
 		img: "images/dyptichmom.png", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -448,13 +456,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/mrpj202.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 	
 				{
