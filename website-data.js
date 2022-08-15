@@ -17,7 +17,14 @@ let WEBSITE_DATA = [
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
-		
+	
+		{
+		name: "MoCap Research",
+		img: "images/Avatartracking.jpg", 
+		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
+		link: "",
+		credit:"",
+	},
 	
 	
 				{
@@ -46,13 +53,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "MoCap Research",
-		img: "images/Avatartracking.jpg", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
-		link: "",
-		credit:"",
-	},
+	
 	
 		{
 				
@@ -178,16 +179,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-		{
-		name: "Pro Training Program at Bates Dance Festival ",
-		img: "images/batesteach.png",
-		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
-				
+				{
+		name: "Time Loop - Live",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
+		link: "",
+		credit: "",
 	},
+	
+	
+	
+	
 		
 	
 	
@@ -234,7 +236,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-
 
 	
 	
@@ -444,7 +445,14 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	
+		{
+		name: "Pro Training Program at Bates Dance Festival ",
+		img: "images/batesteach.png",
+		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
+				
+	},
 	
 	
 	
@@ -463,13 +471,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-				{
-		name: "Time Loop - Live",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
-		link: "",
-		credit: "",
-	},
+	
 	
 	
 	
