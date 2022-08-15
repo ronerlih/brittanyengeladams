@@ -136,13 +136,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-				{
-		name: "Time Loop - Live",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
-		link: "",
-		credit: "",
-	},
+	
 	
 			{
 		name: "Joffrey Ballet School, NYC (Faculty)",
@@ -440,7 +434,13 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	
+				{
+		name: "Time Loop - Live",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
+		link: "",
+		credit: "",
+	},
 	
 	{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
