@@ -802,7 +802,7 @@ let WEBSITE_DATA = [
 // 		blurb: "Company member with Ailey II, under the direction of Sylvia Waters.",
 // 		link: "http://pressroom.alvinailey.org/file?fid=5711a33adfc2a546ab14fe4e",
 // 		credit: "photo copyright: Performance Documentation, Photo Courtesy of Eduardo Patino",
-// 	},
+// 	}, 
 	
 	 
 
