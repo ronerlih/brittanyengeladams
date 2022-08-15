@@ -10,6 +10,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
+		img: "images/programfallrutgers.png", 
+		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 		
 	
 	
@@ -46,7 +53,13 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-	
+	{
+		name: "Youtube Improv Webpage",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 	
 	{
 				
@@ -59,13 +72,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Youtube Improv Webpage",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
+	
 	
 		{
 		name: "Maquette 2021",
@@ -447,13 +454,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
-		img: "images/programfallrutgers.png", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
+	
 	
 	
 	
