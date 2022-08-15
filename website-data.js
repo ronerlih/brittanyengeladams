@@ -9,6 +9,22 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+					{
+		name: "Hand Dance (Research)",
+		img: "images/ruins.png",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
+	
+				{
+		name: "Hand Dance (Research)",
+		img: "images/tensorflow.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "https://blog.tensorflow.org/2019/11/updated-bodypix-2.html",
+		credit: "",
+	},
+	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity Promo Video",
 		img: "images/intersecttech.png",
@@ -28,22 +44,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-				{
-		name: "Hand Dance (Research)",
-		img: "images/ruins.png",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
+
 	
-				{
-		name: "Hand Dance (Research)",
-		img: "images/tensorflow.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "https://blog.tensorflow.org/2019/11/updated-bodypix-2.html",
-		credit: "",
+		
+			{
+		name: "Architecture of Memory (Research)",
+		img: "images/dyptichmom.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
 	},
-	
 	
 		{
 		name: "Hand Dance - Film",
@@ -53,14 +63,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-			{
-		name: "Architecture of Memory (Research)",
-		img: "images/dyptichmom.png", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+
 	
 	
 
