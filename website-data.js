@@ -43,17 +43,16 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-	
+			{
+		name: "Maquette",
+		img: "images/maquetteblk.png",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
 
 	
-		
-			{
-		name: "Architecture of Memory (Research)",
-		img: "images/dyptichmom.png", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+	
 	
 		{
 		name: "Hand Dance - Film",
@@ -65,15 +64,16 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-
-		{
-		name: "Maquette 2021",
-		img: "images/maquetteblk.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
+		
+			{
+		name: "Architecture of Memory (Research)",
+		img: "images/dyptichmom.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
 	},
+
+
 	
 	
 	
@@ -124,15 +124,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
-	
-	{
-		name: "BodyMouth Research",
-		img: "images/harvestworks.png",
-		blurb: "'BodyMouth in Residency at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
+			{
+		name: "Pro Training Program at Bates Dance Festival ",
+		img: "images/batesteach.png",
+		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
+				
 	},
+	
 	
 	
 	
@@ -448,6 +448,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	{
+		name: "BodyMouth Research",
+		img: "images/harvestworks.png",
+		blurb: "'BodyMouth in Residency at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
 	
 	
 
@@ -461,14 +468,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-		{
-		name: "Pro Training Program at Bates Dance Festival ",
-		img: "images/batesteach.png",
-		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
-				
-	},
+
 	
 	
 	
