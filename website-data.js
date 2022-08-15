@@ -10,7 +10,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+		
+			{
+				
+		name: "Avatar Development",
+		img: "images/metal.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
 	
 				{
 		name: "Hand Dance Development",
@@ -20,15 +28,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-			{
-				
-		name: "Avatar Development",
-		img: "images/Avatartracking.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+
 	
 	{
 		name: "Youtube Improv Webpage",
@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "MoCap Research",
-		img: "images/avtarhigh.png", 
+		img: "images/Avatartracking.jpg", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
 		link: "",
 		credit:"",
