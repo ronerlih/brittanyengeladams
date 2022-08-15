@@ -464,6 +464,14 @@ let WEBSITE_DATA = [
 	
 
 	
+				{
+		name: "BodyMouth - Live",
+		img: "images/FUTUREHIGH.gif",
+		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
+	
 	
 	
 	
@@ -481,14 +489,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-				{
-		name: "BodyMouth - Live",
-		img: "images/FUTUREHIGH.gif",
-		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
 	
 	
 // 	{
@@ -542,14 +542,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance - Film",
-		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-
+	
 
 {
 		name: "Farewell 2020",
@@ -559,6 +552,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+		{
+		name: "Hand Dance - Film",
+		img: "images/handdance202.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+
 	
 	
 	
