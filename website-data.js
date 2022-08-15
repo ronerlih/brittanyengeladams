@@ -36,12 +36,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 		{
-				
-		name: "Avatar (Research)",
-		img: "images/metal.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+		name: "Hand Dance - Film",
+		img: "images/handdance202.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
@@ -53,6 +53,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 	},
+	
+		{
+				
+		name: "Avatar (Research)",
+		img: "images/metal.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
 	
 			{
 		name: "Architecture of Memory (Research)",
@@ -556,13 +567,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Hand Dance - Film",
-		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 
 	
 	
