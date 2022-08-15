@@ -143,15 +143,16 @@ let WEBSITE_DATA = [
 		
 	
 	
-	
-	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/CapeBookbw.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
+			{
+		name: "Joffrey Ballet School, NYC (Faculty)",
+		img: "images/joffrey.png",
+		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
+		link: "https://www.joffreyballetschool.com",
+		credit: "photo: Lois Greenfield",
 	},
+	
+	
+	
 	
 	
 	
@@ -165,21 +166,6 @@ let WEBSITE_DATA = [
 	},
 		
 	
-		
-		
-	
-	
-	
-	
-			{
-		name: "Joffrey Ballet School, NYC (Faculty)",
-		img: "images/joffrey.png",
-		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
-		link: "https://www.joffreyballetschool.com",
-		credit: "photo: Lois Greenfield",
-	},
-	
-	
 				{
 		name: "Time Loop - Live",
 		img: "images/Loops2018high.gif",
@@ -187,6 +173,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+		
+	
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/CapeBookbw.png",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
+	
+	
+	
+	
 	
 	
 	
