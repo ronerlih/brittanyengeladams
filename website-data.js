@@ -11,14 +11,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-			{
-				
-		name: "Avatar Development",
-		img: "images/metal.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+	
 	
 				{
 		name: "Hand Dance Development",
@@ -28,7 +21,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+				{
+		name: "Hand Dance Development",
+		img: "images/tensorflow.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "https://blog.tensorflow.org/2019/11/updated-bodypix-2.html",
+		credit: "",
+	},
+	
+		{
+				
+		name: "Avatar Development",
+		img: "images/metal.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
 	
 	{
 		name: "Youtube Improv Webpage",
