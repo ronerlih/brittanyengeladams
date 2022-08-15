@@ -1,6 +1,14 @@
 let WEBSITE_DATA = [
 	
 	
+	{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
+		img: "images/programfallrutgers.png", 
+		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
+	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity Promo Video",
 		img: "images/intersecttech.png",
@@ -10,13 +18,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
-		img: "images/programfallrutgers.png", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
 	
 		{
 		name: "MoCap Research",
@@ -53,6 +54,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
+			{
+		name: "Architecture of Memory (Research)",
+		img: "images/dyptichmom.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 		{
@@ -66,13 +74,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Architecture of Memory (Research)",
-		img: "images/dyptichmom.png", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 	{
 		name: "Youtube Improv Webpage",
