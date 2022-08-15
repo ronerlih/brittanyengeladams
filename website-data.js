@@ -63,15 +63,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+
 		{
-				
-		name: "Avatar (Research)",
-		img: "images/metal.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		name: "Maquette 2021",
+		img: "images/maquetteblk.png",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
-		credit: "",
+		credit: " .",
 	},
-	
 	
 	
 	
@@ -93,16 +92,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-	
-		{
-		name: "Maquette 2021",
-		img: "images/maquetteblk.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+			{
+				
+		name: "Avatar (Research)",
+		img: "images/metal.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: " .",
+		credit: "",
 	},
+	
+	
+	
 	
 		
 	
