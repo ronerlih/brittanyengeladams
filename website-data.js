@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator  ",
 		img: "images/programfallrutgers.png", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Majors, created work for the 2021 Fall Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
