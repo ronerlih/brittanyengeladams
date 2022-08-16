@@ -64,6 +64,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+		{
+		name: "Emergent Landscape 2",
+		img: "images/blueflip.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	
 	
 		{
 		name: "Hand Dance - Film",
@@ -168,13 +176,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-		{
-		name: "Emergent Landscape 2",
-		img: "images/who2.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
 	
 	
 	
