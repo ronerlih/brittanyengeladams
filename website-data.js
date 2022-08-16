@@ -1,5 +1,13 @@
 let WEBSITE_DATA = [
 	
+				{
+		name: "Hand Dance (Research)",
+		img: "images/tensorflow.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "https://blog.tensorflow.org/2019/11/updated-bodypix-2.html",
+		credit: "",
+	},
+	
 	
 	{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
@@ -17,13 +25,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Hand Dance (Research)",
-		img: "images/tensorflow.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "https://blog.tensorflow.org/2019/11/updated-bodypix-2.html",
-		credit: "",
-	},
+	
 	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity",
