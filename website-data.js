@@ -100,6 +100,24 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	{
+				
+		name: "Family Archive",
+		img: "images/mizrach.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+	
+	{
+		name: "Youtube Improv -- Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+	
 
 		{
 		name: "Emergent Landscape 2",
@@ -111,22 +129,8 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Youtube Improv -- Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
 	
-	{
-				
-		name: "Family Archive",
-		img: "images/mizrach.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
+	
 	
 	
 	
