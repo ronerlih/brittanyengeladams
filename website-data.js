@@ -61,7 +61,13 @@ let WEBSITE_DATA = [
 		credit: " .",
 	},
 	
-	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpj202.png", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 
 	{
 		name: "Emergent Landscape 1",
@@ -106,13 +112,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/mrpj202.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+	
 	
 	
 			{
@@ -320,13 +320,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "BodyMouth - Live",
-		img: "images/FUTUREHIGH.gif",
-		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -339,6 +333,21 @@ let WEBSITE_DATA = [
 	},
 	
 	
+				{
+		name: "BodyMouth - Live",
+		img: "images/FUTUREHIGH.gif",
+		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
+		
+			{
+		name: "Architecture of Memory",
+		img: "images/datab.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 
 {
 		name: "Farewell 2020",
@@ -348,6 +357,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
+	
 	];  
 	
 		
