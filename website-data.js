@@ -130,12 +130,10 @@ let WEBSITE_DATA = [
 	
 	
 	{
-	
-				
-		name: "Family Archive",
-		img: "images/mizrach.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+		img: "images/NYUdrama.png",
+		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work. Its professionally directed productions span all aesthetics and performance disciplines from realism to postdramatic theater to music theater. Rather than relying on a single aesthetic frame, ETW’s curriculum provides students with fundamental acting and performance skills, while helping them discover and shape their own unique artistic visions.",
+		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
 	},
 	
@@ -203,14 +201,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-			{
-		name: "Pro Training Program at Bates Dance Festival ",
-		img: "images/batesteach.png",
-		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
-				
-	},
+	
 	
 	
 	
@@ -235,7 +226,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+			{
+		name: "Pro Training Program at Bates Dance Festival ",
+		img: "images/batesteach.png",
+		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
+				
+	},
 	
 	
 
@@ -475,17 +473,19 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
+			{
 	
-	
-	
-		{
-		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-		img: "images/NYUdrama.png",
-		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work. Its professionally directed productions span all aesthetics and performance disciplines from realism to postdramatic theater to music theater. Rather than relying on a single aesthetic frame, ETW’s curriculum provides students with fundamental acting and performance skills, while helping them discover and shape their own unique artistic visions.",
-		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+				
+		name: "Family Archive",
+		img: "images/mizrachsun.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+	
+	
+	
+	
 	
 	{
 		name: "BodyMouth Research",
