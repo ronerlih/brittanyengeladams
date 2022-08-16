@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "The Young and The Banging (Publication)",
-		img: "images/YMag.jpg",
+		img: "images/magnum357.jpg",
 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "",
@@ -116,7 +116,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/ccbk.png",
+		img: "images/nofrills.png",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
 		credit: "",
