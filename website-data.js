@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Transmedia Storytelling in the Age of Proximity Promo Video",
+		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/intersecttech.png",
 		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
 		link: "https://www.intersection.com/",
@@ -83,14 +83,20 @@ let WEBSITE_DATA = [
 	},
 		
 			{
-		name: "Architecture of Memory (Press)",
+		name: "Architecture of Memory",
 		img: "images/dyptichmom.png", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
 
-
+		{
+		name: "Emergent Landscape 2",
+		img: "images/who2.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 	
 	
@@ -217,13 +223,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "Emergent Landscape 2",
-		img: "images/who2.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+	
 	
 	
 	
