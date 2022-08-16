@@ -158,13 +158,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Youtube Improv -- Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
+	
 	
 	
 			
@@ -184,7 +178,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+	 {
+		name: "YouTube Improv - Live",
+		img: "images/YouTubeImprov2.gif",
+		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
+		link: "",
+		credit: "",
+	},
 
 		
 	
@@ -246,16 +246,16 @@ let WEBSITE_DATA = [
 	
 	
 		
- {
-		name: "YouTube Improv - Live",
-		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
-		link: "",
-		credit: "",
+
+	
+	
+	{
+		name: "Youtube Improv -- Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
 	},
-	
-	
-	
 
 	
 	
