@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 	
 				{		
 		name: "Emergent Landscape 3",
-		img: "images/sandalcut.png", 
+		img: "images/American_leg_acy_wood_cut.gif", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
