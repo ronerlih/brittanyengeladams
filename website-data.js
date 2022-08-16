@@ -17,6 +17,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+			{
+		name: "Time Loop - Live",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "",
+		credit: "",
+	},
+	
 					{
 		name: "Hand Dance (Research)",
 		img: "images/ruins.png",
@@ -168,13 +176,7 @@ let WEBSITE_DATA = [
 	
 			
 	
-				{
-		name: "Time Loop - Live",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage, at Kumble Theater in Brooklyn NY.",
-		link: "",
-		credit: "",
-	},
+		
 	
 
 	
