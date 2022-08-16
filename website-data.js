@@ -100,12 +100,40 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpj202.png", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	{
 				
 		name: "Family Archive",
 		img: "images/mizrach.jpg",
 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+	
+	
+	
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/CapeCodBook.png",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
+	
+	
+		{
+		name: "New York University's Tisch Department of Dance (Faculty)",
+		img: "images/tisch.png",
+		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
+		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
 	},
 	
@@ -190,13 +218,7 @@ let WEBSITE_DATA = [
 	
 	
 
-	{
-		name: "New York University's Tisch Department of Dance (Faculty)",
-		img: "images/tisch.png",
-		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
-		link: "https://tisch.nyu.edu/dance/courses",
-		credit: "",
-	},
+
 		
 	
 // 				{
@@ -208,14 +230,6 @@ let WEBSITE_DATA = [
 // 	},
 		
 		
-	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/CapeCodBook.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
-	},
 	
 	
 	
@@ -515,13 +529,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Movement Research Performance Journal (Publication)",
-		img: "images/mrpj202.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+	
 	
 
 	
