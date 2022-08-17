@@ -25,13 +25,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "Time Loop - Live",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-		credit: "",
-	},
 	
 					{
 		name: "Hand Dance (Research)",
@@ -40,6 +33,18 @@ let WEBSITE_DATA = [
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
 		credit: "",
 	},
+	
+	
+	
+			{
+		name: "Time Loop - Live",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
+	
+	
 	
 	
 	
