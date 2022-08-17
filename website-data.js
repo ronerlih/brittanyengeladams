@@ -240,7 +240,7 @@ let WEBSITE_DATA = [
 	{
 		name: "BodyMouth Research",
 		img: "images/harvestworksepoch.png",
-		blurb: "'BodyMouth in Residency at Harvestworks with Kat Mustatea and Sidney San Martín. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
