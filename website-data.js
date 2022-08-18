@@ -12,7 +12,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Hand Dance Research",
+		name: "Hand Dance (Research)",
 		img: "images/prima_81_xx.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -36,13 +36,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-					{
-		name: "The Bessies Canceled Work Archive",
-		img: "images/Te_hr_an_Ba_Ba_RA1Z.png",
-		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -141,6 +135,16 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+	
+	
+					{
+		name: "The Bessies Canceled Work Archive",
+		img: "images/be$$ie_abab.png",
+		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
+	
 	
 	
 		{
