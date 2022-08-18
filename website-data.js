@@ -330,8 +330,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
+			
+{
+		name: "Mocap Research",
+		img: "images/shock_can_else_44.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
+		credit: "",
+	},
+	
 		
-				{		
+	{		
 		name: "Emergent Landscape 3",
 		img: "images/American_leg_acy_wood_cut.gif", 
 		blurb: "Tessellation, Digital-Collage.",
@@ -345,14 +354,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-{
-		name: "Hand Dance (Research)",
-		img: "images/shock_can_else_44.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 
