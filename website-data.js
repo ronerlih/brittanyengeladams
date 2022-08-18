@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Emergent Landscape 1",
+		name: "Emergent Landscape I",
 		img: "images/redzoomflip.png",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
@@ -134,7 +134,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Emergent Landscape 2",
+		name: "Emergent Landscape II",
 		img: "images/blueflip.png",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -294,7 +294,7 @@ let WEBSITE_DATA = [
 	
 		
 		{
-		name: "Farewell 2020 PT 1",
+		name: "Farewell 2020",
 		img: "images/3dscene.gif",
 		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
 		link: "",
@@ -336,7 +336,7 @@ let WEBSITE_DATA = [
 	
 		
 	{		
-		name: "Emergent Landscape 3",
+		name: "Emergent Landscape III",
 		img: "images/American_leg_acy_wood_cut.gif", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -381,7 +381,7 @@ let WEBSITE_DATA = [
 	
 				{
 				
-		name: "Avatar Research",
+		name: "Machine Learning",
 		img: "images/44_72_xx.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
