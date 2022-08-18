@@ -1,12 +1,19 @@
 let WEBSITE_DATA = [
+		
 	
-				{
+	
+	
+	{
 		name: "Hand Dance (Research)",
-		img: "images/shock_can_else_44.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
+		img: "images/prima_81_xx.png",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
 		credit: "",
 	},
+		
+	
+	
+	
 	
 					{
 		name: "The Bessies Canceled Work Archive",
@@ -15,6 +22,16 @@ let WEBSITE_DATA = [
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
+	
+	
+		{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/intersecttech.png",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
+	
 	
 	
 	{
@@ -26,13 +43,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{
-		name: "Hand Dance (Research)",
-		img: "images/prima_81_xx.png",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -48,13 +59,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/intersecttech.png",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "https://www.intersection.com/",
-		credit: "",
+			{
+		name: "Maquette",
+		img: "images/fagsgeeamericaartist_xx.png",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
 	},
+	
 	
 	
 	
@@ -66,22 +78,58 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-			{
-		name: "Maquette",
-		img: "images/fagsgeeamericaartist_xx.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
+	
+	
+	
 	
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/mrpj202.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55. Issue #55 is the first in a two-part project titled “no before no after.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55 titled “no before no after.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
-
+	
+		{
+		name: "Architecture of Memory",
+		img: "images/graph_m0t_petty+weny$fries.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
+			{
+	
+				
+		name: "Family Archive",
+		img: "images/family1.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+	
+	
+{
+		name: "Farewell 2020 PT 2",
+		img: "images/else_schin_ders_ark.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+		{
+		name: "Cape Cod Modern Architecture (Artist Residency)",
+		img: "images/nofrills.png",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
+		credit: "",
+	},
+	
+	
+	
 	{
 		name: "Emergent Landscape 1",
 		img: "images/redzoomflip.png",
@@ -127,13 +175,6 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
-		img: "images/nofrills.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: "",
-	},
 	
 	
 		{
@@ -218,6 +259,13 @@ let WEBSITE_DATA = [
 	
 		
 	
+		{
+		name: "BodyMouth (MoCap) Research",
+		img: "images/harvestworksepoch.png",
+		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
 	
 	
 	
@@ -230,34 +278,14 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-				{		
-		name: "Emergent Landscape 3",
-		img: "images/American_leg_acy_wood_cut.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
-	
-			{
-		name: "Architecture of Memory",
-		img: "images/graph_m0t_petty+weny$fries.png", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+
 	
 	
 	
-{
-		name: "Farewell 2020 PT 1",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
 	
+	
+	
+
 	
 	
 	
@@ -279,40 +307,19 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-		{
-		name: "BodyMouth (MoCap) Research",
-		img: "images/harvestworksepoch.png",
-		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
+			{
+				
+		name: "HumanRobot",
+		img: "images/44_72_xx.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
 	
 	
 	
-
 	
 
-
-	
-	
-	
-	
-
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-
-	
-	
 	
 		{
 		name: "Before Zeta - Film",
@@ -321,6 +328,36 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+	
+	
+		
+				{		
+		name: "Emergent Landscape 3",
+		img: "images/American_leg_acy_wood_cut.gif", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+
+	
+	
+
+	
+	
+	
+	
+{
+		name: "Hand Dance (Research)",
+		img: "images/shock_can_else_44.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
+		credit: "",
+	},
+	
+	
+
+	
+	
 		
 	
 	
@@ -352,35 +389,19 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-	
-				
-		name: "Family Archive",
-		img: "images/family1.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 	
 	
 	
-			{
-				
-		name: "HumanRobot",
-		img: "images/44_72_xx.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 
-{
-		name: "Farewell 2020 PT 2",
-		img: "images/else_schin_ders_ark.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+	{
+		name: "Farewell 2020 PT 1",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
 		link: "",
 		credit: "",
 	},
+	
 	
 
 					{
