@@ -372,39 +372,21 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-	
+
 	
 
 	
 	
 	
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-	
-					{
-		name: "BodyMouth / Ielele - Live",
-		img: "images/BodyMouth_FutureBodies.gif",
-		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
-		link: "https://futurebodies.newmediacaucus.org/",
+				{
+				
+		name: "Avatar Research",
+		img: "images/44_72_xx.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
-	
 	
 	
 		
@@ -418,16 +400,14 @@ let WEBSITE_DATA = [
 
 	
 	
-				{
-				
-		name: "Avatar Research",
-		img: "images/44_72_xx.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+		
+					{
+		name: "BodyMouth / Ielele - Live",
+		img: "images/BodyMouth_FutureBodies.gif",
+		blurb: "Forthcoming performance of BodyMouth at the next New Media Caucus Symposium at Virginia Tech, focused on the theme of 'Future Bodies.' Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
-	
-	
 	
 	];  
 	
