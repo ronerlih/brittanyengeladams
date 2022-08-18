@@ -110,14 +110,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-		{
-		name: "Farewell 2020 PT 1",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
 
 	
 	
@@ -300,7 +292,15 @@ let WEBSITE_DATA = [
 	
 
 	
-	
+		
+		{
+		name: "Farewell 2020 PT 1",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
+
 	
 	
 	
