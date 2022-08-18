@@ -1,10 +1,18 @@
 let WEBSITE_DATA = [
 		
 	
+		{
+		name: "Transmedia Storytelling in the Age of Proximity",
+		img: "images/intersecttech.png",
+		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
+	
 	
 	
 	{
-		name: "Kinect/Motion-Capture",
+		name: "Hand Dance Research",
 		img: "images/prima_81_xx.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -15,13 +23,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Transmedia Storytelling in the Age of Proximity",
-		img: "images/intersecttech.png",
-		blurb: "Introducing LTED (a new proximity technology from Qualcomm). Proximity is changing consumer experiences. With mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns will harmonize the media noise and offer deeper engagement, re-engage in a public space, respond to a call to action on their phones, and connect the dots with attribution in a retail store. The emergence of LTED and proximity technologies will also bring the context and intelligence of digital advertising to the real world. And it’s going to change the mobile, retail, and out-of-home industries forever.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
 	
 	
 	
@@ -78,21 +79,21 @@ let WEBSITE_DATA = [
 	
 	
 	
+		{
+		name: "Architecture of Memory",
+		img: "images/graph_m0t_petty+weny$fries.png", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
+	
 	
 	
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/mrpj202.png", 
 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55 titled “no before no after.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
-	
-	
-		{
-		name: "Architecture of Memory (Press)",
-		img: "images/graph_m0t_petty+weny$fries.png", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
@@ -259,7 +260,14 @@ let WEBSITE_DATA = [
 	},
 
 	
-		
+			{
+		name: "Farewell 2020",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
+
 
 	
 	
@@ -293,14 +301,7 @@ let WEBSITE_DATA = [
 
 	
 		
-		{
-		name: "Farewell 2020",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
-
+	
 	
 	
 	
@@ -327,7 +328,7 @@ let WEBSITE_DATA = [
 	
 			
 {
-		name: "Kinect (Avatar) Research",
+		name: "Hand Dance Research",
 		img: "images/shock_can_else_44.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
@@ -381,7 +382,7 @@ let WEBSITE_DATA = [
 	
 				{
 				
-		name: "Machine Learning",
+		name: "Machine Learning (Artificial Intelligence)",
 		img: "images/44_72_xx.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
