@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Hand Dance (Research)",
+		name: "Kinect (Motion-Capture) Research",
 		img: "images/prima_81_xx.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -12,9 +12,7 @@ let WEBSITE_DATA = [
 	},
 		
 	
-	
-	
-	
+
 	
 	
 		{
@@ -71,7 +69,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "MoCap Research",
+		name: "Memory Dance",
 		img: "images/Avatartracking.jpg", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
 		link: "",
@@ -90,6 +88,7 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+	
 		{
 		name: "Architecture of Memory",
 		img: "images/graph_m0t_petty+weny$fries.png", 
@@ -97,6 +96,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
 	
 			{
 	
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 	
 {
-		name: "Farewell 2020 PT 2",
+		name: "Farewell 2020 (3D Scene)",
 		img: "images/else_schin_ders_ark.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Cape Cod Modern Architecture (Artist Residency)",
+		name: "Artist Residency - Cape Cod Modern Architecture",
 		img: "images/nofrills.png",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
@@ -160,6 +160,13 @@ let WEBSITE_DATA = [
 	
 		
 	
+	 {
+		name: "YouTube Improv - Live",
+		img: "images/YouTubeImprov2.gif",
+		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -223,13 +230,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	 {
-		name: "YouTube Improv - Live",
-		img: "images/YouTubeImprov2.gif",
-		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
-		link: "",
-		credit: "",
-	},
 
 		
 	
@@ -254,13 +254,21 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+	
+	
+	{
+		name: "Youtube Improv -- Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 
 	
 		
 	
 		{
-		name: "BodyMouth (MoCap) Research",
+		name: "BodyMouth at Harvestworks",
 		img: "images/harvestworksepoch.png",
 		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
@@ -294,15 +302,7 @@ let WEBSITE_DATA = [
 	
 		
 
-	
-	
-	{
-		name: "Youtube Improv -- Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
+
 
 	
 	
@@ -332,7 +332,7 @@ let WEBSITE_DATA = [
 	
 			
 {
-		name: "Mocap Research",
+		name: "Kinect (Avatar) Research",
 		img: "images/shock_can_else_44.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
@@ -403,6 +403,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 	
 
