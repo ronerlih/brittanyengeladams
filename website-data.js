@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Kinect (Motion-Capture) Research",
+		name: "Kinect/Motion-Capture",
 		img: "images/prima_81_xx.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory",
+		name: "Architecture of Memory (Press)",
 		img: "images/graph_m0t_petty+weny$fries.png", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 	
 {
-		name: "Farewell 2020 (3D Scene)",
+		name: "3D Scene/Farewell 2020",
 		img: "images/else_schin_ders_ark.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
@@ -266,6 +266,14 @@ let WEBSITE_DATA = [
 
 	
 		
+	{
+		name: "Farewell 2020 PT 1",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
+	
 	
 		{
 		name: "BodyMouth at Harvestworks",
@@ -293,6 +301,7 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
 
 	
 	
@@ -305,16 +314,6 @@ let WEBSITE_DATA = [
 
 
 	
-	
-	
-			{
-				
-		name: "HumanRobot",
-		img: "images/44_72_xx.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -396,15 +395,17 @@ let WEBSITE_DATA = [
 	
 	
 
-	{
-		name: "Farewell 2020 PT 1",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+	
+	
+	
+			{
+				
+		name: "Avatar Research",
+		img: "images/44_72_xx.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 	
 
