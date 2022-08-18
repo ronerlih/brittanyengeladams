@@ -106,17 +106,16 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-	
-	
-		{
-		name: "Artist Residency - Cape Cod Modern Architecture",
-		img: "images/nofrills.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
+					{
+		name: "The Bessies Canceled Work Archive",
+		img: "images/be$$ie_abab.png",
+		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
+		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
 	
+	
+
 	
 	
 	{
@@ -137,13 +136,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{
-		name: "The Bessies Canceled Work Archive",
-		img: "images/be$$ie_abab.png",
-		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
-		link: "http://bessies.org/canceled-work-2020/",
+			{
+		name: "Artist Residency - Cape Cod Modern Architecture",
+		img: "images/nofrills.png",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "https://ccmht.org/",
 		credit: "",
 	},
+	
+	
+	
 	
 	
 	
