@@ -404,9 +404,9 @@ let WEBSITE_DATA = [
 	
 		
 					{
-		name: "BodyMouth / Ielele - Live",
+		name: "BodyMouth / Ielele",
 		img: "images/BodyMouth_FutureBodies.gif",
-		blurb: "Forthcoming'BodyMouth/Ielele'at The next New Media Caucus Symposium and will focus on the theme of ’Future Bodies’.",
+		blurb: "Forthcoming 'BodyMouth/Ielele' at The Future Bodies Symposium from September 30th-October 2nd 2022 at Virginia Tech.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
