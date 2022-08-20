@@ -330,7 +330,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Before Zeta - Film",
 		img: "images/WELLFLEETPRESS_BY55_SUS_ANNA.png",
-		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed onto the shores of Cape Cod.", 
+		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed on the shores of Cape Cod.", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
