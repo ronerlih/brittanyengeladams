@@ -151,7 +151,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
-		img: "images/CapeCodBook.png",
+		img: "images/ccbk.png",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
@@ -267,7 +267,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Pro Training Program at Bates Dance Festival ",
 		img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
-		blurb: "Develop your technique, immerse yourself in a supportive artistic community, and deepen your practice.  The Professional Training Program enrolls intermediate and advanced dancers, ages 18 and older, who have previous experience and curiosity in the field of dance. Dancers develop technique and strengthen their knowledge-base. Dance-makers have the opportunity to create and dig into composition and process. Teachers refresh and refine skills for the classroom and the studio.",
+		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
 		link: "https://www.batesdancefestival.org/",
 		credit:"",
 				
