@@ -1,6 +1,15 @@
 let WEBSITE_DATA = [
 		
 	
+	
+			{
+		name: "Motion Capture Research",
+		img: "images/Avatartracking.jpg", 
+		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
+		link: "",
+		credit:"",
+	},
+	
 		{
 		name: "Transmedia Storytelling in the Age of Proximity",
 		img: "images/intersecttech.png",
@@ -13,7 +22,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hand Dance (Research)",
-		img: "images/prima_81_xx.png",
+		img: "images/Nix_ed_mam_pe_roach.png",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
 		credit: "",
@@ -63,13 +72,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Motion Capture Research",
-		img: "images/Avatartracking.jpg", 
-		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
-		link: "",
-		credit:"",
-	},
+
 	
 	
 	
@@ -108,7 +111,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "The Bessies Canceled Work Archive",
-		img: "images/behandie_lablab.png",
+		img: "images/12345678910delal_alal.png",
 		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
