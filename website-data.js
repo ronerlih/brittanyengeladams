@@ -75,7 +75,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory",
-		img: "images/graph_m0t_petty+weny$fries.png", 
+		img: "images/_m0t_petty123.png", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "The Bessies Canceled Work Archive",
-		img: "images/be$$ie_abab.png",
+		img: "images/behandie_lablab.png",
 		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
@@ -177,7 +177,7 @@ let WEBSITE_DATA = [
 	
 // 			{
 // 		name: "The Young and The Banging (Publication)",
-// 		img: "images/magnum357.jpg",
+// 		img: "images/",
 // 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
 // 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 // 		credit: "",
@@ -325,7 +325,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta - Film",
-		img: "images/capecod11.png",
+		img: "images/corn_cop16321.png",
 		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed onto the shores of Cape Cod.", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -344,7 +344,7 @@ let WEBSITE_DATA = [
 			
 {
 		name: "Hand Dance (Research)",
-		img: "images/shock_can_else_44.gif",
+		img: "images/canned.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
 		credit: "",
@@ -353,7 +353,7 @@ let WEBSITE_DATA = [
 		
 	{		
 		name: "Emergent Landscape III",
-		img: "images/American_leg_acy_wood_cut.gif", 
+		img: "images/Ameribanned_leg__cut.gif", 
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -416,7 +416,7 @@ let WEBSITE_DATA = [
 		
 {
 		name: "3D Scene--Farewell 2020",
-		img: "images/else_schin_ders_ark.png",
+		img: "images/else_chin_drs_ark",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
