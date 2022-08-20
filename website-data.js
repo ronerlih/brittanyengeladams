@@ -277,9 +277,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Youtube Improv Website",
+		name: "Youtube Improv--live Website",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
+		blurb: "‘Youtube improv’ live Automated Website collects random videos and randomizing the outcome. Ron Erlih and I wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
