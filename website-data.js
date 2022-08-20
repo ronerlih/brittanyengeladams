@@ -64,9 +64,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Motion Capture Research with Kinect",
+		name: "Motion Capture Research",
 		img: "images/Avatartracking.jpg", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.'",
+		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
 		link: "",
 		credit:"",
 	},
@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 		
 	
 	 {
-		name: "YouTube Improv - Live",
+		name: "Performance of YouTube Improv",
 		img: "images/YouTubeImprov2.gif",
 		blurb: "YouTube Improv displays a grid of youtube videos play, which are trending in the venue's proximity, while performers on stage adjust their movement score according to the algorithmic orchestrated playlist, at the Victoria J. Mastrobuono Theater at Rutgers University, in New Brunswick NJ.",
 		link: "",
@@ -258,7 +258,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Youtube Improv -- Website",
+		name: "Youtube Improv Website",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "YouTube Improv webpage, is an automated webpage collects ‘trending’ videos from Youtube and plays them randomly as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
@@ -278,7 +278,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth at Harvestworks",
+		name: "BodyMouth Artist Residency",
 		img: "images/harvestworksepoch.png",
 		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
