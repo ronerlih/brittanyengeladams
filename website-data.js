@@ -1,6 +1,15 @@
 let WEBSITE_DATA = [
 		
 	
+					{
+		name: "BodyMouth / Ielele",
+		img: "images/BodyMouth_FutureBodies.gif",
+		blurb: "Forthcoming 'BodyMouth/Ielele' at The Future Bodies Symposium from September 30th-October 2nd 2022 at Virginia Tech.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
+	
+	
 	
 			{
 		name: "Motion Capture Research",
@@ -141,11 +150,11 @@ let WEBSITE_DATA = [
 
 	
 			{
-		name: "Artist Residency - Cape Cod Modern Architecture",
-		img: "images/",
+		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
+		img: "images/CapeCodBook.png",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
-		credit: "",
+		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 	},
 	
 	
@@ -407,13 +416,6 @@ let WEBSITE_DATA = [
 	
 	
 		
-					{
-		name: "BodyMouth / Ielele",
-		img: "images/BodyMouth_FutureBodies.gif",
-		blurb: "Forthcoming 'BodyMouth/Ielele' at The Future Bodies Symposium from September 30th-October 2nd 2022 at Virginia Tech.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
 	
 	
 	
