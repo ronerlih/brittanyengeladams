@@ -49,13 +49,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "Time Loop - Live",
-// 		img: "images/Loops2018high.gif",
-// 		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-// 		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-// 		credit: "",
-// 	},
+			{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 	
 
 	
@@ -142,7 +142,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Artist Residency - Cape Cod Modern Architecture",
-		img: "images/nofrills.png",
+		img: "images/",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://ccmht.org/",
 		credit: "",
@@ -327,13 +327,13 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "Before Zeta - Film",
-		img: "images/corn_cop16321.png",
-		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed onto the shores of Cape Cod.", 
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
+// 		{
+// 		name: "Before Zeta - Film",
+// 		img: "images/corn_cop16321.png",
+// 		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed onto the shores of Cape Cod.", 
+// 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+// 		credit: "",
+// 	},
 	
 	
 					{
