@@ -138,13 +138,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Farewell 2020",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
+
 	
 			{
 		name: "Artist Residency - Cape Cod Modern Architecture",
@@ -155,7 +149,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+		name: "Farewell 2020",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
