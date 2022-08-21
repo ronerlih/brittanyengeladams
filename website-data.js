@@ -266,8 +266,8 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Pro Training Program at Bates Dance Festival ",
-		img: "images/67330581_10156432691254080_503553308791668736_o.jpg",
+		name: "Horton Workshop at Bates Dance Festival ",
+		img: "images/hortonworkshop.png",
 		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
 		link: "https://www.batesdancefestival.org/",
 		credit:"",
