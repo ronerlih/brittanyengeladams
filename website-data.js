@@ -154,7 +154,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+	
+	{		
+		name: "Emergent Landscape III",
+		img: "images/saturated.png", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 			{
 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
@@ -364,13 +371,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	{		
-		name: "Emergent Landscape III",
-		img: "images/cut_chek_hov.png", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+
 
 	
 	
