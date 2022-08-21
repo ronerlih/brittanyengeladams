@@ -207,7 +207,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "New York University's Tisch Department of Dance (Faculty)",
-		img: "images/tisc_drama_program.png",
+		img: "images/nyu_torch.png",
 		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
 		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
