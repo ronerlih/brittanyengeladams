@@ -119,9 +119,9 @@ let WEBSITE_DATA = [
 	
 
 					{
-		name: "The Bessies Canceled Work Archive",
-		img: "images/12345678910delal_alal.png",
-		blurb: "2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic.)",
+		name: "The Bessies Archive",
+		img: "images/3e3_55_p.png",
+		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
