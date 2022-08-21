@@ -215,7 +215,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-		img: "images/NYUdrama.png",
+		img: "images/ti_ssh_40472.png",
 		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work. Its professionally directed productions span all aesthetics and performance disciplines from realism to postdramatic theater to music theater. Rather than relying on a single aesthetic frame, ETW’s curriculum provides students with fundamental acting and performance skills, while helping them discover and shape their own unique artistic visions.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
