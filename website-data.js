@@ -54,16 +54,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-		
-			{
 	
-				
-		name: "Family Archive",
-		img: "images/family1.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 	
 	
 	
@@ -103,14 +94,30 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-
 	
+			{
+	
+				
+		name: "Family Archive",
+		img: "images/family1.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+						{
+				
+		name: "Human-Robot",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
 		
 	
 	
 	
 			{
-		name: "Maquette",
+		name: "Human-Robot (Maquette 2021)",
 		img: "images/circuit____2rain_44.png",
 		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
@@ -181,7 +188,7 @@ let WEBSITE_DATA = [
 		
 	
 	 {
-		name: "YouTube Improv (LIVE)",
+		name: "YouTube Improv Performance",
 		img: "images/sky_bet_teru2ube.png",
 		blurb: "Brittany Engel-Adams and Ron Erlih new performance ‘YouTube Improv’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
@@ -194,13 +201,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "The Young and The Banging (Publication)",
-// 		img: "images/",
-// 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-// 		credit: "",
-// 	},
+			{
+		name: "The Young and The Banging (Publication)",
+		img: "images/",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
+	},
 	
 	
 	
@@ -277,7 +284,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Youtube Improv--live Website",
+		name: "Youtube Improv--Website",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘Youtube improv’ live Automated Website collects random videos and randomizing the outcome. Ron Erlih and I wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/manage/videos/429453098",
@@ -345,18 +352,11 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{
-				
-		name: "Human-Robot",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+
 	
 			
 {
-		name: "Hand Dance (Research)",
+		name: "Hand Dance (Motion Capture Research)",
 		img: "images/canned.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
