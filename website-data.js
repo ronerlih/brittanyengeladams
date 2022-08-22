@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "LTED Proximity Technology from Qualcomm",
-		img: "images/intersecttech.png",
+		img: "images/Qualcomm.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
 		link: "https://www.intersection.com/",
 		credit: "",
