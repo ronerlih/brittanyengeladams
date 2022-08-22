@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance (Solomon R. Guggenheim Museum)",
-		img: "images/sol_omon18guggenheim_mr55.png",
+		img: "images/guggenheim_museum.png",
 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
