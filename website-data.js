@@ -43,9 +43,9 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency)",
-		img: "images/PROVINCETOWN.jpg",
+		img: "images/capecodmodernhousetrust.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		link: "https://ccmht.org/residency",
 		credit: "",
 	},
 	
@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 // 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
 // 		img: "images/ccbk.png",
 // 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-// 		link: "https://ccmht.org/",
+// 		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 // 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 // 	},
 	
