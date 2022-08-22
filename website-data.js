@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "The Cape Cod Modern House Trust (Artist Residency)",
-		img: "images/capecodmoderntrust.jpg",
+		img: "images/capec31165304_141265.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "",
 		credit: "",
