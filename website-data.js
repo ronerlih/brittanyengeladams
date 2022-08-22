@@ -186,13 +186,6 @@ let WEBSITE_DATA = [
 	
 
 		
-			{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-		credit: "",
-	},
 		
 	
 	
@@ -204,13 +197,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	 {
-		name: "YouTube Improv--Live",
-		img: "images/youtubemprov1high.gif",
-		blurb: "Brittany Engel-Adams and Ron Erlih new performance ‘YouTube Improv’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
-		link: "",
+	
+			{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
 		credit: "",
 	},
+	
+	
+	
 	
 	
 	
@@ -229,6 +226,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
+	 {
+		name: "YouTube Improv--Live",
+		img: "images/youtubemprov1high.gif",
+		blurb: "Brittany Engel-Adams and Ron Erlih new performance ‘YouTube Improv’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		link: "",
+		credit: "",
+	},
 	
 	{
 		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
