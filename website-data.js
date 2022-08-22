@@ -192,7 +192,7 @@ let WEBSITE_DATA = [
 	
 	 {
 		name: "YouTube Improv--Live",
-		img: "images/liveyoutubeimprov_ru.png",
+		img: "images/youtubemprov1high.gif",
 		blurb: "Brittany Engel-Adams and Ron Erlih new performance ‘YouTube Improv’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
 		credit: "",
