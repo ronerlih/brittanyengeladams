@@ -29,6 +29,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
+	{
+		name: "Before Zeta - Film",
+		img: "images/PROVINCETOWN.jpg",
+		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed on the shores of Cape Cod.", 
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+	
 		{
 		name: "LTED Proximity Technology from Qualcomm",
 		img: "images/intersecttech.png",
@@ -190,6 +200,16 @@ let WEBSITE_DATA = [
 	
 	
 	
+		
+{
+		name: "The Young and The Banging (Publication)",
+		img: "images/andthebanging.jpg",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
+	},
+
+	
 	
 	
 	
@@ -294,16 +314,6 @@ let WEBSITE_DATA = [
 
 
 	
-		
-{
-		name: "The Young and The Banging (Publication)",
-		img: "images/andthebanging.jpg",
-		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
-
-	
 	
 	
 	
@@ -334,29 +344,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-
-
-		
 	
-	
-	
-	
-	
-
-	
-		{
-		name: "Before Zeta - Film",
-		img: "images/PROVINCETOWN.jpg",
-		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed on the shores of Cape Cod.", 
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-	
-	
-
-	
-			
 
 		
 
