@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Motion Capture Research",
-		img: "images/Avatartracking.jpg", 
+		img: "images/xbox360.png", 
 		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
 		link: "",
 		credit:"",
