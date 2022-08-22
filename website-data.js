@@ -136,13 +136,13 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/harvestworksepoch.png",
-		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
+// 		{
+// 		name: "BodyMouth (Artist Residency)",
+// 		img: "images/harvestworksepoch.png",
+// 		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+// 		link: "https://www.harvestworks.org/",
+// 		credit: "",
+// 	},
 	
 	
 	
