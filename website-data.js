@@ -53,6 +53,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+			{
+		name: "Human-Robot (Maquette 2021)",
+		img: "images/circuit_55.png",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
+	
 		
 	
 						{
@@ -121,14 +129,6 @@ let WEBSITE_DATA = [
 		
 	
 	
-	
-			{
-		name: "Human-Robot (Maquette 2021)",
-		img: "images/circuit_55.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
 	
 
 
