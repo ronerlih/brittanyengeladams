@@ -107,14 +107,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Architecture of Memory--Press",
-		img: "images/mr_55pj.jpg", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
-	
 	
 	
 		
@@ -202,6 +194,37 @@ let WEBSITE_DATA = [
 	},
 		
 		
+	{
+		name: "Youtube Improv--Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘Youtube improv’ live Automated Website collects random videos and randomizing the outcome. Ron Erlih and I wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+
+		
+	
+	
+			{
+		name: "Joffrey Ballet School, NYC (Faculty)",
+		img: "images/joffrey.jpg",
+		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
+		link: "https://www.joffreyballetschool.com",
+		credit: "photo: Lois Greenfield",
+	},
+	
+	
+	
+	
+	
+		{
+		name: "Architecture of Memory--Press",
+		img: "images/mr_55pj.jpg", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
 	
 	
 		{
@@ -260,29 +283,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-	
-	
-	
-	{
-		name: "Youtube Improv--Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘Youtube improv’ live Automated Website collects random videos and randomizing the outcome. Ron Erlih and I wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
-
-		
-	
-	
-			{
-		name: "Joffrey Ballet School, NYC (Faculty)",
-		img: "images/joffrey.jpg",
-		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
-		link: "https://www.joffreyballetschool.com",
-		credit: "photo: Lois Greenfield",
-	},
 	
 	
 	
