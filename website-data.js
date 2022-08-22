@@ -268,7 +268,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Joffrey Ballet School, NYC (Faculty)",
-		img: "images/joffrey.png",
+		img: "images/joffrey.jpg",
 		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "photo: Lois Greenfield",
