@@ -56,9 +56,16 @@ let WEBSITE_DATA = [
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
 		credit: "",
 	},
+	
 		
 	
-
+{
+		name: "Farewell 2020--3D Scene",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -108,13 +115,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Farewell 2020--3D Scene",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
+		
 	
 	
 							{
