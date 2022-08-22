@@ -65,14 +65,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Architecture of Memory--Publication",
-		img: "images/mrno55.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
-	
 
 	
 	
@@ -185,13 +177,13 @@ let WEBSITE_DATA = [
 	
 	
 		
-{
-		name: "The Young and The Banging (Publication)",
-		img: "images/andthebanging.jpg",
-		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
+// {
+// 		name: "The Young and The Banging (Publication)",
+// 		img: "images/andthebanging.jpg",
+// 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+// 		credit: "",
+// 	},
 		
 		
 	{
@@ -216,14 +208,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
 		{
-		name: "Architecture of Memory--Press",
-		img: "images/mr_55pj.jpg", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		name: "Architecture of Memory--Publication",
+		img: "images/mrno55.jpg", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
+	
+
 	
 	
 	
@@ -269,7 +263,7 @@ let WEBSITE_DATA = [
 	 {
 		name: "YouTube Improv--Live",
 		img: "images/youtubemprov1high.gif",
-		blurb: "Brittany Engel-Adams and Ron Erlih new performance ‘YouTube Improv’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		blurb: "‘YouTube Improv;’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
 		link: "",
 		credit: "",
 	},
@@ -394,7 +388,13 @@ let WEBSITE_DATA = [
 	
 
 	
-	
+			{
+		name: "Architecture of Memory--Press",
+		img: "images/mr_55pj.jpg", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 
