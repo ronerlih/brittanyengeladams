@@ -49,13 +49,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-		img: "images/masongross.png", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
+
 	
 	
 			{
@@ -192,6 +186,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
+	
+	
+		{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+		img: "images/masongross.png", 
+		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 	
 	 {
 		name: "YouTube Improv--Live",
@@ -350,7 +353,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta - Film",
-		img: "images/WELLFLEETPRESS_BY55_SUS_ANNA.png",
+		img: "images/PROVINCETOWN.jpg",
 		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed on the shores of Cape Cod.", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
