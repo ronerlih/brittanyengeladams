@@ -124,6 +124,13 @@ let WEBSITE_DATA = [
 	
 	
 
+		{
+		name: "Hand Dance--Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 
 	
 	
@@ -156,6 +163,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+		{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/harvestworksepoch.png",
+		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
 			{
 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
 		img: "images/ccbk.png",
@@ -168,13 +183,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance--Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech about the working class. Throughout the film.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 
 		
@@ -295,55 +303,49 @@ let WEBSITE_DATA = [
 
 	
 		
-
-
-	
-	
-		{
-		name: "BodyMouth at Harvestworks",
-		img: "images/harvestworksepoch.png",
-		blurb: "'BodyMouth in Residency at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-
-	
-
-	
-	
-	
-	
-	
-	
-	
-
-	
-		
-	
-	
-	
-	
-	
-		
-
-
-		{
+{
 		name: "The Young and The Banging (Publication)",
-		img: "images/the-young-banging-heron-preston-1.jpeg",
+		img: "images/andthebanging.jpg",
 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 		credit: "",
 	},
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+	
+	
+	
+	
+	
+		
+
+
+		
 	
 	
 	
