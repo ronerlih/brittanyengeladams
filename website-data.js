@@ -70,7 +70,13 @@ let WEBSITE_DATA = [
 
 	
 	
-	
+		{
+		name: "Architecture of Memory--Publication",
+		img: "images/cooper360.jpg", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 
 	
@@ -94,13 +100,7 @@ let WEBSITE_DATA = [
 
 	
 
-			{
-		name: "Architecture of Memory--Publication",
-		img: "images/cooper360.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+		
 	
 
 	
