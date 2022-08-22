@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "BodyMouth / Ielele Live",
-		img: "images/BodyMouth_FutureBodies.gif",
+		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
