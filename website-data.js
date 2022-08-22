@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Human-Robot (Arduino)",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: " .",
