@@ -172,13 +172,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Farewell 2020--3D Scene",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -214,7 +207,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "New York University's Tisch Department of Dance (Faculty)",
-		img: "images/nyu_torch.png",
+		img: "images/tisc_drama_program.png",
 		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
 		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
@@ -412,6 +405,13 @@ let WEBSITE_DATA = [
 
 	
 	
+			{
+		name: "Farewell 2020--3D Scene",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
 	
 
 	
