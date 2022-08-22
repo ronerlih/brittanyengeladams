@@ -97,6 +97,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+		{
+		name: "Farewell 2020--3D Scene",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
+	
+	
 							{
 				
 		name: "Human-Robot (Research)",
@@ -363,13 +373,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Farewell 2020--3D Scene",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
 	
 	
 
