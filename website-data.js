@@ -22,10 +22,20 @@ let WEBSITE_DATA = [
 	
 	
 					{
-		name: "The Bessies Archive",
+		name: "The Bessies' Archive",
 		img: "images/3e3_55_p.png",
 		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
 		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
+	
+			
+	
+{
+		name: "Farewell 2020--3D Scene",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
 		credit: "",
 	},
 	
@@ -57,16 +67,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
-	
-{
-		name: "Farewell 2020--3D Scene",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
-	
+
 	
 	
 	
