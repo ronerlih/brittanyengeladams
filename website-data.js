@@ -42,9 +42,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Before Zeta - Film",
+		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency)",
 		img: "images/PROVINCETOWN.jpg",
-		blurb: "‘Before Zeta’ is a site-specific film that takes place on at Kugel-Gips Modern Home in Wellfleet, MA, right before a big storm ‘Tropical Storm Zeta’ landed on the shores of Cape Cod.", 
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
@@ -166,13 +166,13 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
-			{
-		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
-		img: "images/ccbk.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "https://ccmht.org/",
-		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-	},
+// 			{
+// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
+// 		img: "images/ccbk.png",
+// 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+// 		link: "https://ccmht.org/",
+// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+// 	},
 	
 	
 	
