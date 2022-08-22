@@ -318,30 +318,30 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Emergent Landscape II",
-		img: "images/blueflip.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+// 		{
+// 		name: "Emergent Landscape II",
+// 		img: "images/blueflip.png",
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-blue.html",
+// 		credit: "",
+// 	},
 	
-		{
-		name: "Emergent Landscape I",
-		img: "images/redzoomflip.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+// 		{
+// 		name: "Emergent Landscape I",
+// 		img: "images/redzoomflip.png",
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "",
+// 	},
 	
 	
-	{		
-		name: "Emergent Landscape III",
-		img: "images/Ameribanned_leg__cut.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 	{		
+// 		name: "Emergent Landscape III",
+// 		img: "images/Ameribanned_leg__cut.gif", 
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 	
 
 	
