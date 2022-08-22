@@ -143,6 +143,10 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
+	
+	
+	
+	
 // 			{
 // 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
 // 		img: "images/ccbk.png",
@@ -156,14 +160,14 @@ let WEBSITE_DATA = [
 
 
 	
-			{
-		name: "Bates Dance Festival (Faculty) ",
-		img: "images/bdf_horton.png",
-		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
+// 			{
+// 		name: "Bates Dance Festival (Faculty) ",
+// 		img: "images/bdf_horton.png",
+// 		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+// 		link: "https://www.batesdancefestival.org/",
+// 		credit:"",
 				
-	},
+// 	},
 	
 	
 	
