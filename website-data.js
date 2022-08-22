@@ -187,7 +187,14 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
+		
+			{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 		
 	
 	 {
@@ -200,14 +207,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-			{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-		credit: "",
-	},
+
 	
 	
 	
