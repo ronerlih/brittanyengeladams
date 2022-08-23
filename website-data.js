@@ -1,13 +1,7 @@
 let WEBSITE_DATA = [
 		
 	
-					{
-		name: "BodyMouth / Ielele Live",
-		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
+
 	
 	{
 		name: "Hand Dance (Motion Capture Research)",
@@ -198,8 +192,8 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory--Publication",
-		img: "images/mrno55.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal No 55.",
+		img: "images/1312769512421815151119_51391227315120519.jpg", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
@@ -216,6 +210,8 @@ let WEBSITE_DATA = [
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
+	
+	
 	
 	
 // 			{
@@ -251,7 +247,7 @@ let WEBSITE_DATA = [
 	 {
 		name: "YouTube Improv--Live",
 		img: "images/youtubemprov1high.gif",
-		blurb: "‘YouTube Improv;’ projected on top of the Victoria J. Mastrobuono Theater will be playing a grid of random youtube videos which are trending in the venue's proximity. The dancers on stage will then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do. OPENING on Friday, 27 July at 6 pm. LOCATION: Victoria J. Mastrobuono Theater, Mason Gross Performing Arts Center, 85 George St, New Brunswick, New Jersey.",
+		blurb: "‘YouTube Improv;’ projected on top of the plays a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
 		link: "",
 		credit: "",
 	},
@@ -363,15 +359,15 @@ let WEBSITE_DATA = [
 	
 	
 			
-// 			{
+			{
 	
 				
-// 		name: "Family Archive",
-// 		img: "images/family1.jpg",
-// 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "",
-// 	},
+		name: "Family Archive",
+		img: "images/family1.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 	
 	
@@ -406,7 +402,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-
+					{
+		name: "BodyMouth / Ielele Live",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
 	
 	
 		
