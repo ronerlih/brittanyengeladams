@@ -171,7 +171,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Youtube Improv--Website",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘Youtube improv’ live Automated Website collects random videos and randomizing the outcome. Ron Erlih and I wrote a software that plays trending youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		blurb: "‘Youtube improv’ an automated website that plays trending youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
@@ -182,7 +182,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Joffrey Ballet School, NYC (Faculty)",
 		img: "images/joffrey.jpg",
-		blurb: "Joffrey Ballet School offers a year-round training ground for pre-professional artists in a multitude of dance disciplines. You have the choice of study at Joffrey Ballet School, either Ballet or Jazz & Contemporary. The goal is to train dancers to work professionally, but most of the top ballet schools around the country do not have this vast range in training. They are focused primarily on a single discipline, and at Joffrey Ballet School we recognize the need for versatility.",
+		blurb: "Joffrey Ballet School year-round training for artists in a multitude of dance disciplines.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "photo: Lois Greenfield",
 	},
