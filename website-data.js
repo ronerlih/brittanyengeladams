@@ -1,14 +1,6 @@
 let WEBSITE_DATA = [
 		
 	
-
-			{
-		name: "LTED Proximity Technology from Qualcomm",
-		img: "images/755555_11351893a_.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
 	
 							{
 				
@@ -18,6 +10,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+
+			{
+		name: "LTED Proximity Technology from Qualcomm",
+		img: "images/755555_11351893a_.jpg",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
+	
+	
 	
 	
 	
@@ -85,14 +88,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-		{
-		name: "Hand Dance--Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -269,7 +265,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		
+		{
+		name: "Hand Dance--Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	
@@ -337,7 +340,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-
+		
+			{
+	
+				
+		name: "Family Archive",
+		img: "images/1813125514512193112522251021449414525.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 		
 
 
@@ -365,16 +377,7 @@ let WEBSITE_DATA = [
 
 	
 	
-			
-			{
 	
-				
-		name: "Family Archive",
-		img: "images/1813125514512193112522251021449414525.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 	
 	
 	
