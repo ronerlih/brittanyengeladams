@@ -341,7 +341,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Motion Capture Research",
-		img: "images/xbox360.png", 
+		img: "images/24215243615_21524_24361_242152_24361.png", 
 		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
 		link: "",
 		credit:"",
@@ -351,7 +351,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Farewell 2020",
-		img: "images/3dscene.gif",
+		img: "images/11811_192114417.gif",
 		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
 		link: "",
 		credit: "",
@@ -363,15 +363,15 @@ let WEBSITE_DATA = [
 	
 	
 			
-			{
+// 			{
 	
 				
-		name: "Family Archive",
-		img: "images/family1.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
+// 		name: "Family Archive",
+// 		img: "images/family1.jpg",
+// 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -416,7 +416,7 @@ let WEBSITE_DATA = [
 		
 // {
 // 		name: "3D Scene--Farewell 2020",
-// 		img: "images/11811_192114417.gif",
+// 		img: "images/",
 // 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 // 		link: "",
 // 		credit: "",
