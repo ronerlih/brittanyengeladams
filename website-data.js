@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Human-Robot (Arduino)",
+		name: "Human-Robot",
 		img: "images/11842191415_218514201184.jpg",
 		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
@@ -110,14 +110,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-	{
-		name: "Farewell 2020--3D Scene",
-		img: "images/3dscene.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
-	
+
 	
 		
 	
@@ -356,6 +349,13 @@ let WEBSITE_DATA = [
 
 	
 	
+		{
+		name: "Farewell 2020",
+		img: "images/3dscene.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
