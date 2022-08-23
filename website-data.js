@@ -2,6 +2,24 @@ let WEBSITE_DATA = [
 		
 	
 
+			{
+		name: "LTED Proximity Technology from Qualcomm",
+		img: "images/755555_11351893a_.jpg",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
+	
+							{
+				
+		name: "Human-Robot (Research)",
+		img: "images/13117213202033.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
 	
 	{
 		name: "Hand Dance (Motion Capture Research)",
@@ -11,14 +29,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-						{
-				
-		name: "Human-Robot (Research)",
-		img: "images/13117213202033.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 	
@@ -32,7 +43,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 			
-	
+	{
+		name: "Hand Dance (Research)",
+		img: "images/20851991497_hq_.jpg",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
 
 	
 	
@@ -48,22 +65,10 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Hand Dance (Research)",
-		img: "images/20851991497_hq_.jpg",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
 	
 	
-		{
-		name: "LTED Proximity Technology from Qualcomm",
-		img: "images/755555_11351893a_.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
+	
+
 
 	
 	
@@ -77,6 +82,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: " .",
 	},
+	
+	
 	
 		
 		{
@@ -171,7 +178,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Youtube Improv--Website",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘Youtube improv’ an automated website that plays trending youtube videos in a random order as a score for improvisation.",
+		blurb: "‘Youtube improv’ an automated website that plays trending Youtube videos in a random order as a score for improvisation.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
 	},
@@ -182,7 +189,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Joffrey Ballet School, NYC (Faculty)",
 		img: "images/joffrey.jpg",
-		blurb: "Joffrey Ballet School year-round training for artists in a multitude of dance disciplines.",
+		blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "photo: Lois Greenfield",
 	},
@@ -206,7 +213,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 		img: "images/masongross.png", 
-		blurb: "Mason Gross School of the Arts' BFA Dance Students created work for The Fall 2021 Student Dance Concert as a response to a theatrical production, or dance performance, from the 19th century through the 20th century, reimagined for the 21st century stage.",
+		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
@@ -237,7 +244,7 @@ let WEBSITE_DATA = [
 		{
 		name: "New York University's Tisch Department of Dance (Faculty)",
 		img: "images/tisc_drama_program.png",
-		blurb: "Tisch dancers graduate with physical virtuosity and the experience of groundbreaking performance work; they are ready to impact the globe as fearless artists.",
+		blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
 		link: "https://tisch.nyu.edu/dance/courses",
 		credit: "",
 	},
@@ -247,7 +254,7 @@ let WEBSITE_DATA = [
 	 {
 		name: "YouTube Improv--Live",
 		img: "images/youtubemprov1high.gif",
-		blurb: "‘YouTube Improv;’ projected on top of the plays a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
+		blurb: "‘YouTube Improv;' projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
 		link: "",
 		credit: "",
 	},
@@ -255,7 +262,7 @@ let WEBSITE_DATA = [
 	{
 		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
 		img: "images/nyupdf.png",
-		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work. Its professionally directed productions span all aesthetics and performance disciplines from realism to postdramatic theater to music theater. Rather than relying on a single aesthetic frame, ETW’s curriculum provides students with fundamental acting and performance skills, while helping them discover and shape their own unique artistic visions.",
+		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
 	},
@@ -336,9 +343,9 @@ let WEBSITE_DATA = [
 
 	
 			{
-		name: "Motion Capture Research",
+		name: "Skeletal Avatar",
 		img: "images/24215243615_21524_24361_242152_24361.png", 
-		blurb: "Iterative studies of motion with 'Skeletal-Avatar; a kinect sensor, essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, that renders spatial-data as 3D scans and skeletal avatars. Moving with the kinect affects the sensorial experience of moving.",
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
 		link: "",
 		credit:"",
 	},
