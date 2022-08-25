@@ -23,13 +23,16 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
 			{
-		name: "Emergent Landscape II",
-		img: "images/blueflip.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
 		credit: "",
 	},
+	
+	
 	
 
 
@@ -349,16 +352,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
+
+	
+	
+	{
+		name: "Emergent Landscape I",
+		img: "images/redzoomflip.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-	
-	
-	
 
 	
 		{
@@ -372,16 +375,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-
-	
-	{
-		name: "Emergent Landscape I",
-		img: "images/redzoomflip.png",
+			{
+		name: "Emergent Landscape II",
+		img: "images/blueflip.png",
 		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+
+	
+	
 	
 	
 	
