@@ -21,16 +21,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-	
-			{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+				{
+		name: "Skeletal Avatar",
+		img: "images/24215243615_21524_24361_242152_24361.png", 
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
 		link: "",
-		credit: "",
+		credit:"",
 	},
+	
+	
+
 	
 	
 	
@@ -161,14 +161,14 @@ let WEBSITE_DATA = [
 // 	},
 		
 	
-	
-			{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-		img: "images/masongross.png", 
-		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		{
+		name: "Hand Dance--Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
 	
 	
 		
@@ -261,16 +261,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-		
-		{
-		name: "Hand Dance--Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+			{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+		img: "images/masongross.png", 
+		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
 	
+		
+	
 	
 	
 	
@@ -312,7 +312,13 @@ let WEBSITE_DATA = [
 
 	
 		
-	
+				{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -332,13 +338,7 @@ let WEBSITE_DATA = [
 
 
 	
-			{
-		name: "Skeletal Avatar",
-		img: "images/24215243615_21524_24361_242152_24361.png", 
-		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-		link: "",
-		credit:"",
-	},
+
 
 	
 	
