@@ -16,7 +16,7 @@ let WEBSITE_DATA = [
 			{
 		name: "LTED Proximity Technology from Qualcomm",
 		img: "images/755555_11351893a_.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer a totalizing engagement; a coercive call to action, on their phones, or in a public space.",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
 		link: "https://www.intersection.com/",
 		credit: "",
 	},
