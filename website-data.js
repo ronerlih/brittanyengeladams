@@ -23,7 +23,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+			{
+		name: "Emergent Landscape II",
+		img: "images/blueflip.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 
 
@@ -294,13 +300,7 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "Emergent Landscape II",
-		img: "images/blueflip.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+
 	
 	
 	
