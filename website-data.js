@@ -12,7 +12,46 @@ let WEBSITE_DATA = [
 
 	
 	
-
+			{
+		name: "Architecture of Memory--Press",
+		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
+	
+	
+	
+	
+			{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
+	
+	
+	
+	{
+		name: "The Cape Cod Modern House Trust (Artist Residency)",
+		img: "images/31165304_14126531165304_141265_141269_.jpg",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+		
+	{
+		name: "Youtube Improv--Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘Youtube improv’ an automated website that plays trending Youtube videos in a random order as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
+	
 			{
 		name: "LTED Proximity Technology from Qualcomm",
 		img: "images/209385904___385893475689376782657826.png",
@@ -69,13 +108,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "The Cape Cod Modern House Trust (Artist Residency)",
-		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -161,13 +193,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-{
-		name: "The Young and The Banging (Publication)",
-		img: "images/tyatb_012.jpg",
-		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
+
 		
 	
 		{
@@ -180,14 +206,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-	{
-		name: "Youtube Improv--Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘Youtube improv’ an automated website that plays trending Youtube videos in a random order as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
-	},
+	
 
 		
 	
@@ -221,13 +240,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-		credit: "",
-	},
 	
 	
 	
@@ -425,13 +437,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Architecture of Memory--Press",
-		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+
 	
 	
 					{
@@ -442,6 +448,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	{
+		name: "The Young and The Banging (Publication)",
+		img: "images/tyatb_012.jpg",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
+	},
 	
 		{
 		name: "Hand Dance (Research)",
