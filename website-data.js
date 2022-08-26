@@ -266,6 +266,20 @@ let WEBSITE_DATA = [
 	},
 
 	
+	
+	
+	
+	
+	
+		{		
+		name: "Emergent Landscape III",
+		img: "images/004351893123001135189312300432120.gif", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
+	
 			{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 		img: "images/rarrarrararararararar_tard4567891072727272272727.jpg", 
@@ -304,29 +318,6 @@ let WEBSITE_DATA = [
 	
 	
 		
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-
-		{		
-		name: "Emergent Landscape III",
-		img: "images/004351893123001135189312300432120.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
-		
-	
-	
-	
 	
 	
 		
