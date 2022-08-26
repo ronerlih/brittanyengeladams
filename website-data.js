@@ -20,15 +20,15 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-		{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth in Residency at Harvestworks.",
-		link: "https://www.harvestworks.org/",
+	
+	
+			{
+		name: "LTED Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
+		link: "https://www.intersection.com/",
 		credit: "",
 	},
-	
-	
 
 	
 	
@@ -52,16 +52,16 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-			{
-		name: "LTED Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct (LTED), synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
-		link: "https://www.intersection.com/",
+	
+	
+	
+		{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "'BodyMouth in Residency at Harvestworks.",
+		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
-	
-	
-	
 	
 	
 	
