@@ -40,13 +40,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 					{
-// 		name: "The Bessie's Archive",
-// 		img: "images/3e3_55_p.png",
-// 		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
-// 		link: "http://bessies.org/canceled-work-2020/",
-// 		credit: "",
-// 	},
+					{
+		name: "The Bessie's Archive",
+		img: "images/3e3_55_p.png",
+		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
 	
 			
 	
@@ -140,14 +140,14 @@ let WEBSITE_DATA = [
 
 
 	
-// 			{
-// 		name: "Bates Dance Festival (Faculty) ",
-// 		img: "images/bdf_horton.png",
-// 		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-// 		link: "https://www.batesdancefestival.org/",
-// 		credit:"",
+			{
+		name: "Bates Dance Festival (Faculty) ",
+		img: "images/bdf_horton.png",
+		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
 				
-// 	},
+	},
 	
 	
 	
@@ -212,13 +212,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "Time Loop",
-// 		img: "images/Loops2018high.gif",
-// 		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-// 		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-// 		credit: "",
-// 	},
+			{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 	
 	
 	
