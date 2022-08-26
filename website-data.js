@@ -1,15 +1,15 @@
 let WEBSITE_DATA = [
 		
 	
-
-	{		
-		name: "Emergent Landscape III",
-		img: "images/004351893123001135189312300432120.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+			{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
+		link: "",
 		credit: "",
 	},
 	
+
 	
 	
 
@@ -20,6 +20,8 @@ let WEBSITE_DATA = [
 		link: "https://www.intersection.com/",
 		credit: "",
 	},
+	
+	
 	
 				{
 		name: "Skeletal Avatar",
@@ -32,7 +34,13 @@ let WEBSITE_DATA = [
 	
 
 	
-	
+				{
+		name: "Human_Robot",
+		img: "images/giphy1humanrobot.gif", 
+		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
+	},
 	
 
 
@@ -310,15 +318,15 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-		
-				{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
+		{		
+		name: "Emergent Landscape III",
+		img: "images/004351893123001135189312300432120.gif", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+	
+		
 	
 	
 	
