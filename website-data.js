@@ -148,16 +148,15 @@ let WEBSITE_DATA = [
 	
 	
 
-
-	
-			{
-		name: "Bates Dance Festival (Faculty) ",
-		img: "images/73ty3fyfhr239383874758230ru4894u89hf43unf444444411111777777222227773388484747777777777773unf4unf2ihbfnqwyhfwuuhjfiuwnfgwiubgh.png",
-		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-		link: "https://www.batesdancefestival.org/",
-		credit:"",
-				
+{
+		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+		img: "images/ararar555555555551111111155555557778888999911111222233332224445353535_____35353535353araarararararararar.png",
+		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+		credit: "",
 	},
+	
+	
 	
 	
 	
@@ -261,15 +260,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-		img: "images/ararar555555555551111111155555557778888999911111222233332224445353535_____35353535353araarararararararar.png",
-		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-		credit: "",
+	
+	
+			{
+		name: "Bates Dance Festival (Faculty) ",
+		img: "images/73ty3fyfhr239383874758230ru4894u89hf43unf444444411111777777222227773388484747777777777773unf4unf2ihbfnqwyhfwuuhjfiuwnfgwiubgh.png",
+		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+		link: "https://www.batesdancefestival.org/",
+		credit:"",
+				
 	},
-	
-	
 	
 			{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
