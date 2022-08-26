@@ -170,7 +170,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance--Film",
-		img: "images/621311_1141495_2_1611819151419.png",
+		img: "images/621311_1141495_2_1611819151419.jpg",
 		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
