@@ -29,13 +29,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Time Loop",
-		img: "images/Loops2018high.gif",
-		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-		credit: "",
-	},
+
 	
 	
 	
@@ -162,7 +156,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+				{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 	
 		
 
@@ -255,6 +255,17 @@ let WEBSITE_DATA = [
 				
 	},
 	
+	
+	
+		{
+		name: "Emergent Landscape I",
+		img: "images/2684430445101304451801318544518.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+
+	
 			{
 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 		img: "images/rarrarrararararararar_tard4567891072727272272727.jpg", 
@@ -342,13 +353,6 @@ let WEBSITE_DATA = [
 
 	
 	
-	{
-		name: "Emergent Landscape I",
-		img: "images/2684430445101304451801318544518.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
 
 	
 		{
