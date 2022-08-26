@@ -115,7 +115,7 @@ let WEBSITE_DATA = [
 		
 			{
 		name: "Before Zeta--Film",
-		img: "images/BAHAHSDJFWIUFBWHFBKJAFCBHDVB63824Y264T2842.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ is a site-specific film shot at Kugel Gips (a Bauhaus modern home) made for the CCMHT digital guestbook. ‘Before Zeta’ uses cartesian and polar coordinates, to form a tactile and sonic relationship to the environment without relying on optics to form representation.'",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
