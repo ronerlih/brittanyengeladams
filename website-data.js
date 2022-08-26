@@ -23,13 +23,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Skeletal Avatar",
-		img: "images/24215243615_21524_24361_242152_24361.png", 
-		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-		link: "",
-		credit:"",
+		{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "'BodyMouth in Residency at Harvestworks.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
 	},
+	
+	
+
 	
 	
 
@@ -44,7 +47,13 @@ let WEBSITE_DATA = [
 	
 
 
-	
+					{
+		name: "Skeletal Avatar",
+		img: "images/24215243615_21524_24361_242152_24361.png", 
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
+		link: "",
+		credit:"",
+	},
 	
 	
 	
@@ -124,13 +133,6 @@ let WEBSITE_DATA = [
 
 	
 	
-		{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth in Residency at Harvestworks.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
 	
 	
 	
