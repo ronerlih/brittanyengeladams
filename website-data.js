@@ -94,6 +94,13 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+		{
+		name: "The Young and The Banging (Publication)",
+		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
+	},
 	
 	
 	
@@ -403,14 +410,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "The Young and The Banging (Publication)",
-		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
-		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
-	
+
 		{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
