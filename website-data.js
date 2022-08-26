@@ -152,7 +152,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Bates Dance Festival (Faculty) ",
-		img: "images/bdf_horton.png",
+		img: "images/73ty3fyfhr239383874758230ru4894u89hf43unf444444411111777777222227773388484747777777777773unf4unf2ihbfnqwyhfwuuhjfiuwnfgwiubgh.png",
 		blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
 		link: "https://www.batesdancefestival.org/",
 		credit:"",
