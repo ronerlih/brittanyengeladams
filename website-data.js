@@ -263,7 +263,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-		img: "images/nyupdf.png",
+		img: "images/ararar555555555551111111155555557778888999911111222233332224445353535_____35353535353araarararararararar.png",
 		blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
 		link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 		credit: "",
