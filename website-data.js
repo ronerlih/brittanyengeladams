@@ -20,7 +20,13 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-	
+		{
+		name: "BodyMouth (Artist Residency)",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "'BodyMouth in Residency at Harvestworks.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
 	
 	
 			{
@@ -62,13 +68,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth in Residency at Harvestworks.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
+	
 	
 	
 
@@ -96,67 +96,8 @@ let WEBSITE_DATA = [
 	
 	
 	
-					{
-		name: "The Bessie's Archive",
-		img: "images/3e3_55_p.png",
-		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
-	
-			
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-	
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-
-		
-	
-
-	
-	
-	
-	
-	
-		
-
-	
-		
-	
-
-
-
-		
-	
-	
-
 	
 
 	
@@ -170,6 +111,13 @@ let WEBSITE_DATA = [
 	},
 
 
+						{
+		name: "The Bessie's Archive",
+		img: "images/3e3_55_p.png",
+		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
 	
 	
 	
