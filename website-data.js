@@ -113,7 +113,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "The Bessie's Archive",
-		img: "images/3e3_55_p.png",
+		img: "images/ejhbfweihrbfrwihbfqwihjfnqhjfnijwfbnqw.png",
 		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
