@@ -253,6 +253,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+			{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+		img: "images/rarrarrararararararar_tard4567891072727272272727.jpg", 
+		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
+	
+	
+	
 	
 		{
 		name: "Emergent Landscape I",
@@ -264,6 +274,14 @@ let WEBSITE_DATA = [
 
 	
 	
+			{
+		name: "Emergent Landscape II",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+
 	
 	
 	
@@ -277,51 +295,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-		img: "images/rarrarrararararararar_tard4567891072727272272727.jpg", 
-		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
-	
-		
-	
-	
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 		
 	
 	
-
-	
-
 	
 	
-	
-	
-	
-		
-	
-	
-		
-	
-		
-
-
 	
 
 
@@ -330,24 +310,8 @@ let WEBSITE_DATA = [
 	
 	
 	
-
 	
 	
-
-	
-	
-	
-	
-	
-	
-			{
-		name: "Emergent Landscape II",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-
 	
 	
 	
