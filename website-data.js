@@ -21,7 +21,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+			
+	{
+		name: "Youtube Improv--Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘Youtube improv’ an automated website that plays trending Youtube videos in a random order as a score for improvisation.",
+		link: "https://vimeo.com/manage/videos/429453098",
+		credit: ""
+	},
 	
 	
 			{
@@ -59,49 +66,39 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-	{
-		name: "Youtube Improv--Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘Youtube improv’ an automated website that plays trending Youtube videos in a random order as a score for improvisation.",
-		link: "https://vimeo.com/manage/videos/429453098",
-		credit: ""
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+		{
+		name: "The Young and The Banging (Publication)",
+		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
+		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
+		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+		credit: "",
 	},
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-
-
-					{
-		name: "Skeletal Avatar",
-		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
-		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-		link: "",
-		credit:"",
-	},
-	
-	
-// 		{
-// 		name: "The Young and The Banging (Publication)",
-// 		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
-// 		blurb: "The Young and Banging published in 2008 by Heron Preston curated a gallery show with Nike is a downtown NYC yearbook that provides a look at almost 200 faces of today's creative youth through polaroid photography. A first of its kind, co-created by 15 girls or as PURPLE magazine calls them, ‘A fascinating new generation born into the realms of fashion, art and success.’ The Young and Banging exploded into something more formal and very appealing. Taking a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.",
-// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-// 		credit: "",
-// 	},
 	
 	
 	
@@ -153,13 +150,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Time Loop",
-// 		img: "images/Loops2018high.gif",
-// 		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-// 		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-// 		credit: "",
-// 	},
+				{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 	
 		
 
@@ -340,7 +337,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+				{
+		name: "Skeletal Avatar",
+		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
+		link: "",
+		credit:"",
+	},
 	
 
 		
