@@ -43,13 +43,7 @@ let WEBSITE_DATA = [
 
 	
 	
-			{
-		name: "Architecture of Memory (MRPJ)",
-		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+	
 	
 	
 	
@@ -100,7 +94,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		{
+		name: "Hand Dance--Film",
+		img: "images/621311_1141495_2_1611819151419.jpg",
+		blurb: "'Hand Dance' is a film commissioned by the Guggenheim Museums's Works and Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	
@@ -118,6 +118,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
+	
+			{
+		name: "Architecture of Memory (MRPJ)",
+		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 	
@@ -155,13 +165,7 @@ let WEBSITE_DATA = [
 
 		
 	
-		{
-		name: "Hand Dance--Film",
-		img: "images/621311_1141495_2_1611819151419.jpg",
-		blurb: "'Hand Dance' is a film that uses machine learning to overlay hands from the original public hand data set. Commissioned by the Guggenheim Museums's Works and Process in 2020. Music by David Lang. Words by Bernie Sanders.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 	
 	
