@@ -96,7 +96,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Skeletal Avatar",
-		img: "images/hura315319aha9aha15319aha9ahaaha519aha35___19aha19ahahhahahahhahahaaaaaaaghhhhhhhh25419.png", 
+		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
 		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
 		link: "",
 		credit:"",
