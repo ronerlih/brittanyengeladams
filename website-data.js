@@ -118,6 +118,20 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
+			{
+		name: "Human-Robot",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
+	
+	
+	
+	
+	
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
@@ -131,11 +145,21 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Architecture of Memory (MRPJ)",
+		name: "Architecture of Memory (Publication)",
 		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
+	},
+	
+	
+							{
+				
+		name: "Human-Robot (Research)",
+		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
 	},
 	
 	
@@ -358,14 +382,6 @@ let WEBSITE_DATA = [
 	
 
 		
-			{
-		name: "Human-Robot",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
-	
 	
 
 	
@@ -381,14 +397,6 @@ let WEBSITE_DATA = [
 
 	
 	
-							{
-				
-		name: "Human-Robot (Research)",
-		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
