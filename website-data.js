@@ -260,13 +260,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "The Young and The Banging (Publication)",
-		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
-		blurb: "'The Young and Banging’ takes a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.  Published in 2008 by Heron Preston.",
-		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-		credit: "",
-	},
+// 		{
+// 		name: "The Young and The Banging (Publication)",
+// 		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
+// 		blurb: "'The Young and Banging’ takes a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.  Published in 2008 by Heron Preston.",
+// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
+// 		credit: "",
+// 	},
 	
 	
 	
