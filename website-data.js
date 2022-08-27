@@ -4,12 +4,25 @@ let WEBSITE_DATA = [
 	
 	
 					{
-		name: "BodyMouth / Ielele Live",
+		name: "BodyMouth/Ielele Live",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.",
+		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. As both material and metaphorical entities, bodies are at once subject to historical context and act as agents in forging new horizons of experience. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history. We invite participants to explore how specific bodies, as sites of tension and contestation, are rendered, identified, and understood, and in turn, how they enable us to imagine and instantiate new futures inside and outside of established systems.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
+	
+		{
+		name: "BodyMouth/Ielele (Artist Residency)",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "Past Residency 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
+	
+	
+	
+	
+	
 	
 			{
 		name: "Proximity Technology from Qualcomm",
@@ -24,7 +37,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Architecture of Memory--Press",
+		name: "Architecture of Memory (MRPJ)",
 		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -58,13 +71,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "BodyMouth (Artist Residency)",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth in Residency at Harvestworks.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
+	
 	
 	
 	
