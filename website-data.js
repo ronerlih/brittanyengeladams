@@ -184,7 +184,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
