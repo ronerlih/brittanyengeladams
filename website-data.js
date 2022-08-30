@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Architecture of Memory (Publication)",
+		name: "Architecture of Memory -- Publication",
 		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 							{
 				
-		name: "Human-Robot (Research)",
+		name: "Human-Robot -- Research",
 		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -393,7 +393,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Human_Robot",
+		name: "Human_Robot -- Research",
 		img: "images/giphy1humanrobot.gif", 
 		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
