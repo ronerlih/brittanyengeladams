@@ -3,16 +3,34 @@ let WEBSITE_DATA = [
 	
 	
 	
+			{
+		name: "Human-Robot",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
+	
+	
 					{
-		name: "BodyMouth/Ielele Live",
+		name: "BodyMouth/Ielele was -- live",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. As both material and metaphorical entities, bodies are at once subject to historical context and act as agents in forging new horizons of experience. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history. We invite participants to explore how specific bodies, as sites of tension and contestation, are rendered, identified, and understood, and in turn, how they enable us to imagine and instantiate new futures inside and outside of established systems.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
 	
+	
+				{
+		name: "Hand Dance -- Film",
+		img: "images/621311_1141495_2_1611819151419.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
 		{
-		name: "BodyMouth/Ielele (Artist Residency)",
+		name: "BodyMouth/Ielele -- Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "Past Residency 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
@@ -25,7 +43,7 @@ let WEBSITE_DATA = [
 	
 			
 	{
-		name: "Youtube Improv--Website",
+		name: "Youtube Improv Live",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/manage/videos/429453098",
@@ -43,6 +61,14 @@ let WEBSITE_DATA = [
 
 	
 
+		
+		{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -53,7 +79,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "The Cape Cod Modern House Trust (Artist Residency)",
+		name: "The Cape Cod Modern House Trust -- Artist Residency",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "",
@@ -73,7 +99,7 @@ let WEBSITE_DATA = [
 	
 		
 			{
-		name: "Before Zeta--Film",
+		name: "Before Zeta -- Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
 		link: "",
@@ -105,24 +131,18 @@ let WEBSITE_DATA = [
 	
 
 
-						{
-		name: "The Bessie's Archive",
-		img: "images/ejhbfweihrbfrwihbfqwihjfnqhjfnijwfbnqw.png",
-		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
+// 						{
+// 		name: "The Bessie's Archive",
+// 		img: "images/ejhbfweihrbfrwihbfqwihjfnqhjfnijwfbnqw.png",
+// 		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
+// 		link: "http://bessies.org/canceled-work-2020/",
+// 		credit: "",
+// 	},
 	
 	
 	
 	
-			{
-		name: "Human-Robot",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
+	
 	
 	
 	
@@ -140,6 +160,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
 	
 	
 	
@@ -303,13 +324,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Hand Dance--Film",
-		img: "images/621311_1141495_2_1611819151419.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -324,13 +339,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
+// 		{
+// 		name: "Architecture of Memory (Publication)",
+// 		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
+// 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit:"",
+// 	},
 	
 	
 	
@@ -386,15 +401,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
+// 			{
 	
 				
-		name: "Family Archive",
-		img: "images/1215225.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
+// 		name: "Family Archive",
+// 		img: "images/1215225.jpg",
+// 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit: "",
+// 	},
 	
 	
 				{
@@ -431,15 +446,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks:#Threejs, #react-three-fiber, #drei",
-		link: "",
-		credit: "",
-	},
-	
+
 			{
 		name: "Hand Dance (Motion Capture Research)",
 		img: "images/26194959495194949514951.jpg",
