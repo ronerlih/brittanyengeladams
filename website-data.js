@@ -196,13 +196,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
-// 		img: "images/ccbk.png",
-// 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-// 		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-// 	},
+			{
+		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
+		img: "images/ccbk.png",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+	},
 	
 	
 	
@@ -339,7 +339,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory -- Publication",
-		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
+		img: "images/#$%^&*.png", 
 		blurb: "'Architecture of Memory' published in the Movement Research Performance Journal Issue 55. Organized around temporalities that resist non-linear logics. ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
