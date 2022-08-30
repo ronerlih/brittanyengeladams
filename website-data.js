@@ -94,13 +94,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Hand Dance--Film",
-		img: "images/621311_1141495_2_1611819151419.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 	
 	
 	
@@ -150,6 +144,15 @@ let WEBSITE_DATA = [
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
+	},
+	
+	
+			{
+		name: "Emergent Landscape II",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
 	},
 	
 	
@@ -304,15 +307,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-	
 			{
-		name: "Emergent Landscape II",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		name: "Hand Dance--Film",
+		img: "images/621311_1141495_2_1611819151419.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
+	
 
 	
 	
