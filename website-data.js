@@ -313,7 +313,7 @@ let WEBSITE_DATA = [
 							{
 				
 		name: "Human-Robot -- Research",
-		img: "images/giphy1humanrobot.gif",
+		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -386,13 +386,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Human_Robot -- Research",
-// 		img: "images/", 
-// 		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-// 		link: "",
-// 		credit:"",
-// 	},
+				{
+		name: "Human_Robot -- Research",
+		img: "images/giphy1humanrobot.gif", 
+		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
+	},
 	
 	
 	
@@ -410,48 +410,48 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-				{
-		name: "Skeletal Avatar",
-		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
-		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-		link: "",
-		credit:"",
-	},
-	
-
-		
-	
-
-	
-		
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-// 			{
-// 		name: "Hand Dance (Motion Capture Research)",
-// 		img: "images/26194959495194949514951.jpg",
-// 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+// 				{
+// 		name: "Skeletal Avatar",
+// 		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
+// 		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
 // 		link: "",
-// 		credit: "",
+// 		credit:"",
 // 	},
+	
+
+		
+	
+
+	
+		
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+			{
+		name: "Hand Dance (Motion Capture Research)",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
