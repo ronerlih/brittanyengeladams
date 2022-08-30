@@ -42,7 +42,8 @@ let WEBSITE_DATA = [
 	},
 	
 			{
-		name: "Hand Dance (Research)",
+				
+		name: "Motion-Capture Research",
 		img: "images/11414121191918.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -163,13 +164,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Architecture of Memory -- Publication",
-		img: "images/515613513101_12344567818115205320211851561351310.jpg", 
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 	
 	
@@ -343,13 +337,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "Architecture of Memory (Publication)",
-// 		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
-// 		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit:"",
-// 	},
+		{
+		name: "Architecture of Memory -- Publication",
+		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
+		blurb: "'Architecture of Memory' published in the Movement Research Performance Journal Issue 55. Organized around temporalities that resist non-linear logics. ",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 	
