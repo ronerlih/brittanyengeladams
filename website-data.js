@@ -126,13 +126,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	
 	
 	
@@ -147,6 +140,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+		{
+		name: "Emergent Landscape I",
+		img: "images/2684430445101304451801318544518.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
+	
 			{
 		name: "Emergent Landscape II",
 		img: "images/1266215159166122591612215916612916.png",
@@ -156,15 +159,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-							{
-				
-		name: "Human-Robot (Research)",
-		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+			{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+		img: "images/RutgersConcertProgram.png", 
+		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 		credit: "",
 	},
-	
 	
 	
 	
@@ -277,13 +278,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-		img: "images/RutgersConcertProgram.png", 
-		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+	
+							{
+				
+		name: "Human-Robot (Research)",
+		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
+	
+	
 	
 	
 	
@@ -297,15 +302,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
 		{
-		name: "Emergent Landscape I",
-		img: "images/2684430445101304451801318544518.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+		name: "Architecture of Memory (Publication)",
+		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Performance Journal NO. 55. Architecture of Memory is a digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via hacked Kinect equipment, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
 	},
+	
+	
+	
 
 			{
 		name: "Hand Dance--Film",
