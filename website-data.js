@@ -212,7 +212,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Joffrey Ballet School, NYC (Faculty)",
-		img: "images/jwngij_435243654qwhgiuq_hfjwqnfwjkqnf.png",
+		img: "images/4351435143514354351435_1.png",
 		blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
 		link: "https://www.joffreyballetschool.com",
 		credit: "photo: Lois Greenfield",
