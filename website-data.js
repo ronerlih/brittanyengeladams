@@ -2,6 +2,31 @@ let WEBSITE_DATA = [
 		
 	
 	
+						{
+		name: "BodyMouth/Ielele was -- live",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. As both material and metaphorical entities, bodies are at once subject to historical context and act as agents in forging new horizons of experience. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history. We invite participants to explore how specific bodies, as sites of tension and contestation, are rendered, identified, and understood, and in turn, how they enable us to imagine and instantiate new futures inside and outside of established systems.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
+	
+	
+	
+	
+	
+	
+		{
+		name: "BodyMouth/Ielele -- Artist Residency",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "Past Residency 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+	},
+	
+	
+	
+	
+	
 	
 			{
 		name: "Human-Robot",
@@ -12,13 +37,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{
-		name: "BodyMouth/Ielele was -- live",
-		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. As both material and metaphorical entities, bodies are at once subject to historical context and act as agents in forging new horizons of experience. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history. We invite participants to explore how specific bodies, as sites of tension and contestation, are rendered, identified, and understood, and in turn, how they enable us to imagine and instantiate new futures inside and outside of established systems.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
+
 	
 	
 				{
@@ -32,14 +51,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-		{
-		name: "BodyMouth/Ielele -- Artist Residency",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "Past Residency 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-	},
 	
 			{
 				
@@ -109,13 +120,13 @@ let WEBSITE_DATA = [
 	
 	
 		
-// 			{
-// 		name: "Before Zeta -- Film",
-// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-// 		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
-// 		link: "",
-// 		credit: "",
-// 	},
+			{
+		name: "Before Zeta -- Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
+		link: "",
+		credit: "",
+	},
 
 	
 	
@@ -142,13 +153,13 @@ let WEBSITE_DATA = [
 	
 
 
-// 						{
-// 		name: "The Bessie's Archive",
-// 		img: "images/ejhbfweihrbfrwihbfqwihjfnqhjfnijwfbnqw.png",
-// 		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
-// 		link: "http://bessies.org/canceled-work-2020/",
-// 		credit: "",
-// 	},
+						{
+		name: "The Bessie's Archive",
+		img: "images/2515199551519995919995199199551919.jpg",
+		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
 	
 	
 	
@@ -196,13 +207,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
-		img: "images/ccbk.png",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-	},
+// 			{
+// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
+// 		img: "images/ccbk.png",
+// 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+// 		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+// 	},
 	
 	
 	
@@ -339,7 +350,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory -- Publication",
-		img: "images/#$%^&*.png", 
+		img: "images/12212018_113518931_162119_755_17215518119621311_12925182025_2.jpg", 
 		blurb: "'Architecture of Memory' published in the Movement Research Performance Journal Issue 55. Organized around temporalities that resist non-linear logics. ",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
@@ -386,13 +397,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Human_Robot -- Research",
-		img: "images/giphy1humanrobot.gif", 
-		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit:"",
-	},
+// 				{
+// 		name: "Human_Robot -- Research",
+// 		img: "images/", 
+// 		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+// 		link: "",
+// 		credit:"",
+// 	},
 	
 	
 	
