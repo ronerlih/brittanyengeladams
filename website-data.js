@@ -40,14 +40,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Hand Dance (Development)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
-		credit: "",
-	},
-	
+
 	
 	
 	
@@ -258,7 +251,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+		name: "Human-Robot (Research)",
+		img: "images/giphy1humanrobot.gif",
+		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
+
 	
 	
 	
@@ -362,17 +362,17 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
-	
-	
-	
-			{
-		name: "Human-Robot (Research)",
-		img: "images/Arduino-Robot-Kit.jpeg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+				{
+		name: "Hand Dance (Research)",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
-		credit: " .",
+		credit: "",
 	},
-
+	
+	
+	
+	
 
 	
 	
