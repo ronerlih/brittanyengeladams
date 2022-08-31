@@ -251,13 +251,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Human-Robot (Research)",
-		img: "images/giphy1humanrobot.gif",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
+// 			{
+// 		name: "Human-Robot (Research)",
+// 		img: "images/giphy1humanrobot.gif",
+// 		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+// 		link: "",
+// 		credit: " .",
+// 	},
 
 	
 	
@@ -411,13 +411,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Human_Robot Research",
-// 		img: "images/giphy2humanrobot.gif", 
-// 		blurb: "Adversarial neural networks, machine learning algorithms inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-// 		link: "",
-// 		credit:"",
-// 	},
+				{
+		name: "Human_Robot",
+		img: "images/giphy2humanrobot.gif", 
+		blurb: "'Human_Robot' uses adversarial neural networks and cumulative machine learning algorithms. It is inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
+	},
 	
 	
 	
