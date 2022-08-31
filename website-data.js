@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Hand Dance -- Film",
+		name: "Hand Dance--Film",
 		img: "images/621311_1141495_2_1611819151419.jpg",
 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -65,8 +65,8 @@ let WEBSITE_DATA = [
 	
 			
 	{
-		name: "Youtube Improv Live",
-		img: "images/YouTubeimprovhigh.gif",
+		name: "Youtube Improv--Live",
+		img: "images/13a3a19_2003a193__a1920a193a19_20_92014151815212151415.jpg",
 		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "https://vimeo.com/manage/videos/429453098",
 		credit: ""
