@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Hand Dance--Film",
 		img: "images/621311_1141495_2_1611819151419.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen. Throughout the film, overlaid on top of Brittany’s hands are the hands behind the datasets used in machine learning to identify and detect hands.",
+		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -154,9 +154,9 @@ let WEBSITE_DATA = [
 
 
 						{
-		name: "The Bessie's Archive",
+		name: "Bessies' Archive 2020",
 		img: "images/2515199551519995919995199199551919.jpg",
-		blurb: "2020 Archive of NYC canceled Dance Performances due to COVID-19 Pandemic.",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen.",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
