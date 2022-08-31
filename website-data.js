@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 	
 	 {
 		name: "YouTube Improv -- Live",
-		img: "images/13a3a19_2003a193__8787a1920a193a19_20_92014151815212151415.jpg",
+		img: "images/2121__5_55521212121212521212.jpg",
 		blurb: "Projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
 		link: "",
 		credit: "",
