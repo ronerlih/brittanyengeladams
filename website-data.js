@@ -195,7 +195,7 @@ let WEBSITE_DATA = [
 							{
 		name: "Bessies' 2020 Archive",
 		img: "images/2515199551519995919995199199551919.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class, that inspired this intimate hand dance taking place in Brittany and Ron’s kitchen.",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
@@ -343,7 +343,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory (Publication)",
-		img: "images/2138383815138158.jpg", 
+		img: "images/family231514.png", 
 		blurb: "It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal. -- Movement Research Performance Journal No. 55",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
