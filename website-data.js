@@ -35,7 +35,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Hand Dance--Film",
+		name: "Hand Dance -- Film",
 		img: "images/72172217255552172555172555.jpg",
 		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -44,6 +44,15 @@ let WEBSITE_DATA = [
 	
 	
 	
+			{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
+	
 	
 
 	
@@ -51,10 +60,10 @@ let WEBSITE_DATA = [
 	
 			
 	{
-		name: "Youtube Improv--Live",
+		name: "Youtube Improv -- Live",
 		img: "images/25521252120021521202552120212052120025913161552120225.gif",
 		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
-		link: "https://vimeo.com/manage/videos/429453098",
+		link: "",
 		credit: ""
 	},
 	
@@ -69,14 +78,6 @@ let WEBSITE_DATA = [
 
 	
 
-		
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
 	
 	
 	
@@ -87,7 +88,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "The Cape Cod Modern House Trust -- Artist Residency",
+		name: "The Cape Cod Modern House Trust (Artist Residency) next",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
 		link: "",
@@ -116,10 +117,16 @@ let WEBSITE_DATA = [
 
 	
 	
-
 	
 	
-	
+		
+		{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
 
@@ -312,14 +319,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-							{
-				
-		name: "Human-Robot (Research)",
-		img: "images/39059_456356_457647_.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -342,7 +341,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Human-Robot",
+		name: "Human-Robot (Research)",
 		img: "images/11842191415_218514201184.jpg",
 		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
@@ -467,17 +466,19 @@ let WEBSITE_DATA = [
 	},
 	
 	
+
 	
 	
-			{
+	
+	
+							{
 				
-		name: "Motion-Capture Research",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		name: "Human-Robot (Research)",
+		img: "images/39059_456356_457647_.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
-	
 	
 	
 		
