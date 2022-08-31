@@ -4,18 +4,10 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-							{
-				
-		name: "Robotics (Research)",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+
 	
 						{
-		name: "BodyMouth/Ielele was -- live",
+		name: "BodyMouth/Ielele -- live",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Forthcoming 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium.Future Bodies will present a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. As both material and metaphorical entities, bodies are at once subject to historical context and act as agents in forging new horizons of experience. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history. We invite participants to explore how specific bodies, as sites of tension and contestation, are rendered, identified, and understood, and in turn, how they enable us to imagine and instantiate new futures inside and outside of established systems.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -28,7 +20,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth/Ielele -- Artist Residency",
+		name: "BodyMouth/Ielele (Artist Residency)",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "Past Residency 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
@@ -37,8 +29,19 @@ let WEBSITE_DATA = [
 	
 	
 	
+		
+							{
+				
+		name: "Human-Robot (Research)",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
 			{
-		name: "Hand Dance (Research)",
+		name: "Hand Dance (Development)",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
@@ -192,13 +195,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-							{
-		name: "Bessies' 2020 Archive",
-		img: "images/2515199551519995919995199199551919.jpg",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
+// 							{
+// 		name: "Bessies' 2020 Archive",
+// 		img: "images/2515199551519995919995199199551919.jpg",
+// 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
+// 		link: "http://bessies.org/canceled-work-2020/",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -233,17 +236,25 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Time Loop",
-// 		img: "images/Loops2018high.gif",
-// 		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
-// 		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
-// 		credit: "",
-// 	},
+				{
+		name: "Time Loop",
+		img: "images/Loops2018high.gif",
+		blurb: "'Time Loops uses live camera feed to record, loop, and project the movement's of the performers onto the stage performed by Dancers from Cynthia King Dance School at Kumble Theater.",
+		link: "https://cynthiakingdance.com/class-schedule?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1aUqj0j5C2PEWQPMPHAnZ2sUCnNaKwBJil8pthRA1qWpSFH-KO8kAaAoiyEALw_wcB",
+		credit: "",
+	},
 	
 		
 
 		
+				{
+		name: "Hand Dance -- Film",
+		img: "images/79514154515144445114______444_44.png",
+		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
 	
 	
 	
@@ -411,15 +422,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
+			{
 	
 				
-// 		name: "Family Archive",
-// 		img: "images/1215225.jpg",
-// 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "",
-// 	},
+		name: "Family Archive",
+		img: "images/1215225.jpg",
+		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 	
 // 				{
@@ -447,14 +458,6 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-				{
-		name: "Hand Dance -- Film",
-		img: "images/79514154515144445114______444_44.png",
-		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 	
 	
