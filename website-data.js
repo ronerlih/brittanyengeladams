@@ -190,13 +190,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 			{
-// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-// 		img: "images/RutgersConcertProgram.png", 
-// 		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
-// 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-// 		credit: "",
-// 	},
+			{
+		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+		img: "images/RutgersConcertProgram.png", 
+		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+		credit: "",
+	},
 	
 	
 	
@@ -386,13 +386,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Human_Robot Research",
-// 		img: "images/", 
-// 		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-// 		link: "",
-// 		credit:"",
-// 	},
+				{
+		name: "Human_Robot Research",
+		img: "images/giphy2humanrobot.gif", 
+		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
+	},
 	
 	
 	
@@ -410,13 +410,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-// 				{
-// 		name: "Skeletal Avatar",
-// 		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
-// 		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-// 		link: "",
-// 		credit:"",
-// 	},
+				{
+		name: "Skeletal Avatar",
+		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
+		link: "",
+		credit:"",
+	},
 	
 
 		
