@@ -451,7 +451,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Hand Dance -- Film",
 		img: "images/79514154515144445114______444_44.png",
-		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
+		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -460,7 +460,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Hand Dance (Research)",
+		name: "Hand Dance development",
 		img: "images/11414121191918.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
