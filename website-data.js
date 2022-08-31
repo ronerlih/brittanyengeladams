@@ -190,13 +190,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-		img: "images/RutgersConcertProgram.png", 
-		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
-		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-		credit: "",
-	},
+// 			{
+// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+// 		img: "images/RutgersConcertProgram.png", 
+// 		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+// 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+// 		credit: "",
+// 	},
 	
 	
 	
