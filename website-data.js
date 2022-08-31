@@ -130,13 +130,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+		
 	
 	
 
@@ -184,6 +178,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
+	
 			{
 		name: "Emergent Landscape II",
 		img: "images/1266215159166122591612215916612916.png",
@@ -195,13 +197,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 							{
-// 		name: "Bessies' 2020 Archive",
-// 		img: "images/2515199551519995919995199199551919.jpg",
-// 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
-// 		link: "http://bessies.org/canceled-work-2020/",
-// 		credit: "",
-// 	},
+							{
+		name: "Bessies' 2020 Archive",
+		img: "images/2515199551519995919995199199551919.jpg",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
 	
 	
 	
