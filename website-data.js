@@ -438,7 +438,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Hand Dance -- Film",
-		img: "images/72172217255552172555172555.jpg",
+		img: "images/79514154515144445114______444_44.png",
 		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
