@@ -79,8 +79,8 @@ let WEBSITE_DATA = [
 		{
 		name: "Farewell 2020",
 		img: "images/11811_192114417.gif",
-		blurb: "",
-		link: "",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
 	
