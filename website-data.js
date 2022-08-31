@@ -25,33 +25,28 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-	
-	
-	
-	
-
-	
-	
-				{
-		name: "Hand Dance -- Film",
-		img: "images/72172217255552172555172555.jpg",
-		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	
-	
-	
 			{
-				
 		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
 		credit: "",
 	},
+	
+	
+	
+	
+	
+	
+	
+	 {
+		name: "YouTube Improv -- Live",
+		img: "images/",
+		blurb: "Projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	
 
@@ -60,7 +55,7 @@ let WEBSITE_DATA = [
 	
 			
 	{
-		name: "Youtube Improv -- Live",
+		name: "Youtube Improv -- Website",
 		img: "images/25521252120021521202552120212052120025913161552120225.gif",
 		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "",
@@ -294,13 +289,6 @@ let WEBSITE_DATA = [
 
 
 	
-	 {
-		name: "YouTube Improv--Live",
-		img: "images/youtubemprov1high.gif",
-		blurb: "‘YouTube Improv;' projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -448,27 +436,24 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-
-			{
-		name: "Hand Dance (Motion Capture Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
+				{
+		name: "Hand Dance -- Film",
+		img: "images/72172217255552172555172555.jpg",
+		blurb: "'Hand Dance' is a dance film that uses machine learning to identify and detect hands, sourced from public data sets that are overlaid on top of Brittanys hand gestures. Commissioned by the Guggenheim Museums’ Works and Process.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
 	
-
 	
-	
+			{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
 	
 	
 	
