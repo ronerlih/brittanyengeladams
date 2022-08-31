@@ -190,13 +190,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-							{
-		name: "Bessies' 2020 Archive",
-		img: "images/6122522522561213.png",
-		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
+// 							{
+// 		name: "Bessies' 2020 Archive",
+// 		img: "images/6122522522561213.png",
+// 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
+// 		link: "http://bessies.org/canceled-work-2020/",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -244,7 +244,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Hand Dance -- Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/648592159545131859513166514859513.jpg",
 		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -414,7 +414,7 @@ let WEBSITE_DATA = [
 // 				{
 // 		name: "Human_Robot Research",
 // 		img: "images/giphy2humanrobot.gif", 
-// 		blurb: "'‘Human-Robot': adversarial neural networks, and machine learning algorithms; is a duet between a human and Robot,  inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+// 		blurb: "Adversarial neural networks, machine learning algorithms inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 // 		link: "",
 // 		credit:"",
 // 	},
