@@ -524,15 +524,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-		name: "Publication -- Architecture of Memory",
-		img: "images/15513131513.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
+	
+	
+					{
+		name: "Maquette 2021 (Robotics)",
+		img: "images/1125695156993125699515951951.jpg",
+		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit: " .",
 	},
-	
-	
+
 	
 	
 	
@@ -553,15 +554,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-				{
-		name: "Maquette 2021 (Robotics)",
-		img: "images/1125695156993125699515951951.jpg",
-		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit: " .",
-	},
 
-	
+		{
+		name: "Publication -- Architecture of Memory",
+		img: "images/15513131513.jpg", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 	
