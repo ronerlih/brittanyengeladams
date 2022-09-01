@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	
 								{
 				
-		name: "Human-Robot (Research)",
+		name: "Artificial Intelligence and Neural Networks",
 		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -414,11 +414,11 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Human-Robot",
+		name: "Neural Networks (",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png", 
-		blurb: "'Human-Robot': adversarial neural networks and cumulative machine learning algorithms; inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		blurb: "'Human-Robot' uses adversarial neural networks and cumulative machine learning algorithms, to bring a robot and human inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
-		credit:"",
+		credit:"generative adversarial network for celebrity faces (self-created)",
 	},
 	
 				{
