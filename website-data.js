@@ -428,7 +428,7 @@ let WEBSITE_DATA = [
 	
 				
 		name: "Family Archive",
-		img: "images/1215225.jpg",
+		img: "images/511221991211912191214651219.jpg",
 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
