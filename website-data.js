@@ -100,9 +100,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "The Cape Cod Modern House Trust (Artist Residency) next",
+		name: "The Cape Cod Modern House Trust (Artist Residency)",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.", 
 		link: "",
 		credit: "",
 	},
@@ -119,13 +119,13 @@ let WEBSITE_DATA = [
 	
 
 	
-			{
-		name: "Before Zeta -- Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Before Zeta -- Film",
+// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+// 		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 	
 	
