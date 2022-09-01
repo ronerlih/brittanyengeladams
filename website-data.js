@@ -28,6 +28,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+				{
+		name: "Human-Robot (Research)",
+		img: "images/1125695156993125699515951951.jpg",
+		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
+	},
+	
 	
 		
 							{
@@ -82,7 +90,13 @@ let WEBSITE_DATA = [
 	
 
 	
-	
+				{
+		name: "Hand Dance -- Film",
+		img: "images/648592159545131859513166514859513.jpg",
+		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	
@@ -110,13 +124,13 @@ let WEBSITE_DATA = [
 	
 	
 		
-			{
-		name: "Before Zeta -- Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Before Zeta -- Film",
+// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+// 		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 	
 	
@@ -242,22 +256,10 @@ let WEBSITE_DATA = [
 		
 
 		
-				{
-		name: "Hand Dance -- Film",
-		img: "images/648592159545131859513166514859513.jpg",
-		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 	
-			{
-		name: "Human-Robot (Research)",
-		img: "images/1125695156993125699515951951.jpg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
+	
+
 
 	
 	
@@ -356,7 +358,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Architecture of Memory (Publication)",
-		img: "images/family231514.png", 
+		img: "images/511221991211912191214651219.jpg", 
 		blurb: "It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory,' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal. -- Movement Research Performance Journal No. 55",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
@@ -424,15 +426,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
+// 			{
 	
 				
-		name: "Family Archive",
-		img: "images/511221991211912191214651219.jpg",
-		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
+// 		name: "Family Archive",
+// 		img: "images/511221991211912191214651219.jpg",
+// 		blurb: "Archival Research: A Mizrach crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda, and he is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+// 		credit: "",
+// 	},
 	
 	
 // 				{
@@ -465,7 +467,7 @@ let WEBSITE_DATA = [
 	
 			{
 				
-		name: "Hand Dance development",
+		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
