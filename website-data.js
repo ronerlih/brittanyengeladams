@@ -77,13 +77,6 @@ let WEBSITE_DATA = [
 	
 	
 			
-	{
-		name: "Youtube Improv -- Website",
-		img: "images/25521252120021521202552120212052120025913161552120225.gif",
-		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
-		link: "",
-		credit: ""
-	},
 	
 	
 	
@@ -104,6 +97,13 @@ let WEBSITE_DATA = [
 	
 	
 	
+	{
+		name: "Youtube Improv -- Website",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
+		blurb: "‘‘Youtube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		link: "",
+		credit: ""
+	},
 	
 	
 
@@ -153,7 +153,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+		{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
 	
@@ -181,13 +187,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -350,7 +350,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory (Publication)",
+		name: "Architecture of Memory",
 		img: "images/22225114426122_251144261945.jpg", 
 		blurb: "A digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice--framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors. Publication of 'Architecture of Memory' in Movement Research Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -358,7 +358,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Architecture of Memory (Publication MRPJ)",
+		name: "Architecture of Memory (Publication)",
 		img: "images/1114941819_____4181911141819.jpg", 
 		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
