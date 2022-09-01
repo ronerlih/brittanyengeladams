@@ -373,13 +373,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+	
 	
 	
 		{
@@ -389,6 +383,9 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
+	
+	
+	
 	
 	
 		{
@@ -407,10 +404,22 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+	{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
-	
-
+			{
+		name: "Human-Robot",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png", 
+		blurb: "'Human-Robot': adversarial neural networks and cumulative machine learning algorithms; inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
+	},
 	
 				{
 		name: "Hand Dance (Research)",
@@ -425,13 +434,7 @@ let WEBSITE_DATA = [
 	
 
 	
-				{
-		name: "Human-Robot",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png", 
-		blurb: "'Human-Robot' uses adversarial neural networks and cumulative machine learning algorithms; inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit:"",
-	},
+	
 	
 
 	
