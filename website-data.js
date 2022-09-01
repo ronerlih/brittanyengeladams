@@ -349,7 +349,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Hand Dance -- Film",
-		img: "images/818114441143581144411435144411435.jpg",
+		img: "images/811441143581144358.jpg",
 		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
