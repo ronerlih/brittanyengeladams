@@ -460,17 +460,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-				
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
-	
-	
-	
 	
 	
 	
@@ -502,6 +491,17 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+		{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
+	
+	
 
 	
 	
@@ -510,6 +510,13 @@ let WEBSITE_DATA = [
 
 	
 	
+				{
+		name: "Family Archive",
+		img: "images/22225114426122_251144261945.jpg", 
+		blurb: "Epistolary Correspondence with family living in Israel during and after the COVID-19 pandemic. Read more about it in my column ‘Architecture of Memory’ Published in the Movement Research Performance Journal Issue 55.",
+		link: "",
+		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
+	},
 	
 	
 	
