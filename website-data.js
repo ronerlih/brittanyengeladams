@@ -387,7 +387,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Hand Dance (Research)",
-		img: "images/11141181816149519921418114926149519926149519.jpg",
+		img: "images/11894511189_914921114926194519.jpg",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
 		credit: "",
