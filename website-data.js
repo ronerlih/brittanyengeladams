@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 						{
 		name: "Live Performance -- BodyMouth/Ielele ",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming, 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium. Future Bodies presents a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history.",
+		blurb: "Forthcoming, 'BodyMouth/Ielele' live at The Future Bodies Symposium; a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
