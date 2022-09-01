@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Artist Residency -- BodyMouth/Ielele",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "Past Residency, 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		blurb: "'BodyMouth/Ielele' in residency at Harvestworks (past). Harvestworks presents experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
