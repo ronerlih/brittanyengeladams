@@ -47,6 +47,33 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+				{
+		name: "Hand Dance -- Film",
+		img: "images/811441143581144358.jpg",
+		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
+	
+		
+	
+
+
+	
+	
+	
+	
+	{
+		name: "The Cape Cod Modern House Trust (Artist Residency)",
+		img: "images/31165304_14126531165304_141265_141269_.jpg",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.", 
+		link: "",
+		credit: "",
+	},
+	
+	
 		{
 		name: "Emergent Landscape I",
 		img: "images/2684430445101304451801318544518.png",
@@ -75,48 +102,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Hand Dance -- Film",
-		img: "images/811441143581144358.jpg",
-		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
-	
-		
-	
-	
-
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	{
-		name: "The Cape Cod Modern House Trust (Artist Residency)",
-		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.", 
-		link: "",
-		credit: "",
-	},
 	
 	
 
@@ -408,7 +394,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Farewell 2020",
+		name: "Farewell 2020 (Digital Scan)",
 		img: "images/11811_192114417.gif",
 		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
 		link: "https://ronerlih.github.io/2020/",
@@ -489,14 +475,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-				
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
 	
 	
 
@@ -538,9 +516,14 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+	
+	
+	
+	
+	
 	 
 				{
-		name: "Archiving Ancestry",
+		name: "Archiving Memory",
 		img: "images/51421422114292114291421429.png", 
 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
 		link: "",
@@ -548,9 +531,19 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+		{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
+	
 		
 {
-		name: "Farewell 2020 (3D Scene)",
+		name: "Farewell 2020 (3d Scene)",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
