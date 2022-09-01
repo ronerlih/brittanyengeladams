@@ -15,7 +15,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
+		link: "https://www.intersection.com/",
+		credit: "",
+	},
+
 	
 	
 	
@@ -38,14 +45,6 @@ let WEBSITE_DATA = [
 	
 	
 		
-							{
-				
-		name: "Human-Robot (Research)",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 	
 
@@ -64,6 +63,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "The Cape Cod Modern House Trust (Artist Residency) next",
+		img: "images/31165304_14126531165304_141265_141269_.jpg",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
+		link: "",
+		credit: "",
+	},
+	
 	
 
 	
@@ -79,14 +86,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
-		link: "https://www.intersection.com/",
-		credit: "",
-	},
-
+	
 	
 
 	
@@ -103,14 +103,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	{
-		name: "The Cape Cod Modern House Trust (Artist Residency) next",
-		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
-		link: "",
-		credit: "",
-	},
 	
 	
 	
@@ -184,14 +176,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+
 	
 			{
 		name: "Emergent Landscape II",
@@ -364,6 +349,26 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+	
+								{
+				
+		name: "Human-Robot (Research)",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+	{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
+	
 				{
 		name: "Hand Dance (Research)",
 		img: "images/111945111814926145119451114619149261914926145.jpg",
@@ -401,7 +406,14 @@ let WEBSITE_DATA = [
 	
 	
 
-
+		{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
+	},
 	
 	
 	
@@ -465,14 +477,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-				
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
-	},
+	
 	
 	
 	
