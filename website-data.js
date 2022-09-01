@@ -427,7 +427,7 @@ let WEBSITE_DATA = [
 		img: "images/024657834.jpg", 
 		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
 		link: "",
-		credit:"Image by 024–657–834 on Pixabay",
+		credit:"",
 	},
 	
 				{
@@ -522,13 +522,13 @@ let WEBSITE_DATA = [
 
 	
 	
-// 				{
-// 		name: "Archiving Ancestry",
-// 		img: "images/51421422114292114291421429.png", 
-// 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
-// 		link: "",
-// 		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
-// 	},
+				{
+		name: "Archiving Ancestry",
+		img: "images/51421422114292114291421429.png", 
+		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
+		link: "",
+		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
+	},
 	
 	
 	
