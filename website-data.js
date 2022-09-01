@@ -400,15 +400,15 @@ let WEBSITE_DATA = [
 	
 
 	
-
-		{
-				
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
-		credit: "",
+				{
+		name: "Human-Robot",
+		img: "images/8121321520113118152__152014.gif", 
+		blurb: "'Human-Robot' uses adversarial neural networks and cumulative machine learning algorithms; it's inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo -- but rather, a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit:"",
 	},
+	
+
 	
 
 	
@@ -442,13 +442,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-				{
-		name: "Human-Robot",
-		img: "images/8121321520113118152__152014.gif", 
-		blurb: "'Human-Robot' uses adversarial neural networks and cumulative machine learning algorithms; it's inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo -- but rather, a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit:"",
+		{
+				
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		credit: "",
 	},
 	
 	
