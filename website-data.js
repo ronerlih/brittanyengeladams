@@ -507,15 +507,15 @@ let WEBSITE_DATA = [
 	
 
 	
-// 				{
+				{
 	
 				
-// 		name: "Ancestral Artifact 'Mizrach' ",
-// 		img: "images/102147512751255147512.jpg",
-// 		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, who is from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "",
-// 	},
+		name: "Ancestral Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, who is from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 	
 	
@@ -523,7 +523,7 @@ let WEBSITE_DATA = [
 	
 	
 // 				{
-// 		name: "Archiving Memory",
+// 		name: "Archiving Ancestry",
 // 		img: "images/51421422114292114291421429.png", 
 // 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
 // 		link: "",
