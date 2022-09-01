@@ -385,16 +385,16 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory (Publication)",
 		img: "images/1114941819_____418149111418189.jpg", 
-		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
 	
 	
 		{
-		name: "Architecture of Memory",
+		name: "Memory Dance (OpenNI) ",
 		img: "images/22225114426122_251144261945.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. It combines archival research with motion-capture technology as a form of self-portraiture.",
+		blurb: "‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
