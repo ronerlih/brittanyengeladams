@@ -70,9 +70,9 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Maquette 2021 -- Robotics",
+		name: "Maquette 2021",
 		img: "images/1125695156993125699515951951.jpg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
 		credit: " .",
 	},
@@ -414,11 +414,11 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Neural Networks (",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png", 
-		blurb: "'Human-Robot' uses adversarial neural networks and cumulative machine learning algorithms, to bring a robot and human inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		name: "Human-Robot",
+		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg", 
+		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
 		link: "",
-		credit:"generative adversarial network for celebrity faces (self-created)",
+		credit:"Image by 024–657–834 on Pixabay",
 	},
 	
 				{
@@ -468,13 +468,13 @@ let WEBSITE_DATA = [
 	
 
 	
-// 				{
-// 		name: "Skeletal Avatar",
-// 		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
-// 		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
-// 		link: "",
-// 		credit:"",
-// 	},
+				{
+		name: "Skeletal Avatar",
+		img: "images/611924771_____512081895120____14771512_____4611920818914.jpg", 
+		blurb: "'Skeletal Avatar is a motion-capture camera with infrared depth and machine learning algorithms that predicts a human pose as spatial data and renders that pose a skeletal avatar.",
+		link: "",
+		credit:"",
+	},
 	
 
 		
