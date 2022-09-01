@@ -547,7 +547,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
-	
+	 
 	
 	
 		
