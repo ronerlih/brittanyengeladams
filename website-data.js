@@ -55,23 +55,47 @@ let WEBSITE_DATA = [
 	
 	
 	
+
 	
-	 {
-		name: "YouTube Improv -- Live",
-		img: "images/2121__5_55521212121212521212.jpg",
-		blurb: "Projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
-		link: "",
+	
+		{		
+		name: "Emergent Landscape III",
+		img: "images/004351893123001135189312300432120.gif", 
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
 	
 	
 	
+	
 				{
-		name: "Human-Robot (Research)",
+		name: "Maquette 2021 -- Robotics",
 		img: "images/1125695156993125699515951951.jpg",
 		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: " .",
+	},
+	
+	
+	
+	
+		{
+		name: "Emergent Landscape I",
+		img: "images/2684430445101304451801318544518.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
+
+	
+			{
+		name: "Emergent Landscape II",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
 	},
 	
 	
@@ -106,6 +130,24 @@ let WEBSITE_DATA = [
 	
 	
 	
+				{
+		name: "Hand Dance -- Film",
+		img: "images/811441143581144358.jpg",
+		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
+	
+	
+	
+							{
+		name: "Bessies' 2020 Archive",
+		img: "images/6122522522561213.png",
+		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
+		link: "http://bessies.org/canceled-work-2020/",
+		credit: "",
+	},
 	
 	
 	
@@ -122,72 +164,12 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 		
-		
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-		{
-		name: "Emergent Landscape I",
-		img: "images/2684430445101304451801318544518.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
-	
-
-	
-			{
-		name: "Emergent Landscape II",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+	 {
+		name: "YouTube Improv -- Live",
+		img: "images/2121__5_55521212121212521212.jpg",
+		blurb: "Projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
+		link: "",
 		credit: "",
 	},
 	
@@ -198,20 +180,62 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 							{
-// 		name: "Bessies' 2020 Archive",
-// 		img: "images/6122522522561213.png",
-// 		blurb: "'Hand Dance' is a dance film and collaboration of composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
-// 		link: "http://bessies.org/canceled-work-2020/",
-// 		credit: "",
-// 	},
+	
+	
+		
+		
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
 // 			{
 // 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 // 		img: "images/RutgersConcertProgram.png", 
-// 		blurb: "2021 Fall Student Dance Concert as a reimagining of a 19th century or the 20th century theatrical performance for the 21st century stage.",
+// 		blurb: "2021 Fall Student Dance Concert; as a reimagining of a 19th century, or the 20th century theatrical performance for the 21st century stage.",
 // 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
 // 		credit: "",
 // 	},
@@ -347,13 +371,6 @@ let WEBSITE_DATA = [
 	
 		
 	
-				{
-		name: "Hand Dance -- Film",
-		img: "images/811441143581144358.jpg",
-		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 	
 	{
@@ -377,7 +394,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Architecture of Memory",
 		img: "images/22225114426122_251144261945.jpg", 
-		blurb: "A digital catalog with maps, tessellations, scans, and 3D models. It combines archival research with manipulation of fictional memory via a hacked technology of Kinect, a retrofitted game console controller that I use to create 3D scans of my body as a form of self-portraiture. The portraits are distilled from performative moments of practice--framing an intimate moment, an inward reflective gesture. In this place I connect to my ancestors. Publication of 'Architecture of Memory' in Movement Research Journal No. 55.",
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. It combines archival research with motion-capture technology as a form of self-portraiture.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
@@ -417,13 +434,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{		
-		name: "Emergent Landscape III",
-		img: "images/004351893123001135189312300432120.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 	
 	
 	
