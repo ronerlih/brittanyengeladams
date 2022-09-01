@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 
 	
 						{
-		name: "BodyMouth/Ielele -- live",
+		name: "Live Performance -- BodyMouth/Ielele ",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Forthcoming, 'BodyMouth/Ielele' Live in October at The Future Bodies Symposium. Future Bodies presents a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future. Future Bodies will convene conversations around a set of interrelated questions about how bodies shape and intersect with art, technology, data, ecology, and history.",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth/Ielele (Artist Residency)",
+		name: "Artist Residency -- BodyMouth/Ielele",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "Past Residency, 'BodyMouth/Ielele' at Harvestworks. Harvestworks' mission is to present experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Hand Dance -- Film",
+		name: "Hand Dance (the film)",
 		img: "images/811441143581144358.jpg",
 		blurb: "'Hand Dance' is a dance film commissioned by the Guggenheim Museum in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "The Cape Cod Modern House Trust (Artist Residency)",
+		name: "Artist Residency - The Cape Cod Modern House Trust",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.", 
 		link: "",
@@ -378,7 +378,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Memory Dance (OpenNI) ",
+		name: "Memory Dance/Render Memory",
 		img: "images/mesh.png", 
 		blurb: "‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of my body. It finds a mathematical pattern and connection between spatial input and a human pose. Then makes a prediction of the body’s position in space, and renders a skeletal avatar in the space mirroring the human position.",
 		link: "",
@@ -386,7 +386,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Skeletal Avatar",
+		name: "Avatar -- Skeleton Mapping",
 		img: "images/Screenshot.png", 
 		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.",
 		link: "",
@@ -394,7 +394,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Farewell 2020 (Digital Scan)",
+		name: "3d digital Scan - Farewell 2020",
 		img: "images/11811_192114417.gif",
 		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
 		link: "https://ronerlih.github.io/2020/",
@@ -411,7 +411,7 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "Hand Dance (Research)",
+		name: "Hand Dance methodologies",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
@@ -458,7 +458,7 @@ let WEBSITE_DATA = [
 
 	
 				{
-		name: "Motion-Capture Research",
+		name: "Motion-Capture as proprioceptive research",
 		img: "images/infraredradiation.jpg", 
 		blurb: "Motion-capture technology with infrared depth camera, and machine learning algorithms, that predicts a human pose as spatial data and renders that pose as a skeletal avatar.",
 		link: "",
@@ -516,7 +516,7 @@ let WEBSITE_DATA = [
 	
 	 
 				{
-		name: "Archiving Memory",
+		name: "archiving/rendering Memory",
 		img: "images/51421422114292114291421429.png", 
 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
 		link: "",
@@ -525,7 +525,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Architecture of Memory (Publication)",
+		name: "Publication -- Architecture of Memory",
 		img: "images/15513131513.jpg", 
 		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -538,7 +538,7 @@ let WEBSITE_DATA = [
 	
 		{
 				
-		name: "Hand Dance (Research)",
+		name: "Hand Dance methodologies",
 		img: "images/11414121191918.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
 		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
@@ -547,14 +547,14 @@ let WEBSITE_DATA = [
 	
 		
 {
-		name: "Farewell 2020 (3d Scene)",
+		name: "3d scene -- Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
 	},
 				{
-		name: "Maquette 2021",
+		name: "Maquette 2021 (Robotics)",
 		img: "images/1125695156993125699515951951.jpg",
 		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
