@@ -44,13 +44,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-				{
-		name: "Human-Robot (Research)",
-		img: "images/1125695156993125699515951951.jpg",
-		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
-		link: "",
-		credit: " .",
-	},
 	
 	
 		
@@ -69,6 +62,16 @@ let WEBSITE_DATA = [
 		blurb: "Projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
 		link: "",
 		credit: "",
+	},
+	
+	
+	
+				{
+		name: "Human-Robot (Research)",
+		img: "images/1125695156993125699515951951.jpg",
+		blurb: "Guided by a set of instructions that direct the actions of the maquette and its operator in space together. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		link: "",
+		credit: " .",
 	},
 	
 	
@@ -162,13 +165,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+		
 	
 	
 	
@@ -356,6 +353,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
+	{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
 		{
