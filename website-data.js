@@ -522,13 +522,12 @@ let WEBSITE_DATA = [
 	},
 	
 	
-				{
-		name: "Archiving Ancestry",
-		img: "images/51421422114292114291421429.png", 
-		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
-		link: "",
-		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
-	},
+	
+	
+	
+	
+	
+	
 				{
 	
 				
@@ -538,16 +537,14 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	
-	
-		{
-		name: "Architecture of Memory (Publication)",
-		img: "images/15513131513.jpg", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit:"",
-	},
 	 
+				{
+		name: "Archiving Ancestry",
+		img: "images/51421422114292114291421429.png", 
+		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
+		link: "",
+		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
+	},
 	
 	
 		
@@ -560,7 +557,13 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
+		{
+		name: "Architecture of Memory (Publication)",
+		img: "images/15513131513.jpg", 
+		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit:"",
+	},
 	
 	
 	
