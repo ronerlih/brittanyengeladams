@@ -336,7 +336,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
+		{
+		name: "Farewell 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
 	
 	
 	
@@ -361,13 +367,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Farewell 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
+
 	
 				{
 		name: "Hand Dance (Research)",
