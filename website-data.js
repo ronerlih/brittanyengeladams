@@ -415,7 +415,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Human_Robot",
-		img: "images/giphy2humanrobot.gif", 
+		img: "images/8121321520113118152__152014.gif", 
 		blurb: "'Human_Robot' uses adversarial neural networks and cumulative machine learning algorithms. It is inspired by choreographer Deborah Hay’s 1966 work ‘solo’ that is not really a solo, but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
 		credit:"",
