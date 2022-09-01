@@ -378,7 +378,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Memory Dance/Render Memory",
+		name: "Memory Dance",
 		img: "images/mesh.png", 
 		blurb: "‘Memory Dance’ uses open source library (OpenNI). OpenNI’s algorithms find a mathematical connection between spatial input and a human pose; it makes a prediction about the body’s position; and it renders that position as a skeletal avatar that mirrors the human pose.",
 		link: "",
@@ -411,7 +411,7 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "Hand Dance methodologies",
+		name: "Hand Dance Techniques",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
@@ -515,13 +515,13 @@ let WEBSITE_DATA = [
 	
 	
 	 
-				{
-		name: "archiving/rendering Memory",
-		img: "images/51421422114292114291421429.png", 
-		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
-		link: "",
-		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
-	},
+// 				{
+// 		name: "Archiving Memory",
+// 		img: "images/51421422114292114291421429.png", 
+// 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
+// 		link: "",
+// 		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
+// 	},
 	
 	
 	
