@@ -443,6 +443,20 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+	
+	
+	
+	
+					{
+		name: "Maquette 2021 (Robotics)",
+		img: "images/0119191215191919.png",
+		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		link: "",
+		credit: " .",
+	},
+	
+	
 			{
 		name: "Hand Dance (Research)",
 		img: "images/239545144544514414944514455144514495.png",
@@ -548,15 +562,6 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	
-	
-					{
-		name: "Maquette 2021 (Robotics)",
-		img: "images/0119191215191919.png",
-		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit: " .",
-	},
 
 			{
 		name: "Loops",
