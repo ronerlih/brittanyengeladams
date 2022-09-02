@@ -395,7 +395,7 @@ let WEBSITE_DATA = [
 		img: "images/31d24f09d5a0739eee2d7b42c3652e9d_w200.gif", 
 		blurb: "Motion-capture technology with infrared depth camera, and machine learning algorithms, that predicts a human pose as spatial data and renders that pose as a skeletal avatar.",
 		link: "",
-		credit:"Courtesy NASA/JPL-Caltech, Linda Hermans-Killam",
+		credit:"https://gifer.com/en/gifs/infrared",
 	},
 	
 	
