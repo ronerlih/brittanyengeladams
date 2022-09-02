@@ -152,13 +152,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-							{
-		name: "The Bessies -- 2020 Archive",
-		img: "images/72172217255552172555172555.jpg",
-		blurb: "'Hand Dance' film commisioned by The Guggenheim Museum -- Works & Process in the 2020 archive of NYC canceled dance performances.",
-		link: "http://bessies.org/canceled-work-2020/",
-		credit: "",
-	},
+// 							{
+// 		name: "The Bessies -- 2020 Archive",
+// 		img: "images/72172217255552172555172555.jpg",
+// 		blurb: "'Hand Dance' film commisioned by The Guggenheim Museum -- Works & Process in the 2020 archive of NYC canceled dance performances.",
+// 		link: "http://bessies.org/canceled-work-2020/",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -417,14 +417,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-				
+			{
 		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
 		credit: "",
 	},
+	
+	
 	
 	
 	
@@ -594,19 +595,20 @@ let WEBSITE_DATA = [
 
 	
 	 
-
-	
-	
-	
-	
-	
-			{
+	{
+				
 		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
+		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
 		credit: "",
 	},
+	
+	
+	
+	
+	
+	
 	
 	
 			
