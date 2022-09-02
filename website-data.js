@@ -561,9 +561,9 @@ let WEBSITE_DATA = [
 // 				{
 // 		name: "Archiving Memory",
 // 		img: "images/51421422114292114291421429.png", 
-// 		blurb: "Correspondence between me and my family members, living in Israel/Palestine and across the United States, as part of my research for ‘Architecture of Memory’ a project about ancestry and embodied memory. Published in the Movement Research Performance Journal No. 55.",
+// 		blurb: "Epistolary Correspondence with family during COVID-19 Pandemic, living in America and Israel/Palestine, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
 // 		link: "",
-// 		credit:"Photograph of my maternal great-grandparents; Chana and David Rackman (Rachmilewich).",
+// 		credit:".",
 // 	},
 	
 		{
