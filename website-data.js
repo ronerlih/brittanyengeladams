@@ -379,7 +379,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Memory Dance",
-		img: "images/mesh.png", 
+		img: "images/e949z3294984r.gif", 
 		blurb: "‘Memory Dance’ uses open source library (OpenNI). OpenNI’s algorithms find a mathematical connection between spatial input and a human pose; it makes a prediction about the body’s position; and it renders that position as a skeletal avatar that mirrors the human pose.",
 		link: "",
 		credit:"",
