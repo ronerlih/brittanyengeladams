@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 		img: "images/181520_r_t_191922018.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: "",
+		credit: "3D Robot Cyberpunk modelby createyourlife",
 	},
 	
 	
