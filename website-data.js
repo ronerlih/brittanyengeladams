@@ -146,16 +146,16 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	
-	
-	
-	 {
-		name: "YouTube Improv -- Live",
-		img: "images/2121__5_55521212121212521212.jpg",
-		blurb: "In'YouTube Imporv' as performance, projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
-		link: "",
+		{
+		name: "3d Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
+	
+	
+	
 	
 	
 	
@@ -399,11 +399,11 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "3d Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
+ {
+		name: "YouTube Improv -- Live",
+		img: "images/2121__5_55521212121212521212.jpg",
+		blurb: "In'YouTube Imporv' as performance, projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
+		link: "",
 		credit: "",
 	},
 	
