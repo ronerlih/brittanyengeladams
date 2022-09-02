@@ -17,13 +17,25 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{		
-		name: "Emergent Landscape III",
-		img: "images/004351893123001135189312300432120.gif", 
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
+	
+		
+					{
+		name: "Human-Robot",
+		img: "images/024657834.jpg", 
+		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
+		link: "",
+		credit:"",
 	},
+
+	
+	
+// 		{		
+// 		name: "Emergent Landscape III",
+// 		img: "images/004351893123001135189312300432120.gif", 
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 	
 			{
 		name: "Proximity Technology from Qualcomm",
@@ -256,15 +268,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		
-					{
-		name: "Human-Robot",
-		img: "images/024657834.jpg", 
-		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
-		link: "",
-		credit:"",
-	},
-
+	
 		
 	
 	
@@ -522,13 +526,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Loops--Live",
-		img: "images/Light_dispersion_conceptual.gif",
-		blurb: " 'Loops' uses live feed cameras, looping the movements and projecting it on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
-		link: "",
-		credit: "Wikimedia Commons' light dispersion ",
-	},
 	
 	
 	
@@ -565,6 +562,13 @@ let WEBSITE_DATA = [
 	},
 
 	
+			{
+		name: "Loops",
+		img: "images/Light_dispersion_conceptual.gif",
+		blurb: " 'Loops' uses live feed cameras, looping the movements and projecting it on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
+		link: "",
+		credit: "Wikimedia Commons' light dispersion ",
+	},
 	
 	
 	 
