@@ -558,13 +558,13 @@ let WEBSITE_DATA = [
 	
 	
 	 
-// 				{
-// 		name: "Archiving Memory",
-// 		img: "images/51421422114292114291421429.png", 
-// 		blurb: "Epistolary Correspondence with family during COVID-19 Pandemic, living in America and Israel/Palestine, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
-// 		link: "",
-// 		credit:".",
-// 	},
+				{
+		name: "Archiving Memory",
+		img: "images/3516515151651475195147512.jpg", 
+		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
+		link: "",
+		credit:".",
+	},
 	
 		{
 		name: "Architecture of Memory (Publication)",
