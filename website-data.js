@@ -60,13 +60,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Hand Dance",
-		img: "images/6122522522561213.png",
-		blurb: "Hand Dance' film commissioned by The Guggenheim Museum.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 	
 		
@@ -105,7 +99,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+				{
+		name: "Hand Dance",
+		img: "images/6122522522561213.png",
+		blurb: "Hand Dance' film commissioned by The Guggenheim Museum - Works & Process.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 	
