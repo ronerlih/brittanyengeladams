@@ -256,13 +256,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 				{
-// 		name: "Loops--Live",
-// 		img: "images/Light_dispersion_conceptual.gif",
-// 		blurb: " 'Loops' uses live feed cameras, looping the movements and projecting it on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
-// 		link: "",
-// 		credit: "Wikimedia Commons' light dispersion ",
-// 	},
+				{
+		name: "Loops--Live",
+		img: "images/Light_dispersion_conceptual.gif",
+		blurb: " 'Loops' uses live feed cameras, looping the movements and projecting it on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
+		link: "",
+		credit: "Wikimedia Commons' light dispersion ",
+	},
 	
 		
 
