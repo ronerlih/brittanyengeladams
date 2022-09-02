@@ -399,6 +399,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "YouTube Improv -- Website",
+		img: "images/youtubemprov1high.gif",
+		blurb: "‘‘YouTube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		link: "",
+		credit: ""
+	},
+	
+	
  {
 		name: "YouTube Improv -- Live",
 		img: "images/2121__5_55521212121212521212.jpg",
@@ -410,13 +419,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "YouTube Improv -- Website",
-		img: "images/youtubemprov1high.gif",
-		blurb: "‘‘YouTube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
-		link: "",
-		credit: ""
-	},
+	
 	
 	
 	
