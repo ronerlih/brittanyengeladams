@@ -16,16 +16,16 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-		
-	{
-		name: "3d Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
+			{
+		name: "Emergent Landscape II",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+	
+		
+
 
 	
 	
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Hand Dance",
-		img: "images/6122522522561213.jpg",
+		img: "images/6122522522561213.png",
 		blurb: "Hand Dance' film commissioned by The Guggenheim Museum.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -85,15 +85,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "Emergent Landscape II",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+	
+	
+		{
+		name: "3d Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
-	
-	
 								{
 				
 		name: "Human-Robot (Research)",
