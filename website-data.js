@@ -148,19 +148,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "YouTube Improv -- Website",
-		img: "images/youtubemprov1high.gif",
-		blurb: "‘‘YouTube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
-		link: "",
-		credit: ""
-	},
 	
-	
-
-	
-	
-		
 	 {
 		name: "YouTube Improv -- Live",
 		img: "images/2121__5_55521212121212521212.jpg",
@@ -168,6 +156,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
+	
+	
+
+	
+	
+		
+	
 	
 	
 	
@@ -393,6 +390,15 @@ let WEBSITE_DATA = [
 		credit:"",
 	},
 	
+	
+			{
+		name: "Human-Robot",
+		img: "images/024657834.jpg", 
+		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
+		link: "",
+		credit:"",
+	},
+	
 	{
 		name: "3d Digital Sculpture",
 		img: "images/11811_192114417.gif",
@@ -402,13 +408,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Human-Robot",
-		img: "images/024657834.jpg", 
-		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
+	
+	
+	{
+		name: "YouTube Improv -- Website",
+		img: "images/youtubemprov1high.gif",
+		blurb: "‘‘YouTube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
 		link: "",
-		credit:"",
+		credit: ""
 	},
+	
+	
 	
 				{
 		name: "Hand Dance (Research)",
