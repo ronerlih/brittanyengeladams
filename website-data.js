@@ -394,7 +394,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "3d digital Scan - Farewell 2020",
+		name: "3d Digital Sculpture",
 		img: "images/11811_192114417.gif",
 		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
 		link: "https://ronerlih.github.io/2020/",
@@ -411,7 +411,7 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "Hand Dance Techniques",
+		name: "Hand Dance (Research)",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
