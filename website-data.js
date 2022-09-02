@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Hand Dance",
 		img: "images/6122522522561213.png",
-		blurb: "Hand Dance' film commissioned by The Guggenheim Museum - Works & Process.",
+		blurb: "Hand Dance' film commissioned by The Guggenheim Museum - Works & Process, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -153,9 +153,9 @@ let WEBSITE_DATA = [
 	
 	
 							{
-		name: "The Bessies'Archive",
+		name: "The Bessies -- 2020 Archive",
 		img: "images/72172217255552172555172555.jpg",
-		blurb: " 2020 ARCHIVE OF NYC CANCELED DANCE PERFORMANCES (Performances Canceled Due To COVID-19 Pandemic) 'Hand Dance' commisioned by The Guggenheim Museum in collaboration between composer David Lang, choreographer Annie-B Parson, visual artist Ron Erlih, and dancer and choreographer Brittany Engel-Adams. Moved by their premiere date, the eve of election 2020, they wished to make something reflecting this precipice, thus David Lang wrote a song using a line from a Bernie Sanders speech, an aspirational logic koan about the working class.",
+		blurb: "'Hand Dance' film commisioned by The Guggenheim Museum -- Works & Process in the 2020 archive of NYC canceled dance performances.",
 		link: "http://bessies.org/canceled-work-2020/",
 		credit: "",
 	},
