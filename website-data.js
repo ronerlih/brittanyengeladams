@@ -88,12 +88,13 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "3d Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
-		link: "https://ronerlih.github.io/2020/",
+		name: "Emergent Landscape I",
+		img: "images/2684430445101304451801318544518.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+
 								{
 				
 		name: "Human-Robot (Research)",
@@ -118,14 +119,15 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+	
 		{
-		name: "Emergent Landscape I",
-		img: "images/2684430445101304451801318544518.png",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+		name: "3d Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
+		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
-
 	
 	
 			
