@@ -15,14 +15,14 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Loops",
-		img: "images/Light_dispersion_conceptual.gif",
+		img: "images/12516151516.gif",
 		blurb: " 'Loops' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
 		link: "",
-		credit: "Wikimedia Commons' light dispersion ",
+		credit: "",
 	},
 	{
 		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
+		img: "images/Intersection.jpg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
 		link: "https://www.intersection.com/",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Hand Dance",
-		img: "images/6122522522561213.png",
+		img: "images/621311_1141495_2_1611819151419.png",
 		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -84,11 +84,11 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	{
-		name: "I am not a Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "The project 'I am not a Robot' couples old myths with new digital technologies to look ahead at the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change to the rise of disruptive technologies like artificial intelligence. The most complicated challenge is the challenge to our humanity. In the coming decades, the twin revolutions of bio tech and info tech merge into a singular overwhelming scientific tsunami—This might undermine our humanity and shake the humanist foundation of modern civilization. ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and technology and brings them face to face in a duet.",
+		name: "YouTube Improv Live",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
 	// 			{
 	// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
@@ -142,9 +142,9 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	{
-		name: "Memory Dance",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		name: "I am not a Robot",
+		img: "images/024657834.jpg",
+		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
 		link: "",
 		credit: "",
 	},
@@ -156,26 +156,33 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Kinect (Motion-Capture)",
-		img: "images/31d24f09d5a0739eee2d7b42c3652e9d_w200.gif",
+		name: "Motion-Capture (Infrared)",
+		img: "images/xbox360.png",
 		blurb: "Motion-capture technology with infrared depth camera, and machine learning algorithms, that predicts a human pose as spatial data and renders that pose as a skeletal avatar.",
 		link: "",
 		credit: "https://gifer.com/en/gifs/infrared",
 	},
 	{
 		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
+		img: "images/814118_1821229112541519209319_1254151_2019_209_931.jpg",
 		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "YouTube Improv Live",
-		img: "images/youtubemprov1high.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+		name: "Archiving Memory",
+		img: "images/3516515151651475195147512.jpg",
+		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
 		link: "",
-		credit: ""
+		credit: ".",
 	},
+	{
+	name: "Memory Dance",
+	img: "images/118__111118___111492__614_91949_2614919.gif",
+	blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	link: "",
+	credit: "",
+},
 	//  {
 	// 		name: "YouTube Improv Live",
 	// 		img: "images/2121__5_55521212121212521212.jpg",
@@ -192,13 +199,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	{
-		name: "Archiving Memory",
-		img: "images/3516515151651475195147512.jpg",
-		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
-		link: "",
-		credit: ".",
-	},
+
 	// 					{
 	// 		name: "Maquette 2021",
 	// 		img: "images/0119191215191919.png",
@@ -221,13 +222,13 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	{
-		name: "Farewell 2020",
-		img: "images/19252020518.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
-		link: "",
-		credit: "Synthwave Outrun by Tenor",
-	},
+	// {
+	// 	name: "Farewell 2020",
+	// 	img: "images/19252020518.gif",
+	// 	blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+	// 	link: "",
+	// 	credit: "Synthwave Outrun by Tenor",
+	// },
 	{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
