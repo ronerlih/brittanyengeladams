@@ -395,13 +395,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "Memory Dance",
-// 		img: "images/", 
-// 		blurb: "‘Memory Dance’ uses open source library (OpenNI). OpenNI’s algorithms find a mathematical connection between spatial input and a human pose; it makes a prediction about the body’s position; and it renders that position as a skeletal avatar that mirrors the human pose.",
-// 		link: "",
-// 		credit:"",
-// 	},
+		{
+		name: "Memory Dance",
+		img: "images/", 
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit:"",
+	},
 	
 	
 	
