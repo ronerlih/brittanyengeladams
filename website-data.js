@@ -107,7 +107,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Hand Dance",
 		img: "images/6122522522561213.png",
-		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2021.",
+		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -135,7 +135,7 @@ let WEBSITE_DATA = [
 		{
 		name: "3d Digital Sculpture",
 		img: "images/11811_192114417.gif",
-		blurb: "The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’ Proprioceptive Iterative Studies of Motion: motion-capture technology, threejs, react-three-fiber, drei.",
+		blurb: "The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments. Motion-capture technology, threejs, react-three-fiber, drei.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
@@ -438,9 +438,9 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "YouTube Improv -- Website",
+		name: "YouTube Improv Live",
 		img: "images/youtubemprov1high.gif",
-		blurb: "‘‘YouTube improv' is  a live website that plays trending Youtube videos in a random order as a score for improvisation. This software expands improvisation, it provides more content to draw inspiration from. The tool produces spontaneity and indeterminacy and also produces videos. Working with the data brings a quality of data to the work, while also bringing the authenticity of the real, through the videos which depict actual people, real events, media and pop culture.",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
@@ -449,13 +449,13 @@ let WEBSITE_DATA = [
 	
 	
 	
- {
-		name: "YouTube Improv -- Live",
-		img: "images/2121__5_55521212121212521212.jpg",
-		blurb: "In'YouTube Imporv' as performance, projected on the stage is a grid of random youtube videos which are trending in the venue's proximity. The performers on stage then have to adjust their improvised score according to the algorithmic orchestrated playlist, as we all do.",
-		link: "",
-		credit: "",
-	},
+//  {
+// 		name: "YouTube Improv Live",
+// 		img: "images/2121__5_55521212121212521212.jpg",
+// 		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -467,7 +467,7 @@ let WEBSITE_DATA = [
 				
 		name: "Family Archive 'Mizrach' ",
 		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, who is from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
