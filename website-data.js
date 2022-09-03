@@ -107,10 +107,10 @@ let WEBSITE_DATA = [
 								{
 				
 		name: "Human-Robot (Research)",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/ezgifcomgier.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: "3D Robot Cyberpunk modelby createyourlife",
+		credit: "",
 	},
 	
 	
