@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Human-Robot",
-		img: "images/024657834.jpg", 
+		img: "images/8121321520113118152__152014.gif", 
 		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
 		link: "",
 		credit:"",
