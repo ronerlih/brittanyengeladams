@@ -141,13 +141,13 @@ let WEBSITE_DATA = [
 	// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 	// 		credit: "",
 	// 	},
-	// 		{
-	// 		name: "Memory Dance",
-	// 		img: "images/12212018_.gif", 
-	// 		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-	// 		link: "",
-	// 		credit:"",
-	// 	},
+	{
+		name: "Memory Dance",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Skeletal Avatar",
 		img: "images/814181211418152114181534114181521520.gif",
@@ -209,7 +209,7 @@ let WEBSITE_DATA = [
 	{
 
 		name: "Human-Robot (Research)",
-		img: "images/ezgifcomgier.gif",
+		img: "images/181520_r_t_191922018.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
