@@ -93,6 +93,16 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
+	
+			{
+		name: "3d Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "https://ronerlih.github.io/2020/",
+		credit: "",
+	},
+	
 
 								{
 				
@@ -132,14 +142,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "3d Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments. Motion-capture technology, threejs, react-three-fiber, drei.",
-		link: "https://ronerlih.github.io/2020/",
-		credit: "",
-	},
-	
+
 	
 			
 	
@@ -407,7 +410,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Skeletal Avatar",
 		img: "images/814181211418152114181534114181521520.gif", 
-		blurb: "Iterative studies of motion using motion-capture technology that renders spatial-data as 3D scans and skeletal avatars. The infrared sensor of the kinect affects the sensorial experience of moving.'Skeletal-Avatar: kinect sensor; essentially a camera feed and infrared depth feed, machine learning algorithms that predict a human pose, using openNI - open source, from a public data set, renders a skeleton of a person’s body, adjacent to and insync with their movements.",
+		blurb: "'Skeletal-Avatar’, essentially is a kinect sensor, a camera feed, infrared depth feed, and machine learning algorithms. It renders movement into 3d-data, and then into 3d digital scans.",
 		link: "",
 		credit:"",
 	},
