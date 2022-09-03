@@ -14,9 +14,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Loops",
+		name: "Loop",
 		img: "images/12516151516.gif",
-		blurb: " 'Loops' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
+		blurb: " 'Loop' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
 		link: "",
 		credit: "",
 	},
@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
-		link: "https://www.intersection.com/",
+		link: "",
 		credit: "",
 	},
 	{
@@ -49,17 +49,26 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "3d Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-		link: "https://ronerlih.github.io/2020/",
+
+		name: "Human-Robot (Research)",
+		img: "images/181520_r_t_191922018.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
+
 	{
 		name: "Hand Dance",
 		img: "images/621311_1141495_2_1611819151419.png",
 		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	{
+		name: "Hand Dance (Research)",
+		img: "images/814118_1821229112541519209319_1254151_2019_209_931.jpg",
+		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		link: "",
 		credit: "",
 	},
 	{
@@ -141,6 +150,29 @@ let WEBSITE_DATA = [
 	// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 	// 		credit: "",
 	// 	},
+
+	{
+		name: "Human-Robot",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "Today, we have a functioning self-driving prototype robot as a ‘maquette’ for the performance robots we plan to fabricate. We have developed a set of movements for the robot to “act” and have filmed Brittany’s interactions with it for research.Next steps, we plan to build another small prototype robot to dance in sync with the other. We are currently researching different machine learning models for these robots to use. The motivation is to have the robots act a certain logic on stage, a set of instructions that they will perform better and better, in opposition or alongside Brittany on stage. Inspired by Sol LeWitt instruction murals, such as Wall Drawing 104 ‘10,000 random straight lines about four inches long’.",
+		link: "",
+		credit: "",
+	},
+	
+	{
+		name: "3d Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+		link: "",
+		credit: " .",
+	},
 	{
 		name: "I am not a Robot",
 		img: "images/024657834.jpg",
@@ -151,24 +183,18 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar",
 		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "'Skeletal-Avatar’, essentially is a kinect sensor, a camera feed, infrared depth feed, and machine learning algorithms. It renders movement into 3d-data, and then into 3d digital scans.",
+		blurb: "Iterative studies of motion using Kinect, which is essentially a camera with infrared depth, and machine learning algorithms, from (openNI), an open source public data set, that predicts a human pose, and renders a skeleton of a person’s body, adjacent to, and insync with, their movements.",
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Motion-Capture (Infrared)",
-		img: "images/xbox360.png",
-		blurb: "Motion-capture technology with infrared depth camera, and machine learning algorithms, that predicts a human pose as spatial data and renders that pose as a skeletal avatar.",
-		link: "",
-		credit: "https://gifer.com/en/gifs/infrared",
-	},
-	{
-		name: "Hand Dance (Research)",
-		img: "images/814118_1821229112541519209319_1254151_2019_209_931.jpg",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
-		link: "",
-		credit: "",
-	},
+	// {
+	// 	name: "Motion-Capture (Infrared)",
+	// 	img: "images/xbox360.png",
+	// 	blurb: "",
+	// 	link: "",
+	// 	credit: "",
+	// },
+
 	{
 		name: "Archiving Memory",
 		img: "images/3516515151651475195147512.jpg",
@@ -177,12 +203,13 @@ let WEBSITE_DATA = [
 		credit: ".",
 	},
 	{
-	name: "Memory Dance",
-	img: "images/118__111118___111492__614_91949_2614919.gif",
-	blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-	link: "",
-	credit: "",
-},
+		name: "Family Archive 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+
 	//  {
 	// 		name: "YouTube Improv Live",
 	// 		img: "images/2121__5_55521212121212521212.jpg",
@@ -190,52 +217,39 @@ let WEBSITE_DATA = [
 	// 		link: "",
 	// 		credit: "",
 	// 	},
-	{
-
-
-		name: "Family Archive 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-
-	// 					{
-	// 		name: "Maquette 2021",
-	// 		img: "images/0119191215191919.png",
-	// 		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
-	// 		link: "",
-	// 		credit: " .",
-	// 	},
-	{
-
-		name: "Human-Robot (Research)",
-		img: "images/181520_r_t_191922018.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-	{
-		name: "Architecture of Memory (Publication)",
-		img: "images/e949z3294984r.gif",
-		blurb: "From MRPJ:‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-	// {
-	// 	name: "Farewell 2020",
-	// 	img: "images/19252020518.gif",
-	// 	blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
-	// 	link: "",
-	// 	credit: "Synthwave Outrun by Tenor",
-	// },
+	
 	{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
 		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "https://stackoverflow.com/questions/25153941/opencv-erode-and-dilate-switched",
+		link: "",
 		credit: "",
 	},
+
+	
+	
+	{
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpjno55.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	{
+		name: "Farewell 2020",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "Memory Dance",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+	
 ];
 
 
