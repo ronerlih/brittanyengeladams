@@ -180,9 +180,9 @@ let WEBSITE_DATA = [
 	
 	
 						{
-		name: "Human-Robot",
-		img: "images/8121321520113118152__152014.gif", 
-		blurb: "The project ‘I am not a robot’ couples old myths with new digital technologies to look ahead at the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change to the rise of disruptive technologies like artificial intelligence. The most complicated challenge is the challenge to our humanity. In the coming decades, the twin revolutions of bio tech and info tech merge into a singular overwhelming scientific tsunami—This might undermine our humanity and shake the humanist foundation of modern civilization. ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and technology and brings them face to face in a duet.",
+		name: "I am not a Robot",
+		img: "images/812_8231321520113_118152__152014.gif", 
+		blurb: "The project 'I am not a Robot' couples old myths with new digital technologies to look ahead at the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change to the rise of disruptive technologies like artificial intelligence. The most complicated challenge is the challenge to our humanity. In the coming decades, the twin revolutions of bio tech and info tech merge into a singular overwhelming scientific tsunami—This might undermine our humanity and shake the humanist foundation of modern civilization. ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and technology and brings them face to face in a duet.",
 		link: "",
 		credit:"",
 	},
