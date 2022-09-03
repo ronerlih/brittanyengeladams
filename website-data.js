@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 						{
 		name: "Human-Robot",
 		img: "images/8121321520113118152__152014.gif", 
-		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs on stage. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
+		blurb: "The project ‘I am not a robot’ couples old myths with new digital technologies to look ahead at the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change to the rise of disruptive technologies like artificial intelligence. The most complicated challenge is the challenge to our humanity. In the coming decades, the twin revolutions of bio tech and info tech merge into a singular overwhelming scientific tsunami—This might undermine our humanity and shake the humanist foundation of modern civilization. ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and technology and brings them face to face in a duet.",
 		link: "",
 		credit:"",
 	},
@@ -585,13 +585,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-					{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollos or stiff as planks.",
-		link: "",
-		credit: " .",
-	},
+// 					{
+// 		name: "Maquette 2021",
+// 		img: "images/0119191215191919.png",
+// 		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+// 		link: "",
+// 		credit: " .",
+// 	},
 	
 		{
 		name: "Architecture of Memory (Publication)",
