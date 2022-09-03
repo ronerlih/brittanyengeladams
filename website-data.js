@@ -586,9 +586,9 @@ let WEBSITE_DATA = [
 	
 	
 					{
-		name: "Maquette 2021 (Robotics)",
+		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
-		blurb: "Inspired by choreographer Deborah Hay’s 1966 work ‘solo', that is not really a solo - but rather a work where a dancer and 8 tele-guided platforms and their operators, each follows a solitary path that only episodically crosses. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.",
+		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollos or stiff as planks.",
 		link: "",
 		credit: " .",
 	},
