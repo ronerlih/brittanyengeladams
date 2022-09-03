@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Artist Residency -- BodyMouth/Ielele",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth/Ielele' in residency at Harvestworks (past). Harvestworks presents experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
@@ -129,7 +129,7 @@ let WEBSITE_DATA = [
 		{
 		name: "3d Digital Sculpture",
 		img: "images/11811_192114417.gif",
-		blurb: "3D digital sculptures as proprioceptive mappings, interwoven with iterative studies of motion, using motion capture technology. The process began during COVID-19 confinement with my collaborator Ron Erlih.  ‘The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’Thanks: threejs, react-three-fiber, drei",
+		blurb: "The Kinect reads me as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through: like atoms and fragments.’ Proprioceptive Iterative Studies of Motion: motion-capture technology, threejs, react-three-fiber, drei.",
 		link: "https://ronerlih.github.io/2020/",
 		credit: "",
 	},
@@ -594,9 +594,9 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Architecture of Memory -- Publication",
+		name: "Architecture of Memory (Publication)",
 		img: "images/e949z3294984r.gif", 
-		blurb: "Publication of 'Architecture of Memory' in Movement Research Journal No. 55. From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
+		blurb: "‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.’ Publication of ‘Architecture of Memory’ in the Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit:"",
 	},
