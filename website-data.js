@@ -29,14 +29,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
 	{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+		name: "YouTube Improv Live",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
 		link: "",
-		credit: " .",
+		credit: ""
 	},
-	
 	
 
 	{
@@ -55,33 +55,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Emergent Landscape I",
-		img: "images/patterns/Firgure1invert.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+		name: "Hand Dance",
+		img: "images/621311_1141495_2_1611819151419.png",
+		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-	{
-		name: "Emergent Landscape II",
-		img: "images/patterns/Firgure3original.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-	
-	{
-
-		name: "Human-Robot (Research)",
-		img: "images/181520_r_t_191922018.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-	
-
-
-
-	
 
 
 	
@@ -99,13 +78,8 @@ let WEBSITE_DATA = [
 	// 		link: "http://bessies.org/canceled-work-2020/",
 	// 		credit: "",
 	// 	},
-	{
-		name: "I am not a Robot",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
-		link: "",
-		credit: "",
-	},
+
+		
 	
 	// 			{
 	// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
@@ -159,9 +133,18 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	{
-		name: "Family Archive 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts, (such as, legs, hands, and torso) to different places, and over the film footage.",
+		link: "",
+		credit: "",
+	},
+	
+	{
+
+		name: "Human-Robot (Research)",
+		img: "images/181520_r_t_191922018.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
@@ -173,16 +156,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "YouTube Improv Live",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
 		link: "",
-		credit: ""
+		credit: " .",
 	},
 	{
 		name: "Human-Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: " Human-Robot is a fabricated prototype robot as a ‘maquette.’ The robots act in a certain logic on stage, as a set of instructions,  performed in opposition to, and  alongside a performer on stage. Inspired by Sol LeWitt instruction murals, such as Wall Drawing 104 ‘10,000 random straight lines about four inches long.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "3d digital scan",
+		img: "images/11811_192114417.gif",
+		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -208,14 +198,21 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-
 	{
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts, (such as, legs, hands, and torso) to different places, and over the film footage.",
+		name: "I am not a Robot",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
 		link: "",
 		credit: "",
 	},
+	{
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpjno55.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+
 	{
 		name: "Memory Dance",
 		img: "images/tempFile.MP4high1.gif",
@@ -236,29 +233,31 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	
-	{
-		name: "Hand Dance",
-		img: "images/621311_1141495_2_1611819151419.png",
-		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 
-	
-	
-	{
-		name: "Architecture of Memory (Publication)",
-		img: "images/mrpjno55.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 
 	{
-		name: "3d digital scan",
-		img: "images/11811_192114417.gif",
-		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		name: "Family Archive 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
+		credit: "",
+	},
+
+	
+	
+
+	{
+		name: "Emergent Landscape I",
+		img: "images/patterns/Firgure1invert.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	{
+		name: "Emergent Landscape II",
+		img: "images/patterns/Firgure3original.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
 	{
