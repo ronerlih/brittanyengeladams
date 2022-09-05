@@ -7,6 +7,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
+		name: "LOOP",
+		img: "images/12516151516.gif",
+		blurb: " 'LOOP' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
+		link: "",
+		credit: "",
+	},
+	{
 		name: "Artist Residency -- BodyMouth/Ielele",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
@@ -14,13 +21,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-		name: "LOOP",
-		img: "images/12516151516.gif",
-		blurb: " 'LOOP' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -29,27 +30,45 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Emergent Landscape III",
-		img: "images/004351893123001135189312300432120.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+		link: "",
+		credit: " .",
 	},
+	
+	
+
 	{
-		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "Techniques used to make the hand-dance film: Example 2: The second option, a ‘displaced figure’ Choreography transposes hand gestures to other body parts (like the legs, or the torso). Programatically overlaying and transposing the body part and on top of the video footage or an alternative video.",
+		name: "Skeletal Avatar",
+		img: "images/AVATARINRED.gif",
+		blurb: "Iterative studies of motion using Kinect, which is essentially a camera with infrared depth, and machine learning algorithms, from (openNI), an open source public data set, that predicts a human pose, and renders a skeleton of a person’s body, adjacent to, and insync with, their movements.",
 		link: "",
 		credit: "",
 	},
-
+		
+	{
+		name: "Artist Residency - The Cape Cod Modern House Trust",
+		img: "images/31165304_14126531165304_141265_141269_.jpg",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Emergent Landscape I",
-		img: "images/2684430445101304451801318544518.png",
+		img: "images/patterns/Firgure1invert.jpg",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	{
+		name: "Emergent Landscape II",
+		img: "images/patterns/Firgure3original.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	
 	{
 
 		name: "Human-Robot (Research)",
@@ -58,36 +77,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 
-	{
-		name: "Hand Dance",
-		img: "images/621311_1141495_2_1611819151419.png",
-		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	{
-		name: "Artist Residency - The Cape Cod Modern House Trust",
-		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
-		link: "",
-		credit: "",
-	},
 
-	{
-		name: "Emergent Landscape II",
-		img: "images/231519115195212215193152121.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-	{
-		name: "Before Zeta -- Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
-		link: "",
-		credit: "",
-	},
+
+	
+
+
+	
+	// {
+	// 	name: "Before Zeta -- Film",
+	// 	img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+	// 	blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	// 							{
 	// 		name: "The Bessies -- 2020 Archive",
 	// 		img: "images/72172217255552172555172555.jpg",
@@ -96,12 +100,13 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	{
-		name: "YouTube Improv Live",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+		name: "I am not a Robot",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
+	
 	// 			{
 	// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 	// 		img: "images/RutgersConcertProgram.png", 
@@ -153,21 +158,26 @@ let WEBSITE_DATA = [
 	// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 	// 		credit: "",
 	// 	},
-
 	{
-		name: "I am not a Robot",
-		img: "images/024657834.jpg",
-		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
+		name: "Family Archive 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
-	
 	{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+		name: "Hand Dance (Research)",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "Techniques used to make Hand Dance. Example of a  ‘disintegrating figure’ that erases parts of the body from the footage, as if disintegrating into the background of the scene (according to light intensity/contours/color averages).",
 		link: "",
-		credit: " .",
+		credit: "",
+	},
+	{
+		name: "YouTube Improv Live",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+		link: "",
+		credit: ""
 	},
 	{
 		name: "Human-Robot",
@@ -177,19 +187,20 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Skeletal Avatar",
-		img: "images/AVATARINRED.gif",
-		blurb: "Iterative studies of motion using Kinect, which is essentially a camera with infrared depth, and machine learning algorithms, from (openNI), an open source public data set, that predicts a human pose, and renders a skeleton of a person’s body, adjacent to, and insync with, their movements.",
+		name: "Archival research",
+		img: "images/3516515151651475195147512.jpg",
+		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
 		link: "",
-		credit: "",
+		credit: ".",
 	},
 	{
-		name: "3d digital scan",
-		img: "images/11811_192114417.gif",
-		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-		link: "",
+		name: "Emergent Landscape III",
+		img: "images/patterns/IMG-1108.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+	
 	// {
 	// 	name: "Motion-Capture (Infrared)",
 	// 	img: "images/xbox360.png",
@@ -199,19 +210,23 @@ let WEBSITE_DATA = [
 	// },
 
 	{
-		name: "Archiving Memory",
-		img: "images/3516515151651475195147512.jpg",
-		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
-		link: "",
-		credit: ".",
-	},
-	{
-		name: "Family Archive 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		name: "Hand Dance (Research)",
+		img: "images/11414121191918.gif",
+		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts, (such as, legs, hands, and torso) to different places, and over the film footage.",
 		link: "",
 		credit: "",
 	},
+	{
+		name: "Memory Dance",
+		img: "images/tempFile.MP4high1.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
+	
+
+	
 
 	//  {
 	// 		name: "YouTube Improv Live",
@@ -222,10 +237,10 @@ let WEBSITE_DATA = [
 	// 	},
 	
 	{
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make the hand-dance film: Example 1: The first option, a ‘disintegrating figure’, uses choreographic and digital techniques to erase parts of the body from the footage. (according to light intensity/ contours / color averages). The figure moves in-and-out of the frame (repeated entrances and exits). The body is obscured and is fading as if disintegrating into the background of the scene. (a blending quality as if a statue in ruins) For example, only the sternum and hands would be made visible. This google image, has the general resemblance to the quality of blending, tweaking, and manipulating the visual in different ways.",
-		link: "",
+		name: "Hand Dance",
+		img: "images/621311_1141495_2_1611819151419.png",
+		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 
@@ -238,17 +253,18 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+
 	{
-		name: "Farewell 2020",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+		name: "3d digital scan",
+		img: "images/11811_192114417.gif",
+		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "Memory Dance",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		name: "Farewell 2020",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
 		link: "",
 		credit: "",
 	},
