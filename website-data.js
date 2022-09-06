@@ -25,7 +25,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience; call to action on phones or in public spaces.",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
 	},
@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "YouTube Improv Live",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their movements according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar",
 		img: "images/avatarcloud.JPG",
-		blurb: "Iterative studies of motion using motion-capture technology and artificial intelligence that renders movement as 3d data and creates digital avatars that mirrors person’s body, adjacent to, and insync with, their movements.",
+		blurb: "Iterative studies of motion using motion-capture technology and artificial intelligence that renders movement as 3d data and digital avatars that mirrors a person’s movements, adjacent to, and insync with, their movements.",
 		link: "",
 		credit: "",
 	},
@@ -50,13 +50,13 @@ let WEBSITE_DATA = [
 	{
 		name: "Artist Residency - The Cape Cod Modern House Trust",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
+		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Hand Dance",
-		img: "images/621311_1141495_2_1611819151419.png",
+		img: "images/648592159545131859513166514859513.jpg",
 		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -64,13 +64,14 @@ let WEBSITE_DATA = [
 
 
 	
-	// {
-	// 	name: "Before Zeta -- Film",
-	// 	img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-	// 	blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, 'Architecture of Memory and Hand Dance', a dance film commissioned by the Guggenheim Works & Process, made in collaboration with David Lang, Annie-B Parson, Brittany Engel-Adams, and Ron Erlih. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.'",
-	// 	link: "",
-	// 	credit: "",
-	// },
+	{
+		name: "Before Zeta -- Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust.'",
+		link: "",
+		credit: "",
+	},
+
 	// 							{
 	// 		name: "The Bessies -- 2020 Archive",
 	// 		img: "images/72172217255552172555172555.jpg",
@@ -165,7 +166,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human-Robot",
 		img: "images/pic_micro_so_ft_la_b_kick.png",
-		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
+		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks. The A.I. model that generates new ways to perform “tasks” that the human dancer performs.",
 		link: "",
 		credit: "",
 	},
@@ -176,13 +177,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Family archive",
-		img: "images/3516515151651475195147512.jpg",
-		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
-		link: "",
-		credit: ".",
-	},
+	// {
+	// 	name: "Family archive",
+	// 	img: "images/3516515151651475195147512.jpg",
+	// 	blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
+	// 	link: "",
+	// 	credit: ".",
+	// },
 	{
 		name: "Emergent Landscape III",
 		img: "images/patterns/IMG-1108.jpg",
@@ -201,7 +202,7 @@ let WEBSITE_DATA = [
 	{
 		name: "I am not a Robot",
 		img: "images/11842191415_218514201184.jpg",
-		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that brings them face to face in a duet.",
+		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
@@ -213,13 +214,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	// {
-	// 	name: "Memory Dance",
-	// 	img: "images/tempFile.MP4high1.gif",
-	// 	blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper. The kinect infrared sensor captures movement as 3d data, and superimposes the movements in each frame. While dancing with the infrared sensor,  it affects my sensorial experience, paradoxically, my skin feels more activated by the process. As a dance teacher I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+	{
+		name: "Memory Dance",
+		img: "images/122118212001182120118.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
+		link: "",
+		credit: "",
+	},
 
 	
 
@@ -246,20 +247,20 @@ let WEBSITE_DATA = [
 	
 	
 
-	{
-		name: "Emergent Landscape I",
-		img: "images/patterns/Firgure1invert.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
-	{
-		name: "Emergent Landscape II",
-		img: "images/patterns/Firgure3original.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+	// {
+	// 	name: "Emergent Landscape I",
+	// 	img: "images/patterns/Firgure1invert.jpg",
+	// 	blurb: "Tessellation, Digital-Collage.",
+	// 	link: "https://www.brittanyengeladams.com/red-who.html",
+	// 	credit: "",
+	// },
+	// {
+	// 	name: "Emergent Landscape II",
+	// 	img: "images/patterns/Firgure3original.jpg",
+	// 	blurb: "Tessellation, Digital-Collage.",
+	// 	link: "https://www.brittanyengeladams.com/who-blue.html",
+	// 	credit: "",
+	// },
 	{
 		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
