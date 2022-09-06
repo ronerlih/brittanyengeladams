@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human-Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: " Human-Robot is a fabricated prototype robot as a ‘maquette.’ The robots act in a certain logic on stage, as a set of instructions,  performed in opposition to, and  alongside a performer on stage. Inspired by Sol LeWitt instruction murals, such as Wall Drawing 104 ‘10,000 random straight lines about four inches long.",
+		blurb: "The robot act in a certain logic, as a set of instructions, performed in opposition to, and alongside a performer. ",
 		link: "",
 		credit: "",
 	},
