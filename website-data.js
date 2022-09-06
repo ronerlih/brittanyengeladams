@@ -1,20 +1,20 @@
 let WEBSITE_DATA = [
 	{
-		name: "Live Performance -- BodyMouth/Ielele ",
+		name: "BodyMouth/Ielele",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming, 'BodyMouth/Ielele' live at The Future Bodies Symposium; a constellation of new interdisciplinary research and practice in new media that considers the role of bodies, broadly conceived, in our collective future.",
+		blurb: "Forthcoming, 'BodyMouth/Ielele' live at The Future Bodies Symposium, a constellation of new interdisciplinary research and practice in new media.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
 	{
 		name: "LOOP",
 		img: "images/12516151516.gif",
-		blurb: " 'Recording and looping performers movements and projecting them live on stage.",
+		blurb: "Recording and looping performers movements and projecting them live on stage.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "Artist Residency -- BodyMouth/Ielele",
+		name: "BodyMouth/Ielele (Artist Residency)",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
@@ -31,9 +31,9 @@ let WEBSITE_DATA = [
 	},
 
 	{
-		name: "YouTube Improv Live",
+		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
@@ -42,22 +42,22 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar",
 		img: "images/avatarcloud.JPG",
-		blurb: "motion-capture technology and artificial intelligence renders movements as 3d data and digital avatars, that mirrors a person’s movements, adjacent to, and insync with them.",
+		blurb: "Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
 		link: "",
 		credit: "",
 	},
 		
 	{
-		name: "Artist Residency - The Cape Cod Modern House Trust",
+		name: "Cape Cod Modern House Trust (Artist Residency)",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
-		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Hand Dance Film",
 		img: "images/648592159545131859513166514859513.jpg",
-		blurb: "‘Hand Dance' film, is a collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
+		blurb: "A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -67,18 +67,18 @@ let WEBSITE_DATA = [
 	{
 		name: "Before Zeta Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust.'",
+		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.'",
 		link: "",
 		credit: "",
 	},
 
-	// 							{
-	// 		name: "The Bessies -- 2020 Archive",
-	// 		img: "images/72172217255552172555172555.jpg",
-	// 		blurb: "'Hand Dance' film commisioned by The Guggenheim Museum -- Works & Process in the 2020 archive of NYC canceled dance performances.",
-	// 		link: "http://bessies.org/canceled-work-2020/",
-	// 		credit: "",
-	// 	},
+								{
+			name: "The Bessies -- 2020 Archive",
+			img: "images/72172217255552172555172555.jpg",
+			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum -- Works & Process selected for the 2020 archive of NYC canceled dance performances.",
+			link: "http://bessies.org/canceled-work-2020/",
+			credit: "",
+		},
 
 		
 	
@@ -136,7 +136,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
-		blurb: "‘displaced figure’ that programmatically transposes different body parts over the footage.",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts over the footage.",
 		link: "",
 		credit: "",
 	},
@@ -152,7 +152,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance (Research)",
 		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "‘disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -239,7 +239,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Family Archive 'Mizrach' ",
 		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau known by his book as the Noda be-Yehuda. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
