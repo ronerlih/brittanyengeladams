@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Skeletal Avatar",
-		img: "images/AVATARINRED.gif",
+		img: "images/memory.jpeg",
 		blurb: "Iterative studies of motion using Kinect, which is essentially a camera with infrared depth, and machine learning algorithms, from (openNI), an open source public data set, that predicts a human pose, and renders a skeleton of a person’s body, adjacent to, and insync with, their movements.",
 		link: "",
 		credit: "",
