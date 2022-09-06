@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 		name: "BodyMouth/Ielele (Artist Residency)",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "https://www.harvestworks.org/",
+		link: "",
 		credit: "",
 	},
 
@@ -171,9 +171,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "3d digital scan",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		name: "Memory Dance",
+		img: "images/122118212001182120118.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
 		credit: "",
 	},
@@ -206,12 +206,10 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-
-
 	{
-		name: "Memory Dance (Research)",
-		img: "images/122118212001182120118.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
