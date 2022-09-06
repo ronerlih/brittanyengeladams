@@ -41,8 +41,8 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Skeletal Avatar",
-		img: "images/memory.jpeg",
-		blurb: "Iterative studies of motion using Kinect, which is essentially a camera with infrared depth, and machine learning algorithms, from (openNI), an open source public data set, that predicts a human pose, and renders a skeleton of a person’s body, adjacent to, and insync with, their movements.",
+		img: "images/avatarcloud.JPG",
+		blurb: "Iterative studies of motion using motion-capture technology and artificial intelligence that renders movement as 3d data and creates digital avatars that mirrors person’s body, adjacent to, and insync with, their movements.",
 		link: "",
 		credit: "",
 	},
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance",
 		img: "images/621311_1141495_2_1611819151419.png",
-		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. David Lang’s song employs a line about the working class from a Bernie Sanders’ speech, and in Lang’s hands, the text reads like an aspirational koan.",
+		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -135,7 +135,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts, (such as, legs, hands, and torso) to different places, and over the film footage.",
+		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts over the film footage.",
 		link: "",
 		credit: "",
 	},
@@ -143,15 +143,15 @@ let WEBSITE_DATA = [
 	{
 
 		name: "Human-Robot (Research)",
-		img: "images/181520_r_t_191922018.png",
+		img: "images/024657834.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "Techniques used to make Hand Dance. Example of a  ‘disintegrating figure’ that erases parts of the body from the footage, as if disintegrating into the background of the scene (according to light intensity/contours/color averages).",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
+		blurb: "Techniques used to make Hand Dance. Example of a  ‘disintegrating figure’ that erases parts of the body from the footage, as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Human-Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/pic_micro_so_ft_la_b_kick.png",
 		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
 		link: "",
 		credit: "",
@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	{
 		name: "3d digital scan",
 		img: "images/11811_192114417.gif",
-		blurb: "The Kinect scans my body, as I expand focus in a swell of sensation. The technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		blurb: "The motion-capture technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
