@@ -158,14 +158,14 @@ let WEBSITE_DATA = [
 	{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
-		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it. Both the performer and the robot follow a solitary path that only episodically crosses. Their ecology of movements reaches its climax when it is the robot that moves the performer across the stage, dignified as Apollo.",
+		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: " .",
 	},
 	{
 		name: "Human-Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "The robot act in a certain logic, as a set of instructions, performed in opposition to, and alongside a performer. ",
+		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks (GAN) The A.I. model that will generate new ways to perform “tasks” that the human dancer performs. Picking at the inevitable tension between us and the machines, the fear and fascination of what they can do, and what it reflects about humanity.",
 		link: "",
 		credit: "",
 	},
@@ -177,7 +177,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Archival research",
+		name: "Family archive",
 		img: "images/3516515151651475195147512.jpg",
 		blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
 		link: "",
