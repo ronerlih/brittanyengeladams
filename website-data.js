@@ -9,14 +9,14 @@ let WEBSITE_DATA = [
 	{
 		name: "LOOP",
 		img: "images/12516151516.gif",
-		blurb: " 'LOOP' uses live feed cameras, looping movements and projecting them on stage. It reflects the cyclical nature of time. The loops reproduce the dancer's movements, creating a memory of that movement, to be compared to the moments that follow.",
+		blurb: " 'Recording and looping performers movements and projecting them live on stage.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Artist Residency -- BodyMouth/Ielele",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with our Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 	},
@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 	{
 		name: "YouTube Improv Live",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their movements according to the algorithmic orchestrated playlist.",
+		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar",
 		img: "images/avatarcloud.JPG",
-		blurb: "Iterative studies of motion using motion-capture technology and artificial intelligence that renders movement as 3d data and digital avatars that mirrors a person’s movements, adjacent to, and insync with, their movements.",
+		blurb: "motion-capture technology and artificial intelligence renders movements as 3d data and digital avatars, that mirrors a person’s movements, adjacent to, and insync with them.",
 		link: "",
 		credit: "",
 	},
@@ -55,9 +55,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Hand Dance",
+		name: "Hand Dance Film",
 		img: "images/648592159545131859513166514859513.jpg",
-		blurb: "‘Hand Dance' film, made in collaboration between David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
+		blurb: "‘Hand Dance' film, is a collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "Before Zeta -- Film",
+		name: "Before Zeta Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ was filmed at Kugel-Gips as an artist in residence at the Cape Cod Modern House Trust.'",
 		link: "",
@@ -136,7 +136,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
-		blurb: "Techniques used to make Hand Dance. Example of a ‘displaced figure’ that programmatically, transposes different body parts over the film footage.",
+		blurb: "‘displaced figure’ that programmatically transposes different body parts over the footage.",
 		link: "",
 		credit: "",
 	},
@@ -152,28 +152,28 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance (Research)",
 		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "Techniques used to make Hand Dance. Example of a  ‘disintegrating figure’ that erases parts of the body from the footage, as if disintegrating into the background of the scene.",
+		blurb: "‘disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
-		blurb: "Maquette 2021 is a robotic automatic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A movement score, as a set of instructions, directs the actions of a performer and a robot in space. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		blurb: "A robotic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries.",
 		link: "",
 		credit: " .",
 	},
 	{
 		name: "Human-Robot",
 		img: "images/pic_micro_so_ft_la_b_kick.png",
-		blurb: "Human-Robot is a software-based performance. A human dancer performs a choreography of movements that an avatar simulation is trying to learn and perfect. Using Generative Adversarial Networks. The A.I. model that generates new ways to perform “tasks” that the human dancer performs.",
+		blurb: " A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "3d digital scan",
 		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technology pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -184,13 +184,13 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: ".",
 	// },
-	{
-		name: "Emergent Landscape III",
-		img: "images/patterns/IMG-1108.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	// {
+	// 	name: "Emergent Landscape III",
+	// 	img: "images/patterns/IMG-1108.jpg",
+	// 	blurb: "Tessellation, Digital-Collage.",
+	// 	link: "https://www.brittanyengeladams.com/who-wood.html",
+	// 	credit: "",
+	// },
 	
 	// {
 	// 	name: "Motion-Capture (Infrared)",
@@ -199,10 +199,19 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
+	// {
+	// 	name: "I am not a Robot (Research)",
+	// 	img: "images/11842191415_218514201184.jpg",
+	// 	blurb: "Exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	// 	link: "",
+	// 	credit: "",
+	// },
+
+
 	{
-		name: "I am not a Robot",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: " ‘I am not a robot’ uses robotics and  machine learning algorithms to explore the interplay between human actions, ecosystems, and the systems that unite them.",
+		name: "Memory Dance (Research)",
+		img: "images/122118212001182120118.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
 		credit: "",
 	},
@@ -213,15 +222,6 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-
-	{
-		name: "Memory Dance",
-		img: "images/122118212001182120118.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
-		link: "",
-		credit: "",
-	},
-
 	
 
 	
