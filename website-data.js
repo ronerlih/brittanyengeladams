@@ -6,13 +6,13 @@ let WEBSITE_DATA = [
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
-	{
-		name: "LOOP",
-		img: "images/12516151516.gif",
-		blurb: "Recording and looping performers movements and projecting them live on stage.",
-		link: "",
-		credit: "",
-	},
+	// {
+	// 	name: "LOOP",
+	// 	img: "images/12516151516.gif",
+	// 	blurb: "Recording and looping performers movements and projecting them live on stage.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	{
 		name: "BodyMouth/Ielele (Artist Residency)",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
@@ -38,14 +38,14 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-
 	{
-		name: "Skeletal Avatar",
-		img: "images/avatarcloud2.jpg",
-		blurb: "Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
-		link: "",
+		name: "Hand Dance Film",
+		img: "images/hand.jpeg",
+		blurb: "A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
 		
 	{
 		name: "Cape Cod Modern House Trust (Artist Residency)",
@@ -55,22 +55,22 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Hand Dance Film",
-		img: "images/648592159545131859513166514859513.jpg",
-		blurb: "A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-
-
-	
-	{
 		name: "Before Zeta Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.'",
 		link: "",
 		credit: "",
 	},
+
+	{
+		name: "Skeletal Avatar",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
+		link: "",
+		credit: "",
+	},
+	
+
 
 		// 						{
 		// 	name: "The Bessies -- 2020 Archive",
@@ -144,14 +144,14 @@ let WEBSITE_DATA = [
 	{
 
 		name: "Human-Robot (Research)",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/024657834.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Hand Dance (Research)",
-		img: "images/111945111814926145119451114619149261914926145.jpg",
+		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Human-Robot",
-		img: "images/Avatartracking.jpg",
+		img: "images/adolph_men_zel123.png",
 		blurb: " A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Memory Dance",
-		img: "images/skeletal-data_picture2.png",
+		img: "images/8121321520113118152__152014.gif",
 		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
 		credit: "",
@@ -213,14 +213,14 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-
 	{
-		name: "Architecture of Memory (Publication)",
-		img: "images/mrpjno55.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		name: "Archival Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
 		credit: "",
 	},
+
 	
 
 	
@@ -233,15 +233,15 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	
-
-
 	{
-		name: "Family Archive 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach', crafted by Israel Manaschewitz (great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
+		name: "Architecture of Memory (Publication)",
+		img: "images/mrpjno55.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+
+
 
 	
 	
