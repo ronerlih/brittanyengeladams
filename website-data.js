@@ -29,14 +29,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	{
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
-		link: "",
-		credit: ""
-	},
 	
 	{
 		name: "Hand Dance Film",
@@ -45,6 +37,10 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+
+
+	
+	
 	
 		
 	{
@@ -58,6 +54,20 @@ let WEBSITE_DATA = [
 		name: "Before Zeta Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.'",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
+		link: "",
+		credit: ""
+	},
+	{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
 		credit: "",
 	},
@@ -161,7 +171,7 @@ let WEBSITE_DATA = [
 		img: "images/0119191215191919.png",
 		blurb: "A robotic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries.",
 		link: "",
-		credit: " .",
+		credit: "",
 	},
 	{
 		name: "Human-Robot",
@@ -177,13 +187,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
-		link: "",
-		credit: "",
-	},
+	
 	// {
 	// 	name: "Family archive",
 	// 	img: "images/3516515151651475195147512.jpg",
