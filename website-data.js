@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Human-Robot",
-		img: "images/adolph_men_zel123.png",
+		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
 		blurb: " A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
