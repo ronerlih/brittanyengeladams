@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Memory Dance",
-		img: "images/8121321520113118152__152014.gif",
+		img: "images/vortex.gif",
 		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
 		credit: "",
