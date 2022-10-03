@@ -1,8 +1,15 @@
 let WEBSITE_DATA = [
+		{
+		name: "Nancy Manocherian's the cell theatre – Artist Residency",
+		img: "images/3512_1851994514325451.jpg",
+		blurb: "Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
+		link: "http://www.thecelltheatre.org/",
+		credit: "",
+	},
 	{
-		name: "BodyMouth/Ielele",
+		name: "Future Bodies – New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Forthcoming, 'BodyMouth/Ielele' live at The Future Bodies Symposium, a constellation of new interdisciplinary research and practice in new media.",
+		blurb: "'BodyMouth/Ielele' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
@@ -14,9 +21,9 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	{
-		name: "BodyMouth/Ielele (Artist Residency)",
+		name: "Harvest Works – Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth/Ielele' in residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth/Ielele' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "",
 	},
