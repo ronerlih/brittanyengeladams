@@ -82,7 +82,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar (Research)",
 		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
+		blurb: "Kinect skeleton detection simpleOpenNi algorithm (3D). Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
 		link: "",
 		credit: "",
 	},
