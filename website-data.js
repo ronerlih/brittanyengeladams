@@ -72,9 +72,9 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	{
-		name: "Memory Dance (Research)",
+		name: "Memory Dance – Machine Learning",
 		img: "images/vortex.gif",
-		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming and virtual reality.‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of the human body, finds a mathematical pattern and connection between spatial input and a human pose, and makes a prediction of the body’s position in space, as a skeletal avatar that mirrors a human position.",
 		link: "",
 		credit: "",
 	},
@@ -174,9 +174,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Maquette 2021",
+		name: "Maquette 2021 – Robotics",
 		img: "images/0119191215191919.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robotic moving platform called the 'maquette' which is a prototype, explores the chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
+		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
