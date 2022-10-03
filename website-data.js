@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Future Bodies – New Media Caucus",
+		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "'BodyMouth/Ielele' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
 		link: "https://futurebodies.newmediacaucus.org/",
@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Hand Dance Film",
+		name: "Hand Dance | Film",
 		img: "images/hand.jpeg",
 		blurb: "A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020. Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -51,28 +51,28 @@ let WEBSITE_DATA = [
 	
 		
 	{
-		name: "Cape Cod Modern House Trust (Artist Residency)",
+		name: "Cape Cod Modern House Trust – Artist Residency",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "Before Zeta Film",
+		name: "Before Zeta | Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.'",
 		link: "",
 		credit: "",
 	},
 		{
-		name: "YouTube Improv",
+		name: "YouTube Improv ",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
 	{
-		name: "Memory Dance",
+		name: "Memory Dance (Research)",
 		img: "images/vortex.gif",
 		blurb: "‘Memory Dance’ uses motion-capture technology and machine learning algorithms, to loop, and record movements, just like a musical looper.",
 		link: "",
@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 	},
 
 	{
-		name: "Skeletal Avatar",
+		name: "Skeletal Avatar (Research)",
 		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
 		link: "",
@@ -275,7 +275,7 @@ let WEBSITE_DATA = [
 	// },
 	
 		{
-		name: "Architecture of Memory (Publication)",
+		name: "Architecture of Memory | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
