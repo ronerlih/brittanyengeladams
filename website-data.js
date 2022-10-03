@@ -176,7 +176,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
-		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A robotic moving platform called the “maquette” which is a prototype.",
+		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robotic moving platform called the 'maquette' which is a prototype, explores the chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.",
 		link: "",
 		credit: "",
 	},
