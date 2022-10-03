@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance – Machine Learning",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming and virtual reality.‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of the human body, finds a mathematical pattern and connection between spatial input and a human pose, and makes a prediction of the body’s position in space, as a skeletal avatar that mirrors a human position.",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming and virtual reality.‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of the human body, finds a mathematical pattern and connection between spatial input and a human pose, and makes a prediction of the body’s position in space, as a skeletal avatar, that mirrors a human position.",
 		link: "",
 		credit: "",
 	},
@@ -183,7 +183,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Human-Robot",
 		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
-		blurb: "adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
+		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
 	},
