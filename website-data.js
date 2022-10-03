@@ -168,7 +168,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Maquette 2021 – Robotics",
+		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
 		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
@@ -250,7 +250,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Memory Dance (Research)",
-		img: "images/12151512116.gif",
+		img: "images/122118212001182120118.gif",
 		blurb: "Iterative studies of motion, using motion-capture and machine learning as proprioceptive mappings. The infrared sensor of the kinect affects the body’s sensorial experience of motion. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
