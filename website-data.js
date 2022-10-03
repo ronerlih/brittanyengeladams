@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance – Machine Learning",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming and virtual reality.‘Memory Dance’ uses open source library (OpenNI), OpenNI’s algorithms create a kinematic model of the human body, finds a mathematical pattern and connection between spatial input and a human pose, and makes a prediction of the body’s position in space.",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body, finds a mathematical pattern and connection between spatial input and position, and makes a prediction of a body’s position in space.",
 		link: "",
 		credit: "",
 	},
@@ -82,7 +82,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Skeletal Avatar (Research)",
 		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Kinect skeleton detection simpleOpenNi algorithm (3D). Mirror's a human body in the form of a skeleton, adjacent to, and insync with their movements.",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
 		link: "",
 		credit: "",
 	},
