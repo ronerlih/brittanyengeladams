@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Memory Dance – Machine Learning",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body, finds a mathematical pattern and connection between spatial input and position, and makes a prediction of a body’s position in space.",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern, and connection between spatial input and its position, and renders an avatar in 3D space that mirrors its position.",
 		link: "",
 		credit: "",
 	},
