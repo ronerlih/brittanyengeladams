@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Future Bodies | New Media Caucus",
-		img: "images/1651351514511820_lt_h.gif",
+		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
 		blurb: "'BodyMouth/Ielele' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
