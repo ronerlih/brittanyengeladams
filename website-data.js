@@ -176,14 +176,14 @@ let WEBSITE_DATA = [
 	{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
-		blurb: "A robotic moving platform called the “maquette” which is a prototype. The maquette was assembled using omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries.",
+		blurb: "omni-wheels, arduino, c++, bluetooth, acrylic, breadboard, and batteries. A robotic moving platform called the “maquette” which is a prototype.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Human-Robot",
 		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
-		blurb: " A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
+		blurb: "adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
 	},
