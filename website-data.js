@@ -66,9 +66,9 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	{
-		name: "Memory Dance – Machine Learning",
+		name: "Memory Dance (Research)",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern, and connection between spatial input and its position, and renders an avatar in 3D space that mirrors its position.",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
 	},
@@ -275,7 +275,7 @@ let WEBSITE_DATA = [
 	// },
 	
 		{
-		name: "Architecture of Memory | Publication",
+		name: "Movement Research Performance Journal | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
