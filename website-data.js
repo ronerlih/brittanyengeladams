@@ -65,6 +65,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+		{
+		name: "Hand Dance (Research)",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Memory Dance (Research)",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
@@ -162,13 +169,7 @@ let WEBSITE_DATA = [
 	},
 	
 
-	{
-		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
