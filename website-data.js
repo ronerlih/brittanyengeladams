@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
-		blurb: "'BodyMouth/Ielele' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
+		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvest Works – Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth/Ielele' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "",
 	},
