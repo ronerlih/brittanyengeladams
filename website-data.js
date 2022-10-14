@@ -171,14 +171,14 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Human-Robot",
-		img: "images/11842191415_218514201184.jpg",
+		img: "images/181520_r_t_191922018.png",
 		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
