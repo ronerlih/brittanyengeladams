@@ -200,13 +200,7 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: ".",
 	// },
-	{
-		name: "Emergent Landscape III",
-		img: "images/patterns/IMG-1108.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	
 	
 	// {
 	// 	name: "Motion-Capture (Infrared)",
@@ -275,6 +269,13 @@ let WEBSITE_DATA = [
 		img: "images/patterns/Firgure3original.jpg",
 		blurb: "Tessellation, Digital-Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	{
+		name: "Emergent Landscape III",
+		img: "images/patterns/IMG-1108.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
 	
