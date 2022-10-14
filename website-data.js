@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 	},
 	{
 
-		name: "Human-Robot (Research)",
+		name: "Human-Robot",
 		img: "images/11811_192114417.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -79,14 +79,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	{
-		name: "Memory Dance (Research)",
+		name: "Memory Dance",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
 	},
 		{
-		name: "Skeletal Avatar (Research)",
+		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
 		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
 		link: "",
