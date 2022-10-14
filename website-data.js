@@ -1,11 +1,11 @@
 let WEBSITE_DATA = [
-		{
-		name: "Nancy Manocherian's the cell theatre – Artist Residency",
-		img: "images/3512_1851994514325451.jpg",
-		blurb: "Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
-		link: "http://www.thecelltheatre.org/",
-		credit: "",
-	},
+// 		{
+// 		name: "Nancy Manocherian's the cell theatre – Artist Residency",
+// 		img: "images/3512_1851994514325451.jpg",
+// 		blurb: "Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
+// 		link: "http://www.thecelltheatre.org/",
+// 		credit: "",
+// 	},
 	{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
