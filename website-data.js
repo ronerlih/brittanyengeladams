@@ -178,7 +178,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Human-Robot",
-		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 		link: "",
 		credit: "",
