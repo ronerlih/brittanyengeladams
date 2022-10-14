@@ -84,7 +84,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Skeletal Avatar (Research)",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/avtarhigh.png",
 		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
 		link: "",
 		credit: "",
