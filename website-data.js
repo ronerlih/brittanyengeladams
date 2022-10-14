@@ -13,7 +13,6 @@ let WEBSITE_DATA = [
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
-	
 	{
 		name: "Harvest Works – Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
@@ -21,8 +20,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -38,12 +35,14 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	{
 
-
-	
-	
-	
-		
+		name: "Human-Robot (Research)",
+		img: "images/11811_192114417.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},	
 	{
 		name: "Cape Cod Modern House Trust – Artist Residency",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
@@ -58,6 +57,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	{
+		name: "Emergent Landscape III",
+		img: "images/patterns/IMG-1108.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 		{
 		name: "YouTube Improv ",
 		img: "images/YouTubeimprovhigh.gif",
@@ -65,13 +71,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		{
-		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Hand Dance (Research)",
+// 		img: "images/239545144544514414944514455144514495.png",
+// 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	{
 		name: "Memory Dance (Research)",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
@@ -79,26 +85,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
 		{
-
-		name: "Human-Robot (Research)",
-		img: "images/11811_192114417.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-
-	{
 		name: "Skeletal Avatar (Research)",
 		img: "images/avtarhigh.png",
 		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
 		link: "",
 		credit: "",
 	},
-	
-
-
 		// 						{
 		// 	name: "The Bessies -- 2020 Archive",
 		// 	img: "images/72172217255552172555172555.jpg",
@@ -167,9 +160,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-
 	{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -253,10 +243,6 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-
-	
-	
-
 // 	{
 // 		name: "Emergent Landscape I",
 // 		img: "images/patterns/Firgure1invert.jpg",
@@ -272,14 +258,6 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
-	{
-		name: "Emergent Landscape III",
-		img: "images/patterns/IMG-1108.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
 		{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
