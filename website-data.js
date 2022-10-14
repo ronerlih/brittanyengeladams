@@ -262,20 +262,21 @@ let WEBSITE_DATA = [
 	
 	
 
-	// {
-	// 	name: "Emergent Landscape I",
-	// 	img: "images/patterns/Firgure1invert.jpg",
-	// 	blurb: "Tessellation, Digital-Collage.",
-	// 	link: "https://www.brittanyengeladams.com/red-who.html",
-	// 	credit: "",
-	// },
-	// {
-	// 	name: "Emergent Landscape II",
-	// 	img: "images/patterns/Firgure3original.jpg",
-	// 	blurb: "Tessellation, Digital-Collage.",
-	// 	link: "https://www.brittanyengeladams.com/who-blue.html",
-	// 	credit: "",
-	// },
+	{
+		name: "Emergent Landscape I",
+		img: "images/patterns/Firgure1invert.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
+	{
+		name: "Emergent Landscape II",
+		img: "images/patterns/Firgure3original.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 		{
 		name: "Movement Research Performance Journal | Publication",
