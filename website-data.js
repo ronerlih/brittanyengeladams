@@ -109,13 +109,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
-								{
-			name: "The Bessies' 2020 Archive",
-			img: "images/12345678910delal_alal.png",
-			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum, Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
-			link: "http://bessies.org/canceled-work-2020/",
-			credit: "",
-		},
+// 								{
+// 			name: "The Bessies' 2020 Archive",
+// 			img: "images/12345678910delal_alal.png",
+// 			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum, Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
+// 			link: "http://bessies.org/canceled-work-2020/",
+// 			credit: "",
+// 		},
 
 		
 	
