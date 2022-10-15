@@ -75,7 +75,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts overlays them ontop of  the footage.",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
 		credit: "",
 	},
