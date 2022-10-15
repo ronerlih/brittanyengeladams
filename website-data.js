@@ -8,7 +8,7 @@ let WEBSITE_DATA = [
 // 	},
 			{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -255,18 +255,19 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-{
-		name: "Future Bodies | New Media Caucus",
-		img: "images/1651351514511820_lt_h.gif",
-		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-	},
+
 	{
 		name: "Harvest Works – Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "'BodyMouth' Residency at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
+		credit: "",
+	},
+	{
+		name: "Future Bodies | New Media Caucus",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech.",
+		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
 	
