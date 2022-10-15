@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hand Dance | Film",
-		img: "images/72172217255552172555172555.jpg",
+		img: "images/handdance202.jpg",
 		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
