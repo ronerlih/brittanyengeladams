@@ -57,13 +57,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Emergent Landscape III",
-		img: "images/patterns/IMG-1108.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
 		{
 		name: "YouTube Improv ",
 		img: "images/YouTubeimprovhigh.gif",
@@ -71,6 +64,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+	{
+		name: "Emergent Landscape III",
+		img: "images/patterns/IMG-1108.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
 // 		{
 // 		name: "Hand Dance (Research)",
 // 		img: "images/239545144544514414944514455144514495.png",
@@ -166,15 +167,7 @@ let WEBSITE_DATA = [
 		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
-	},
-	{
-		name: "Human-Robot",
-		img: "images/BrittanyEngelAdams_1.gif",
-		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
-		link: "",
-		credit: "",
-	},
-	
+	},	
 // 		{
 // 		name: "Archival Artifact 'Mizrach' ",
 // 		img: "images/1926318892613892618138.jpg",
@@ -258,6 +251,13 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
+	{
+		name: "Human-Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+		link: "",
+		credit: "",
+	},
 		{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
