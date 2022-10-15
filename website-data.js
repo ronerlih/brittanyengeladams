@@ -20,7 +20,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+{
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -29,13 +35,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	{
 
 		name: "Human-Robot",
@@ -65,13 +65,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
@@ -88,9 +82,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 		{
-		name: "Human–Robot",
+		name: "I am not a Robot",
 		img: "images/giphy1humanrobot.gif",
 		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
 		link: "",
 		credit: "",
 	},
