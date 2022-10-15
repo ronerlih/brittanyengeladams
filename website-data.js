@@ -14,13 +14,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
+		name: "Archival Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
-
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -28,10 +27,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Archival Artifact 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+	{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
 	},
