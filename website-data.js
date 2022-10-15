@@ -71,6 +71,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+	{
+		name: "Hand Dance – Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts over the footage.",
+		link: "",
+		credit: "",
+	},
 	
 // 		{
 // 		name: "Hand Dance (Research)",
@@ -154,13 +161,7 @@ let WEBSITE_DATA = [
 	// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
 	// 		credit: "",
 	// 	},
-	{
-		name: "Hand Dance (Research)",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts over the footage.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -255,14 +256,14 @@ let WEBSITE_DATA = [
 {
 		name: "Future Bodies | New Media Caucus",
 		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
-		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
+		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
 	{
 		name: "Harvest Works – Artist Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth' Residency at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "",
 	},
