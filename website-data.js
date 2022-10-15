@@ -15,18 +15,12 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Memory Dance",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
+		img: "images/ezgif.com-gif-maker.gif",
 		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
 	},
-{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -41,7 +35,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+	{
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	{
 
@@ -81,20 +81,20 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-// 		{
-// 		name: "Hand Dance (Research)",
-// 		img: "images/239545144544514414944514455144514495.png",
-// 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-// 		link: "",
-// 		credit: "",
-// 	},
 		{
-		name: "I am not a Robot",
-		img: "images/giphy1humanrobot.gif",
-		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+		name: "Hand Dance (Research)",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
+// 		{
+// 		name: "I am not a Robot",
+// 		img: "images/giphy1humanrobot.gif",
+// 		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+// 		link: "",
+// 		credit: "",
+// 	},
 // 		{
 // 		name: "Skeletal Avatar",
 // 		img: "images/avtarhigh.png",
