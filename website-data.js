@@ -65,17 +65,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	{
-		name: "Emergent Landscape III",
-		img: "images/patterns/IMG-1108.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+		{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
+		link: "",
 		credit: "",
 	},
 	{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts over the footage.",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts overlays them ontop of  the footage.",
 		link: "",
 		credit: "",
 	},
@@ -94,11 +94,11 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-		link: "",
+	{
+		name: "Emergent Landscape III",
+		img: "images/patterns/IMG-1108.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
 		// 						{
