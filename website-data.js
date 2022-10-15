@@ -257,7 +257,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Future Bodies | New Media Caucus",
-		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
+		img: "images/1651351514511820_lt_h.gif",
 		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
