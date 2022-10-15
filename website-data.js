@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Memory Dance",
-		img: "images/ezgif.com-gif-maker.gif",
+		img: "images/12516151516.gif",
 		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
@@ -95,13 +95,13 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-// 		{
-// 		name: "Skeletal Avatar",
-// 		img: "images/avtarhigh.png",
-// 		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Emergent Landscape III",
 		img: "images/Ameribanned_leg__cut.gif",
@@ -222,13 +222,13 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// },
 	
-// 	{
-// 		name: "Farewell 2020",
-// 		img: "images_m0t_petty123.png/",
-// 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Farewell 2020",
+		img: "images_m0t_petty123.png/",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+		link: "",
+		credit: "",
+	},
 
 // {
 // 		name: "Memory Dance (Research)",
