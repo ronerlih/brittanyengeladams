@@ -117,8 +117,6 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 
-		
-	
 	// 			{
 	// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
 	// 		img: "images/RutgersConcertProgram.png", 
@@ -196,13 +194,13 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-	// {
-	// 	name: "I am not a Robot (Research)",
-	// 	img: "images/11842191415_218514201184.jpg",
-	// 	blurb: "Exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+	{
+		name: "I am not a Robot (Research)",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 // 	{
 // 		name: "3d digital sculpture",
 // 		img: "images/11811_192114417.gif",
