@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Before Zeta | Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.'",
+		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.",
 		link: "",
 		credit: "",
 	},	
@@ -254,7 +254,7 @@ let WEBSITE_DATA = [
 
 
 	{
-		name: "Harvest Works – Artist Residency",
+		name: "HarvestWorks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "'BodyMouth' Residency at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
