@@ -247,14 +247,14 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "One Year development of'BodyMouth,' a tool that turns the body into an instrument for speech. 2022 Artist residency at Harvestworks. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "One Year development of 'BodyMouth', a tool that turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "",
 	},
 	{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, copresented by Harvestworks.",
+		blurb: "'BodyMouth'performed at The New Media Caucus Symposium at Virginia Tech on October 1st 2022. Co-presented by Harvestworks – digital media arts center.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
