@@ -6,18 +6,18 @@ let WEBSITE_DATA = [
 // 		link: "http://www.thecelltheatre.org/",
 // 		credit: "",
 // 	},
-	{
-		name: "Future Bodies | New Media Caucus",
-		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
-		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
-		link: "https://futurebodies.newmediacaucus.org/",
+		{
+		name: "Human-Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+		link: "",
 		credit: "",
 	},
-	{
-		name: "Harvest Works – Artist Residency",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "",
+		{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 	{
@@ -251,21 +251,21 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
+
+{
+		name: "Future Bodies | New Media Caucus",
+		img: "images/FB_CircleLogo_Animated_01_WithText_MediumFrameRate.gif",
+		blurb: "'BodyMouth' at The New Media Caucus Symposium on October 1st 2022, at Virginia Tech, focused on the theme of ‘Future Bodies.’",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+	},
 	{
-		name: "Human-Robot",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+		name: "Harvest Works – Artist Residency",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "'BodyMouth' development at Harvestworks. Harvestworks presents experimental artworks created in collaboration with  Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-
 	
 	
 ];
