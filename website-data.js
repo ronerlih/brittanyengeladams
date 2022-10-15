@@ -78,7 +78,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
+		{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "I Am Not A Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect – to explore the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
@@ -101,13 +114,7 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-		{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Emergent Landscape III",
 		img: "images/Ameribanned_leg__cut.gif",
@@ -176,7 +183,7 @@ let WEBSITE_DATA = [
 	// 	},
 	
 	{
-		name: "Maquette 2021",
+		name: "Maquette [2021]",
 		img: "images/11842191415_218514201184.jpg",
 		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
@@ -200,13 +207,7 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-	{
-		name: "I am not a Robot (Research)",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+	
 // 	{
 // 		name: "3d digital sculpture",
 // 		img: "images/11811_192114417.gif",
