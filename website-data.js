@@ -71,13 +71,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect, OpenNI; skeleton tracking and angle detection; graphs a skeleton of a body as vectors.",
-		link: "",
-		credit: "",
-	},
+// 				{
+// 		name: "Skeletal Avatar",
+// 		img: "images/avtarhigh.png",
+// 		blurb: "Kinect, OpenNI; skeleton tracking and angle detection; graphs a skeleton of a body as vectors.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	{
 		name: "I Am Not A Robot",
 		img: "images/1221251201515018195125201514.gif",
