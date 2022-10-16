@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 			{
-		name: "Midcentury Architecture and Community on the Outer Cape – Artist Residency",
+		name: "Midcentury Architecture and Outer Cape Community –  Residency",
 		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "",
@@ -99,6 +99,13 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+				{
+			name: "Rutgers University – Curator of Student Dance Concert",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "Fall 2021 Curtator of the Student Dance Concert. The Students works were a reimagining of a theatrical performance or production, from the 19th century or the 20th century, reimagined for the 21st century stage.",
+			link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+			credit: "",
+		},
 			{
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
@@ -139,13 +146,6 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 
-				{
-			name: "Rutgers University, Curator of Student Dance",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "Fall 2021 Curtator of the Student Dance Concert. The Students works were a reimagining of a theatrical performance or production, from the 19th century or the 20th century, reimagined for the 21st century stage.",
-			link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-			credit: "",
-		},
 
 	// 			{
 	// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
