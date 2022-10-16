@@ -55,6 +55,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 		{
 		name: "Memory Dance",
 		img: "images/12516151516.gif",
@@ -106,6 +107,13 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
+	{
+			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+			img: "images/nyu123.png",
+			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+			credit: "",
+		},
 			{
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
@@ -154,13 +162,7 @@ let WEBSITE_DATA = [
 	// 		link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 	// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 	// 	},
-	{
-			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/nyu123.png",
-			blurb: "ETW has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-			credit: "",
-		},
+	
 				{
 			name: "Joffrey Ballet School, NYC (Faculty)",
 			img: "images/4351435143514354351435_1.png",
@@ -168,21 +170,21 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "photo: Lois Greenfield",
 		},
-			{
-			name: "New York University's Tisch Department of Dance (Faculty)",
-			img: "images/87y547ht3uinr23[i458u.png",
-			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-				{
-			name: "Bates Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
+// 			{
+// 			name: "New York University's Tisch Department of Dance (Faculty)",
+// 			img: "images/87y547ht3uinr23[i458u.png",
+// 			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
+// 			link: "https://tisch.nyu.edu/dance/courses",
+// 			credit: "",
+// 		},
+// 				{
+// 			name: "Bates Dance Festival (Faculty) ",
+// 			img: "images/bates321.png",
+// 			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+// 			link: "https://www.batesdancefestival.org/",
+// 			credit:"",
 
-		},
+// 		},
 	// 		{
 	// 		name: "The Young and The Banging (Publication)",
 	// 		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
