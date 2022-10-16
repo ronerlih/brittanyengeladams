@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		},
 		{
 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/nyu123.png",
+			img: "images/nyupdf.png",
 			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 			credit: "",
@@ -103,7 +103,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Memory Dance",
 		img: "images/12516151516.gif",
-		blurb: "Experimental approach to motion-capture recordings, data collection, programming using Kinect, artificial intelligence, mathematics, statistical data, probability outcomes, graphs, and charts, to create 3d avatars of myself that mirror my movement and position.",
+		blurb: "Experimental approach to motion-capture recordings, data collection, programming using Kinect, artificial intelligence, mathematics, statistical data, probability outcomes, graphs, and charts, to create avatars and 3d sculptures of myself that mirror my movement and position.",
 		link: "",
 		credit: "",
 	},
