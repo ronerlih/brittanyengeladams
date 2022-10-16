@@ -27,6 +27,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
+			{
+		name: "Midcentury Architecture and Community on the Outer Cape – Artist Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
+		link: "",
+		credit: "",
+	},
 				{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
@@ -84,13 +91,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Midcentury Architecture and Community on the Outer Cape – Artist Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
-		link: "",
-		credit: "",
-	},
+
 // 	{
 // 		name: "Before Zeta | Film",
 // 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
