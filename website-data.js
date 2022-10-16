@@ -78,27 +78,6 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-	{
-		name: "I Am Not A Robot",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-		{
-		name: "Archival Artifact 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
-		{
-		name: "Hand Dance – Research",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
-		link: "",
-		credit: "",
-	},
 	
 		{
 		name: "Memory Dance",
@@ -107,6 +86,32 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
+		{
+		name: "Archival Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+	
+		{
+		name: "Hand Dance – Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
+		link: "",
+		credit: "",
+	},
+	
+	{
+		name: "I Am Not A Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
 	
 		{
 		name: "Hand Dance – Research",
