@@ -55,7 +55,14 @@ let WEBSITE_DATA = [
 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.",
 		link: "",
 		credit: "",
-	},	
+	},
+			{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "Cape Cod Modern House Trust – Artist Residency",
 		img: "images/31165304_14126531165304_141265_141269_.jpg",
@@ -69,13 +76,6 @@ let WEBSITE_DATA = [
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
-	},
-		{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-		link: "",
-		credit: "",
 	},
 	{
 		name: "Memory Dance",
