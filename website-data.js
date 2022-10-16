@@ -9,7 +9,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "One Year development of 'BodyMouth', a tool that turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "2022 development reseidency at Harvestwork for 'BodyMouth', a tool that uses the body as an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "Photo courtesy of Harvestworks",
 	},
