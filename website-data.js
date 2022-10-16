@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Hand Dance (Research)",
+		name: "Hand Dance – Research",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
