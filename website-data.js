@@ -20,6 +20,41 @@ let WEBSITE_DATA = [
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
 	},
+		{
+		name: "Maquette [2021]",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},	
+				{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "Archival Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "Hand Dance (Research)",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
+		link: "",
+		credit: "",
+	},
 	{
 
 		name: "Human-Robot",
@@ -56,13 +91,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Archival Artifact 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
 // 	{
 // 		name: "Before Zeta | Film",
 // 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
@@ -71,24 +99,17 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 			{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Kinect skeleton detection OpenNi algorithm (3D) interwoven with iterative, artistic studies of motion. Skeleton tracking and angle detection using OpenNi. Mirror's a human body in the form of a skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges.",
-		link: "",
-		credit: "",
-	},
-			{
-		name: "YouTube Improv ",
+		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
 		credit: ""
 	},
-	{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
-		link: "",
+		{
+		name: "Emergent Landscape III",
+		img: "images/Ameribanned_leg__cut.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
 	{
@@ -99,13 +120,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Hand Dance (Research)",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+	
 // 		{
 // 		name: "I am not a Robot",
 // 		img: "images/giphy1humanrobot.gif",
@@ -114,13 +129,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	{
-		name: "Emergent Landscape III",
-		img: "images/Ameribanned_leg__cut.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+
 // 								{
 // 			name: "The Bessies' 2020 Archive",
 // 			img: "images/12345678910delal_alal.png",
@@ -181,14 +190,6 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// 	},
 	
-	{
-		name: "Maquette [2021]",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},	
-	
 	
 	// {
 	// 	name: "Family archive",
@@ -207,13 +208,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-// 	{
-// 		name: "3d digital sculpture",
-// 		img: "images/11811_192114417.gif",
-// 		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 
 
 	
