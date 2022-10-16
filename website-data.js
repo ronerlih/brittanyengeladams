@@ -27,7 +27,14 @@ let WEBSITE_DATA = [
 		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
-	},	
+	},
+			{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes.",
+		link: "",
+		credit: "Photo courtesy of Nasa",
+	},
 		
 // 		{
 // 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
@@ -88,13 +95,6 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-			{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes.",
-		link: "",
-		credit: "Photo courtesy of Nasa",
-	},
 		{
 		name: "Hand Dance – Research",
 		img: "images/239545144544514414944514455144514495.png",
