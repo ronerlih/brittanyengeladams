@@ -35,6 +35,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Boston Dynamics",
 	},
+	
 // 		{
 // 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
 // 			img: "images/nyu2015188.png",
@@ -42,7 +43,8 @@ let WEBSITE_DATA = [
 // 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 // 			credit: "",
 // 		},
-// 				{
+	
+				{
 			name: "Rutgers University – Curator of the Student Dance Concert",
 			img: "images/RutgersConcertProgram.png", 
 			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
