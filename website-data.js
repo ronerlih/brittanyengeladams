@@ -20,11 +20,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Harvestworks",
 	},
-	
-		{
-		name: "Maquette [2021]",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
+	{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/Intersection.jpg",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
 	},
@@ -119,17 +118,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-	
-	{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		{
+		name: "Maquette [2021]",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
-
+	
 // 	{
 // 		name: "Before Zeta | Film",
 // 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
