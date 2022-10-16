@@ -230,14 +230,7 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-	{
-		name: "3d digital sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
-
+	
 
 	
 
@@ -276,6 +269,14 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "Photo courtesy of NASA",
 	},
+	{
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+
 		{
 		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
