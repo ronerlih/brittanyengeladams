@@ -35,6 +35,27 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Boston Dynamics",
 	},
+				{
+			name: "Rutgers University – Curator of Student Dance Concert",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
+			link: "",
+			credit: "",
+		},
+		{
+			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+			img: "images/nyu123.png",
+			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+			credit: "",
+		},
+				{
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
+		link: "",
+		credit: ""
+	},
 			{
 		name: "Midcentury Architecture and Outer Cape Community – Artist Residency",
 		img: "images/nofrills.png",
@@ -42,10 +63,25 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Cape Cod Book by Peter McMahon and Christine Cipriani",
 	},
+	{
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
 				{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
 		blurb: "Kinect, OpenNI; skeleton tracking and angle detection; graphs a skeleton of a body as vectors.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "I Am Not A Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
@@ -58,8 +94,8 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Hand Dance – Research",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
 		credit: "",
 	},
@@ -67,24 +103,22 @@ let WEBSITE_DATA = [
 		{
 		name: "Memory Dance",
 		img: "images/12516151516.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
+		blurb: "Experimental approach to motion-capture recordings, data collection, programming using Kinect, artificial intelligence, mathematics, statistical data, probability outcomes, graphs, and charts, to create 3d avatars of myself that mirror my movement and position.",
 		link: "",
 		credit: "",
 	},
-	{
-		name: "I Am Not A Robot",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	
+		{
+		name: "Hand Dance – Research",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
+	
+	
+	
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -104,30 +138,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Movement Mapping – Motion Capture & A.I. ",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "Iterative studies of motion using motion-capture and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of motion. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		blurb: "Iterative studies of movement using motion capture as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},
-				{
-			name: "Rutgers University – Curator of Student Dance Concert",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
-			link: "",
-			credit: "",
-		},
-	{
-			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/nyu123.png",
-			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-			credit: "",
-		},
-			{
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
-		link: "",
-		credit: ""
 	},
 		{
 		name: "Emergent Landscape III",
@@ -136,13 +149,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
-	{
-		name: "Hand Dance – Research",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 // 		{
@@ -171,13 +178,13 @@ let WEBSITE_DATA = [
 	// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 	// 	},
 	
-				{
-			name: "Joffrey Ballet School, NYC (Faculty)",
-			img: "images/4351435143514354351435_1.png",
-			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
-			link: "https://www.joffreyballetschool.com",
-			credit: "photo: Lois Greenfield",
-		},
+// 				{
+// 			name: "Joffrey Ballet School, NYC (Faculty)",
+// 			img: "images/4351435143514354351435_1.png",
+// 			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
+// 			link: "https://www.joffreyballetschool.com",
+// 			credit: "photo: Lois Greenfield",
+// 		},
 // 			{
 // 			name: "New York University's Tisch Department of Dance (Faculty)",
 // 			img: "images/87y547ht3uinr23[i458u.png",
