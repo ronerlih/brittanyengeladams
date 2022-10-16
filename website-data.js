@@ -21,13 +21,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
@@ -252,10 +245,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "A.I. & Motion Capture",
+		name: "Movement Mapping – Motion Capture & A.I. ",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Iterative studies of motion, using motion-capture and machine learning as proprioceptive mappings. The infrared sensor of the kinect affects the body’s sensorial experience of motion. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
+		credit: "",
+	},
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 		{
