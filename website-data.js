@@ -91,7 +91,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect sensors, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes.",
+		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes.",
 		link: "",
 		credit: "Photo courtesy of Nasa",
 	},
