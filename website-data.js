@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 			{
-		name: "Midcentury Architecture and Outer Cape Community –  Residency",
+		name: "Midcentury Architecture and Outer Cape Community –  Artist Residency",
 		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
