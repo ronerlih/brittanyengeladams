@@ -49,13 +49,13 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-	{
-		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.",
-		link: "",
-		credit: "",
-	},
+// 	{
+// 		name: "Before Zeta | Film",
+// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+// 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.",
+// 		link: "",
+// 		credit: "",
+// 	},
 			{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
