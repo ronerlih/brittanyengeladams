@@ -5,7 +5,14 @@ let WEBSITE_DATA = [
 // 		blurb: "Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
 // 		link: "http://www.thecelltheatre.org/",
 // 		credit: "",
-// 	},	
+// 	},
+		{
+		name: "Harvestworks – Residency",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "One Year development of 'BodyMouth', a tool that turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		link: "",
+		credit: "",
+	},
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
@@ -237,13 +244,7 @@ let WEBSITE_DATA = [
 // 	},
 
 
-	{
-		name: "Harvestworks – Residency",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "One Year development of 'BodyMouth', a tool that turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "Movement Mapping – Motion Capture & A.I. ",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
