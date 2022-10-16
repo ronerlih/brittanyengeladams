@@ -11,14 +11,14 @@ let WEBSITE_DATA = [
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "One Year development of 'BodyMouth', a tool that turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
-		credit: "",
+		credit: "Photo courtesy of Harvestworks",
 	},
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "'BodyMouth'performed at The New Media Caucus Symposium at Virginia Tech on October 1st 2022. Co-presented by Harvestworks – digital media arts center.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
+		credit: "Photo courtesy of Future Bodies",
 	},
 		{
 		name: "Maquette [2021]",
@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 		img: "images/21519201414113333.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: "",
+		credit: "Photo courtesy of Boston Dynamics",
 	},
 	{
 		name: "I Am Not A Robot",
@@ -85,8 +85,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Cape Cod Modern House Trust – Artist Residency",
-		img: "images/31165304_14126531165304_141265_141269_.jpg",
+		name: "Midcentury Architecture and Community on the Outer Cape – Artist Residency",
+		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in our Digital Guestbook.",
 		link: "",
 		credit: "",
@@ -138,13 +138,13 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 
-	// 			{
-	// 		name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
-	// 		img: "images/RutgersConcertProgram.png", 
-	// 		blurb: "2021 Fall Student Dance Concert; as a reimagining of a 19th century, or the 20th century theatrical performance for the 21st century stage.",
-	// 		link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
-	// 		credit: "",
-	// 	},
+				{
+			name: "Rutgers University's Fall 2021 Student Dance Concert Curator",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "2021 Fall Student Dance Concert; as a reimagining of a 19th century, or the 20th century theatrical performance for the 21st century stage.",
+			link: "https://www.masongross.rutgers.edu/degrees-programs/dance/",
+			credit: "",
+		},
 
 	// 			{
 	// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
@@ -258,7 +258,7 @@ let WEBSITE_DATA = [
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+		credit: "Photo courtesy of NASA",
 	},
 		{
 		name: "Farewell 2020",
