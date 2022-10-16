@@ -94,13 +94,14 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-		{
-		name: "Hand Dance – Research",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+			{
+		name: "Movement Mapping – Motion Capture & A.I. ",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
+		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+
 		{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
@@ -140,17 +141,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
-
-	
 		{
-		name: "Movement Mapping – Motion Capture & A.I. ",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		name: "Hand Dance – Research",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 // 		{
 // 		name: "I am not a Robot",
