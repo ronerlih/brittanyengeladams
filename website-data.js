@@ -27,8 +27,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
+		{
+
+		name: "Human-Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "Photo courtesy of Boston Dynamics",
+	},
 			{
-		name: "Midcentury Architecture and Outer Cape Community –  Artist Residency",
+		name: "Midcentury Architecture and Outer Cape Community – Artist Residency",
 		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
@@ -62,14 +70,6 @@ let WEBSITE_DATA = [
 		blurb: "Experimental approach to motion capture recordings, data collection, programming, and virtual reality. ‘Memory Dance’ uses open source library (OpenNI), and machine learning. OpenNI’s algorithms create a kinematic model of a body; finds a mathematical pattern and connection between spatial input and a body's position, and renders an avatar in the space that mirrors its position.",
 		link: "",
 		credit: "",
-	},
-	{
-
-		name: "Human-Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "Photo courtesy of Boston Dynamics",
 	},
 	{
 		name: "I Am Not A Robot",
