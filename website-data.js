@@ -134,13 +134,14 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-		{
-		name: "Emergent Landscape III",
-		img: "images/Ameribanned_leg__cut.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/13181851195138.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+
 		{
 		name: "Hand Dance – Research",
 		img: "images/239545144544514414944514455144514495.png",
@@ -251,23 +252,12 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
-
-
-
-
-				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/MRPJ.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+	{
+		name: "Emergent Landscape III",
+		img: "images/Ameribanned_leg__cut.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-	},
-		{
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
-		link: "",
-		credit: "Photo courtesy of NASA",
 	},
 	{
 		name: "3d Scene",
@@ -276,7 +266,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+	{
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+		link: "",
+		credit: "Photo courtesy of NASA",
+	},
 	
 ];
 
