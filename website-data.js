@@ -79,16 +79,6 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-	
-		{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect sensors, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes – to turn my body into 3d data, avatars, robots, and digital sculptures.",
-		link: "",
-		credit: "",
-	},
-	
-	
 		{
 		name: "Archival Artifact 'Mizrach' ",
 		img: "images/1926318892613892618138.jpg",
@@ -96,7 +86,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+			{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect sensors, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes – to turn the body into spatial data, digital sculptures, avatars, and robots.",
+		link: "",
+		credit: "",
+	},
 		{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
