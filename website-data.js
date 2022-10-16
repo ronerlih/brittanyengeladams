@@ -22,6 +22,20 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
+		name: "I Am Not A Robot",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/Intersection.jpg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
@@ -40,20 +54,6 @@ let WEBSITE_DATA = [
 		img: "images/1926318892613892618138.jpg",
 		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
-		credit: "",
-	},
-	{
-		name: "I Am Not A Robot",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-	{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 // 	{
