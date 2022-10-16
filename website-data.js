@@ -81,19 +81,26 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-		{
-		name: "Archival Artifact 'Mizrach' ",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Archival Artifact 'Mizrach' ",
+// 		img: "images/1926318892613892618138.jpg",
+// 		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+// 		link: "",
+// 		credit: "",
+// 	},
 			{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
 		blurb: "Experimental approach to motion capture recordings, data collection, and programming – using kinect sensors, machine learning, artificial intelligence, algorithms, mathematics, statistical data, and probability outcomes.",
 		link: "",
 		credit: "Photo courtesy of Nasa",
+	},
+		{
+		name: "Hand Dance – Research",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
 	},
 		{
 		name: "Hand Dance – Research",
@@ -104,13 +111,7 @@ let WEBSITE_DATA = [
 	},
 
 	
-		{
-		name: "Hand Dance – Research",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "I Am Not A Robot",
 		img: "images/1221251201515018195125201514.gif",
