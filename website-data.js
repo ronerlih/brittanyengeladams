@@ -66,7 +66,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Hand Dance | Film",
 		img: "images/handdance202.jpg",
-		blurb: "Moved by their premiere date, the eve of election 2020, the group wanted to reflect this precipice. A collaboration of David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams, commissioned by The Guggenheim Museum - Works & Process in 2020.",
+		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Archival Artifact 'Mizrach' ",
 		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda.' He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
@@ -155,7 +155,7 @@ let WEBSITE_DATA = [
 // 		{
 // 		name: "I am not a Robot",
 // 		img: "images/giphy1humanrobot.gif",
-// 		blurb: "adversarial neural networks, and machine learning. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
+// 		blurb: "Adversarial Neural Networks, and Machine Learning Algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 // 		link: "",
 // 		credit: "",
 // 	},
