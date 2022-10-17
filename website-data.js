@@ -9,14 +9,14 @@ let WEBSITE_DATA = [
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Presentation of 'BodyMouth/Ielele' at The New Media Caucus Symposium at Virginia Tech on October 1st 2022. Co-presented by Harvestworks – digital media arts center.",
+		blurb: "'BodyMouth'presented by Future Bodies, co-presented by Harvestworks at The New Media Caucus Symposium at Virginia Tech in October 2022.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo courtesy of Future Bodies",
+		credit: "Image courtesy of Future Bodies",
 	},
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "2022 technical reseidency at Harvestwork to develop 'BodyMouth'. 'BodyMouth' turns the body into an instrument for speech. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "Development of 'BodyMouth'; an instrument that turns the body into a mouth for speech, at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "Photo courtesy of Harvestworks",
 	},
@@ -120,9 +120,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Maquette [2021]",
+		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
-		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 // 								{
 // 			name: "The Bessies' 2020 Archive",
 // 			img: "images/12345678910delal_alal.png",
-// 			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum, Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
+// 			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
 // 			link: "http://bessies.org/canceled-work-2020/",
 // 			credit: "",
 // 		},
