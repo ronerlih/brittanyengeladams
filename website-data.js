@@ -1,11 +1,5 @@
 let WEBSITE_DATA = [
-		{
-		name: "Nancy Manocherian's the cell theatre",
-		img: "images/3512_1851994514325451.jpg",
-		blurb: "'BodyMouth/Ielele' at the Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
-		link: "http://www.thecelltheatre.org/",
-		credit: "",
-	},
+	
 	
 	{
 		name: "3d digital sculpture",
@@ -15,12 +9,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 			{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, and online data.",
-		link: "",
-		credit: "Photo by Nasa",
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "Photo: Nasa",
 	},
+
 	
 	{
 		name: "Proximity Technology from Qualcomm",
@@ -137,14 +132,14 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "NASA Photo",
+			{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, and online data.",
+		link: "",
+		credit: "Image: Nasa",
 	},
-
+		
 		{
 		name: "Hand Dance – Research",
 		img: "images/239545144544514414944514455144514495.png",
@@ -270,7 +265,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "'BodyMouth' a tool that turns the body into an instrument for speech, at Harvestworks, from 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "BodyMouth is a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence. 2022 Harvestworks Residency.",
 		link: "",
 		credit: "Harvestworks' Photo",
 	},
@@ -278,9 +273,16 @@ let WEBSITE_DATA = [
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Performance of'BodyMouth/Ielele' co-presented by Harvestworks in The New Media Caucus Symposium at Virginia Tech in October 2022.",
+		blurb: "BodyMouth as performance presented at The New Media Caucus Symposium/Exhibition, from October 2022.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Future Bodies' Photo",
+	},
+		{
+		name: "Nancy Manocherian's the cell theatre",
+		img: "images/3512_1851994514325451.jpg",
+		blurb: "BodyMouth the tool at the Nancy Manocherian's the cell theatre.",
+		link: "http://www.thecelltheatre.org/",
+		credit: "",
 	},
 	
 	{
