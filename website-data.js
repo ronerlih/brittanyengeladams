@@ -1,5 +1,4 @@
 let WEBSITE_DATA = [
-	
 		{
 		name: "Nancy Manocherian's the cell theatre – Artist Residency",
 		img: "images/3512_1851994514325451.jpg",
