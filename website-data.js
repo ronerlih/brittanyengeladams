@@ -1,6 +1,6 @@
 let WEBSITE_DATA = [
 		{
-		name: "Nancy Manocherian's the cell theatre – Artist Residency",
+		name: "Nancy Manocherian's the cell theatre",
 		img: "images/3512_1851994514325451.jpg",
 		blurb: "'BodyMouth/Ielele' at the Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
 		link: "http://www.thecelltheatre.org/",
@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, mathematics, statistical data, and probability outcomes.",
+		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, and online data.",
 		link: "",
 		credit: "Photo by Nasa",
 	},
@@ -278,7 +278,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "'BodyMouth/Ielele'presented by Future Bodies, co-presented by Harvestworks at The New Media Caucus Symposium at Virginia Tech in October 2022.",
+		blurb: "Performance of'BodyMouth/Ielele' co-presented by Harvestworks in The New Media Caucus Symposium at Virginia Tech in October 2022.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Future Bodies' Photo",
 	},
