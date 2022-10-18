@@ -270,7 +270,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "Development of 'BodyMouth'; an instrument that turns the body into a mouth for speech, at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
+		blurb: "'BodyMouth' a tool that turns the body into an instrument for speech, at Harvestworks, from 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
 		credit: "Harvestworks' Photo",
 	},
@@ -289,7 +289,6 @@ let WEBSITE_DATA = [
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit: ",
-	},
 	
 ];
 
