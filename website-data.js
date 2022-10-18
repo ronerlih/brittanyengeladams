@@ -50,13 +50,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Boston Dynamics",
 	},
-				{
-			name: "Rutgers University – Curator of the Student Dance Concert",
-			img: "images/RutgersProgram.jpg", 
-			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
-			link: "",
-			credit: "",
-		},
+// 				{
+// 			name: "Rutgers University – Curator of the Student Dance Concert",
+// 			img: "images/RutgersProgram.jpg", 
+// 			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
+// 			link: "",
+// 			credit: "",
+// 		},
 
 				{
 		name: "YouTube Improv",
@@ -94,13 +94,13 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-			{
-		name: "Movement Mapping – Motion Capture & A.I. ",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Movement Mapping – Motion Capture & A.I. ",
+// 		img: "images/118__111118___111492__614_91949_2614919.gif",
+// 		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 		{
 		name: "Hand Dance – Research",
@@ -252,13 +252,13 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
-	{
-		name: "Emergent Landscape III",
-		img: "images/Ameribanned_leg__cut.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 	{
+// 		name: "Emergent Landscape III",
+// 		img: "images/Ameribanned_leg__cut.gif",
+// 		blurb: "Tessellation, Digital-Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 	{
 		name: "3d Scene",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
