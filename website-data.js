@@ -20,7 +20,7 @@ let WEBSITE_DATA = [
 		img: "images/vortex.gif",
 		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, mathematics, statistical data, and probability outcomes.",
 		link: "",
-		credit: "Photo courtesy of Nasa",
+		credit: "Photo by Nasa",
 	},
 	
 	{
@@ -39,14 +39,17 @@ let WEBSITE_DATA = [
 // 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 // 			credit: "",
 // 		},
+	
 	{
 
 		name: "Human-Robot",
 		img: "images/21519201414113333.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: "Photo courtesy of Boston Dynamics",
+		credit: "Photo by Boston Dynamics",
 	},
+	
+	
 // 				{
 // 			name: "Rutgers University – Curator of the Student Dance Concert",
 // 			img: "images/RutgersProgram.jpg", 
@@ -72,15 +75,17 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+	
 		{
-		name: "Archival Artifact 'Mizrach'",
+		name: "Archival Artifact 'Mizrach",
 		img: "images/1926318892613892618138.jpg",
 		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
+	
 			{
-		name: "Movement Mapping – Motion Capture & A.I. ",
+		name: "Movement Mapping – Motion Capture & A.I.",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
@@ -94,6 +99,7 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
 		{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
@@ -101,9 +107,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-
 	{
 		name: "I Am Not A Robot",
 		img: "images/1221251201515018195125201514.gif",
@@ -119,6 +122,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Book by Peter McMahon and Christine Cipriani",
 	},
+	
 		{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -159,7 +163,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 
-// 								{
+// 	{
 // 			name: "The Bessies' 2020 Archive",
 // 			img: "images/12345678910delal_alal.png",
 // 			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
@@ -168,7 +172,7 @@ let WEBSITE_DATA = [
 // 		},
 
 
-	// 			{
+	// 	{
 	// 		name: "Midcentury Architecture and Community on the Outer Cape (Artist Residency),",
 	// 		img: "images/ccbk.png",
 	// 		blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.", 
@@ -190,14 +194,16 @@ let WEBSITE_DATA = [
 // 			link: "https://tisch.nyu.edu/dance/courses",
 // 			credit: "",
 // 		},
+	
+	
 // 				{
 // 			name: "Bates Dance Festival (Faculty) ",
 // 			img: "images/bates321.png",
 // 			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
 // 			link: "https://www.batesdancefestival.org/",
 // 			credit:"",
-
-// 		},
+// 			},
+	
 	// 		{
 	// 		name: "The Young and The Banging (Publication)",
 	// 		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
@@ -212,7 +218,7 @@ let WEBSITE_DATA = [
 	// 	img: "images/3516515151651475195147512.jpg",
 	// 	blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
 	// 	link: "",
-	// 	credit: ".",
+	// 	credit: "",
 	// },
 	
 	
@@ -261,6 +267,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
+	
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
@@ -268,6 +275,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Harvestworks",
 	},
+	
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
@@ -279,7 +287,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?.",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit: ",
 	},
