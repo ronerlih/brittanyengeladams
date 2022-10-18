@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Photo by NASA",
+		credit: "NASA Photo",
 	},
 
 		{
@@ -273,7 +273,7 @@ let WEBSITE_DATA = [
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "Development of 'BodyMouth'; an instrument that turns the body into a mouth for speech, at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
-		credit: "Photo courtesy of Harvestworks",
+		credit: "Harvestworks' Photo",
 	},
 	
 		{
@@ -281,7 +281,7 @@ let WEBSITE_DATA = [
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "'BodyMouth/Ielele'presented by Future Bodies, co-presented by Harvestworks at The New Media Caucus Symposium at Virginia Tech in October 2022.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Image courtesy of Future Bodies",
+		credit: "Future Bodies' Photo",
 	},
 	
 	{
