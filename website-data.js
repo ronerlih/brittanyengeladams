@@ -1,29 +1,15 @@
 let WEBSITE_DATA = [
-// 		{
-// 		name: "Nancy Manocherian's the cell theatre – Artist Residency",
-// 		img: "images/3512_1851994514325451.jpg",
-// 		blurb: "Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
-// 		link: "http://www.thecelltheatre.org/",
-// 		credit: "",
-// 	},
 		{
-		name: "Future Bodies | New Media Caucus",
-		img: "images/1651351514511820_lt_h.gif",
-		blurb: "'BodyMouth'presented by Future Bodies, co-presented by Harvestworks at The New Media Caucus Symposium at Virginia Tech in October 2022.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Image courtesy of Future Bodies",
-	},
-		{
-		name: "Harvestworks – Residency",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "Development of 'BodyMouth'; an instrument that turns the body into a mouth for speech, at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
-		link: "",
-		credit: "Photo courtesy of Harvestworks",
+		name: "Nancy Manocherian's the cell theatre – Artist Residency",
+		img: "images/3512_1851994514325451.jpg",
+		blurb: "'BodyMouth/Ielele' at the Nancy Manocherian's the cell theatre (Artistic Director Kira Simring) is a not-for-profit dedicated to the incubation and presentation of new work across all artistic disciplines that mine the mind, pierce and awaken the soul.",
+		link: "http://www.thecelltheatre.org/",
+		credit: "",
 	},
 	{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -34,6 +20,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Photo courtesy of Nasa",
 	},
+	
+	{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/Intersection.jpg",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
+	
 		
 // 		{
 // 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
@@ -65,20 +60,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-			{
-		name: "Midcentury Architecture and Outer Cape Community – Artist Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "Book by Peter McMahon and Christine Cipriani",
-	},
+
+
 
 // 				{
 // 		name: "Skeletal Avatar",
@@ -87,21 +70,27 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-// 		{
-// 		name: "Archival Artifact 'Mizrach' ",
-// 		img: "images/1926318892613892618138.jpg",
-// 		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "",
-// 		credit: "",
-// 	},
-// 			{
-// 		name: "Movement Mapping – Motion Capture & A.I. ",
-// 		img: "images/118__111118___111492__614_91949_2614919.gif",
-// 		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-// 		link: "",
-// 		credit: "",
-// 	},
-
+		{
+		name: "Archival Artifact 'Mizrach' ",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+			{
+		name: "Movement Mapping – Motion Capture & A.I. ",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
+		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+	{
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 		{
 		name: "Hand Dance – Research",
 		img: "images/11414121191918.gif",
@@ -109,7 +98,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+	
 	
 
 	{
@@ -118,6 +107,13 @@ let WEBSITE_DATA = [
 		blurb: "Adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
+	},
+			{
+		name: "Midcentury Architecture and Outer Cape Community – Artist Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "",
+		credit: "Book by Peter McMahon and Christine Cipriani",
 	},
 		{
 		name: "Maquette 2021",
@@ -136,10 +132,10 @@ let WEBSITE_DATA = [
 // 	},
 				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/13181851195138.gif",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+		credit: "Photo courtesy of NASA"",
 	},
 
 		{
@@ -259,19 +255,26 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
-	{
-		name: "3d Scene",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		{
+		name: "Harvestworks – Residency",
+		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		blurb: "Development of 'BodyMouth'; an instrument that turns the body into a mouth for speech, at Harvestworks in 2022. Harvestworks presents experimental artworks created in collaboration with Technology, Engineering, Art and Music (TEAM) Lab.",
 		link: "",
-		credit: "",
+		credit: "Photo courtesy of Harvestworks",
+	},
+		{
+		name: "Future Bodies | New Media Caucus",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "'BodyMouth/Ielele'presented by Future Bodies, co-presented by Harvestworks at The New Media Caucus Symposium at Virginia Tech in October 2022.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Image courtesy of Future Bodies",
 	},
 	{
 		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
 		link: "",
-		credit: "Photo courtesy of NASA",
+		credit: ",
 	},
 	
 ];
