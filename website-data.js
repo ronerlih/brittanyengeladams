@@ -1,4 +1,5 @@
 let WEBSITE_DATA = [
+	
 		{
 		name: "Nancy Manocherian's the cell theatre – Artist Residency",
 		img: "images/3512_1851994514325451.jpg",
@@ -6,6 +7,7 @@ let WEBSITE_DATA = [
 		link: "http://www.thecelltheatre.org/",
 		credit: "",
 	},
+	
 	{
 		name: "3d digital sculpture",
 		img: "images/11811_192114417.gif",
@@ -71,7 +73,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 		{
-		name: "Archival Artifact 'Mizrach' ",
+		name: "Archival Artifact 'Mizrach'",
 		img: "images/1926318892613892618138.jpg",
 		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
@@ -84,6 +86,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 	{
 		name: "Hand Dance | Film",
 		img: "images/handdance202.jpg",
@@ -108,6 +111,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 			{
 		name: "Midcentury Architecture and Outer Cape Community – Artist Residency",
 		img: "images/nofrills.png",
@@ -233,6 +237,7 @@ let WEBSITE_DATA = [
 	// 		link: "",
 	// 		credit: "",
 	// },
+	
 // 	{
 // 		name: "Emergent Landscape I",
 // 		img: "images/patterns/Firgure1invert.jpg",
@@ -248,6 +253,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
 // 		credit: "",
 // 	},
+	
 // 	{
 // 		name: "Emergent Landscape III",
 // 		img: "images/Ameribanned_leg__cut.gif",
@@ -269,10 +275,11 @@ let WEBSITE_DATA = [
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Image courtesy of Future Bodies",
 	},
+	
 	{
 		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the ‘new normal'?.",
 		link: "",
 		credit: ",
 	},
