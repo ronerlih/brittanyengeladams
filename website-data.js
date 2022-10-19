@@ -284,6 +284,14 @@ let WEBSITE_DATA = [
 		link: "http://www.thecelltheatre.org/",
 		credit: "",
 	},
+
+			{
+		name: "Wireless-Fidelity 2015",
+		img: "images/261949_8111949118111949.png",
+		blurb: "Gallery Thaddaus Ropac, Paris",
+		link: "http://www.thecelltheatre.org/",
+		credit: "",
+	},
 	
 	{
 		name: "Farewell 2020",
@@ -292,6 +300,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	}
+	
 ];
 
 
