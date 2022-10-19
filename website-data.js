@@ -265,7 +265,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks – Residency",
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
-		blurb: "BodyMouth is a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence. 2022 Harvestworks Residency.",
+		blurb: "2022 Harvestworks residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
 	},
@@ -280,7 +280,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Nancy Manocherian's the cell theatre",
 		img: "images/_11124__19119.png",
-		blurb: "BodyMouth the tool at the Nancy Manocherian's the cell theatre.",
+		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
 		link: "",
 		credit: "",
 	},
