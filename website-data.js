@@ -124,7 +124,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance  Research no. 1",
+		name: "Hand Dance  Research (no. 1)",
 		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
@@ -141,7 +141,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "I Am Not A Robot 2022",
+		name: "I Am Not A Robot – 2022",
 		img: "images/1221251201515018195125201514.gif",
 		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
@@ -175,7 +175,7 @@ let WEBSITE_DATA = [
 	
 	
 // 		{
-// 		name: "I am not a Robot",
+// 		name: "I am not a Robot | 2022",
 // 		img: "images/giphy1humanrobot.gif",
 // 		blurb: "Adversarial Neural Networks, and Machine Learning Algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 // 		link: "",
