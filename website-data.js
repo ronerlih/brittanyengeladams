@@ -8,14 +8,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-				{
-		name: "YouTube Improv | 2018 ",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
+	
+		{
+		name: "Cape Cod Midcentury Architecture 2020/2021 Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
-		credit: ""
+		credit: "Book by Peter McMahon and Christine Cipriani",
 	},
+
+	
 	
 	{
 		name: "Hand Dance Film | 2020 ",
@@ -33,13 +35,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Cape Cod Midcentury Architecture | 2020/2021 Artist Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "Book by Peter McMahon and Christine Cipriani",
-	},
+	
 	
 
 	
@@ -60,14 +56,14 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 	
-	{
-
-		name: "Human/Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+				{
+		name: "YouTube Improv | 2018 ",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+	
 	
 	
 				{
@@ -78,13 +74,6 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-		{
-		name: "Digital Sculpture | 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
 
 
 
@@ -103,6 +92,7 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+	
 	{
 		name: "Harvestworks  Residency | 2022",
 		img: "images/S837492874_i467984567_.jpg",
@@ -142,6 +132,14 @@ let WEBSITE_DATA = [
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
 		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+	{
+
+		name: "Human/Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
@@ -299,6 +297,13 @@ let WEBSITE_DATA = [
 		},
 	
 		
+		{
+		name: "Digital Sculpture | 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 
 	         {
 		name: "Farewell  2020",
