@@ -293,7 +293,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Future Bodies Exhibition | 2022 ",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Symposium/Exhibition on October 1st 2022.",
+		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
 		link: "",
 		credit: "",
 		
