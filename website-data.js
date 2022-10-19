@@ -130,7 +130,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+	{
+		name: "I Am Not A Robot – 2022",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	
 	
 		{
@@ -140,10 +146,12 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "I Am Not A Robot – 2022",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	
+	
+		{
+		name: "Digital Sculpture | 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -151,13 +159,6 @@ let WEBSITE_DATA = [
 		name: "Hand Dance  Research (no. 2.)",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
-		{
-		name: "Digital Sculpture | 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
