@@ -267,21 +267,21 @@ let WEBSITE_DATA = [
 		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
 		blurb: "BodyMouth is a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence. 2022 Harvestworks Residency.",
 		link: "",
-		credit: "Harvestworks' Photo",
+		credit: "",
 	},
 	
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "BodyMouth as performance presented at The New Media Caucus Symposium/Exhibition, from October 2022.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Future Bodies' Photo",
+		link: "",
+		credit: ",
 	},
 		{
 		name: "Nancy Manocherian's the cell theatre",
-		img: "images/3512_1851994514325451.jpg",
+		img: "images/_11124__19119.png",
 		blurb: "BodyMouth the tool at the Nancy Manocherian's the cell theatre.",
-		link: "http://www.thecelltheatre.org/",
+		link: "",
 		credit: "",
 	},
 
@@ -289,7 +289,7 @@ let WEBSITE_DATA = [
 		name: "Wireless-Fidelity 2015",
 		img: "images/261949_8111949118111949.png",
 		blurb: "Gallery Thaddaus Ropac, Paris",
-		link: "http://www.thecelltheatre.org/",
+		link: "",
 		credit: "",
 	},
 	
