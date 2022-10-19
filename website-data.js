@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Wireless  Fidelity | 2015",
 		img: "images/261949_8111949118111949.png",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
 		link: "",
 		credit: "",
 	},
@@ -14,7 +14,7 @@ let WEBSITE_DATA = [
 		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
-		credit: "Book by Peter McMahon and Christine Cipriani",
+		credit: "",
 	},
 
 	
