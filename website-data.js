@@ -1,6 +1,14 @@
 let WEBSITE_DATA = [
 	
 	
+			{
+		name: "Wireless Fidelity 2015",
+		img: "images/261949_8111949118111949.png",
+		blurb: "Gallery Thaddaus Ropac, Paris",
+		link: "",
+		credit: "",
+	},
+	
 	{
 		name: "3d digital sculpture",
 		img: "images/11811_192114417.gif",
@@ -70,13 +78,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-		name: "Archival Artifact 'Mizrach",
-		img: "images/1926318892613892618138.jpg",
-		blurb: "A 'Mizrach' crafted by Israel Manaschewitz (my great-great grandfather), for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Archival Artifact 'Mizrach",
+// 		img: "images/1926318892613892618138.jpg",
+// 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 			{
 		name: "Movement Mapping – Motion Capture & A.I.",
@@ -263,8 +271,8 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Harvestworks – Residency",
-		img: "images/8182811802118118281182023o18118229192023o181119.jpg",
+		name: "Harvestworks  Residency",
+		img: "images/S837492874_i467984567_.png",
 		blurb: "2022 Harvestworks residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
@@ -285,13 +293,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-			{
-		name: "Wireless-Fidelity 2015",
-		img: "images/261949_8111949118111949.png",
-		blurb: "Gallery Thaddaus Ropac, Paris",
-		link: "",
-		credit: "",
-	},
+	
 	
 	{
 		name: "Farewell 2020",
