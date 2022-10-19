@@ -10,18 +10,19 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "3d digital sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-		link: "",
+		name: "Hand Dance | Film",
+		img: "images/handdance202.jpg",
+		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
 			{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "Photo: Nasa",
+		credit: "",
 	},
 
 	
@@ -94,13 +95,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Hand Dance | Film",
-		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	
 		{
 		name: "Hand Dance – Research",
@@ -146,6 +141,14 @@ let WEBSITE_DATA = [
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
 		credit: "Book by Peter McMahon and Christine Cipriani",
+	},
+	
+	{
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
 	},
 		
 		{
