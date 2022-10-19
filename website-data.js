@@ -8,6 +8,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	{
+		name: "3d digital sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 				{
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
@@ -144,13 +151,7 @@ let WEBSITE_DATA = [
 		credit: "Book by Peter McMahon and Christine Cipriani",
 	},
 	
-	{
-		name: "3d digital sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 		
 		{
 		name: "Hand Dance – Research",
