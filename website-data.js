@@ -116,7 +116,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance  Research I.",
+		name: "Hand Dance  Research no. 1",
 		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
@@ -138,6 +138,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Hand Dance  Research no. 2.",
+		img: "images/239545144544514414944514455144514495.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	{
 
 		name: "Human/Robot",
@@ -155,15 +162,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
-		
 		{
-		name: "Hand Dance  Research II.",
-		img: "images/239545144544514414944514455144514495.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		name: "Digital Sculpture | 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
+		
+	
 	
 // 		{
 // 		name: "I am not a Robot",
@@ -300,13 +307,7 @@ let WEBSITE_DATA = [
 		},
 	
 		
-		{
-		name: "Digital Sculpture | 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 
 	         {
 		name: "Farewell  2020",
