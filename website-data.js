@@ -8,13 +8,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+
 				{
 		name: "YouTube Improv 2018 ",
 		img: "images/YouTubeimprovhigh.gif",
@@ -68,14 +62,20 @@ let WEBSITE_DATA = [
 	
 	
 				{
-			name: "Rutgers University – Curator of the Student Dance Concert",
+			name: "Rutgers University | Curator of the 2021 Student Dance Concert",
 			img: "images/loreewide.png", 
-			blurb: "Curtator of the 2021 Fall Student Dance Concert at Rutgers University. The Students presented works, in response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
+			blurb: "The Students presented works, in response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
 			link: "",
 			credit: "",
 		},
 
-	
+		{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 
 
 
