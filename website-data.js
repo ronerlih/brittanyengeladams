@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Wireless  Fidelity  2015",
+		name: "Wireless  Fidelity | 2015",
 		img: "images/261949_8111949118111949.png",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015",
 		link: "",
@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	},
 
 				{
-		name: "YouTube Improv 2018 ",
+		name: "YouTube Improv | 2018 ",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Hand Dance | 2020 Film",
+		name: "Hand Dance Film | 2020 ",
 		img: "images/handdance202.jpg",
 		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 	},
 	
 			{
-		name: "Architecture of Memory | 2021 Publication",
+		name: "Architecture of Memory, Publication | 2021 ",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Movement Research Performance Journal review of Architecture of Memory [2020/2021]: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -34,7 +34,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Cape Cod | Midcentury Architecture 2020/2021 Artist Residency",
+		name: "Cape Cod Midcentury Architecture | 2020/2021 Artist Residency",
 		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	
 	{
 
-		name: "Human-Robot",
+		name: "Human/Robot",
 		img: "images/21519201414113333.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-			name: "Rutgers University | Curator of the 2021 Student Dance Concert",
+			name: "Curator at Rutgers University | 2021 Student Dance Concert",
 			img: "images/loreewide.png", 
 			blurb: "The Students presented works, in response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
 			link: "",
@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 		},
 
 		{
-		name: "Digital Sculpture",
+		name: "Digital Sculpture | 2020",
 		img: "images/11811_192114417.gif",
 		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -104,7 +104,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	{
-		name: "Harvestworks  Residency",
+		name: "Harvestworks  Residency | 2022",
 		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
@@ -123,14 +123,14 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance  Research",
+		name: "Hand Dance  Research I.",
 		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "I Am Not A Robot",
+		name: "I Am Not A Robot | 2021/2022",
 		img: "images/1221251201515018195125201514.gif",
 		blurb: "Adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Maquette [2021]",
+		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
 		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
@@ -157,7 +157,7 @@ let WEBSITE_DATA = [
 	
 		
 		{
-		name: "Hand Dance – Research",
+		name: "Hand Dance  Research II.",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -290,7 +290,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Future Bodies | New Media Caucus",
+		name: "Future Bodies Exhibition | 2022 ",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Symposium/Exhibition on October 1st 2022.",
 		link: "",
@@ -301,7 +301,7 @@ let WEBSITE_DATA = [
 		
 
 	         {
-		name: "Farewell 2020",
+		name: "Farewell  2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
