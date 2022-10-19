@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 	{
 		name: "3d digital sculpture",
 		img: "images/11811_192114417.gif",
-		blurb: "The motion-capture technologly pictographically motions itself while the possible movements make a kind of digital skin, a boundary of data that moves with the body and can be moved through like atoms and fragments.",
+		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -279,7 +279,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks  Residency",
 		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2022 Harvestworks residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
+		blurb: "Harvestworks 2020 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
 		
@@ -289,7 +289,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Future Bodies | New Media Caucus",
 		img: "images/1651351514511820_lt_h.gif",
-		blurb: "BodyMouth as performance presented at The New Media Caucus Symposium/Exhibition, from October 2022.",
+		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Symposium/Exhibition on October 1st 2022.",
 		link: "",
 		credit: "",
 		
