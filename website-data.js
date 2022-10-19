@@ -290,7 +290,8 @@ let WEBSITE_DATA = [
 		blurb: "BodyMouth as performance presented at The New Media Caucus Symposium/Exhibition, from October 2022.",
 		link: "",
 		credit: ",
-	},
+		
+		},
 	
 		
 
@@ -300,16 +301,17 @@ let WEBSITE_DATA = [
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit: "",
-	  },
+		},
 	
 	
-// 	{
-// 		name: "Nancy Manocherian's the cell theatre",
-// 		img: "images/11124__19119.png",
-// 		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Nancy Manocherian's the cell theatre",
+		img: "images/11124__19119.png",
+		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
+		link: "",
+		credit: "",
+	}
+	
 	
 	
 	
