@@ -289,7 +289,7 @@ let WEBSITE_DATA = [
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "BodyMouth as performance presented at The New Media Caucus Symposium/Exhibition, from October 2022.",
 		link: "",
-		credit: ",
+		credit: "",
 		
 		},
 	
