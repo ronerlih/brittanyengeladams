@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Architecture of Memory, Publication | 2021 ",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Movement Research Performance Journal review of Architecture of Memory [2020/2021]: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		blurb: "Movement Research Performance Journal review of Architecture of Memory from 2021: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Proprioceptive Research",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "Proprioceptive research with A.I. and motion capture tech. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
@@ -135,12 +135,12 @@ let WEBSITE_DATA = [
 	{
 		name: "I Am Not A Robot 2022",
 		img: "images/1221251201515018195125201514.gif",
-		blurb: "Adversarial neural networks, and machine learning algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
 		{
-		name: "Hand Dance  Research no. 2.",
+		name: "Hand Dance  Research (no. 2.)",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -166,7 +166,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Digital Sculpture | 2020",
 		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -289,9 +289,9 @@ let WEBSITE_DATA = [
 	
 	
 				{
-		name: "Memory Dance",
+		name: "Memory Dance 2022",
 		img: "images/vortex.gif",
-		blurb: "Kinect, Machine Learning, Artificial Intelligence. Experimental approach to motion capture recording, data collection, and programming.",
+		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
 		credit: "Image: Nasa",
 	},
