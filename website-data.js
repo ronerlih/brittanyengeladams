@@ -136,14 +136,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "Kinect, Machine Learning, and artificial intelligence. Experimental approach to motion capture recording, data collection, and programming.",
-		link: "",
-		credit: "Image: Nasa",
-	},
-		
+	
 	
 		{
 		name: "Maquette [2021]",
@@ -286,6 +279,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
+				{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "Kinect, Machine Learning, Artificial Intelligence. Experimental approach to motion capture recording, data collection, and programming.",
+		link: "",
+		credit: "Image: Nasa",
+	},
 		
 	
 	
