@@ -273,13 +273,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
+	
 		{
 		name: "Harvestworks  Residency",
 		img: "images/S837492874_i467984567_.png",
 		blurb: "2022 Harvestworks residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
-	},
+		
+		},
+	
 	
 		{
 		name: "Future Bodies | New Media Caucus",
@@ -291,20 +294,22 @@ let WEBSITE_DATA = [
 	
 		
 
-	{
+	         {
 		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit: "",
-	},
-	{	
-		name: "Nancy Manocherian's the cell theatre",
-		img: "images/11124__19119.png",
-		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
-		link: "",
-		credit: "",
-	},
+	  },
+	
+	
+// 	{
+// 		name: "Nancy Manocherian's the cell theatre",
+// 		img: "images/11124__19119.png",
+// 		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 	
