@@ -2,21 +2,21 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Wireless Fidelity 2015",
+		name: "Wireless  Fidelity  2015",
 		img: "images/261949_8111949118111949.png",
-		blurb: "Gallery Thaddaus Ropac, Paris",
+		blurb: "IWireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "3d digital sculpture",
+		name: "Digital Sculpture",
 		img: "images/11811_192114417.gif",
 		blurb: "The infared light of the motion capture technologly pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
 				{
-		name: "YouTube Improv",
+		name: "YouTube Improv 2018 ",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
 		link: "",
@@ -24,29 +24,29 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Hand Dance | Film",
+		name: "Hand Dance | 2020 Film",
 		img: "images/handdance202.jpg",
-		blurb: "'Hand Dance' is a film commissioned by The Guggenheim Museum - Works & Process in 2020, made in collaboration with David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Inspired by tbe release date, the eve of election 2020, the film reflects this precipice.",
+		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
 			{
-		name: "Movement Research Performance Journal | Publication",
+		name: "Architecture of Memory | 2021 Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "From MRPJ: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		blurb: "Movement Research Performance Journal review of Architecture of Memory [2020/2021]: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 
 	
-	{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-		link: "",
-		credit: "",
-	},
+// 	{
+// 		name: "Proximity Technology from Qualcomm",
+// 		img: "images/Intersection.jpg",
+// 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 		
 // 		{
@@ -70,7 +70,7 @@ let WEBSITE_DATA = [
 				{
 			name: "Rutgers University – Curator of the Student Dance Concert",
 			img: "images/loreewide.png", 
-			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
+			blurb: "Curtator of the 2021 Fall Student Dance Concert at Rutgers University. The Students presented works, in response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
 			link: "",
 			credit: "",
 		},
@@ -94,9 +94,17 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+	{
+		name: "Harvestworks  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks 2020 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
+		link: "",
+		credit: "",
+		
+		},
 	
 			{
-		name: "Movement Mapping – Motion Capture & A.I.",
+		name: "Proprioceptive Research",
 		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Iterative studies of movement using motion-capture technology and artificial intelligence as proprioceptive research. The infrared sensor of the kinect affects the body’s sensorial experience of movement. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
@@ -106,7 +114,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance – Research",
+		name: "Hand Dance  Research",
 		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
@@ -122,16 +130,16 @@ let WEBSITE_DATA = [
 			{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
-		blurb: "Experimental approach to motion capture recording, data collection, and programming – using kinect, machine learning algorithms, artificial intelligence, and online data.",
+		blurb: "Kinect, Machine Learning, and artificial intelligence. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
 		credit: "Image: Nasa",
 	},
 		
 	
 		{
-		name: "Maquette 2021",
+		name: "Maquette [2021]",
 		img: "images/11842191415_218514201184.jpg",
-		blurb: "Omni-wheels, arduino, c++, bluetooth, breadboard and batteries. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
@@ -246,7 +254,7 @@ let WEBSITE_DATA = [
 	//  {
 	// 		name: "YouTube Improv Live",
 	// 		img: "images/2121__5_55521212121212521212.jpg",
-	// 		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist.",
+	// 		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 	// 		link: "",
 	// 		credit: "",
 	// },
@@ -276,14 +284,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-		{
-		name: "Harvestworks  Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks 2020 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
-		link: "",
-		credit: "",
 		
-		},
 	
 	
 		{
