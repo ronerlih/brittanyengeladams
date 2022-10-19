@@ -8,6 +8,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+				{
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
+		link: "",
+		credit: ""
+	},
 	
 	{
 		name: "Hand Dance | Film",
@@ -53,21 +60,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-// 				{
-// 			name: "Rutgers University – Curator of the Student Dance Concert",
-// 			img: "images/RutgersProgram.jpg", 
-// 			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
-// 			link: "",
-// 			credit: "",
-// 		},
-
 				{
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist.",
-		link: "",
-		credit: ""
-	},
+			name: "Rutgers University – Curator of the Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "Curtator of the Student Dance Concert at Rutgers University in Fall of 2021. The Students created work in response to a theatrical performance or production from the 19th century, or the 20th century – reimagined for the 21st century stage. Presented by Mason Gross School of the Arts.",
+			link: "",
+			credit: "",
+		},
+
+	
 
 
 
