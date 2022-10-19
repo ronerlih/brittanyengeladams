@@ -97,7 +97,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvestworks  Residency",
 		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks 2020 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
 		
