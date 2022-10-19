@@ -74,7 +74,15 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
+{
 
+		name: "Human/Robot 2022",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
 
 
 // 				{
@@ -146,11 +154,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-
-		name: "Human/Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		{
+		name: "Digital Sculpture | 2020",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -163,13 +170,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-		name: "Digital Sculpture | 2020",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 		
 	
 	
