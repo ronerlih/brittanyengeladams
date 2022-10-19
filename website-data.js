@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 				{
 			name: "Curator at Rutgers University | 2021 Student Dance Concert",
 			img: "images/loreewide.png", 
-			blurb: "The Students presented works, in response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
+			blurb: "The Students presented works, as a response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
 			link: "",
 			credit: "",
 		},
