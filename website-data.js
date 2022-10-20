@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 
 {
 
-		name: "Human/Robot 2022",
+		name: "Human/Robot",
 		img: "images/21519201414113333.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
@@ -106,7 +106,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Harvestworks  Residency | 2022",
+		name: "Harvestworks  Residency",
 		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
@@ -125,14 +125,14 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Hand Dance  Research (no. 1)",
+		name: "Hand Dance  Research",
 		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
 		credit: "",
 	},
 	{
-		name: "I Am Not A Robot – 2022",
+		name: "I Am Not A Robot",
 		img: "images/1221251201515018195125201514.gif",
 		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
@@ -150,14 +150,14 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Digital Sculpture | 2020",
+		name: "Digital Sculpture",
 		img: "images/11811_192114417.gif",
 		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
 		{
-		name: "Hand Dance  Research (no. 2.)",
+		name: "Hand Dance  Research",
 		img: "images/239545144544514414944514455144514495.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
