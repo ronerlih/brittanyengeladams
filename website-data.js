@@ -10,7 +10,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Hand Dance Film",
-		img: "images/handdance202.jpg",
+		img: "images/guggenheim_museum.png",
 		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
