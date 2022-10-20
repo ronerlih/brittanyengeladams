@@ -1,13 +1,4 @@
 let WEBSITE_DATA = [
-	
-	
-			{
-		name: "Wireless  Fidelity",
-		img: "images/7112518525185121251855180713.png",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
-		link: "",
-		credit: "",
-	},
 		{
 		name: "Hand Dance Film",
 		img: "images/guggenheim_museum.png",
@@ -18,10 +9,8 @@ let WEBSITE_DATA = [
 	
 	
 	
-
 	
 	
-
 	
 	
 		{
@@ -300,7 +289,13 @@ let WEBSITE_DATA = [
 		credit: "Image: Nasa",
 	},
 		
-	
+			{
+		name: "Wireless  Fidelity",
+		img: "images/7112518525185121251855180713.png",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Future Bodies Exhibition | 2022 ",
