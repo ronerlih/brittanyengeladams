@@ -2,15 +2,22 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Wireless  Fidelity | 2015",
+		name: "Wireless  Fidelity",
 		img: "images/7112518525185121251855180713.png",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Hand Dance Film",
+		img: "images/handdance202.jpg",
+		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 			{
-		name: "Architecture of Memory, Publication | 2021 ",
+		name: "Architecture of Memory, Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Movement Research Performance Journal review of Architecture of Memory from 2021: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
@@ -20,13 +27,7 @@ let WEBSITE_DATA = [
 
 	
 	
-	{
-		name: "Hand Dance Film | 2020 ",
-		img: "images/handdance202.jpg",
-		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 	
 	
 		{
@@ -57,7 +58,7 @@ let WEBSITE_DATA = [
 // 		},
 	
 				{
-		name: "YouTube Improv | 2018 ",
+		name: "YouTube Improv ",
 		img: "images/YouTubeimprovhigh.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
 		link: "",
