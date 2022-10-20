@@ -128,15 +128,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-		{
-		name: "Maquette 2021",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+				{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
-		credit: "",
+		credit: "Image: Nasa",
 	},
+	
+	
 	
 	
 		{
@@ -281,12 +281,12 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-				{
-		name: "Memory Dance 2022",
-		img: "images/vortex.gif",
-		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
+		{
+		name: "Maquette 2021",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
-		credit: "Image: Nasa",
+		credit: "",
 	},
 		
 			{
@@ -298,7 +298,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Future Bodies Exhibition | 2022 ",
+		name: "Future Bodies Exhibition",
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
 		link: "",
