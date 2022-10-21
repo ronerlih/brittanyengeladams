@@ -92,16 +92,14 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	
-	
-	{
-		name: "Harvestworks  Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
+			{
+		name: "Wireless  Fidelity",
+		img: "images/7112518525185121251855180713.png",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
 		link: "",
 		credit: "",
-		
-		},
+	},
+	
 	
 	{
 
@@ -291,13 +289,15 @@ let WEBSITE_DATA = [
 	},
 	
 		
-			{
-		name: "Wireless  Fidelity",
-		img: "images/7112518525185121251855180713.png",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
+	
+	{
+		name: "Harvestworks  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech. Phoneme by phoneme, the body sounds out full words by performing specific gestures in sequence.",
 		link: "",
 		credit: "",
-	},
+		
+		},
 	
 		{
 		name: "Future Bodies Exhibition",
