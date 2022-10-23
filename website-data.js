@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Hand Dance | Film",
-		img: "images/111945111814926145119451114619149261914926145.jpg",
+		img: "images/79514154515144445114______444_44.png",
 		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -129,7 +129,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance  Research",
-		img: "images/11414121191918.gif",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
 		link: "",
 		credit: "",
@@ -295,8 +295,8 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Hand Dance  Research",
-		img: "images/239545144544514414944514455144514495.png",
+		name: "Hand Dance Research",
+		img: "images/11414121191918.gif",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -305,7 +305,7 @@ let WEBSITE_DATA = [
 		
 	
 	{
-		name: "Harvestworks  Residency",
+		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2022 Harvestworks Artist Residency to develop BodyMouth; a movement and sound work that turns the body into an instrument for speech.",
 		link: "",
@@ -319,7 +319,7 @@ let WEBSITE_DATA = [
 	
 
 	         {
-		name: "Farewell  2020",
+		name: "Farewell 2020",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
