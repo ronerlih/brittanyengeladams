@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Future Bodies Symposium",
-		img: "images/The Sirens_by_Joshua Okoro108.jpg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
 		link: "",
 		credit: "",
@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Proprioceptive Research",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
+		img: "images/122118212001182120118.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
