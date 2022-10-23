@@ -1,32 +1,33 @@
 let WEBSITE_DATA = [
 	
-		{
-		name: "Future Bodies Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
-		link: "",
-		credit: "",
-		
-		},
-		{
-		name: "Hand Dance Film",
-		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	
 			{
-		name: "Architecture of Memory, Publication",
+		name: "Architecture of Memory | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Movement Research Performance Journal review of Architecture of Memory from 2021: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 	
+		{
+		name: "BodyMouth/Ielele | Symposium ",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		blurb: "BodyMouth presented by Future Bodies - New Media Caucus Symposium at Virginia Tech on October 1st 2022.",
+		link: "",
+		credit: "",
+		
+		},
+		{
+		name: "Hand Dance | Film",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
+		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
+	
 	
 			{
-		name: "Wireless  Fidelity",
+		name: "Wireless Fidelity | Exhibition",
 		img: "images/7112518525185121251855180713.png",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac, Paris, in 2015.",
 		link: "",
