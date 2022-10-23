@@ -1,7 +1,16 @@
 let WEBSITE_DATA = [
+	
+		{
+		name: "Future Bodies Symposium",
+		img: "images/The Sirens_by_Joshua Okoro108.jpg",
+		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
+		link: "",
+		credit: "",
+		
+		},
 		{
 		name: "Hand Dance Film",
-		img: "images/hands.JPG",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
 		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -301,14 +310,7 @@ let WEBSITE_DATA = [
 		
 		},
 	
-		{
-		name: "Future Bodies Exhibition",
-		img: "images/The Sirens_by_Joshua Okoro108.jpg",
-		blurb: "Performance of BodyMouth presented by Future Bodies at The New Media Caucus Exhibition on October 1st 2022.",
-		link: "",
-		credit: "",
-		
-		},
+	
 	
 		
 	
