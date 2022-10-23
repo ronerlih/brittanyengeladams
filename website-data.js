@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "BodyMouth at Virgina Tech's Future Bodies - New Media Caucus Symposium in 2020. copresented by HarvestWorks",
 		link: "",
-		credit: "",
+		credit: "Photo by Joshua Okoro",
 		
 		},
 	
