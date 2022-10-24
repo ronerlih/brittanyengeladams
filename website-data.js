@@ -34,13 +34,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Cape Cod Midcentury Architecture Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+	
+					{
+		name: "YouTube Improv ",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
 		link: "",
-		credit: "",
-	},	
+		credit: ""
+	},
+	
 		{
 		name: "Mapping as Proprioceptive Research",
 		img: "images/11414121191918.gif",
@@ -100,13 +102,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "YouTube Improv ",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
+		{
+		name: "Cape Cod Midcentury Architecture Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
-		credit: ""
-	},
+		credit: "",
+	},	
+	
+	
 	
 	
 	
