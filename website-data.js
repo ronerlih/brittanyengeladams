@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Proprioceptive Research",
-		img: "images/122118212001182120118.gif",
+		img: "images/11414121191918.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -43,7 +43,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance  Research",
 		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage.",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage – Or that erases parts of the body from the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
@@ -288,13 +288,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-		name: "Hand Dance Research",
-		img: "images/11414121191918.gif",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Hand Dance Research",
+// 		img: "images/11414121191918.gif",
+// 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 	
