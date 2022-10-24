@@ -24,11 +24,12 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
 		{
-		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
-		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		name: "Cape Cod Midcentury Architecture Residency",
+		img: "images/ss202210230132PM.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "",
 		credit: "",
 	},
 	
@@ -44,15 +45,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-		{
-		name: "Cape Cod Midcentury Architecture Residency",
-		img: "images/ss202210230132PM.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
+	{
+		name: "Hand Dance | Film",
+		img: "images/79514154515144445114______444_44.png",
+		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
 	
 	
 
