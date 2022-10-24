@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth/Ielele | Symposium ",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "BodyMouth at Virgina Tech's Future Bodies - New Media Caucus Symposium in 2020. copresented by HarvestWorks",
+		blurb: "BodyMouth at Virgina Tech's Future Bodies - New Media Caucus Symposium in 2022. copresented by HarvestWorks",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
