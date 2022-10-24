@@ -19,6 +19,14 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
+		{
+
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
 			{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -33,14 +41,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
@@ -58,13 +59,6 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-		{
-		name: "Hand Dance  Research",
-		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage – Or that erases parts of the body from the footage as if disintegrating into the background of the scene",
-		link: "",
-		credit: "",
-	},
 				{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
@@ -72,6 +66,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Image: Nasa",
 	},
+		{
+		name: "Hand Dance  Research",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage – Or that erases parts of the body from the footage as if disintegrating into the background of the scene",
+		link: "",
+		credit: "",
+	},
+	
 	
 			{
 		name: "Wireless Fidelity | Exhibition",
@@ -82,7 +84,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Proprioceptive Research",
+		name: "Mapping as Proprioceptive Research",
 		img: "images/11414121191918.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
