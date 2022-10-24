@@ -59,7 +59,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/7112518525185121251855180713.png",
-		blurb: "Wireless Fidelity at The Gallery Thaddaus Ropac Paris, in 2015.",
+		blurb: "Wireless Fidelity – 2015 at The Gallery Thaddaus Ropac in Paris France.",
 		link: "",
 		credit: "",
 	},
