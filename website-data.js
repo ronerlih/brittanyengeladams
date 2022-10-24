@@ -33,7 +33,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+		{
+		name: "Hand Dance | Film",
+		img: "images/79514154515144445114______444_44.png",
+		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 			{
 		name: "Wireless Fidelity | Exhibition",
@@ -45,13 +51,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
-		blurb: "Hand Dance film, commissioned by The Works & Process at The Guggenheim Museum in 2020, a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 	
 	
 	
