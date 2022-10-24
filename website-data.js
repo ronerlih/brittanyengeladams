@@ -83,14 +83,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Mapping as Proprioceptive Research",
-		img: "images/11414121191918.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+					{
+		name: "YouTube Improv ",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
 		link: "",
-		credit: "",
+		credit: ""
 	},
-
+	
+	
 	
 // 	{
 // 		name: "Proximity Technology from Qualcomm",
@@ -150,14 +151,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "YouTube Improv ",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
+		{
+		name: "Mapping as Proprioceptive Research",
+		img: "images/11414121191918.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
-	
+
 	
 	
 	
@@ -176,8 +177,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 		},
-	
-	
 	
 // 	{
 // 		name: "Before Zeta | Film",
