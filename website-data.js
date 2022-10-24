@@ -3,7 +3,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Architecture of Memory | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Movement Research Performance Journal review of Architecture of Memory from 2021: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth/Ielele | Symposium ",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "BodyMouth at Virgina Tech's Future Bodies - New Media Caucus Symposium in 2022. copresented by HarvestWorks",
+		blurb: "BodyMouth presented at The New Media Caucus Symposium at Virginia Tech, in Blacksburg Virginia, from 2022.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2022 Harvestworks artist residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech.",
+		blurb: "Harvestworks artist residency 2022, for the development of BodyMouth, a movement and sound tool, that turns the body into an instrument for speech.",
 		link: "",
 		credit: "",
 		
