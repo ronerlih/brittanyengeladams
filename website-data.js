@@ -43,6 +43,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	{
+		name: "Harvestworks Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks artist residency in 2022, for the development of BodyMouth, a movement and sound project, that turns the body into an instrument for speech.",
+		link: "",
+		credit: "",
+		
+		},
 	
 	
 		{
@@ -59,15 +67,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	{
-		name: "Harvestworks Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks artist residency 2022, for the development of BodyMouth, a movement and sound tool, that turns the body into an instrument for speech.",
+				{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
-		credit: "",
-		
-		},
+		credit: "Image: Nasa",
+	},
+	
 			{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/7112518525185121251855180713.png",
@@ -94,13 +101,7 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 	
-				{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
-		link: "",
-		credit: "Image: Nasa",
-	},
+	
 
 	
 	
