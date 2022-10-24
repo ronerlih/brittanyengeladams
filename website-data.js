@@ -14,7 +14,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth | Exhibition",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' presented at The New Media Caucus Symposium at Virginia Tech, in Blacksburg Virginia, from 2022.",
+		blurb: "'BodyMouth' presented in 2022 at The New Media Caucus Symposium at Virginia Tech, in Blacksburg Virginia.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks artist residency in 2022, for the development of BodyMouth, a movement and sound project, that turns the body into an instrument for speech.",
+		blurb: "Harvestworks 2022 artist residency, for the development of BodyMouth, a movement and sound project, that turns the body into an instrument for speaking.",
 		link: "",
 		credit: "",
 		
