@@ -1,12 +1,13 @@
 let WEBSITE_DATA = [
-	
-			{
-		name: "Architecture of Memory | Publication",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+	      {
+		name: "Farewell 2020",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
 		credit: "",
-	},
+		},
+	
+
 	
 		{
 		name: "BodyMouth/Ielele | Symposium ",
@@ -16,6 +17,7 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
+	
 	
 		{
 		name: "Proprioceptive Research",
@@ -161,6 +163,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+			{
+		name: "Architecture of Memory | Publication",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
 	
 // 	{
 // 		name: "Before Zeta | Film",
@@ -303,13 +313,7 @@ let WEBSITE_DATA = [
 		
 	
 
-	         {
-		name: "Farewell 2020",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit: "",
-		},
+	   
 	
 	
 // 	{
