@@ -34,6 +34,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+		{
+		name: "Mapping as Proprioceptive Research",
+		img: "images/11414121191918.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
 		{
 		name: "Cape Cod Midcentury Architecture Residency",
 		img: "images/ss202210230132PM.png",
@@ -65,6 +74,13 @@ let WEBSITE_DATA = [
 		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
 		credit: "Image: Nasa",
+	},
+	{
+		name: "I Am Not A Robot",
+		img: "images/024657834.jpg",
+		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
 	},
 		{
 		name: "Hand Dance  Research",
@@ -143,21 +159,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-	{
-		name: "I Am Not A Robot",
-		img: "images/024657834.jpg",
-		blurb: "adversarial neural networks; machine learning algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
 	
-		{
-		name: "Mapping as Proprioceptive Research",
-		img: "images/11414121191918.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
 
 	
 	
