@@ -68,19 +68,20 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-				{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
-		link: "",
-		credit: "Image: Nasa",
-	},
+	
 	{
 		name: "I Am Not A Robot",
 		img: "images/0119191215191919.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
+	},
+				{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
+		link: "",
+		credit: "Image: Nasa",
 	},
 		{
 		name: "Hand Dance  Research",
