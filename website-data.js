@@ -12,7 +12,7 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "BodyMouth/Ielele | Symposium ",
+		name: "BodyMouth | Exhibition",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "'BodyMouth' presented at The New Media Caucus Symposium at Virginia Tech, in Blacksburg Virginia, from 2022.",
 		link: "",
