@@ -34,7 +34,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
+		{
+		name: "Cape Cod Midcentury Architecture Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "",
+		credit: "",
+	},	
 		{
 		name: "Mapping as Proprioceptive Research",
 		img: "images/11414121191918.gif",
@@ -43,13 +49,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Cape Cod Midcentury Architecture Residency",
-		img: "images/ss202210230132PM.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "",
-	},
+	
 	
 	{
 		name: "Harvestworks Residency",
@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance  Research",
 		img: "images/111945111814926145119451114619149261914926145.jpg",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage – Or that erases parts of the body from the footage as if disintegrating into the background of the scene",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
