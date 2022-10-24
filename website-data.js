@@ -48,6 +48,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	{
+		name: "Harvestworks Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2022 Harvestworks artist residency for the development of BodyMouth, a movement and sound work that turns the body into an instrument for speech.",
+		link: "",
+		credit: "",
+		
+		},
 			{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/7112518525185121251855180713.png",
@@ -288,16 +296,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
 	
-	{
-		name: "Harvestworks Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2022 Harvestworks Artist Residency to develop BodyMouth; a movement and sound work that turns the body into an instrument for speech.",
-		link: "",
-		credit: "",
-		
-		},
 	
 	
 	
