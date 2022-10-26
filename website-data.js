@@ -35,12 +35,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "YouTube Improv ",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
-		link: "",
-		credit: ""
+	{
+		name: "Hand Dance | Film",
+		img: "images/79514154515144445114______444_44.png",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
 	},
 	
 		{
@@ -62,14 +62,14 @@ let WEBSITE_DATA = [
 		
 		},
 	
-	
-		{
-		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
+						{
+		name: "YouTube Improv ",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
+		link: "",
+		credit: ""
 	},
+	
 	
 	{
 		name: "I Am Not A Robot",
