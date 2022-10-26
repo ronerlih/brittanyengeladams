@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/111945111814926145119451114619149261914926145.jpg",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -87,7 +87,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Hand Dance  Research",
-		img: "images/111945111814926145119451114619149261914926145.jpg",
+		img: "images/260374531_10222578746990328_2817034818975565237_n.jpg",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
