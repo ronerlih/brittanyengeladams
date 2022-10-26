@@ -78,19 +78,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-				{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
-		link: "",
-		credit: "Image: Nasa",
-	},
+	
 		{
 		name: "Hand Dance  Research",
 		img: "images/260374531_10222578746990328_2817034818975565237_n.jpg",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
+	},
+				{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
+		link: "",
+		credit: "Image: Nasa",
 	},
 	
 	
