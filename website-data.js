@@ -88,10 +88,10 @@ let WEBSITE_DATA = [
 	},
 				{
 		name: "Memory Dance",
-		img: "images/vortex.gif",
+		img: "images/1215225.png",
 		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
-		credit: "Image: Nasa",
+		credit: "",
 	},
 	
 	
