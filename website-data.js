@@ -14,7 +14,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth' | New Media Exhibition",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' at the 2022 Future Bodies – New Media Exhibition at Virginia Tech.",
+		blurb: "'BodyMouth' at 'Future Bodies' New Media Exhibition at Virginia Tech in 2022.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
