@@ -116,13 +116,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Proximity Technology from Qualcomm",
-// 		img: "images/Intersection.jpg",
-// 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/755555_11351893a_.jpg",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
 	
 		
 // 		{
