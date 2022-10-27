@@ -61,6 +61,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Harvestworks | Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
+		link: "",
+		credit: "",
+		
+		},
+
 	
 		{
 		name: "YouTube Improv  | Website",
@@ -69,14 +78,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	{
-		name: "Harvestworks | Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
-		link: "",
-		credit: "",
-		
-		},
 	
 	{
 		name: "YouTube Improv  | Performance",
@@ -85,24 +86,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-
 	{
-		name: "Shower  | Performance",
-		img: "images/705050520228105205281017.jpeg",
-		blurb: "'Shower' is a performative work inspired by the music of American Composer, Nico Muhly's song 'Shower' from his album Mothertongue: II. The work was made in collaboration with students from the Joffrey Ballet School,  presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: ""
-	},
-	
-
-	
-		{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
+	{
+		name: "Emergent Landscape II | Tessellation,",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	
 				{
 		name: "Memory Dance",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
@@ -111,6 +109,15 @@ let WEBSITE_DATA = [
 		credit: "Photo by Nasa",
 	},
 	
+		{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+		link: "",
+		credit: "",
+	},
+	
+
 	
 			{
 		name: "Wireless Fidelity | Exhibition",
@@ -181,16 +188,6 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-	
-	
-		{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
 	
 	  {
 		name: "Farewell 2020",
@@ -310,13 +307,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	{
-		name: "Emergent Landscape II | Tessellation,",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+
 	
 	    		{
 		name: "Movement Research Performance Journal | Publication",
