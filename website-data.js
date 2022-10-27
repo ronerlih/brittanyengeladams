@@ -1,7 +1,14 @@
 let WEBSITE_DATA = [
 	
 
-	
+			{
+
+		name: "Human Robot",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
@@ -37,14 +44,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
 
-		name: "Human Robot",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	{
@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Shower | Performance",
 		img: "images/705050520228105205281017.jpeg",
-		blurb: "Shower' is a performative work inspired by the music of American Composer, Nico Muhly's song 'Shower' from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
