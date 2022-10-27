@@ -7,7 +7,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "BodyMouth/Ielele' | Exhibition",
-		img: "images/95121121555.jpg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "'BodyMouth/Ielele' at The 2022 Future Bodies' New Media Caucus Exhibition at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 		img: "images/vortex.gif",
 		blurb: "Neural Networks, Artificial Intelligence, and Machine Learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
-		credit: "image by Nasa",
+		credit: "Photo by Nasa",
 	},
 	
 	
