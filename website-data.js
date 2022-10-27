@@ -81,17 +81,17 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance  Research",
-		img: "images/260374531_10222578746990328_2817034818975565237_n.jpg",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
 				{
 		name: "Memory Dance",
-		img: "images/1215225.jpg",
+		img: "images/vortex.gif",
 		blurb: "neural networks, artificial intelligence, and machine learning. Experimental approach to motion capture recording, data collection, and programming.",
 		link: "",
-		credit: "",
+		credit: "image by Nasa",
 	},
 	
 	
