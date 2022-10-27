@@ -6,7 +6,7 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "BodyMouth/Ielele'",
+		name: "BodyMouth/Ielele' | Exhibition",
 		img: "images/95121121555.jpg",
 		blurb: "'BodyMouth/Ielele' at The 2022 Future Bodies' New Media Caucus Exhibition at Virginia Tech.",
 		link: "",
@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Hand Dance Film",
+		name: "Hand Dance | Film",
 		img: "images/8114114351145115114.jpg",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Mapping as proprioceptive research",
+		name: "Proprioceptive Research | Mapping",
 		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-		name: "Harvestworks Residency",
+		name: "Harvestworks | Artist Residency",
 		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
 		link: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		},
 	
 						{
-		name: "YouTube Improv ",
+		name: "YouTube Improv  | Performance",
 		img: "images/25521252120021521202552120212052120025913161552120225.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
 		link: "",
@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Hand Dance Research",
+		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Wireless Fidelity",
+		name: "Wireless Fidelity | Exhibition",
 		img: "images/18151613.jpg",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
 		link: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Cape Cod Midcentury Architecture Residency",
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
 		img: "images/311631513116315113154.jpg",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
@@ -131,7 +131,7 @@ let WEBSITE_DATA = [
 	
 	
 				{
-			name: "Curator at Rutgers University's 2021 Student Dance Concert",
+			name: "Curator at Rutgers University | 2021 Student Dance Concert",
 			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "The Students presented works, as a response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
 			link: "",
@@ -291,15 +291,15 @@ let WEBSITE_DATA = [
 // 	},
 	
 	{
-		name: "Emergent Landscape II",
+		name: "Emergent Landscape II | Tessellation,",
 		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Tessellation, Digital-Collage.",
+		blurb: "Digital Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
 	
 	    		{
-		name: "Architecture of Memory Publication",
+		name: "Architecture of Memory | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "From Movement Research Performance Journal: ‘It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in ‘Architecture of Memory,’ where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.'",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
