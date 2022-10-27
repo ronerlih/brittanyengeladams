@@ -74,14 +74,6 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Harvestworks | Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
-		link: "",
-		credit: "",
-		
-		},
-		{
 		name: "Shower | Performance",
 		img: "images/705050520228105205281017.jpeg",
 		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
@@ -143,6 +135,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Harvestworks | Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
+		link: "",
+		credit: "",
+		
+		},
 			{
 		name: "I Am Not A Robot",
 		img: "images/7.jpeg",
