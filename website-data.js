@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "YouTube Improv ",
-		img: "images/youtubeweb.jpeg",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
 		blurb: "‘YouTube Improv' is a website that plays trending YouTube videos in the venue's proximity as a movement score. The performers on stage then have to adjust their choreography according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts, at Rutgers University, in 2018",
 		link: "",
 		credit: ""
@@ -137,13 +137,13 @@ let WEBSITE_DATA = [
 
 	
 	
-// 				{
-// 			name: "Curator at Rutgers University | 2021 Student Dance Concert",
-// 			img: "images/loreewide.png", 
-// 			blurb: "The Students presented works, as a response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
-// 			link: "",
-// 			credit: "",
-// 		},
+				{
+			name: "Curator at Rutgers University's 2021 Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Students presented works, as a response to, a theatrical production from the 19th or 20th century, reimagined for the 21st century stage. Presented by Mason Gross School of the Arts at Rutgers University in 2021.",
+			link: "",
+			credit: "",
+		},
 
 	
 	
