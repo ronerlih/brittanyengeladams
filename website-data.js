@@ -84,7 +84,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-
+{
+		name: "Emergent Landscape II | Tessellation,",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
 		{
 		name: "YouTube Improv  | Website",
@@ -102,13 +108,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-	{
-		name: "Emergent Landscape II | Tessellation,",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+
 	
 
 		{
