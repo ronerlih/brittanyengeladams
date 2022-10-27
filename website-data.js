@@ -282,8 +282,8 @@ let WEBSITE_DATA = [
 
 	//  {
 	// 		name: "YouTube Improv Live",
-	// 		img: "images/2121__5_55521212121212521212.jpg",
-	// 		blurb: "‘YouTube improv' is a website that plays trending YouTube videos in the venue's proximity as a score for improvisation. The tool produces spontaneity and indeterminacy; brings the authenticity of the real on stage which depicts: local people, real events, media and culture. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+	// 		img: "images/72115225215215225591316152255.jpg",
+	// 		blurb: "",
 	// 		link: "",
 	// 		credit: "",
 	// },
