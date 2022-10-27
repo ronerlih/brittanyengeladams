@@ -83,7 +83,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Memory Dance",
 		img: "images/vortex.gif",
-		blurb: "Neural Networks, Artificial Intelligence, and Machine Learning. Experimental approach to motion capture recording, data collection, and programming.",
+		blurb: "‘Memory Dance’ uses open source library, (OpenNI)' s algorithms to create a skeletal-avatar in the form of a human body based on a mathematical transformation that turns a human pose into spatial-data.",
 		link: "",
 		credit: "Photo by Nasa",
 	},
