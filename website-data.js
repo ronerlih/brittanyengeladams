@@ -91,13 +91,14 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-{
-		name: "Emergent Landscape II | Tessellation,",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		{
+		name: "Shower | Performance",
+		img: "images/705050520228105205281017.jpeg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
 		credit: "",
 	},
+
 	
 	{
 		name: "Hand Dance | Film",
@@ -125,15 +126,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-		name: "Shower | Performance",
-		img: "images/705050520228105205281017.jpeg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
+	{
+		name: "Emergent Landscape II | Tessellation,",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
-
+	
 			{
 		name: "I Am Not A Robot",
 		img: "images/7.jpeg",
