@@ -29,6 +29,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+					{
+		name: "Skeletal Avatar",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 			{
 		name: "Maquette 2021",
 		img: "images/21519201414113333.gif",
@@ -44,8 +51,22 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
 	
+			{
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
+		{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 	
 	{
 		name: "Hand Dance | Film",
@@ -54,13 +75,7 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-				{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+	
 		{
 		name: "Harvestworks | Artist Residency",
 		img: "images/8118221151181119920231518111.jpg",
@@ -86,13 +101,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/1266215159166122591612215916612916.png",
@@ -101,14 +110,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Photo by Nasa",
-	},
-	
+
 		{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -176,13 +178,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 		
-				{
-		name: "Skeletal Avatar",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
+
 	
 // 		{
 // 		name: "Archival Artifact 'Mizrach",
@@ -323,6 +319,15 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+	
+					{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Photo by Nasa",
+	},
+	
 	
 	
 // 	{
