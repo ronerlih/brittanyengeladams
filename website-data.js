@@ -297,21 +297,21 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-// 	{
-// 		name: "Emergent Landscape II",
-// 		img: "images/patterns/Firgure3original.jpg",
-// 		blurb: "Tessellation, Digital-Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-blue.html",
-// 		credit: "",
-// 	},
+	{
+		name: "Emergent Landscape II",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 	
-// 	{
-// 		name: "Emergent Landscape III",
-// 		img: "images/Ameribanned_leg__cut.gif",
-// 		blurb: "Tessellation, Digital-Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "",
-// 	},
+	{
+		name: "Emergent Landscape III",
+		img: "images/Ameribanned_leg__cut.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 // 		{
 // 		name: "Hand Dance Research",
