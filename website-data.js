@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 
 				{
 			name: "Architecture of Memory",
-			img: "images/Teia.gif", 
+			img: "images/411319.jpg", 
 			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth.",
 			link: "",
 			credit: "",
