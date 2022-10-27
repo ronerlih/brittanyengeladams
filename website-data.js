@@ -42,13 +42,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
+	
 			{
 		name: "Maquette 2021",
 		img: "images/21519201414113333.gif",
@@ -127,7 +121,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+	{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		link: "",
+		credit: ""
+	},
 			{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/18151613.jpg",
