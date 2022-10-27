@@ -76,7 +76,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+		{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/18151613.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -127,13 +133,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-			{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/1266215159166122591612215916612916.png",
