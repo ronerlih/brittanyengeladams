@@ -147,7 +147,7 @@ let WEBSITE_DATA = [
 
 				{
 			name: "Architecture of Memory",
-			img: "images/", 
+			img: "images/Teia.gif", 
 			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth.",
 			link: "",
 			credit: "",
@@ -312,7 +312,7 @@ let WEBSITE_DATA = [
 	},
 	
 	    		{
-		name: "Architecture of Memory | Publication",
+		name: "Movement Research | Publication",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Architecture of Memory’ chronicles ancestry and personal narrative, using archival research and Kinect (motion-capture)  ‘hacked’ retrofitted game console and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
