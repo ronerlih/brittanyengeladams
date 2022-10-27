@@ -57,13 +57,16 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-					{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+	
+	
+		{
+		name: "Shower | Performance",
+		img: "images/705050520228105205281017.jpeg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
-		credit: "Photo by Nasa",
+		credit: "",
 	},
+		
 		
 	
 	
@@ -84,15 +87,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-		{
-		name: "Shower | Performance",
-		img: "images/705050520228105205281017.jpeg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+				{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "Photo by Nasa",
 	},
+	
+	
 
 	
 			{
