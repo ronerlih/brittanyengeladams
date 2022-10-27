@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth, a movement and sound project, that turns the body into an instrument for speaking.",
+		blurb: "Harvestworks 2022 artist residency for the development of BodyMouth a movement and sound project that turns the body into an instrument.",
 		link: "",
 		credit: "",
 		
