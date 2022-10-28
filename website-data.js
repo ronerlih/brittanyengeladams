@@ -48,11 +48,11 @@ let WEBSITE_DATA = [
 	
 	
 	
-{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
+	{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.jpg",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
@@ -118,27 +118,27 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-	
-			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ chronicles ancestry and personal narrative, using archival research and Kinect (motion-capture)  ‘hacked’ retrofitted game console and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+	{
+		name: "Emergent Landscape I",
+		img: "images/patterns_202.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
 	
 
 	
-	
-	
-		
-	   {
-		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+
+	{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
 		credit: ""
 	},
+	
+	
+		
 	
 	
 		{
@@ -158,23 +158,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-	{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+	   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
 		credit: ""
 	},
-	 {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"Visualization by Nasa",
-		},
-		
+	
+	
+	
 	{
 		name: "Harvestworks |  Residency",
 		img: "images/8118221151181119920231518111.jpg",
@@ -183,6 +176,15 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	 {
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit:"Visualization by Nasa",
+		},
+		
+	
 	
 	
 		{
@@ -192,14 +194,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-		{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+	{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/18151613.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
 		credit: "",
 	},
+	
 			{
 		name: "Memory Dance",
 		img: "images/12516151516.gif",
@@ -250,14 +252,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Emergent Landscape I",
-		img: "images/patterns_202.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ chronicles ancestry and personal narrative, using archival research and Kinect (motion-capture)  ‘hacked’ retrofitted game console and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	
 
 	
 	
