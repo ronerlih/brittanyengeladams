@@ -95,23 +95,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+	{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/18151613.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
 		link: "",
 		credit: "",
 	},
+		
+	
+	  {
+		name: "Farewell 2020",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit: "",
+		},
 
 	
-	{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/311631513116315113154.jpg",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "",
-	},
+
 	
 			{
 		name: "Movement Research Performance Journal | Publication",
@@ -144,13 +146,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	  {
-		name: "Farewell 2020",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+	
+		{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/311631513116315113154.jpg",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
 		credit: "",
-		},
+	},
 	
 	
 		{
@@ -170,9 +173,9 @@ let WEBSITE_DATA = [
 		credit: "Photo by Nasa",
 	},
 		{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
