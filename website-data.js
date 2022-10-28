@@ -92,14 +92,22 @@ let WEBSITE_DATA = [
 		credit: "Photo by Nasa",
 	},
 	
-			{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
 
+	
+	{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/311631513116315113154.jpg",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "",
+		credit: "",
+	},
 	
 			{
 		name: "Movement Research Performance Journal | Publication",
@@ -110,13 +118,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/311631513116315113154.jpg",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "",
-	},
 	   {
 		name: "YouTube Improv  | Performance",
 		img: "images/72115225215215225591316152255.jpg",
@@ -124,14 +125,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
-		{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+			{
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
+	
 	{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprovhigh.gif",
