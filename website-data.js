@@ -74,14 +74,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-					{
-		name: "Skeletal Avatar",
-		img: "images/dionisioblancodblancodigitaecorchemuscles.jpeg",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
 	
+	
+			{
+		name: "Memory Dance",
+		img: "images/IMG23dmilkyway.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Visualization by J. Skowron, OGLE",
+	},
 			{
 		name: "Maquette 2021",
 		img: "images/1233740.gif",
@@ -94,14 +95,16 @@ let WEBSITE_DATA = [
 	
 	 
 
-				{
-		name: "Memory Dance",
-		img: "images/IMG23dmilkyway.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Visualization by J. Skowron, OGLE",
-	},
+		
 
+					{
+		name: "Skeletal Avatar",
+		img: "images/dionisioblancodblancodigitaecorchemuscles.jpeg",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
+	
 	
 			{
 		name: "Movement Research Performance Journal | Publication",
