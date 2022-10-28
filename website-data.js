@@ -27,13 +27,7 @@ let WEBSITE_DATA = [
 		},
 	
 	
-		{
-		name: "Shower | Performance",
-		img: "images/705050520228105205281017.jpeg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+	
 	
 	
 		{
@@ -63,7 +57,13 @@ let WEBSITE_DATA = [
 	},	
 	
 		
-	
+		{
+		name: "Shower | Performance",
+		img: "images/705050520228105205281017.jpeg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 	
 	
 		
@@ -104,15 +104,15 @@ let WEBSITE_DATA = [
 	
 		
 	
-	  {
-		name: "Farewell 2020",
-		img: "images/iuliandobrogeanu.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit: "",
-		},
+	 
 
-	
+				{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Photo by Nasa",
+	},
 
 	
 			{
@@ -132,13 +132,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-				{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Photo by Nasa",
-	},
+	
 	
 		{
 			name: "Curator at Rutgers University | Student Dance Concert",
@@ -356,6 +350,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	 {
+		name: "Farewell 2020",
+		img: "images/segmentations.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit: "",
+		},
 	
 	
 	
