@@ -228,6 +228,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Emergent Landscape III",
+		img: "images/Ameribanned_leg__cut.gif",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
 	
 // 	{
 // 		name: "Before Zeta | Film",
@@ -361,13 +369,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Emergent Landscape III",
-		img: "images/Ameribanned_leg__cut.gif",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+
 	
 // 		{
 // 		name: "Hand Dance Research",
