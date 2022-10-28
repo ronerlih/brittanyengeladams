@@ -117,14 +117,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-					{
-		name: "Skeletal Avatar",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+	   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+	
 		{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -181,15 +181,15 @@ let WEBSITE_DATA = [
 // 		},
 	
 	
-   {
-		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+
+	
+					{
+		name: "Skeletal Avatar",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
-		credit: ""
+		credit: "",
 	},
-	
-	
 		
 	
  
