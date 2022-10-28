@@ -18,9 +18,9 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "BodyMouth | Symposium",
+		name: "BodyMouth | Exhibition",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' Symposium at The 2022 Future Bodies' New Media Caucus Exhibition at Virginia Tech with Sidney San Martin and Kat Mustatea.",
+		blurb: "'BodyMouth' Exhibition at The 2022 'Future Bodies' New Media Caucus Exhibition at Virginia Tech with Sidney San Martin and Kat Mustatea.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/RutgersProgram.jpg", 
+			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
 			link: "",
 			credit: "",
