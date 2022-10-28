@@ -53,7 +53,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+	
+	{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/18151613.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},	
 	
 		
 	
@@ -95,13 +102,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
 		
 	
 	  {
