@@ -19,9 +19,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth | Exhibition",
+		name: "BodyMouth | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' Exhibition at The 2022 'Future Bodies' New Media Caucus Exhibition at Virginia Tech with Sidney San Martin and Kat Mustatea.",
+		blurb: "'BodyMouth' a collaboration between Sidney San Martin and Kat Mustatea at The 2022 'Future Bodies'  New Media Caucus Symposium at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -240,9 +240,9 @@ let WEBSITE_DATA = [
 	},
 	
 {
-		name: "Harvestworks | Artist Residency",
+		name: "Harvestworks |  Residency",
 		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development  of BodyMouth a movement and sound project that turns the body into an instrument with Sidney San Martin and Kat Mustatea.",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument.",
 		link: "",
 		credit: "",
 		
