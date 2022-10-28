@@ -226,6 +226,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
+	
+	{
+		name: "Emergent Landscape II | Tessellation,",
+		img: "images/wholives.png",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+	
 	{
 		name: "Emergent Landscape I",
 		img: "images/patterns_202.gif",
@@ -235,13 +244,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	{
-		name: "Emergent Landscape II | Tessellation,",
-		img: "images/wholives.png",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
 	
 		{
 		name: "Emergent Landscape III",
