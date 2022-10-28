@@ -1,7 +1,13 @@
 let WEBSITE_DATA = [
 	
 
-	
+	{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
@@ -14,13 +20,7 @@ let WEBSITE_DATA = [
 		
 		},
 	
-	{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-		link: "",
-		credit: "",
-	},
+	
 		{
 		name: "Shower | Performance",
 		img: "images/705050520228105205281017.jpeg",
@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+		
 			{
 
 		name: "Human Robot",
@@ -53,15 +53,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	
-	
-			{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/16101918161297820191816125129782019.jpg", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
+		
 	
 	
 	
@@ -131,13 +131,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-			{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+	
+		{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/16101918161297820191816125129782019.jpg", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
 	
 	{
 		name: "YouTube Improv  | Website",
