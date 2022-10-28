@@ -320,13 +320,13 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// },
 	
-// 	{
-// 		name: "Emergent Landscape I",
-// 		img: "images/patterns/Firgure1invert.jpg",
-// 		blurb: "Tessellation, Digital-Collage.",
-// 		link: "https://www.brittanyengeladams.com/red-who.html",
-// 		credit: "",
-// 	},
+	{
+		name: "Emergent Landscape I",
+		img: "images/patterns/Firgure1invert.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 	
 	{
 			name: "Architecture of Memory",
