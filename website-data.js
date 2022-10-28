@@ -84,13 +84,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Photo by Nasa",
-	},
 	
 		{
 		name: "Hand Dance | Research",
@@ -158,6 +151,13 @@ let WEBSITE_DATA = [
 		
 		},
 	
+				{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Photo by Nasa",
+	},
 		{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/18151613.jpg",
