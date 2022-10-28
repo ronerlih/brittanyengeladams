@@ -148,13 +148,7 @@ let WEBSITE_DATA = [
 		credit: "",
 		},
 	
-		{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
+	
 		{
 		name: "Harvestworks | Artist Residency",
 		img: "images/8118221151181119920231518111.jpg",
@@ -164,7 +158,13 @@ let WEBSITE_DATA = [
 		
 		},
 	
-	
+		{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/18151613.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
 		
 	
 	
@@ -207,7 +207,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
+	{
+		name: "Emergent Landscape I",
+		img: "images/patterns/Firgure1invert.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 	
 
 	{
@@ -321,13 +327,7 @@ let WEBSITE_DATA = [
 	// 		credit: "",
 	// },
 	
-	{
-		name: "Emergent Landscape I",
-		img: "images/patterns/Firgure1invert.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+	
 	
 	{
 			name: "Architecture of Memory",
