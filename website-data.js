@@ -158,14 +158,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Harvestworks | Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development  of BodyMouth a movement and sound project that turns the body into an instrument with Sidney San Martin and Kat Mustatea.",
-		link: "",
+	
+		{
+		name: "Emergent Landscape III",
+		img: "images/S2022102835049AM.jpg",
+		blurb: "Tessellation, Digital-Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-		
-		},
+	},
+	
 	
 	
 	
@@ -244,15 +245,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	
-		{
-		name: "Emergent Landscape III",
-		img: "images/S2022102835049AM.jpg",
-		blurb: "Tessellation, Digital-Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+{
+		name: "Harvestworks | Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 artist residency for the development  of BodyMouth a movement and sound project that turns the body into an instrument with Sidney San Martin and Kat Mustatea.",
+		link: "",
 		credit: "",
-	},
+		
+		},
+	
+	
 	
 	
 // 	{
