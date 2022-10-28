@@ -166,23 +166,24 @@ let WEBSITE_DATA = [
 	},
 		
 	
-		{
-			name: "Architecture of Memory",
-			img: "images/1215225.jpg", 
-			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth. From MRPJ:It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.",
-			link: "",
-			credit: "",
-		},
 	
-		
 	
 		{
-		name: "Shower | Performance",
-		img: "images/705050520228105205281017.jpeg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
+	
+			{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+	
 	{
 		name: "Hand Dance | Film",
 		img: "images/8114114351145115114.jpg",
@@ -354,22 +355,24 @@ let WEBSITE_DATA = [
 	// },
 	
 	
-	
 	{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
-		link: "",
-		credit: "",
-	},
+			name: "Architecture of Memory",
+			img: "images/1215225.jpg", 
+			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth. From MRPJ:It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.",
+			link: "",
+			credit: "",
+		},
 	
-			{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		
+	
+		{
+		name: "Shower | Performance",
+		img: "images/705050520228105205281017.jpeg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
+
 	
 	 {
 		name: "Farewell 2020",
