@@ -8,13 +8,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "I Am Not A Robot",
-		img: "images/11414121191918.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+	
 
 	
 	
@@ -28,7 +22,13 @@ let WEBSITE_DATA = [
 		},
 	
 	
-	
+	{
+		name: "I Am Not A Robot",
+		img: "images/11414121191918.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	
 	
 		{
@@ -110,6 +110,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
+	
 			{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
@@ -122,13 +131,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/loreewide.png", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
+		
 	   {
 		name: "YouTube Improv  | Performance",
 		img: "images/72115225215215225591316152255.jpg",
