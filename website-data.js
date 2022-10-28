@@ -149,15 +149,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
-	
 	{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		name: "Harvestworks | Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 artist residency for the development  of BodyMouth a movement and sound project that turns the body into an instrument with Sidney San Martin and Kat Mustatea.",
 		link: "",
-		credit: ""
-	},
+		credit: "",
+		
+		},
+	
+	
 	
 		{
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
@@ -167,15 +168,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		{
-		name: "Harvestworks | Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 artist residency for the development  of BodyMouth a movement and sound project that turns the body into an instrument with Sidney San Martin and Kat Mustatea.",
+	{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
-		credit: "",
+		credit: ""
+	},
 		
-		},
 	
 		{
 			name: "Architecture of Memory",
