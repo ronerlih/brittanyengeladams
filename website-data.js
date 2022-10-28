@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		img: "images/neuron.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
-		credit: "Visual by Andrew Moore and Pedro Guedes-Dias",
+		credit: "Visualization by by Andrew Moore and Pedro Guedes-Dias",
 	},
 
 	
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 		img: "images/IMG23dmilkyway.gif",
 		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "Visualization by J. Skowron, OGLE and Astronomical Observatory, University of Warsaw",
 	},
 
 	
@@ -355,7 +355,7 @@ let WEBSITE_DATA = [
 		img: "images/bloom.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit: "Visual by Bianca Capaldo and Caleb Dawson ",
+		credit:"Visualization by by Bianca Capaldo and Caleb Dawson ",
 		},
 	
 	
