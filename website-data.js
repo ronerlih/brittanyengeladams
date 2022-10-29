@@ -169,13 +169,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S2022102835049AM.jpg",
-		blurb: "Interactive digital collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	
 	{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprov2.gif",
@@ -183,7 +177,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-
+	{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S2022102835049AM.jpg",
+		blurb: "Interactive digital collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 			{
 
 		name: "Human Robot",
