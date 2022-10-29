@@ -183,7 +183,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"Visualization by Nasa",
 		},
-		
+	
+		{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},	
 	
 	
 	
@@ -194,13 +201,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/18151613.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
+
 	
 			{
 		name: "Memory Dance",
