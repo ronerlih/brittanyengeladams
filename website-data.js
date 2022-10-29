@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' a collaboration between Sidney San Martin and Kat Mustatea at The 2022 'Future Bodies'  New Media Caucus Symposium at Virginia Tech.",
+		blurb: "'BodyMouth' a collaboration between Sidney San Martin and Kat Mustatea at The 2022  New Media Caucus Symposium at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
