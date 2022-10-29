@@ -107,7 +107,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+	 
 		{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/wholives.png",
