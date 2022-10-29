@@ -117,7 +117,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	 
+	
+	{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
+	
 		{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/wholives.png",
@@ -127,16 +135,6 @@ let WEBSITE_DATA = [
 	},	
 		
 	
-		
-	
-	
-	{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/loreewide.png", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
 	{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/patterns_202.gif",
