@@ -170,6 +170,23 @@ let WEBSITE_DATA = [
 	},
 	
 		{
+		name: "Harvestworks |  Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument.",
+		link: "",
+		credit: "",
+		
+		},
+	
+			{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+	
+		{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S2022102835049AM.jpg",
 		blurb: "Interactive digital collage.",
@@ -183,33 +200,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
-	
-	
-	
-	{
-		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument.",
-		link: "",
-		credit: "",
-		
-		},
-	
 
-	
-	
-	
-
-
-	
-			{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "‘Memory Dance’ uses an open source library (OpenNI). (OpenNI)' s algorithms create a skeletal-avatar of a body based on a mathematical transformation that turns movement into 3d spatial-data. Using ‘Kinect’ movement-capture recording, and A.I. software that programmatically records and loops movements, shows a live camera feed of the Kinect, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
 	
 		{
 		name: "Hand Dance | Research",
