@@ -65,10 +65,10 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/S20221028at105852PM.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
@@ -105,15 +105,11 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
-	
-	
-	
 
-		{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+					{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/S20221028at105852PM.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
@@ -132,15 +128,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},	
-	
-		
-	{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/loreewide.png", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
+
 	
 		
    {
@@ -150,6 +138,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+			
+	{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
 		{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/patterns_202.gif",
@@ -188,14 +184,15 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-	
-		{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+			{
+
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+
 	
 	
 	
@@ -228,15 +225,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-
-			{
-
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
 		link: "",
 		credit: "",
 	},
+	
 	
 				{
 		name: "Movement Research Performance Journal | Publication",
