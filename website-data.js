@@ -351,8 +351,8 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Architecture of Memory",
-			img: "images/1926318892613892618138.jpg", 
-			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth. From MRPJ:It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.",
+			img: "images/1215225.png", 
+			blurb: "‘Architecture of Memory’ is a project of recollections that places loss and rupture as opportunities for transformation and growth. From MRPJ:It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.",
 			link: "",
 			credit: "",
 		},
