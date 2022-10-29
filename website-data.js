@@ -20,6 +20,15 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
+	
+			{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
+	
 		{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -184,13 +193,7 @@ let WEBSITE_DATA = [
 		credit:"Visualization by Nasa",
 		},
 	
-		{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},	
+
 	
 	
 	
