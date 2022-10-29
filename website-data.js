@@ -117,14 +117,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
 	{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/loreewide.png", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/3316530421011653043331653042101165304210210.jpg",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Emergent Landscape II | Tessellation,",
@@ -134,13 +133,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-		{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/3316530421011653043331653042101165304210210.jpg",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
-		credit: "",
-	},	
+		
+	{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
+	
+		
    {
 		name: "YouTube Improv  | Performance",
 		img: "images/72115225215215225591316152255.jpg",
