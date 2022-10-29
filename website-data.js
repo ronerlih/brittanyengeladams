@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Skeletal Avatar",
-		img: "images/1221251201515018195125201514.gif",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -373,7 +373,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Architecture of Memory",
-			img: "images/woodcutpdf.jpg", 
+			img: "images/1926318892613892618138.jpg", 
 			blurb: "‘Architecture of Memory’ is an ongoing research project and repository of recollections that places loss and rupture as opportunities for transformation and growth. From MRPJ:It could be theorized that blackness is that experience constituted by a naturalized lack of plot, history, and the ontological fortitude those things convey. This formulation is broached in 'Architecture of Memory' where artist Brittany Engel-Adams uses digital art techniques in order to (re)member ancestral performances. By (re)presenting the gestures that were her own necessary precondition, (i.e.those of her relatives) the artist forms a togetherness that transcends the self as a discreetly positioned thing in space-time and (re)supposes a possibility of experience both contingent upon and in excess to the phenomenal and causal.",
 			link: "",
 			credit: "",
