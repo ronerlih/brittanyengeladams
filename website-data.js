@@ -129,13 +129,14 @@ let WEBSITE_DATA = [
 
 	
 
-	{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
 		credit: ""
 	},
+		
 	
 	
 		
@@ -156,15 +157,14 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
-	
-	
-	   {
-		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+	{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
 		credit: ""
 	},
+	
 	
 	
 	
