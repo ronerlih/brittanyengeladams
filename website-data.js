@@ -78,14 +78,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-					{
-		name: "Skeletal Avatar",
-		img: "images/11102210155455.jpg",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		{
+		name: "Memory Dance",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
 	},
-		
 		
 	
 
@@ -155,14 +154,9 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-			{
-		name: "Memory Dance",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
 	
+
+		
 	
 	{
 		name: "YouTube Improv  | Website",
@@ -170,6 +164,13 @@ let WEBSITE_DATA = [
 		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
 		credit: ""
+	},
+							{
+		name: "Skeletal Avatar",
+		img: "images/11102210155455.jpg",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
 	},
 	{
 		name: "Emergent Landscape III | Tessellation",
