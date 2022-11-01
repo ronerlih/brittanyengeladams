@@ -13,9 +13,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth | Symposium",
+		name: "BodyMouth/Ielele | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' a collaboration between Sidney San Martin and Kat Mustatea at The 2022  New Media Caucus Symposium at Virginia Tech.",
+		blurb: "'BodyMouth/Ilelele'at The 2022  New Media Caucus Symposium at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -150,7 +150,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Harvestworks |  Residency",
 		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument.",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument for speech.",
 		link: "",
 		credit: "",
 		
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/S20221028at105852PM.jpg",
+		img: "images/1221251201515018195125201514.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
