@@ -29,14 +29,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/3316530421011653043331653042101165304210210.jpg",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	{
 		name: "I Am Not A Robot",
 		img: "images/11414121191918.gif",
@@ -47,15 +45,12 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/3316530421011653043331653042101165304210210.jpg",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "",
 		credit: "",
 	},
-	
-	
-	
 	
 	{
 		name: "Hand Dance | Film",
