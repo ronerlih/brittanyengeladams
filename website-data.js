@@ -108,9 +108,9 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Emergent Landscape III | Tessellation",
+		name: "Emergent Landscape III ",
 		img: "images/21101at75533PM.jpg",
-		blurb: "Online Collage.",
+		blurb: "Online Tessellation.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
@@ -120,10 +120,17 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/S2022110192534.jpg",
-		blurb: "Online Collage.",
+		blurb: "Online Tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},	
+			{
+		name: "Emergent Landscape I ",
+		img: "images/red-who_picture1.png",
+		blurb: "Online Tessellation.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 
 								{
 		name: "Skeletal Avatar",
@@ -149,13 +156,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-		{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/red-who_picture1.png",
-		blurb: "Interactive digital collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+
 		{
 		name: "Harvestworks |  Residency",
 		img: "images/S837492874_i467984567_.jpg",
