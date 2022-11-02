@@ -59,7 +59,13 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-	
+	{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S2022110175533.jpg",
+		blurb: "Interactive digital collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 
 	
@@ -168,13 +174,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S2022110175533.jpg",
-		blurb: "Interactive digital collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	
 	
 
 
