@@ -55,7 +55,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hand Dance | Film",
-		img: "images/AVATARJPG.JPG",
+		img: "images/",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -181,7 +181,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/infraredradiation.jpg",
+		img: "images/AVATARJPG.JPG",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
