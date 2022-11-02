@@ -17,7 +17,7 @@ let WEBSITE_DATA = [
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "'BodyMouth/Ilelele' presented at The Future Bodies – New Media Caucus Symposium, in 2022, at Virginia Tech.",
 		link: "",
-		credit: "",
+		credit: "Photo by Joshua Okoro",
 		
 		},
 	
