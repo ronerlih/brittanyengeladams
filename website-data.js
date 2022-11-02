@@ -109,7 +109,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/21101at75533PM.jpg",
-		blurb: "Interactive digital collage.",
+		blurb: "Online Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation,",
 		img: "images/S2022110192534.jpg",
-		blurb: "Interactive digital collage.",
+		blurb: "Online Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},	
