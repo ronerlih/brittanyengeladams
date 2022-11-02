@@ -147,13 +147,13 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-		{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/patterns_202.gif",
-		blurb: "Interactive digital collage.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+// 		{
+// 		name: "Emergent Landscape I | Tessellation",
+// 		img: "images/patterns_202.gif",
+// 		blurb: "Interactive digital collage.",
+// 		link: "https://www.brittanyengeladams.com/red-who.html",
+// 		credit: "",
+// 	},
 		{
 		name: "Harvestworks |  Residency",
 		img: "images/S837492874_i467984567_.jpg",
