@@ -216,6 +216,16 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+
+	
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ chronicles ancestry and personal narrative, using archival research and Kinect (motion-capture)  ‘hacked’ retrofitted game console and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
 	
 		{
 		name: "Shower | Performance",
@@ -227,13 +237,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ chronicles ancestry and personal narrative, using archival research and Kinect (motion-capture)  ‘hacked’ retrofitted game console and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
 	{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
