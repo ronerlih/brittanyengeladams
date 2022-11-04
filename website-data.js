@@ -53,14 +53,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+			{
+		name: "Emergent Landscape I ",
+		img: "images/red-who_picture1.png",
+		blurb: "Online Interactive Tessellation.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
 	{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
@@ -125,12 +125,13 @@ let WEBSITE_DATA = [
 		blurb: "Online Interactive Tessellation.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
-	},	
-			{
-		name: "Emergent Landscape I ",
-		img: "images/red-who_picture1.png",
-		blurb: "Online Interactive Tessellation.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+	},
+	
+	{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.jpg",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 
