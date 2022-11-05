@@ -53,11 +53,11 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Emergent Landscape I ",
-		img: "images/red-who_picture1.png",
-		blurb: "Online Interactive Tessellation.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+	{
+		name: "Memory Dance",
+		img: "images/neuron.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
 		credit: "",
 	},
 	
@@ -77,18 +77,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-	
-		{
-		name: "Memory Dance",
-		img: "images/neuron.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
+				{
+		name: "Emergent Landscape I ",
+		img: "images/red-who_picture1.png",
+		blurb: "Online Interactive Tessellation.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-		
-	
+
 
 	
 	
