@@ -178,7 +178,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
+		img: "images/705050520228105205281017.jpeg",
 		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
@@ -196,13 +196,13 @@ let WEBSITE_DATA = [
 	
 	
 		
-// 		{
-// 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-// 			img: "images/nyu2015188.png",
-// 			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-// 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-// 			credit: "",
-// 		},
+		{
+			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+			img: "images/nyu2015188.png",
+			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+			credit: "",
+		},
 	
 	
 
