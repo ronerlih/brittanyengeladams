@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "I Am Not A Robot",
-		img: "images/11842191415_218514201184.jpg,
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Memory Dance",
-		img: "images/12151512116.gif",
+		img: "images/12516151516.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/2138383815138158.png",
+		img: "images/2138383815138158.jpg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 		
 		{
 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/nyu2015188.png",
+			img: "images/nyu123.png",
 			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 			credit: "",
