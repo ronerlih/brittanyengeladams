@@ -20,12 +20,12 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
-		{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
 	
 			{
@@ -157,15 +157,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		
-   {
-		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+			{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
-
+		
 									{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
