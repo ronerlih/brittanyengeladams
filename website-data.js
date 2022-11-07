@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Emergent Landscape I | Tessellation  ",
-		img: "images/",
+		img: "images/2022110671409PM.jpg",
 		blurb:  "Collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
