@@ -49,6 +49,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+	
+		{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
+		link: "",
+		credit: "",
+	},
 		{
 			name: "Curator at Rutgers University | Student Dance Concert",
 			img: "images/RutgersConcertProgram.png", 
@@ -71,13 +79,7 @@ let WEBSITE_DATA = [
 	
 	
 		
-	{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene",
-		link: "",
-		credit: "",
-	},
+
 	
 				{
 		name: "Emergent Landscape I | Tessellation  ",
