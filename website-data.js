@@ -191,13 +191,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+ {
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit: "",
-	},
+		credit:"Visualization by Nasa",
+		},
+
 	
 	{
 		name: "Emergent Landscape III ",
@@ -228,14 +229,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-		 {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+				{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
-		credit:"Visualization by Nasa",
-		},
-
+		credit: "",
+	},
+		
 				{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
