@@ -177,22 +177,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-
-	
-			{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
-	
 	{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpg",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
+			{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
