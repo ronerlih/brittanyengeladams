@@ -27,20 +27,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+		{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/loreewide.png", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
 	
-			{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
 	
-
-	{
-		name: "I Am Not A Robot",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		
+	
+		{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/2138383815138158.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
@@ -53,13 +54,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/2138383815138158.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	{
+		name: "I Am Not A Robot",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 	{
 		name: "Memory Dance",
@@ -132,16 +135,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-			
 	{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/loreewide.png", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
-	
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
+			
+
 
 		{
 		name: "Harvestworks |  Residency",
