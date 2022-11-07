@@ -53,13 +53,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+			{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/2138383815138158.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+	
 	{
 		name: "Memory Dance",
 		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
@@ -182,17 +183,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-			{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/2138383815138158.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	
+{
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
-	
-	
-	
 	
 		
 		{
