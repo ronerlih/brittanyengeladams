@@ -106,13 +106,15 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
-		{
-		name: "Emergent Landscape III ",
-		img: "images/211112817PM.jpg",
-		blurb: "Interactive Collage .",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+	
+	{
+			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
+			img: "images/SS_553PM.jpg",
+			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+			credit: "",
+		},
+	
 	
 	{
 		name: "Proprioceptive Research | Mapping",
@@ -190,15 +192,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+	{
+		name: "Emergent Landscape III ",
+		img: "images/211112817PM.jpg",
+		blurb: "Interactive Collage .",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 		
-		{
-			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/SS_553PM.jpg",
-			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-			credit: "",
-		},
+		
 	
 	
 
