@@ -115,13 +115,13 @@ let WEBSITE_DATA = [
 	},
 
 	
-	{
-			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
-			img: "images/SS_553PM.jpg",
-			blurb: "ETW Faculty 2020-2021. The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-			credit: "",
-		},
+// 	{
+// 			name: "New York University's Tisch Department of Theater at ETW",
+// 			img: "images/SS2022115PM",
+// 			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+// 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+// 			credit: "",
+// 		},
 		
 		{
 			name: "Curator at Rutgers University | Student Dance Concert",
