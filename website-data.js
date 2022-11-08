@@ -34,7 +34,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance",
-		img: "images/1221251201515018195125201514.gif",
+		img: "images/0119191215191919.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
@@ -65,14 +65,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/16101918161297820191816125129782019.jpg", 
-			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
-			link: "",
-			credit: "",
-		},
-	
+		
 			{
 
 		name: "Human Robot",
@@ -130,7 +123,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 		
-		
+		{
+			name: "Curator at Rutgers University | Student Dance Concert",
+			img: "images/16101918161297820191816125129782019.jpg", 
+			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
+			link: "",
+			credit: "",
+		},
+	
 
 	
 
@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
+		img: "images/",
 		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "I Am Not A Robot",
-		img: "images/11842191415_218514201184.jpg",
+		img: "images/024657834.jpg",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
