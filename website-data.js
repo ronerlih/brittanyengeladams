@@ -13,9 +13,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth/Ielele | Exhibition",
+		name: "BodyMouth/Ielele | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth/Ilelele' presented at The Future Bodies – New Media Caucus Exhibition, in 2022, at Virginia Tech.",
+		blurb: "'BodyMouth/Ilelele' presented at The Future Bodies – New Media Caucus Symposium, in 2022, at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -170,14 +170,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-			{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
-	
+		
 		{
 		name: "I Am Not A Robot",
 		img: "images/024657834.jpg",
@@ -185,6 +178,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+			{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+
 	
 	{
 		name: "Wireless Fidelity | Exhibition",
@@ -198,7 +199,7 @@ let WEBSITE_DATA = [
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit:"Visualization by Nasa",
+		credit:"Visual by Nasa",
 		},
 
 		
