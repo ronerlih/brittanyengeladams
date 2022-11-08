@@ -47,6 +47,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
+			{
+		name: "Emergent Landscape I | Tessellation  ",
+		img: "images/11_91919_.jpg",
+		blurb:  "Interactive Collage .",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+		
 	{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpg",
@@ -165,14 +173,7 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
-			{
-		name: "Emergent Landscape I | Tessellation  ",
-		img: "images/11_91919_.jpg",
-		blurb:  "Interactive Collage .",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+
 	
 	
 
