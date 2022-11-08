@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 
 		
 	{
-		name: "Proprioceptive Research | Mapping",
+		name: " Movement Mapping",
 		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
@@ -144,15 +144,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-
-	{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		{
+		name: "I Am Not A Robot",
+		img: "images/024657834.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
-	},	
+	},
+
+	
 
 		{
 		name: "Harvestworks |  Residency",
@@ -162,6 +162,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+		{
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "YouTube Improv  | Website",
@@ -170,14 +177,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		
-		{
-		name: "I Am Not A Robot",
-		img: "images/024657834.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
 			{
 		name: "Digital Sculpture",
 		img: "images/11811_192114417.gif",
@@ -185,6 +184,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		 {
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit:"Visual by Nasa",
+		},
+
+
+	
 
 	
 	{
@@ -194,18 +203,11 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
- {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"Visual by Nasa",
-		},
 
 		
 									{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/infraredradiation.jpg",
 		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
