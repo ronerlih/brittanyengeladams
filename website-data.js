@@ -105,14 +105,14 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-	
-									{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
+		{
+		name: "Emergent Landscape III ",
+		img: "images/211112817PM.jpg",
+		blurb: "Interactive Collage .",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+
 	
 	{
 			name: "New York University's Tisch Department of Theater at ETW (Faculty)",
@@ -198,14 +198,15 @@ let WEBSITE_DATA = [
 		credit:"Visualization by Nasa",
 		},
 
-	
-	{
-		name: "Emergent Landscape III ",
-		img: "images/211112817PM.jpg",
-		blurb: "Interactive Collage .",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+		
+									{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
 		credit: "",
 	},
+
 		
 		
 	
