@@ -34,7 +34,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance",
-		img: "images/0119191215191919.png",
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 2021",
-		img: "images/",
+		img: "images/0119191215191919.png",
 		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
