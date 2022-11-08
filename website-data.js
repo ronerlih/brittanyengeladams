@@ -152,6 +152,14 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
+		{
+		name: "Harvestworks |  Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument for speech.",
+		link: "",
+		credit: "",
+		
+		},
 
 		{
 		name: "I Am Not A Robot",
@@ -163,14 +171,7 @@ let WEBSITE_DATA = [
 
 	
 
-		{
-		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument for speech.",
-		link: "",
-		credit: "",
-		
-		},
+	
 		{
 		name: "Maquette 2021",
 		img: "images/0119191215191919.png",
