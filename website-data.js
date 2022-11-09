@@ -56,6 +56,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+	
 			{
 		name: "Emergent Landscape I | Tessellation  ",
 		img: "images/11_91919_.jpg",
@@ -80,13 +88,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 	
 		{
 		name: "Emergent Landscape III ",
