@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	},
 	
 			{
-		name: "Emergent Landscape I | Tessellation  ",
+		name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpg",
 		blurb:  "Interactive Collage .",
 		link: "https://www.brittanyengeladams.com/red-who.html",
@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 		
 	
 			{
-		name: "Emergent Landscape II | Tessellation,",
+		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
 		blurb: "Interactive Collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
@@ -91,7 +91,7 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "Emergent Landscape III ",
+		name: "Emergent Landscape III | Tessellation",
 		img: "images/110112817M.jpg",
 		blurb: "Interactive Collage .",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 	
 			{
 			name: "Curator at Rutgers University | Student Dance Concert",
-			img: "images/programfallrutgers.png", 
+			img: "images/RutgersProgram.jpg", 
 			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
 			link: "",
 			credit: "",
