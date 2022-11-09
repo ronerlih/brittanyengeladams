@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
+		img: "images/8114114351145115114.jpg",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -80,13 +80,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "Digital Sculpture",
-// 		img: "images/11811_192114417.gif",
-// 		blurb: "The infared light of the motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+	
 		{
 		name: "Emergent Landscape III ",
 		img: "images/110112817M.jpg",
