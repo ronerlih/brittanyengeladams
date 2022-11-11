@@ -46,15 +46,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-	
-	{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
+				{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "Interactive Collage .",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
-	},
+	},	
+
 	
 			{
 		name: "Maquette 2021",
@@ -175,14 +174,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "Interactive Collage .",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+	
+		
+	{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
 		credit: "",
 	},
-	
 
 	
 	
