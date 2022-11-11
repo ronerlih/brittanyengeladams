@@ -99,13 +99,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/110112817M.jpg",
-		blurb: "Interactive Collage .",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 		{
+// 		name: "Emergent Landscape III | Tessellation",
+// 		img: "images/110112817M.jpg",
+// 		blurb: "Interactive Collage .",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 		{
 
 		name: "Human Robot",
