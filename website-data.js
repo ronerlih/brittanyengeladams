@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth/Ilelele' presented at The Future Bodies – New Media Caucus Symposium, in 2022, at Virginia Tech with Sidney San Martin and Kat Mustatea.",
+		blurb: "'BodyMouth/Ilelele' in collaboration with Sidney San Martin and Kat Mustatea presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg Virginia, at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -155,7 +155,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "I Am Not A Robot",
-		img: "images/024657834.jpg",
+		img: "images/11414121191918.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
