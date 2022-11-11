@@ -46,22 +46,22 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-				{
+
+
+		{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
+					{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpg",
 		blurb:  "Interactive Collage .",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},	
-
-	
-			{
-		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
-		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
 	
 		{
 		name: "Digital Sculpture",
@@ -185,15 +185,15 @@ let WEBSITE_DATA = [
 
 	
 		
-	{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+
+
+			{
+		name: "Maquette 2021",
+		img: "images/0119191215191919.png",
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
-
-	
 	
 
 	
