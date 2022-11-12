@@ -47,6 +47,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+			{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
+		link: "",
+		credit: "",
+	},
 
 	
 					{
@@ -57,13 +64,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-		{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
-		link: "",
-		credit: "",
-	},
+
 	
 		{
 		name: "Digital Sculpture",
@@ -74,15 +75,16 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		
-	
 			{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/S2022110192534.jpg",
-		blurb: "Interactive Collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
 		credit: "",
 	},
+		
+	
+	
 	
 			{
 		name: "YouTube Improv  | Website",
@@ -167,13 +169,12 @@ let WEBSITE_DATA = [
 	
 
 		{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/S2022110192534.jpg",
+		blurb: "Interactive Collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
-	
 	
 										{
 		name: "Skeletal Avatar",
