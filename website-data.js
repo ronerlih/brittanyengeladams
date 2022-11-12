@@ -173,15 +173,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/11414121191918.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	
+	
+										{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
-	
+
+
 
 		
 
@@ -256,13 +258,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-									{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/11414121191918.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+	
 
 	
 	
