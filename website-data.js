@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth/Ilelele' in collaboration with Sidney San Martin and Kat Mustatea presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg Virginia, at Virginia Tech.",
+		blurb: "'BodyMouth/Ielele' presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg Virginia, at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -58,7 +58,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/patterns01.gif",
+		img: "images/redscroll202.gif",
 		blurb:  "Interactive Collage .",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
