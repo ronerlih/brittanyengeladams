@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
+		img: "images/guggenheim_museum.png",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
+		img: "images/patterns01.gif",
 		blurb:  "Interactive Collage .",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -197,7 +197,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Maquette 2021",
-		img: "images/0119191215191919.png",
+		img: "images/11842191415_218514201184.jpg",
 		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
