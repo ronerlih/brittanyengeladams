@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 		{
 		name: "BodyMouth/The Sirens | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth/The Sirens presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg Virginia, at Virginia Tech.",
+		blurb: "'BodyMouth/The Sirens presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg, at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
@@ -59,7 +59,7 @@ let WEBSITE_DATA = [
 					{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/redscroll202.gif",
-		blurb:  "Interactive Collage .",
+		blurb:  "Digital collage. Clickable link.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},	
@@ -171,7 +171,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
-		blurb: "Interactive Collage.",
+		blurb: "Digital collage. Clickable link.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
