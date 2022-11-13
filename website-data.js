@@ -28,15 +28,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
-		{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+			{
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
 		credit: "",
 	},
+	
 	
 	
 	{
@@ -55,11 +54,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+	
+		{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.jpg",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 	
