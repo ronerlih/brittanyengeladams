@@ -28,11 +28,11 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "I Am Not A Robot",
-		img: "images/7.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+						{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/redscroll202.gif",
+		blurb:  "Digital collage. Clickable link.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
 	
@@ -74,13 +74,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-						{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/redscroll202.gif",
-		blurb:  "Digital collage. Clickable link.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+			{
+		name: "I Am Not A Robot",
+		img: "images/7.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
 		credit: "",
 	},
+	
+	
 
 		
 	
