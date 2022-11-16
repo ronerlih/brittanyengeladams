@@ -56,7 +56,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
+		img: "images/7112518525185121251855180713.png",
 		blurb: "Wireless Fidelity presented at The Gallery Thaddaus Ropac in Paris in 2015.",
 		link: "",
 		credit: "",
@@ -145,7 +145,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/barcodeprogram.JPG", 
+			img: "images/0000016.gif", 
 			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
 			link: "",
 			credit: "",
