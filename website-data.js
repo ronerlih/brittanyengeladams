@@ -13,9 +13,9 @@ let WEBSITE_DATA = [
 	
 	
 		{
-		name: "BodyMouth/The Sirens | Symposium",
+		name: "BodyMouth/Ielele | Symposium",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth/The Sirens presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg, at Virginia Tech.",
+		blurb: "'BodyMouth/Ielele presented  at The Future Bodies – New Media Caucus Symposium 2022, in Blacksburg, at Virginia Tech.",
 		link: "",
 		credit: "Photo by Joshua Okoro",
 		
