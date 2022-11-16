@@ -145,7 +145,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/programfallrutgers.png", 
+			img: "images/barcodeprogram.JPG", 
 			blurb: "The Concert showcased works that were responses to theatrical productions of the 19th/ 20th century reimagined for the 21st century stage. Presented by Rutgers University.",
 			link: "",
 			credit: "",
