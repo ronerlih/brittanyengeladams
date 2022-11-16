@@ -45,6 +45,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Visualization by Nasa",
 	},
+	
+			{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		link: "",
+		credit: ""
+	},
 
 			{
 		name: "Wireless Fidelity | Exhibition",
@@ -88,13 +96,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
+	
 	
 
 	
