@@ -163,13 +163,13 @@ let WEBSITE_DATA = [
 	
 
 		
-//    {
-// 		name: "YouTube Improv  | Performance",
-// 		img: "images/72115225215215225591316152255.jpg",
-// 		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-// 		link: "",
-// 		credit: ""
-// 	},
+   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
 	
 		
 	
