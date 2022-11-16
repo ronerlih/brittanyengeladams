@@ -30,8 +30,8 @@ let WEBSITE_DATA = [
 	},
 						{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/185e42350011PM.jpg",
-		blurb:  "Digital collage. Clickable link.",
+		img: "images/patterns01.gif",
+		blurb:  "Digital collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
@@ -110,7 +110,7 @@ let WEBSITE_DATA = [
 // 		{
 // 		name: "Emergent Landscape III | Tessellation",
 // 		img: "images/110112817M.jpg",
-// 		blurb: "Interactive Collage .",
+// 		blurb: "Interactive Collage.",
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
@@ -175,7 +175,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
-		blurb: "Digital collage. Clickable link.",
+		blurb: "Digital collage.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
