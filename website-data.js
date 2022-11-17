@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
+		img: "images/S2022101882317PM.jpg",
 		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument for speech.",
 		link: "",
 		credit: "",
@@ -200,13 +200,13 @@ let WEBSITE_DATA = [
 	
 
 	
-				{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
+// 				{
+// 		name: "YouTube Improv  | Website",
+// 		img: "images/YouTubeimprovhigh.gif",
+// 		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+// 		link: "",
+// 		credit: ""
+// 	},
 
 
 
