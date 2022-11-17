@@ -146,7 +146,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/programfallrutgers.png", 
+			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "Students presented works as a response to a theatrical productions of the 19th or 20th century, reimagined for the 21st century stage. Presented by Rutgers Univeristy in 2021.",
 			link: "",
 			credit: "",
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 	
 										{
 		name: "Skeletal Avatar",
-		img: "images/infraredradiation.jpeg",
+		img: "images/avtarhigh.png",
 		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
