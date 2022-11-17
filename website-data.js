@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	},
 						{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/patterns202.gif",
+		img: "images/11_91919_.jpg",
 		blurb:  "Digital collage.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -260,7 +260,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Architecture of Memory",
-			img: "images/1215225.jpg", 
+			img: "images/234907PM.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
