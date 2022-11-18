@@ -47,7 +47,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance",
-		img: "images/1221251201515018195125201514.gif",
+		img: "images/vortex.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "Visualization by Nasa",
@@ -245,7 +245,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpg",
 		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
