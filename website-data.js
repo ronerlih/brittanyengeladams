@@ -252,19 +252,19 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-// 				{
-// 		name: "Movement Research Performance Journal | Publication",
-// 		img: "images/234907PM.jpg",
-// 		blurb: "‘Architecture of Memory’ uses archival research and Kinect (motion-capture and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-// 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-// 		credit: "",
-// 	},
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/234907PM.jpg",
+		blurb: "‘Architecture of Memory’ uses archival research and Kinect (motion-capture and A.I. machine learning – as an aperture – from which to view haunting intersections – between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
 	
 
 
 	{
 			name: "Architecture of Memory",
-			img: "images/234907PM.jpg", 
+			img: "images/1215225.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
