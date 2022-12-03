@@ -247,8 +247,8 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "'Shower' is a performative work inspired by the music of Composer, Nico Muhly from his album Mothertongue: II. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		img: "images/119106655.jpeg",
+		blurb: "'Shower' is a dance work inspired by the music of Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
