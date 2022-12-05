@@ -59,13 +59,15 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-	{
-		name: "Memory Dance",
-		img: "images/vortex.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Visualization by Nasa",
+		{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/211112817PM.jpg",
+		blurb: "Interactive Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
 	},
+	
+	
 	
 	
 
@@ -116,16 +118,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-	
-	
-		{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/211112817PM.jpg",
-		blurb: "Interactive Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
+	{
+		name: "Memory Dance",
+		img: "images/vortex.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Visualization by Nasa",
 	},
+	
+	
 	
 		{
 		name: "Harvestworks |  Residency",
