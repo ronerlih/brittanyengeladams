@@ -113,13 +113,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "Emergent Landscape III | Tessellation",
-// 		img: "images/110112817M.jpg",
-// 		blurb: "Interactive Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "",
-// 	},
+		{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/110112817M.jpg",
+		blurb: "Interactive Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 		{
 		name: "Harvestworks |  Residency",
@@ -149,7 +149,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/programfallrutgers.png", 
+			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "Students presented works as a response to a theatrical productions of the 19th or 20th century, reimagined for the 21st century stage. Presented by Rutgers Univeristy in 2021.",
 			link: "",
 			credit: "",
