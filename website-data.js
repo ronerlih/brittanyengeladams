@@ -51,7 +51,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+		{
+			name: "Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "Students presented works as a response to a theatrical productions of the 19th or 20th century, reimagined for the 21st century stage. Presented by Rutgers Univeristy in 2021.",
+			link: "",
+			credit: "",
+		},
 	
 	{
 		name: "Memory Dance",
@@ -147,13 +153,7 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 	
-		{
-			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "Students presented works as a response to a theatrical productions of the 19th or 20th century, reimagined for the 21st century stage. Presented by Rutgers Univeristy in 2021.",
-			link: "",
-			credit: "",
-		},
+	
 		
 
 	 {
