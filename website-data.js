@@ -298,7 +298,7 @@ let WEBSITE_DATA = [
 	
 // 		{
 // 		name: "I am not a Robot | 2022",
-// 		img: "images/giphy1humanrobot.gif",
+// 		img: "images/11414121191918.gif",
 // 		blurb: "Adversarial Neural Networks, and Machine Learning Algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 // 		link: "",
 // 		credit: "",
