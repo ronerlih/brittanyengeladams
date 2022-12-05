@@ -96,7 +96,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "I Am Not A Robot",
-		img: "images/11414121191918.gif",
+		img: "images/1233740.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
