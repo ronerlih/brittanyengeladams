@@ -52,10 +52,10 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-			name: "Dance Concert Curator at Rutgers University ",
-			img: "images/barcodeprogram.JPG", 
-			blurb: "Students presented works as a response to a theatrical productions of the 19th or 20th century, reimagined for the 21st century stage. Presented by Rutgers Univeristy in 2021.",
-			link: "",
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersProgram.jpg", 
+			blurb: "Third years BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
 	
