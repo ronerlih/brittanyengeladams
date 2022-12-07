@@ -59,23 +59,12 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-		{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/211112817PM.jpg",
-		blurb: "Interactive Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-	
+
 	
 	
 	
 
 	
-	
-
-	
-
 	
 		{
 		name: "Digital Sculpture",
@@ -177,6 +166,13 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
+			{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/211112817PM.jpg",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 		
 	
 
