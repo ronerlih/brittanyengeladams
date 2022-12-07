@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Hand Dance | Film",
 		img: "images/8114114351145115114.jpg",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams. Described by The New York Times as “an exceptional opportunity to understand something of the creative process,” for 35 years, New Yorkers have been able to see, hear, and meet the most acclaimed artists in the world, in an intimate setting unlike any other. Works & Process, the performing arts series at the Guggenheim, has championed new works and offered audiences unprecedented access to generations of leading creators and performers.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
