@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance",
-		img: "images/12151512116.gif",
+		img: "images/11414121191918.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "Visualization by Nasa",
@@ -222,7 +222,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hand Dance | Research",
-		img: "images/11414121191918.gif",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
