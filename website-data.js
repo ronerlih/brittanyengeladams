@@ -119,9 +119,9 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks 2022 residency for the development of BodyMouth, a movement and sound tool that turns the body into an instrument for speech.",
-		link: "",
+		img: "images/S2022101882317PM.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
 		credit: "",
 		
 		},
@@ -142,6 +142,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"Visualization by Nasa",
 		},
+	
+			{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	
 // 	{
 // 			name: "New York University's Tisch Department of Theater at ETW",
@@ -216,13 +224,7 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+
 		
 		
 	
