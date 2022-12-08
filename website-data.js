@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 	},
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersProgram.jpg", 
+			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "Third years BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
