@@ -50,14 +50,6 @@ let WEBSITE_DATA = [
 		
 		},
 	
-	{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Visualization by Nasa",
-	},
-	
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/95121121555.jpg",
@@ -66,6 +58,24 @@ let WEBSITE_DATA = [
 		credit: "Photo by Rodney Kimbangu",
 		
 		},
+	
+	{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/16101918161297820191816125129782019.jpg", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},
+	
+	{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Visualization by Nasa",
+	},
+	
+	
 	
 		{
 		name: "Hand Dance | Film",
@@ -87,13 +97,7 @@ let WEBSITE_DATA = [
 
 	
 
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/16101918161297820191816125129782019.jpg", 
-			blurb: "Third years BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
-		},
+	
 	
 
 	
@@ -141,7 +145,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+			{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		link: "",
+		credit: ""
+	},
 	
 			{
 		name: "Hand Dance | Research",
@@ -193,13 +203,7 @@ let WEBSITE_DATA = [
 	
 	
 
-				{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
+	
 
 
 		
