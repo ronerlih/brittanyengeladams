@@ -62,6 +62,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Visualization by Nasa",
 	},
+					{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/16101918161297820191816125129782019.jpg", 
@@ -170,14 +178,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 		
-					{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
-
+	
 
 	
 	
