@@ -42,6 +42,23 @@ let WEBSITE_DATA = [
 	},
 
 	
+			{
+		name: "I Am Not A Robot",
+		img: "images/1233740.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
+		{
+		name: "Harvestworks |  Residency",
+		img: "images/ScreenShot20221207113044PM.png",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+		
+		},
+	
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/newmediacaucusfuturebodies.png",
@@ -70,13 +87,6 @@ let WEBSITE_DATA = [
 	
 
 	
-				{
-		name: "Maquette 2021",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
 
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -104,14 +114,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-			{
-		name: "I Am Not A Robot",
-		img: "images/1233740.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-	
 		 {
 		name: "Farewell 2020",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
@@ -122,14 +124,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-		name: "Harvestworks |  Residency",
-		img: "images/ScreenShot20221207113044PM.png",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
+				{
+		name: "Maquette 2021",
+		img: "images/8121321520113118152__152014.gif",
+		blurb: "A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
-		
-		},
+	},
+	
 	
 		{
 
