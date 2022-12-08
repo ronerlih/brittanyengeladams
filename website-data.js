@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
-		blurb: "click link to move tessellation. Enjoy!",
+		blurb: "click link to move the tessellation. Enjoy!",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "digital collage.",
 	},
@@ -74,7 +74,7 @@ let WEBSITE_DATA = [
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit:"Visualization by Nasa",
+		credit:"NASA Black Hole in Rotation",
 		},
 					{
 		name: "Movement Research Performance Journal | Publication",
@@ -224,7 +224,7 @@ let WEBSITE_DATA = [
 							{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpg",
-		blurb:  "click link to move tessellation. Enjoy!.",
+		blurb:  "click link to move the tessellation. Enjoy!.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "digital collage",
 	},
