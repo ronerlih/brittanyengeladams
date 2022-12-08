@@ -115,7 +115,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
+		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
