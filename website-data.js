@@ -77,15 +77,15 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
-		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/95121121555.jpg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu",
 		
-		},
 	
+			{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		link: "",
+		credit: ""
+	},
 	
 	
 	
@@ -110,15 +110,15 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-
+{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/95121121555.jpg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu",
+		
+		},
 	
-			{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
 	{
 		name: "Digital Sculpture",
 		img: "images/11811_192114417.gif",
