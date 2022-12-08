@@ -18,9 +18,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
-		blurb: "Digital collage.",
+		blurb: "click link to move tessellation. Enjoy!",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
+		credit: "digital collage.",
 	},
 
 											{
@@ -57,10 +57,10 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Memory Dance",
-		img: "images/",
+		img: "images/IMG5MolecularRotation.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "Molecular Rotation",
 	},
 					{
 		name: "Proprioceptive Research | Mapping",
@@ -224,9 +224,9 @@ let WEBSITE_DATA = [
 							{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpg",
-		blurb:  "Digital collage.",
+		blurb:  "click link to move tessellation. Enjoy!.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+		credit: "digital collage",
 	},
 	
 
@@ -234,13 +234,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Before Zeta | Film",
-// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-// 		blurb: "'Before Zeta’ was filmed as an artist in residence at the Cape Cod Modern Home Trust.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ was filmed at the Cape Cod Modern Home Trust as an Artists in Residence.",
+		link: "",
+		credit: "",
+	},
 	
 	
 		
