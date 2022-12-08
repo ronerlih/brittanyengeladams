@@ -174,13 +174,13 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-			{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/211112817PM.jpg",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 			{
+// 		name: "Emergent Landscape III | Tessellation",
+// 		img: "images/211112817PM.jpg",
+// 		blurb: "Digital Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 		
 	
 
@@ -265,7 +265,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Architecture of Memory",
-			img: "images/234907PM.jpg", 
+			img: "images/1215225.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
