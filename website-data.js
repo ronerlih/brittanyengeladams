@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Harvestworks |  Residency",
-		img: "images/ScreenShot20221207113044PM.png",
+		img: "images/SS20221207114202PM.png",
 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
