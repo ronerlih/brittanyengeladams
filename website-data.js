@@ -195,7 +195,7 @@ let WEBSITE_DATA = [
 					{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpg",
-		blurb: "’Shower' is a dance work performed by the Joffrey Ballet school. The work was inspired by the music of American musical composer Nico Muhly from his album Mother Tongue. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		blurb: "’Shower' is a dance piece inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
