@@ -15,7 +15,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+		{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/S2022110192534.jpg",
+		blurb: "Digital collage.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 
 											{
 		name: "Skeletal Avatar",
@@ -25,22 +31,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/S2022110192534.jpg",
-		blurb: "Digital collage.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
 	
-	{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Visualization by Nasa",
-	},
-
 	
 			{
 		name: "I Am Not A Robot",
@@ -58,6 +49,14 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	
+	{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Visualization by Nasa",
+	},
 	
 		{
 		name: "BodyMouth/Ielele | Symposium",
