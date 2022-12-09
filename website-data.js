@@ -30,15 +30,16 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
+			
+{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/SS20221209at354AM.jpg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu",
+		
+		},
 	
-		{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/231519115195212215193152121.gif",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-
 											{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
@@ -107,16 +108,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-		
-{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/SS20221209at354AM.jpg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu",
-		
-		},
+	{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/231519115195212215193152121.gif",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+
 		
 
 						{
