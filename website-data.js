@@ -44,7 +44,7 @@ let WEBSITE_DATA = [
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit:"NASA Black Hole in Rotation",
+		credit:"NASA",
 		},
 			{
 		name: "I Am Not A Robot",
@@ -81,7 +81,7 @@ let WEBSITE_DATA = [
 		img: "images/2138383815138158.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "Molecular Rotation",
+		credit: "",
 	},
 				{
 		name: "Maquette 2021",
