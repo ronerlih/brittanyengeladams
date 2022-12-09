@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/231519115195212215193152121.gif",
-		blurb: "digital collage",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
@@ -92,13 +92,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"NASA Black Hole in Rotation",
 		},
-					{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+							{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
 		
 {
 		name: "BodyMouth/Ielele | Symposium",
@@ -230,12 +231,11 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-	
-							{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "digital collage",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+					{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 	
