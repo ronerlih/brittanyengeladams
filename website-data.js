@@ -7,14 +7,14 @@ let WEBSITE_DATA = [
 		link: "https://ccmht.org/",
 		credit: "",
 	},
-	{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
+{
+		name: "Harvestworks |  Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+		
 		},
-
 	{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/209385904___385893475689376782657826.png",
@@ -46,13 +46,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-		
-		},
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},	
 	{
 		name: "Hand Dance | Film",
 		img: "images/79514154515144445114______444_44.png",
