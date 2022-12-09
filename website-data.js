@@ -185,9 +185,9 @@ let WEBSITE_DATA = [
 	
 	
 				{
-			name: "Bates Dance Festival (Faculty) ",
+			name: "Bates Summer Dance Festival (Faculty) ",
 			img: "images/bates321.png",
-			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+			blurb: "The Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 			},
