@@ -126,7 +126,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Digital Sculpture",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		img: "images/3dscene.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
@@ -146,7 +146,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
+		img: "images/8114114351145115114.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
