@@ -23,13 +23,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-// 	{
-// 		name: "Before Zeta | Film",
-// 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-// 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic.",
+		link: "",
+		credit: "",
+	},
 			
 {
 		name: "BodyMouth/Ielele | Symposium",
