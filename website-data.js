@@ -99,11 +99,12 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"NASA Black Hole in Rotation",
 		},
-							{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+
+	{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
 	},
 	
@@ -126,15 +127,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	
-	{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
+							{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
 	
 	
 					{
