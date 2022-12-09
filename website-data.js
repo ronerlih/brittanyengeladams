@@ -164,6 +164,30 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+			{
+			name: "Joffrey Ballet School, NYC (Faculty)",
+			img: "images/4351435143514354351435_1.png",
+			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
+			link: "https://www.joffreyballetschool.com",
+			credit: "photo: Lois Greenfield",
+		},
+	
+			{
+			name: "New York University's Tisch Department of Dance (Faculty)",
+			img: "images/87y547ht3uinr23[i458u.png",
+			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
+	
+				{
+			name: "Bates Dance Festival (Faculty) ",
+			img: "images/bates321.png",
+			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+			},
 	
 // 			{
 // 		name: "Emergent Landscape III | Tessellation",
@@ -238,30 +262,7 @@ let WEBSITE_DATA = [
 	// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 	// 	},
 	
-				{
-			name: "Joffrey Ballet School, NYC (Faculty)",
-			img: "images/4351435143514354351435_1.png",
-			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
-			link: "https://www.joffreyballetschool.com",
-			credit: "photo: Lois Greenfield",
-		},
-	
-			{
-			name: "New York University's Tisch Department of Dance (Faculty)",
-			img: "images/87y547ht3uinr23[i458u.png",
-			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-	
-	
-				{
-			name: "Bates Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-			},
+		
 	
 	// 		{
 	// 		name: "The Young and The Banging (Publication)",
