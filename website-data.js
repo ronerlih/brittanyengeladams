@@ -4,7 +4,7 @@ let WEBSITE_DATA = [
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
 		img: "images/SS20221207115053PM.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "",
+		link: "https://ccmht.org/",
 		credit: "",
 	},
 	{
@@ -26,8 +26,8 @@ let WEBSITE_DATA = [
 	{
 		name: "Before Zeta | Film",
 		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic.",
-		link: "",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
 			
@@ -144,26 +144,26 @@ let WEBSITE_DATA = [
 	},
 
 	
-// 	{
-// 			name: "New York University's Tisch Department of Theater at ETW",
-// 			img: "images/SS2022115PM",
-// 			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-// 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-// 			credit: "",
-// 		},
+	{
+			name: "New York University's Tisch Department of Theater at ETW",
+			img: "images/SS2022115PM",
+			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+			credit: "",
+		},
 	
 	
 		
 
 	
 		
-//    {
-// 		name: "YouTube Improv  | Performance",
-// 		img: "images/72115225215215225591316152255.jpg",
-// 		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-// 		link: "",
-// 		credit: ""
-// 	},
+   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
 	
 // 			{
 // 		name: "Emergent Landscape III | Tessellation",
@@ -238,29 +238,30 @@ let WEBSITE_DATA = [
 	// 		credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 	// 	},
 	
-// 				{
-// 			name: "Joffrey Ballet School, NYC (Faculty)",
-// 			img: "images/4351435143514354351435_1.png",
-// 			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
-// 			link: "https://www.joffreyballetschool.com",
-// 			credit: "photo: Lois Greenfield",
-// 		},
-// 			{
-// 			name: "New York University's Tisch Department of Dance (Faculty)",
-// 			img: "images/87y547ht3uinr23[i458u.png",
-// 			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
-// 			link: "https://tisch.nyu.edu/dance/courses",
-// 			credit: "",
-// 		},
+				{
+			name: "Joffrey Ballet School, NYC (Faculty)",
+			img: "images/4351435143514354351435_1.png",
+			blurb: "Joffrey Ballet School year round training for artists in a multitude of dance disciplines.",
+			link: "https://www.joffreyballetschool.com",
+			credit: "photo: Lois Greenfield",
+		},
+	
+			{
+			name: "New York University's Tisch Department of Dance (Faculty)",
+			img: "images/87y547ht3uinr23[i458u.png",
+			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 	
 	
-// 				{
-// 			name: "Bates Dance Festival (Faculty) ",
-// 			img: "images/bates321.png",
-// 			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
-// 			link: "https://www.batesdancefestival.org/",
-// 			credit:"",
-// 			},
+				{
+			name: "Bates Dance Festival (Faculty) ",
+			img: "images/bates321.png",
+			blurb: "Dancers develop technique and strengthen their knowledge-base; Dance-makers have the opportunity to create and dig into composition and process; Teachers refresh and refine skills for the classroom and the studio.",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+			},
 	
 	// 		{
 	// 		name: "The Young and The Banging (Publication)",
