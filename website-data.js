@@ -55,6 +55,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	{
+		name: "Hand Dance | Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 			{
 		name: "I Am Not A Robot",
@@ -92,13 +99,7 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-		{
-		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+		
 {
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/95121121555.jpg",
