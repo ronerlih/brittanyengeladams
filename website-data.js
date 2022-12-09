@@ -27,9 +27,9 @@ let WEBSITE_DATA = [
 		{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
-		blurb: "As we head towards the future, the greatest [BATTLE] of the 21st century is to not succumb to the hyperbolic influx of industrialization, in the form of new godlike technologies, such as artificial intelligence and genetic engineering, that is shaking the very humanist foundation of modern civilization.",
+		blurb: "",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "Click on link to interact with digital collage.",
+		credit: "Click link  digital collage.",
 	},
 
 											{
