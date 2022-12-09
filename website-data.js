@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/S2022110192534.jpg",
+		img: "images/231519115195212215193152121.gif",
 		blurb: "digital collage",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
