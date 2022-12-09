@@ -31,13 +31,13 @@ let WEBSITE_DATA = [
 		credit: "Photo by Rodney Kimbangu",
 		
 		},
-	 {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+					{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
-		credit:"NASA",
-		},
+		credit: "",
+	},
 			{
 		name: "I Am Not A Robot",
 		img: "images/1233740.gif",
@@ -60,13 +60,14 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-					{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	 {
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit: "",
-	},	
+		credit:"NASA",
+		},
+		
 		{
 
 		name: "Human Robot",
