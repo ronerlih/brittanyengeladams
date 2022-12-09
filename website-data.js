@@ -147,13 +147,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-			name: "New York University's Tisch Department of Theater at ETW",
-			img: "images/ssetw.jpg",
-			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-			credit: "",
-		},
+// 	{
+// 			name: "New York University's Tisch Department of Theater at ETW",
+// 			img: "images/ssetw.jpg",
+// 			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
+// 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
+// 			credit: "",
+// 		},
 	
 	
 		
@@ -176,9 +176,9 @@ let WEBSITE_DATA = [
 		},
 	
 			{
-			name: "New York University's Tisch Department of Dance (Faculty)",
+			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/87y547ht3uinr23[i458u.png",
-			blurb: "The Department of Dance at Tisch offers intense training for students committed to their futures as internationally acclaimed dancers and choreographers.",
+			blurb: "2020-2022 Faculty in the dance and theater department at New York University's Tisch School of the Arts. ABOUT: Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.",
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
