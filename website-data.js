@@ -39,7 +39,6 @@ let WEBSITE_DATA = [
 		credit: "Photo by Rodney Kimbangu",
 		
 		},
-	
 	 {
 		name: "Farewell 2020",
 		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
@@ -69,6 +68,21 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
+					{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/1221251201515018195125201514.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},	
+	{
+		name: "Memory Dance",
+		img: "images/2138383815138158.jpg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "Molecular Rotation",
+	},
 				{
 		name: "Maquette 2021",
 		img: "images/812_8231321520113_118152__152014.gif",
@@ -77,22 +91,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-	{
-		name: "Memory Dance",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "Molecular Rotation",
-	},
-					{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/1221251201515018195125201514.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
 											{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
@@ -100,8 +98,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
 	{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
@@ -139,12 +135,6 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
-	
-
-	
-
-	
-	
 			{
 		name: "Hand Dance | Research",
 		img: "images/11414121191918.gif",
@@ -165,7 +155,6 @@ let WEBSITE_DATA = [
 		
 
 	
-
 		
 //    {
 // 		name: "YouTube Improv  | Performance",
@@ -182,19 +171,6 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
-		
-	
-
-	
-	
-
-	
-
-
-		
-
-	
-
 					{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpg",
@@ -220,9 +196,6 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-
-
-
 	{
 			name: "Architecture of Memory",
 			img: "images/1215225.jpg", 
@@ -237,16 +210,6 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	
-
-	
-	
-	
-	
-	
-	
-		
-	
 	
 // 		{
 // 		name: "I am not a Robot | 2022",
@@ -323,10 +286,6 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-	
-	
-
-	
 
 	
 
@@ -339,19 +298,6 @@ let WEBSITE_DATA = [
 	// },
 	
 	
-
-		
-	
-	
-
-	
-	
-	
-	
-	
-	
-
-	
 // 		{
 // 		name: "Hand Dance Research",
 // 		img: "images/11414121191918.gif",
@@ -360,15 +306,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
-	
-	
-	
-		
-	
 
-	   
-	
 	
 // 	{
 // 		name: "Nancy Manocherian's the cell theatre",
