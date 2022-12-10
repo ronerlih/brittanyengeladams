@@ -18,7 +18,7 @@ let WEBSITE_DATA = [
 {
 			name: "Bates Summer Dance Festival (Faculty) ",
 			img: "images/bates321.png",
-			blurb: "2019Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 			},
@@ -55,7 +55,7 @@ let WEBSITE_DATA = [
 	},		
 	{
 		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/guggenheim_museum.png",
 		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
