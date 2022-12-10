@@ -15,13 +15,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-			},
+// {
+// 			name: "Bates Summer Dance Festival (Faculty) ",
+// 			img: "images/bates321.png",
+// 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+// 			link: "https://www.batesdancefestival.org/",
+// 			credit:"",
+// 			},
 		
 {
 		name: "BodyMouth/Ielele | Symposium",
