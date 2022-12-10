@@ -1,12 +1,14 @@
 let WEBSITE_DATA = [
 	
-		{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "https://ccmht.org/",
-		credit: "",
+	   {
+		name: "YouTube Improv  | Performance",
+		img: "images/72115225215215225591316152255.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
 	},
+	
+	
 {
 		name: "Harvestworks |  Residency",
 		img: "images/ScreenShot20221018at8248M.jpg",
@@ -185,12 +187,12 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-	   {
-		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
+		{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "https://ccmht.org/",
+		credit: "",
 	},
 
 	
