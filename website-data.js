@@ -121,22 +121,23 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
-		
-							{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
 	
-						{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
+			{
+			name: "Bates Summer Dance Festival (Faculty) ",
+			img: "images/bates321.png",
+			blurb: "2019Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+			},
+	
+			{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/4351435143514354351435_1.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "photo: Lois Greenfield",
+		},
+	
 				{
 		name: "Maquette 2021",
 		img: "images/7.jpeg",
@@ -166,20 +167,23 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-			{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "2019Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-			},
-			{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/4351435143514354351435_1.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "photo: Lois Greenfield",
-		},
+		
+	
+							{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
+						{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
 	{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
