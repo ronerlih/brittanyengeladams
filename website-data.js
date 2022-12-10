@@ -15,13 +15,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-	{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-		link: "",
-		credit: "",
-	},
+{
+			name: "Bates Summer Dance Festival (Faculty) ",
+			img: "images/bates321.png",
+			blurb: "2019Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+			},
 		
 {
 		name: "BodyMouth/Ielele | Symposium",
@@ -121,14 +121,14 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
-	
-			{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "2019Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-			},
+		{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
+			
 			{
 		name: "Hand Dance | Research",
 		img: "images/11414121191918.gif",
