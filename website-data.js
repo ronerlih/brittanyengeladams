@@ -199,14 +199,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-					{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
+		{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-	},
+	},	
+
 	{
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS2022115PM.jpg",
@@ -221,14 +221,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-				{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+						{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
 		credit: "",
 	},
+
+		
 	
 	
 		
