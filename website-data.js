@@ -2,7 +2,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Sawtooth Wave",
 		img: "images/gif2b311de7101.gif",
-		blurb: "Sawtooth; kinect; 3js: Simulations of Newtonian Physics, and Classical Mechanics: Exploring the relationship between motion of objects and the forces acting upon them in real and augmented space (x,y coordinate plane denotes pitch/volume).",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
 		link: "",
 		credit: "",
 	},
