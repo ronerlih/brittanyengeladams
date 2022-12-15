@@ -8,14 +8,14 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Sawtooth Wave",
-		img: "images/gif2b311de7101.gif",
+		img: "images/ezgif-5-9f4fda4098.gif",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
 		link: "",
 		credit: "",
 	},
 		{
 		name: "Subtractive Synthesis",
-		img: "images/ezgif-5-9f4fda4098.gif",
+		img: "images/fec46aa5b9.gif",
 		blurb: "Subtractive synthesis process models, essentially, a carved out saturated room of noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
 		link: "",
 		credit: "",
