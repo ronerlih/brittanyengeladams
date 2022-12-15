@@ -16,14 +16,15 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-	
-						{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/SS20221214at92807PM.png",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
+		{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/nofrills.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "https://ccmht.org/",
 		credit: "",
 	},
+	
+	
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/SS20221215at11339AM.png",
@@ -32,13 +33,6 @@ let WEBSITE_DATA = [
 		credit: "Photo by Rodney Kimbangu",
 		
 		},
-		{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},
 				{
 		name: "I Am Not A Robot",
 		img: "images/814181211418152114181534114181521520.gif",
@@ -46,6 +40,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
+	
 
 			
 		{
@@ -63,22 +65,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
-		{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
-	
-	
-{
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS20221106at60553PM.png",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
@@ -93,6 +79,39 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
+				{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+	
+	
+	
+	  
+		 {
+		name: "YouTube Improv  | Performance",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
+		 {
+		name: "Farewell 2020",
+		img: "images/Screenshot.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit:"",
+		},	
 	
 		
 			{
@@ -110,22 +129,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	  
-		 {
-		name: "YouTube Improv  | Performance",
-		img: "images/25521252120021521202552120212052120025913161552120225.gif",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
-		 {
-		name: "Farewell 2020",
-		img: "images/Screenshot.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"",
-		},	
-	
+
 											{
 		name: "Skeletal Avatar",
 		img: "images/avtarhigh.png",
@@ -208,20 +212,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/nofrills.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "https://ccmht.org/",
+						{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/SS20221214at92807PM.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
 		credit: "",
 	},
 
 	
-			{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+	{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
 		credit: "",
 	},
 	
