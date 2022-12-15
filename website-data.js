@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 		},
 		{
 		name: "Before Zeta | Film",
-		img: "images/wellfleet1.png",
+		img: "images/311631513116315113154.jpg",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/WHOBLUESCROlL.gif",
 		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	
 							{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/patterns_202.gif",
+		img: "images/redscroll202.gif",
 		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
