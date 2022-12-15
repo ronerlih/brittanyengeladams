@@ -64,13 +64,15 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
-	 {
-		name: "YouTube Improv  | Performance",
-		img: "images/25521252120021521202552120212052120025913161552120225.gif",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
+
+							{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},	
+		
 	{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
@@ -101,17 +103,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-	
-							{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},	
-			
+		 {
+		name: "YouTube Improv  | Performance",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
+		
 			{
 		name: "Hand Dance | Research",
 		img: "images/11414121191918.gif",
