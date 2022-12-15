@@ -79,13 +79,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS20221106at60553PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
+			{
+		name: "I Am Not A Robot",
+		img: "images/1233740.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+
 	
 							{
 		name: "Wireless Fidelity | Exhibition",
@@ -128,13 +129,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "I Am Not A Robot",
-		img: "images/1233740.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+		{
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS20221106at60553PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
 		{
 			name: "Joffrey Ballet School (Faculty)",
 			img: "images/4351435143514354351435_1.png",
@@ -201,13 +203,13 @@ let WEBSITE_DATA = [
 	},
 
 	
-// 			{
-// 		name: "Emergent Landscape III | Tessellation",
-// 		img: "images/211112817PM.jpg",
-// 		blurb: "Digital Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "",
-// 	},
+			{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/whowood.gif",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 
 					{
 		name: "Maquette 2021",
