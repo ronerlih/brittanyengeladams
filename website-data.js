@@ -184,6 +184,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+						{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 		{
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
 		img: "images/nofrills.png",
@@ -200,13 +207,7 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
-					{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+
 					{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
