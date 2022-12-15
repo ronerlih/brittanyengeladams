@@ -68,6 +68,14 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
+		{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},
+	
 	
 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -213,13 +221,6 @@ let WEBSITE_DATA = [
 		img: "images/S20221101at74608PM.jpg",
 		blurb: "Digital Collage.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
-		{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
 		credit: "",
 	},
 	
