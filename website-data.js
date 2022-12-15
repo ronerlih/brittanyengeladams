@@ -6,6 +6,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/SS20221215at11339AM.png",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu",
+		
+		},
 		
 		{
 		name: "Wireless Fidelity | Exhibition",
@@ -23,15 +31,21 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
 		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/SS20221215at11339AM.png",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu",
-		
-		},
+		name: "Before Zeta | Film",
+		img: "images/wellfleet1.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+		{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.png",
+		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
 				{
 		name: "I Am Not A Robot",
 		img: "images/814181211418152114181534114181521520.gif",
@@ -49,20 +63,7 @@ let WEBSITE_DATA = [
 	
 
 			
-		{
-		name: "Before Zeta | Film",
-		img: "images/wellfleet1.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-		{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.png",
-		blurb: "'Hand Dance' film, commissioned by, The Guggenheim Museum’s Works & Process, in New York, New York, from 2020. 'Hand Dance' a collaborative work by David Lang, Annie-B Parson, Ron Erlih, Brittany Engel-Adams.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
 	{
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS20221106at60553PM.png",
