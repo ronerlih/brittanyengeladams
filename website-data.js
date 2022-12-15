@@ -25,12 +25,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_9.jpg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu",
+		
+		},
 		{
 		name: "Sawtooth Wave",
 		img: "images/ezgif-5-9f4fda4098.gif",
@@ -45,15 +46,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},
 	
-	{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_9.jpg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium that took place from September 30th-October 2nd 2022 at Virginia Tech and was focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art. ",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu",
-		
-		},
+
 
 			
 		{
