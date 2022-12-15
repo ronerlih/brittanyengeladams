@@ -90,12 +90,12 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-	 {
-		name: "Farewell 2020",
-		img: "images/vortex.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"Polar Vortex Moving in Over US",
+{
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS20221106at60553PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
 		},
 	
 	{
@@ -153,14 +153,14 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
-
-		{
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS20221106at60553PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
+	 {
+		name: "Farewell 2020",
+		img: "images/vortex.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit:"Polar Vortex Moving in Over US",
 		},
+		
 	
 		{
 			name: "Bates Summer Dance Festival (Faculty) ",
