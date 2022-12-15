@@ -240,13 +240,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 		{
-// 		name: "Archival Artifact 'Mizrach",
-// 		img: "images/1926318892613892618138.jpg",
-// 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Archival Artifact 'Mizrach",
+		img: "images/1926318892613892618138.jpg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 
 // 	{
 // 			name: "Architecture of Memory",
@@ -257,7 +257,7 @@ let WEBSITE_DATA = [
 // 		},
 					{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		img: "images/2138383815138158.jpg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
