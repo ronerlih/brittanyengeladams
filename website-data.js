@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	
 							{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
+		img: "images/patterns_202.gif",
 		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
