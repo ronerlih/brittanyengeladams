@@ -127,13 +127,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		 {
-		name: "YouTube Improv  | Performance",
-		img: "images/25521252120021521202552120212052120025913161552120225.gif",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
+	{
+			name: "Bates Summer Dance Festival (Faculty) ",
+			img: "images/bates321.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+			},
 
 		{
 		name: "Hand Dance | Research",
@@ -158,14 +158,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 		
-	
-		{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/bates321.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-			},
+		 {
+		name: "YouTube Improv  | Performance",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
+		
 	
 	
 // 	{
