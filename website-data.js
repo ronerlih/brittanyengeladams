@@ -1,5 +1,12 @@
 let WEBSITE_DATA = [
 		{
+		name: "Sawtooth Wave",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Sawtooth; kinect; 3js: Simulations of Newtonian Physics, and Classical Mechanics: Exploring the relationship between motion of objects and the forces acting upon them in real and augmented space.",
+		link: "",
+		credit: "",
+	},
+		{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
