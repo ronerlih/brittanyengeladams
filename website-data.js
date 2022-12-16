@@ -29,6 +29,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
+				{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
+
+		{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
+		
 					{
 		name: "Maquette 2021",
 		img: "images/11842191415_218514201184.jpg",
@@ -49,22 +66,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-				{
-		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-	
-
-		{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},	
 
 		{
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
