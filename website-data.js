@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/bates321.png",
+			img: "images/Hortonatbates.png",
 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
