@@ -223,13 +223,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-						{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+
 
 		
 	
@@ -237,6 +231,13 @@ let WEBSITE_DATA = [
 		name: "Archival Artifact 'Mizrach'",
 		img: "images/1926318892613892618138.jpg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+							{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
