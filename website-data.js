@@ -37,13 +37,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/311631513116315113154.jpg",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "https://ccmht.org/",
-		credit: "",
-	},
+	
 	
 	
 	
@@ -64,7 +58,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-			
+		{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/311631513116315113154.jpg",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "https://ccmht.org/",
+		credit: "",
+	},		
 	
 	{
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -128,7 +128,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
+			img: "images/bdf_horton.png",
 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
