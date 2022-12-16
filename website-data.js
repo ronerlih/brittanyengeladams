@@ -205,13 +205,14 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-						{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/tensorflow.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
+			{
+		name: "Harvestworks |  Residency",
+		img: "images/S2022101882317PM.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
 		credit: "",
-	},
+		
+		},
 
 
 		
@@ -230,14 +231,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Harvestworks |  Residency",
-		img: "images/S2022101882317PM.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
+							{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/tensorflow.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
 		credit: "",
-		
-		},
+	},
+
 	{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S20221101at74608PM.jpg",
