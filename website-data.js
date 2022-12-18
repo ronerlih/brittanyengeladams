@@ -21,14 +21,13 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-		{
-		name: "Memory Dance",
-		img: "images/12516151516.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+			{
+		name: "I Am Not A Robot",
+		img: "images/infraredradiation.jpg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
-	
 	
 			{
 		name: "Hand Dance | Research",
@@ -38,10 +37,11 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-				{
-		name: "I Am Not A Robot",
-		img: "images/infraredradiation.jpg",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	
+			{
+		name: "Memory Dance",
+		img: "images/12516151516.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
 	},
