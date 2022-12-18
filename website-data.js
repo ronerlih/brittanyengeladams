@@ -68,22 +68,22 @@ let WEBSITE_DATA = [
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "https://ccmht.org/",
 		credit: "",
-	},		
-			{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
-
-	{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+	},
+		 {
+		name: "Farewell 2020",
+		img: "images/vortex.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
+		credit:"",
+		},
+	{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Digital Collage.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
+	
 		{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpg",
@@ -228,18 +228,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		 {
-		name: "Farewell 2020",
-		img: "images/vortex.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"",
+			{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
 		},
+
 	{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
 		credit: "",
 	},
 
