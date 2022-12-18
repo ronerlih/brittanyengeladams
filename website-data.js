@@ -71,6 +71,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
+	{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},
 // 	{
 // 		name: "Emergent Landscape III | Tessellation",
 // 		img: "images/S20221101at74608PM.jpg",
@@ -144,13 +151,7 @@ let WEBSITE_DATA = [
 		},
 	
 	
-{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
-		},
+
 			{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/7112518525185121251855180713.png",
