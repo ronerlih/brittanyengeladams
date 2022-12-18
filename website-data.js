@@ -64,7 +64,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/311631513116315113154.jpg",
+		img: "images/nofrills.png",
 		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
 		link: "https://ccmht.org/",
 		credit: "",
@@ -223,7 +223,7 @@ let WEBSITE_DATA = [
 	},
 							{
 		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpg",
 		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
