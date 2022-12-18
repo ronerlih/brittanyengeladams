@@ -116,10 +116,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-								{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/tensorflow.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
@@ -215,13 +215,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+								{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/tensorflow.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+	
 			{
 			name: "Architecture of Memory",
 			img: "images/2138383815138158.jpg", 
