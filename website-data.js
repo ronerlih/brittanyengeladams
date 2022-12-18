@@ -106,14 +106,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	  
-		{
-		name: "Harvestworks |  Residency",
-		img: "images/S2022101882317PM.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
+// 		{
+// 		name: "Harvestworks |  Residency",
+// 		img: "images/8118221151181119920231518111.jpg",
+// 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+// 		link: "https://www.harvestworks.org/",
+// 		credit: "",
 		
-		},
+// 		},
 			{
 
 		name: "Human Robot",
