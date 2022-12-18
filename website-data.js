@@ -21,14 +21,15 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-	
 		{
-		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
-		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS_553PM.jpg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
+	
 			{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -45,12 +46,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS_553PM.jpg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a BA, BFA, MA, MFA, MPS or PhD in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
+		name: "Hand Dance | Film",
+		img: "images/79514154515144445114______444_44.png",
+		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
 	
 
