@@ -215,16 +215,15 @@ let WEBSITE_DATA = [
 
 
 
-
-		
-	
-		{
-		name: "Archival Artifact 'Mizrach'",
-		img: "images/1215225.png",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+											{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+		
+	
 	
 	
 			{
@@ -259,10 +258,11 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-												{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "Skeleton data. (a) A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+	
+		{
+		name: "Archival Artifact 'Mizrach'",
+		img: "images/1215225.png",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
