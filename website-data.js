@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hand Dance | Research",
-		img: "images/8114114351145115114.png",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -47,7 +47,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/8114114351145115114.png",
 		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -73,7 +73,7 @@ let WEBSITE_DATA = [
 		},
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
+			img: "images/16101918161297820191816125129782019.jpg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
