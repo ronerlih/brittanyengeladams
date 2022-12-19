@@ -21,6 +21,13 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
+			{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.png",
+		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpg",
@@ -45,13 +52,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.png",
-		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 	
 	
 
