@@ -170,13 +170,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-// 								{
-// 		name: "Emergent Landscape I | Tessellation",
-// 		img: "images/11_91919_.jpg",
-// 		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-// 		link: "https://www.brittanyengeladams.com/red-who.html",
-// 		credit: "",
-// 	},
+								{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
 	
 // 	{
 // 			name: "New York University's Tisch Department of Theater at ETW",
