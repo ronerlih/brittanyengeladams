@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Hand Dance | Film",
 		img: "images/8114114351145115114.png",
-		blurb: "'Hand Dance' film commissioned by The Guggenheim Museum’s Works & Process in 2020.",
+		blurb: "‘Hand Dane’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
@@ -50,13 +50,13 @@ let WEBSITE_DATA = [
 	
 	
 
-// 		{
-// 		name: "Sawtooth Wave",
-// 		img: "images/ezgif-5-9f4fda4098.gif",
-// 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
 	
 	
 		 {
@@ -232,13 +232,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-// 	{
-// 		name: "Subtractive Synthesis",
-// 		img: "images/fec46aa5b9.gif",
-// 		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},
 	
 // 				{
 // 		name: "Digital Sculpture",
