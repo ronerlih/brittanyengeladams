@@ -1,8 +1,8 @@
 let WEBSITE_DATA = [
-								{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/tensorflow.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
 		link: "",
 		credit: "",
 	},
@@ -232,14 +232,15 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-
-	{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+									{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/tensorflow.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+
+	
 	
 // 				{
 // 		name: "Digital Sculpture",
