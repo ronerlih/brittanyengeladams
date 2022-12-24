@@ -55,7 +55,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+		{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	
 	
 
@@ -70,13 +76,7 @@ let WEBSITE_DATA = [
 	
 
 	
-			{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+	
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/16101918161297820191816125129782019.jpg", 
