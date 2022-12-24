@@ -29,6 +29,13 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
+			{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
 	
 		 {
 		name: "Farewell 2020",
@@ -52,13 +59,7 @@ let WEBSITE_DATA = [
 	
 	
 
-		{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},
+
 		 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpg",
