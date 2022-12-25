@@ -9,14 +9,14 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Proximity Technology from Qualcomm",
-		img: "images/755555_11351893a_.png",
+		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
 	},
 		{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/319230451_10224665358634315_5057811054479063502_n.jpeg",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Photo by Joshua Okoro",
@@ -250,7 +250,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.png",
+		img: "images/guggenheim_museum.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
