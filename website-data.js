@@ -116,13 +116,14 @@ let WEBSITE_DATA = [
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
-					{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
+								{
+		name: "Maquette 2021",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
 	},
+	
 		
 
 	{
@@ -175,14 +176,14 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
-							{
-		name: "Maquette 2021",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
+					{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
 		credit: "",
 	},
-	
+
 	
 // 	{
 // 			name: "New York University's Tisch Department of Theater at ETW",
@@ -253,7 +254,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
+		img: "images/8114114351145115114.jpg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
