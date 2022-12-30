@@ -163,14 +163,14 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
-		{
-
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+			{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
 		link: "",
 		credit: "",
 	},
+	
 											{
 		name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpg",
@@ -207,16 +207,17 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 	
+	{
 
-	
-
-		{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+	
+
+
 
 
 											{
