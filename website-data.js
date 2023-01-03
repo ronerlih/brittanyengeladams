@@ -113,16 +113,15 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-	
-	
-	
-								{
-		name: "Maquette 2021",
-		img: "images/11842191415_218514201184.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
+												{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
+
 	{
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS2022115PM.jpg",
@@ -174,15 +173,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-											{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+	
+								{
+		name: "Maquette 2021",
+		img: "images/11842191415_218514201184.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
 	},
-	
-
 	
 
 
