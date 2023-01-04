@@ -32,13 +32,7 @@ let WEBSITE_DATA = [
 	},
 
 	
-			{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},
+
 											{
 		name: "Proprioceptive Research | Mapping",
 		img: "images/1221251201515018195125201514.gif",
@@ -47,7 +41,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+			{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
 
 
 	
