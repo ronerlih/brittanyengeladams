@@ -165,7 +165,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
+				{
+		name: "Memory Dance",
+		img: "images/tensorflow.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
 			{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpg",
@@ -233,13 +239,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-			{
-		name: "Memory Dance",
-		img: "images/tensorflow.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data,  records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},	
+	
 					{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/2138383815138158.jpg",
