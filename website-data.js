@@ -62,12 +62,12 @@ let WEBSITE_DATA = [
 	},
 
 
-			 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+					{
+		name: "Memory Dance",
+		img: "images/Avatartracking.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
 
 	
@@ -147,13 +147,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 		
 // 		},
-					{
-		name: "Memory Dance",
-		img: "images/Avatartracking.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+				 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+
 	
 
 							{
