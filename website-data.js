@@ -212,16 +212,7 @@ let WEBSITE_DATA = [
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	},
-
-						{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
-		
+	},		
 
 	{
 			name: "Architecture of Memory",
@@ -231,11 +222,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 	
-
-
-
-
-
+						{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 
 	
 					{
