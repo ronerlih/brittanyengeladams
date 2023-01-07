@@ -81,13 +81,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-			 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
+	
 		
 
 	{
@@ -97,6 +91,13 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+			 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
 	
 	
 							{
