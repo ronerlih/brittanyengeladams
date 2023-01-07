@@ -88,13 +88,14 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
-					{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
+	{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
+	
 	
 							{
 		name: "YouTube Improv  | Website",
@@ -149,14 +150,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 		
 // 		},
+					{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},
 	
-	{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
+	
 	
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
