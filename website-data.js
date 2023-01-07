@@ -66,14 +66,6 @@ let WEBSITE_DATA = [
 	},
 
 
-	
-				{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/S2022110192534.jpg",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/RutgersConcertProgram.png", 
@@ -81,6 +73,13 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
+				{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/S2022110192534.jpg",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 
 			 {
 		name: "YouTube Improv  | Performance",
