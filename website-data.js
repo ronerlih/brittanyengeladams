@@ -123,7 +123,7 @@ let WEBSITE_DATA = [
 // 	},
 					{
 		name: "I Am Not A Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
