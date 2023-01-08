@@ -113,13 +113,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Digital Collage.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+// 	{
+// 		name: "Emergent Landscape III | Tessellation",
+// 		img: "images/S20221101at74608PM.jpg",
+// 		blurb: "Digital Collage.",
+// 		link: "https://www.brittanyengeladams.com/who-wood.html",
+// 		credit: "",
+// 	},
 					{
 		name: "I Am Not A Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
@@ -129,13 +129,13 @@ let WEBSITE_DATA = [
 	},
 	
 
-// 		{
-// 		name: "Hand Dance | Research",
-// 		img: "images/11414121191918.gif",
-// 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Hand Dance | Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 								{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprovhigh.gif",
