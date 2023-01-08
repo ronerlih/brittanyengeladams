@@ -214,6 +214,13 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
+	{
+			name: "Architecture of Memory",
+			img: "images/234907PM.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 				{
 
 		name: "Human Robot",
@@ -222,13 +229,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-			name: "Architecture of Memory",
-			img: "images/234907PM.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+	
 							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
