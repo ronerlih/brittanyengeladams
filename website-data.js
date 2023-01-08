@@ -115,13 +115,14 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
-					{
-		name: "I Am Not A Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+										{
+		name: "Before Zeta | Film",
+		img: "images/capebook.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+
 		{
 			name: "Joffrey Ballet School (Faculty)",
 			img: "images/Joffrey61855551311419380012School.png",
@@ -186,7 +187,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
+						{
+		name: "I Am Not A Robot",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 
 	
 // 	{
@@ -196,13 +203,7 @@ let WEBSITE_DATA = [
 // 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 // 			credit: "",
 // 		},
-									{
-		name: "Before Zeta | Film",
-		img: "images/capebook.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
+
 
 		{
 		name: "BodyMouth/Ielele | Symposium",
