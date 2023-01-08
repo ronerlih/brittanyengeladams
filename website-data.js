@@ -68,7 +68,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
@@ -101,7 +101,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/batesteach.png",
+			img: "images/Hortonatbates.png",
 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
@@ -260,7 +260,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
+		img: "images/181514.jpeg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
