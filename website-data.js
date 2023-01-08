@@ -64,24 +64,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
-		},
-				{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-
 	
-		
-
 			 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpg",
@@ -89,6 +72,25 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+		
+				{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
+{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},
+	
+		
+
+	
 	
 	{
 			name: "Joffrey Ballet School (Faculty)",
