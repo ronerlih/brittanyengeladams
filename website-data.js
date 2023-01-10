@@ -59,15 +59,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+						{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},	
 
-{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+
 		{
 			name: "Architecture of Memory",
 			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
@@ -105,14 +105,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-							{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
-
+	
+{
+			name: "Bates Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 
 		{
 		name: "Hand Dance | Research",
@@ -131,7 +131,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
+			img: "images/16101918161297820191816125129782019.jpeg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
