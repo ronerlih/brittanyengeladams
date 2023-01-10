@@ -1,4 +1,11 @@
 let WEBSITE_DATA = [
+			{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
 	
 	
 		{
@@ -32,14 +39,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpeg",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-		link: "",
-		credit: "",
-	},
-				{
+			{
 		name: "Sawtooth Wave",
 		img: "images/ezgif-5-9f4fda4098.gif",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
