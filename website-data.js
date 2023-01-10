@@ -32,11 +32,12 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Cape Cod Midcentury Architecture  | Artist Residency",
-		img: "images/311631513116315113154.png",
-		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
-		link: "https://ccmht.org/",
+
+										{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
 		credit: "",
 	},
 	
@@ -199,15 +200,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-										{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
+				{
+		name: "Cape Cod Midcentury Architecture  | Artist Residency",
+		img: "images/311631513116315113154.png",
+		blurb: "Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet: 'Architecture of Memory', published in Movement Research Performance Journal No. 55; and 'Hand Dance', a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work published in the Digital Guestbook.",
+		link: "https://ccmht.org/",
 		credit: "",
 	},
+	
+
 												{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
