@@ -25,12 +25,12 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-						{
-		name: "Maquette 2021",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+						 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
 
 										{
@@ -217,15 +217,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
-					 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+						{
+		name: "Maquette 2021",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
-		credit: ""
+		credit: "",
 	},
+
+
+
 
 
 
