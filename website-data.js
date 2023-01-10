@@ -105,21 +105,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-													{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
-								{
+							{
 		name: "Subtractive Synthesis",
 		img: "images/fec46aa5b9.gif",
 		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
 		link: "",
 		credit: "",
 	},
-	
+
 
 		{
 		name: "Hand Dance | Research",
@@ -128,6 +121,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+														{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/RutgersConcertProgram.png", 
