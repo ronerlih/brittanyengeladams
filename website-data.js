@@ -1,4 +1,29 @@
 let WEBSITE_DATA = [
+	
+	
+		{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Joshua Okoro",
+		
+		},
+	
+			{
+		name: "Hand Dance | Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+											{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 			{
 		name: "Cape Cod Midcentury Architecture  | Artist Residency",
 		img: "images/311631513116315113154.png",
@@ -207,14 +232,6 @@ let WEBSITE_DATA = [
 // 		},
 
 
-		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Joshua Okoro",
-		
-		},
 				{
 
 		name: "Human Robot",
@@ -261,20 +278,7 @@ let WEBSITE_DATA = [
 
 		
 
-			{
-		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-										{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+
 
 
 	
