@@ -76,14 +76,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+{
+			name: "Bates Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	
-					{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
+
 
 		{
 			name: "Architecture of Memory",
@@ -103,17 +105,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+							{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
 
 
-	
-{
-			name: "Bates Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+
 
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -210,13 +211,7 @@ let WEBSITE_DATA = [
 
 	
 
-												{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+	
 	
 											{
 		name: "Wireless Fidelity | Exhibition",
@@ -225,7 +220,13 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
-	
+												{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 
 
 
@@ -259,13 +260,7 @@ let WEBSITE_DATA = [
 	
 
 
-		{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+	
 
 	
 
@@ -276,7 +271,13 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
-	
+		{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1215225.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 
 	
 					{
