@@ -24,10 +24,10 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-											{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+								{
+		name: "I Am Not A Robot",
+		img: "images/1233740.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
@@ -198,13 +198,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-								{
-		name: "I Am Not A Robot",
-		img: "images/1233740.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+												{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
 	},
+
 
 					 {
 		name: "YouTube Improv  | Performance",
@@ -252,7 +253,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
+		img: "images/1215225.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
