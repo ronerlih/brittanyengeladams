@@ -49,21 +49,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
+
+
 	
-
-
 					{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/SS20230108atPM.png",
 		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
-			{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
 		credit: "",
 	},
 
@@ -131,13 +131,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
+				{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
