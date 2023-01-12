@@ -40,6 +40,13 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
+			{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
 
 		{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
@@ -49,13 +56,7 @@ let WEBSITE_DATA = [
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
 	
-			{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},
+	
 
 
 
@@ -74,19 +75,20 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
-									{
-		name: "Maquette 2021",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
+	{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu,",
+		
+		},
 	
 	
 
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/16101918161297820191816125129782019.jpeg", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
@@ -268,15 +270,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+										{
+		name: "Maquette 2021",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 	
-		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu,",
-		
-		},
+	
 											{
 		name: "Proprioceptive Research | Mapping",
 		img: "images/11414121191918.gif",
