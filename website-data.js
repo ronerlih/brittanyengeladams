@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	},
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/16101918161297820191816125129782019.jpeg", 
+			img: "images/RutgersConcertProgram.jpeg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
@@ -277,7 +277,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
