@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	},
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.jpg", 
+			img: "images/masongross_loree_fall_concert_2021_.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
 			link: "https://www.rutgers.edu/",
 			credit: "",
@@ -215,7 +215,7 @@ let WEBSITE_DATA = [
 	
 											{
 		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpg",
+		img: "images/261949_8111949118111949.png",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "https://ropac.net/",
 		credit: "",
