@@ -126,7 +126,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
