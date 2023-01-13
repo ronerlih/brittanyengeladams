@@ -149,20 +149,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-					{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
-	
 
-	
-
-	
-	
 	
 // 	{
 // 		name: "Emergent Landscape III | Tessellation",
@@ -171,14 +158,6 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
-	
-	
-	
-	
-
-
-	
-
 
 	
 	
@@ -188,6 +167,13 @@ let WEBSITE_DATA = [
 		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
 		credit: ""
+	},
+						{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
 	},
 		{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
