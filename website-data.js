@@ -203,13 +203,7 @@ let WEBSITE_DATA = [
 // 		credit: "",
 		
 // 		},
-												{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/11414121191918.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
+
 	
 
 
@@ -263,6 +257,13 @@ let WEBSITE_DATA = [
 // 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
 // 			credit: "",
 // 		},
+													{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/11414121191918.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 										{
 		name: "Maquette 2021",
 		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
