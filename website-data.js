@@ -28,7 +28,7 @@ let WEBSITE_DATA = [
 	
 																{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/redscroll202.gif",
+		img: "images/SS20230108atPM.png",
 		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -49,13 +49,7 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
-			{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
-		link: "",
-		credit: "",
-	},
+
 	
 																{
 		name: "Skeletal Avatar",
@@ -65,10 +59,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+			{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+		link: "",
+		credit: "",
+	},
 	
 					{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
+		img: "images/redscroll202.gif",
 		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
