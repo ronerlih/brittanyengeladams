@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Memory Dance",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/11414121191918.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
@@ -277,7 +277,7 @@ let WEBSITE_DATA = [
 	},
 														{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/11414121191918.gif",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -286,7 +286,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
+		img: "images/1215225.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
