@@ -197,23 +197,6 @@ let WEBSITE_DATA = [
 		
 // 		},
 	
-					{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
-
-	
-								{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
-	
 	
 																{
 		name: "Shower | Performance",
@@ -223,6 +206,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
+					{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
+	
+	
+
+								{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
+		link: "",
+		credit: "",
+	},
 
 
 
