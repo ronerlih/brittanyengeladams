@@ -123,17 +123,15 @@ let WEBSITE_DATA = [
 	},
 
 	
-
-
-
-
-										{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+							 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+
+
 	
 		{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
@@ -142,16 +140,7 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
-	
-	
-	
-								 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
+
 		{
 			name: "Architecture of Memory",
 			img: "images/234907PM.jpeg", 
@@ -159,6 +148,17 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
+		
+	
+										{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+	
+	
 	
 
 	
