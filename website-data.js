@@ -33,13 +33,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-						{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+	
+																			{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+
 	
 		{
 		name: "Sawtooth Wave",
@@ -57,15 +59,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
-
-																			{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+						{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
-	},
+	},	
+
+	
 
 
 	{
@@ -85,12 +87,13 @@ let WEBSITE_DATA = [
 		},
 	
 		{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/capebook.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
 		},
+
 
 	
 								{
@@ -131,14 +134,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/capebook.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
-
+	
 	
 	
 								 {
