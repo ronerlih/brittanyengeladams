@@ -42,6 +42,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+													{
+		name: "Maquette 2021",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Sawtooth Wave",
@@ -51,13 +58,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-													{
-		name: "Maquette 2021",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
+	
 	
 						{
 		name: "Emergent Landscape II | Tessellation",
@@ -112,14 +113,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-						{
-
-		name: "Human Robot",
-		img: "images/IMG23dmilkyway.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+														{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/bostond.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+	
 
 								{
 		name: "I Am Not A Robot",
@@ -179,6 +180,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+																{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 						{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -236,15 +244,17 @@ let WEBSITE_DATA = [
 // 			credit: "",
 // 		},
 	
-	
-	
-																{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+						{
+
+		name: "Human Robot",
+		img: "images/IMG23dmilkyway.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+
+	
+	
 	
 					{
 		name: "Digital Sculpture",
@@ -262,15 +272,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
 	
-														{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/bostond.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
+	
+	
 	
 	
 	
