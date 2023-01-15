@@ -87,13 +87,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
-		},
+
 
 
 							 {
@@ -103,13 +97,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		
-
 		{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},
+		
+{
+			name: "Architecture of Memory",
+			img: "images/234907PM.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
 			credit: "",
 		},
 	
@@ -143,12 +143,13 @@ let WEBSITE_DATA = [
 		},
 
 		{
-			name: "Architecture of Memory",
-			img: "images/234907PM.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+		
 		
 	
 										{
