@@ -19,7 +19,7 @@ let WEBSITE_DATA = [
 		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpeg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Joshua Okoro,",
+		credit: "Photo by Rodney Kimbangu,",
 		
 		},
 
@@ -173,7 +173,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Architecture of Memory",
-			img: "images/234907PM.jpeg", 
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -256,7 +256,7 @@ let WEBSITE_DATA = [
 	
 								{
 		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
+		img: "images/181514.jpeg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
