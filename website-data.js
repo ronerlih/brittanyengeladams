@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		img: "images/TheSirens_by_JoshuaOkoro113.jpg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Photo by Josh Okoro,",
@@ -141,7 +141,7 @@ let WEBSITE_DATA = [
 		},
 {
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/234907PM.jpeg",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
