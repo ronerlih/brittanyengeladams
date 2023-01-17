@@ -176,23 +176,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		
 	
-	
-	
-										{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
-		link: "",
-		credit: "",
-	},
 	
 			
 										{
 		name: "Memory Dance",
 		img: "images/11414121191918.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+	
+											{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "Subtractive synthesis process, essentially, a carved out saturated room of white noise. The graph denotes where the key or pitch of sound of the white noise appears over time, and how frequently that pitch occurs.",
 		link: "",
 		credit: "",
 	},
