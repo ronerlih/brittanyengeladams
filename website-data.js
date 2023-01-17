@@ -22,10 +22,10 @@ let WEBSITE_DATA = [
 
 {
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu,",
+		credit: "Photo by Josh Okoro,",
 		
 		},
 															{
@@ -51,14 +51,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	 {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-	
+
+						{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 
 	
 		{
@@ -82,25 +82,24 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
-
-						{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+	 {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
+																					{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
 	
 	
-	
-	
-										{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
-		link: "",
-		credit: ""
-	},
+
 
 	
 	{
@@ -111,12 +110,13 @@ let WEBSITE_DATA = [
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
 	
-																				{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
+	
+										{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+		link: "",
+		credit: ""
 	},
 	
 													{
@@ -224,16 +224,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-
-	
-				{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
+										{
+		name: "Hand Dance | Film",
+		img: "images/181514.jpeg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
 
+	
 	
 
 
@@ -268,15 +267,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-
-									{
-		name: "Hand Dance | Film",
-		img: "images/181514.jpeg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+					{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
 	},
+
+
+
 
 
 	
