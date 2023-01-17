@@ -6,23 +6,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-										{
-		name: "Before Zeta | Film",
-		img: "images/311631513116315113154.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Rodney Kimbangu,",
-		
-		},
-
 				{
 
 		name: "Human Robot",
@@ -31,6 +14,24 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
+{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Rodney Kimbangu,",
+		
+		},
+											{
+		name: "Before Zeta | Film",
+		img: "images/311631513116315113154.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+
+	
 
 							{
 		name: "Hand Dance | Research",
