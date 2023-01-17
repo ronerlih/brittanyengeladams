@@ -7,9 +7,6 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 		
-	
-	
-	
 
 			{
 		name: "Proximity Technology from Qualcomm",
@@ -99,13 +96,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-																		{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
-		credit: "",
-	},
+
 	
 																					{
 		name: "Emergent Landscape I | Tessellation",
@@ -114,7 +105,13 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-
+																		{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
+		credit: "",
+	},
 
 		{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
