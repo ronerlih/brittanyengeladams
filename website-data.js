@@ -7,6 +7,9 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
+		
+	
+	
 
 			{
 		name: "Proximity Technology from Qualcomm",
@@ -73,15 +76,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-			
-	{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},
+{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
+			link: "https://www.rutgers.edu/",
+			credit: "",
+		},
 
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -155,13 +156,16 @@ let WEBSITE_DATA = [
 // 		link: "https://www.brittanyengeladams.com/who-wood.html",
 // 		credit: "",
 // 	},
+	
+			
 	{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century - reimagined for the 21st century stage.",
-			link: "https://www.rutgers.edu/",
-			credit: "",
-		},
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	},
+	
 	
 	
 							 {
