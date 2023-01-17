@@ -83,15 +83,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-	
-	
-													{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/bostond.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
+						{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+	
+	
+	
 	
 										{
 		name: "YouTube Improv  | Website",
@@ -118,11 +119,11 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-						{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+													{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/bostond.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a dance teacher, I consider the ways this software could be used by students in a dance class. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? I wonder how that feedback could be effective and productive in learning movement as I'm not relying on ocular relation to create representations, I have to rely on my orientation to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
 		credit: "",
 	},
 	
