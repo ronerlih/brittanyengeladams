@@ -1,11 +1,4 @@
 let WEBSITE_DATA = [
-			{
-		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
-		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
-		link: "",
-		credit: "",
-	},
 				{
 
 		name: "Human Robot",
@@ -14,6 +7,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+			{
+		name: "Proximity Technology from Qualcomm",
+		img: "images/209385904___385893475689376782657826.png",
+		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
+		link: "",
+		credit: "",
+	},
+	
 
 {
 		name: "BodyMouth/Ielele | Symposium",
@@ -193,14 +194,14 @@ let WEBSITE_DATA = [
 	},
 		
 
-// 		{
-// 		name: "Harvestworks |  Residency",
-// 		img: "images/8118221151181119920231518111.jpg",
-// 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-// 		link: "https://www.harvestworks.org/",
-// 		credit: "",
+		{
+		name: "Harvestworks |  Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
 		
-// 		},
+		},
 	
 	
 
