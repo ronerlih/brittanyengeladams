@@ -27,7 +27,7 @@ let WEBSITE_DATA = [
 		},
 															{
 		name: "Maquette 2021",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 	
 								{
 		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
