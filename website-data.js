@@ -62,12 +62,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-									{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
+	
+		{
+		name: "Sawtooth Wave",
+		img: "images/ezgif-5-9f4fda4098.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
 		link: "",
-		credit: ""
+		credit: "",
 	},
 								{
 		name: "Hand Dance | Research",
@@ -92,15 +93,15 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-		
-
-		{
-		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
+										{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+
+	
 	{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
 			img: "images/capebook.png",
