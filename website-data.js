@@ -44,10 +44,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-									{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+												{
+		name: "I Am Not A Robot",
+		img: "images/11414121191918.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
@@ -95,13 +95,14 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
-											{
-		name: "I Am Not A Robot",
-		img: "images/11414121191918.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+									{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
+
 		
 		
 
