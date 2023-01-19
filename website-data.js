@@ -75,16 +75,14 @@ let WEBSITE_DATA = [
 	},
 
 
-	
-		
-
-																			{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+								{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+
 
 
 
@@ -96,23 +94,25 @@ let WEBSITE_DATA = [
 			link: "https://www.rutgers.edu/",
 			credit: "",
 		},
-		 {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-	
-
-	
-								{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+									{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
 		credit: "",
 	},
+		
+		
+
+																			{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+	
+	
 
 																{
 		name: "Maquette 2021",
@@ -121,14 +121,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-									{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
-
+	
+ {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
 
 
 		{
