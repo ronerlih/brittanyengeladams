@@ -33,14 +33,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	 {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+										{
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},
+
+	
 	
 			{
 		name: "Sawtooth Wave",
@@ -49,14 +50,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-										{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	 {
+		name: "Farewell 2020",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+		},
+
 
 	
 																				{
@@ -136,14 +137,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+								 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		link: "",
+		credit: ""
+	},
+	
 	
 
 
@@ -154,14 +155,15 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	
-									 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-		link: "",
-		credit: ""
-	},
+	
 	
 // 	{
 // 		name: "Emergent Landscape III | Tessellation",
@@ -217,16 +219,16 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-
-		
-
-															{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
+																					{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
 		credit: "",
 	},
+
+
+	
 					{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
@@ -289,15 +291,18 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+		
 
-																					{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
+															{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
 		credit: "",
 	},
 
+	
 
 	
 	
