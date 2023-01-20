@@ -1,7 +1,7 @@
 let WEBSITE_DATA = [
 													{
 		name: "Before Zeta | Film",
-		img: "images/311631513116315113154.png",
+		img: "images/SS20230105at4.26.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -124,7 +124,7 @@ let WEBSITE_DATA = [
 
 																{
 		name: "Maquette 2021",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -190,7 +190,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/capecod11.png",
+			img: "images/311631513116315113154.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 			
 															{
 		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -231,13 +231,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
- 										{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 
 
 
@@ -251,6 +244,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	 										{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.jpg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+
 	
 
 														{
@@ -267,6 +268,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+															{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
+		
 	
 									{
 
@@ -291,14 +301,7 @@ let WEBSITE_DATA = [
 // 		},
 	
 
-														{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
-		
+
 	
 
 
