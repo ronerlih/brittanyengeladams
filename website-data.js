@@ -39,15 +39,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-{
-		name: "Harvestworks |  Residency",
-		img: "images/bodymouthpic.png",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-		
-		},
 
+															{
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	
 {
 		name: "Movement Research Performance Journal | Publication",
@@ -116,13 +115,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-																{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+	{
+		name: "Harvestworks |  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
 		credit: "",
-	},
+		
+		},
+	
 {
 			name: "Architecture of Memory",
 			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
@@ -226,7 +227,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
+			img: "images/batesteach.png",
 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
