@@ -41,15 +41,19 @@ let WEBSITE_DATA = [
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
 		link: "",
 		credit: "",
+	
 	},
 		
- {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/Tisch-q33cyo.jpeg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
+	
+	
+																			{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpeg",
+		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	},
+
 			
 
 														{
@@ -61,24 +65,23 @@ let WEBSITE_DATA = [
 	},
 		
 	
-{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/234907PM.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	},		
-
-	
-
-	
-																			{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+																							{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
+		link: "",
 		credit: "",
 	},
+		
+
+	 {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/Tisch-q33cyo.jpeg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+
 	
 									{
 		name: "Hand Dance | Research",
@@ -129,13 +132,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-	{
-		name: "Harvestworks |  Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-		
+	
+
+		{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
 		},
 								{
 		name: "Emergent Landscape II | Tessellation",
@@ -156,18 +160,17 @@ let WEBSITE_DATA = [
 		
 
 	
-	
-
-
-	
-
-		{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
+	{
+		name: "Harvestworks |  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+		
 		},
+
+
+	
 	
 {
 			name: "Bates College Summer Dance Festival (Faculty) ",
@@ -178,12 +181,11 @@ let WEBSITE_DATA = [
 		},
 	
 	
-
-																							{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
-		link: "",
+{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/234907PM.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	},
 
