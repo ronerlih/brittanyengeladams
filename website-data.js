@@ -47,9 +47,9 @@ let WEBSITE_DATA = [
 	
 	
 																			{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "‘Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/patterns01.gif",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
@@ -142,9 +142,9 @@ let WEBSITE_DATA = [
 		},
 	
 							{
-		name: "Emergent Landscape II | Tessellation",
+		name: "Emergent Landscape I | Tessellation",
 		img: "images/S2022110192534.jpeg",
-		blurb: "Social Media is a black box and echo chamber, the result of algorithmic dynamics aided by opaque interfaces caused by the homogenization of friend recommendations and personal news feeds, often referred to as online “homophily,” or colloquially as the ‘birds of a feather flock together’ phenomenon.",
+		blurb: "The forces of the world allow for the simplest interpretation of free-will. In an economic-capitalist sphere, the will of the consumer represents a sublime force that manifests through desire; this not free-will.  If we believe the mystery of the universe manifests in the decision we make on which bread to buy at the grocery store; this is not free-will. Free-will is not the sublime, sacred thing that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
@@ -195,13 +195,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 	{
-// 		name: "Emergent Landscape III | Tessellation",
-// 		img: "images/S20221101at74608PM.jpg",
-// 		blurb: "Digital Collage.",
-// 		link: "https://www.brittanyengeladams.com/who-wood.html",
-// 		credit: "",
-// 	},
+	{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 	
 
 	
