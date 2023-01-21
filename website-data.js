@@ -200,7 +200,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S20221101at74608PM.jpg",
-		blurb: "Filter Bubbles’ where increasingly like-minded communities whose views are reinforced and become more extreme have been swirling for several years now. In America, political issues have always  polarized communities, in some ways. Now more than ever, with the popularity of social media are intensifying political polarization.",
+		blurb: "When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
