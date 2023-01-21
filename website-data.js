@@ -157,7 +157,7 @@ let WEBSITE_DATA = [
 							{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpeg",
-		blurb: "The forces of the world allow for a rudimentary interpretation of freewill. In an economic-capitalist sphere, freewill represents a sublime force that manifests through desire. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
