@@ -117,14 +117,17 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
+	
+		
+{
+			name: "Architecture of Memory",
+			img: "images/814181211418152114181534114181521520.gif", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
-															{
-		name: "I Am Not A Robot",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 
@@ -229,16 +232,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
+																{
+		name: "I Am Not A Robot",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 
-	
-{
-			name: "Architecture of Memory",
-			img: "images/814181211418152114181534114181521520.gif", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+
 				{
 		name: "Ancestral Artifact 'Mizrach'",
 		img: "images/1926318892613892618138.jpeg",
