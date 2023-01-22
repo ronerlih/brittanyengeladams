@@ -129,13 +129,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-	{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+
 	
 	{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
@@ -144,6 +138,13 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
+		{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 			
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -198,7 +199,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
+			img: "images/16101918161297820191816125129782019.jpeg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -213,16 +214,14 @@ let WEBSITE_DATA = [
 	},
 		
 
-	
-	
-					{
-		name: "Sawtooth Wave",
-		img: "images/2023012170559PM.png",
-		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
-	
 	},
+	
 	
 	
 								 {
@@ -257,14 +256,16 @@ let WEBSITE_DATA = [
 	},
 	
 
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+	
+	
+					{
+		name: "Sawtooth Wave",
+		img: "images/2023012170559PM.png",
+		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
 		link: "",
 		credit: "",
-	},
 	
+	},
 
 				{
 		name: "Ancestral Artifact 'Mizrach'",
@@ -292,7 +293,7 @@ let WEBSITE_DATA = [
 
 	 										{
 		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
+		img: "images/guggenheim_museum.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
