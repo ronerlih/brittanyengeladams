@@ -37,7 +37,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Sawtooth Wave",
-		img: "images/ezgif-5-9f4fda4098.gif",
+		img: "images/2023012170559PM.png.",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space [x,y coordinate plane denotes pitch/volume.]",
 		link: "",
 		credit: "",
