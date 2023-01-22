@@ -84,8 +84,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	 {
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		name: "Human Robot | Research",
+		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
