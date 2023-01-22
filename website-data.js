@@ -35,14 +35,7 @@ let WEBSITE_DATA = [
 	},
 	
 
-			{
-		name: "Simulations of Newtonian Physics",
-		img: "images/2023012170559PM.png.",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "",
-	
-	},
+
 	
 	
 	
@@ -298,6 +291,15 @@ let WEBSITE_DATA = [
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
+	},
+	
+				{
+		name: "Simulations of Newtonian Physics",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg.",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
+		link: "",
+		credit: "Joshua Okoro",
+	
 	},
 	
 
