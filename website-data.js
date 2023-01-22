@@ -1,13 +1,13 @@
 let WEBSITE_DATA = [
 	
-														{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
 
+ {
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 			{
 		name: "Proximity Technology from Qualcomm",
 		img: "images/209385904___385893475689376782657826.png",
@@ -57,16 +57,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		
-{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		{
+		name: "Electron Cloud Atomic Model",
+		img: "images/SS7.47.47M.png",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+		link: "",
 		credit: "",
 	},
-	
+		
+
 
 
 		
@@ -78,6 +77,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+															{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+
 		
 
 																			{
@@ -87,13 +94,14 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-														{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},	
+	{
+			name: "Architecture of Memory",
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+
 
 	 {
 		name: "Farewell 2020",
@@ -103,13 +111,6 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
- {
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
 
 	{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -127,15 +128,14 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
-	
+															{
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
 		
-{
-			name: "Architecture of Memory",
-			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 
 
 	
@@ -262,14 +262,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-				{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
+													{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+
+
 	
 
 														{
@@ -282,20 +283,19 @@ let WEBSITE_DATA = [
 	
 	
 	
-
-
-
-													{
-		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+				{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
 		credit: "",
 	},
+
+
 	
 				{
 		name: "Simulations of Newtonian Physics",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg.",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "Joshua Okoro",
