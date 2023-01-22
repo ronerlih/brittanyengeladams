@@ -128,13 +128,13 @@ let WEBSITE_DATA = [
 		},
 	
 	
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+// 	{
+// 			name: "Bates College Summer Dance Festival (Faculty) ",
+// 			img: "images/Hortonatbates.png",
+// 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+// 			link: "https://www.batesdancefestival.org/",
+// 			credit:"",
+// 		},
 															{
 		name: "Subtractive Synthesis",
 		img: "images/SS202301217.25.19PM.png",
