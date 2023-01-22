@@ -185,13 +185,13 @@ let WEBSITE_DATA = [
 
 
 
-// 	{
-// 			name: "Student Dance Concert Curator at Rutgers University ",
-// 			img: "images/loreewide.png", 
-// 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-// 			link: "",
-// 			credit: "",
-// 		},
+	{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+		},
 	
 	
 	{
@@ -219,7 +219,7 @@ let WEBSITE_DATA = [
 														{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
 		link: "",
 		credit: ""
 	},
@@ -292,13 +292,13 @@ let WEBSITE_DATA = [
 	
 
 	
-// 								 {
-// 		name: "YouTube Improv  | Performance",
-// 		img: "images/2121__5_55521212121212521212.jpeg",
-// 		blurb: "‘YouTube Improv' plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University in 2018.",
-// 		link: "",
-// 		credit: ""
-// 	},
+								 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+		link: "",
+		credit: ""
+	},
 	
 			
 	
