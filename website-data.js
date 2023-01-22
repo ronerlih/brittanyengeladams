@@ -39,6 +39,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+															{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/01-55.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+		
 	
 							{
 		name: "Emergent Landscape II | Tessellation",
@@ -99,14 +107,17 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-														{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+
+
+				{
+		name: "Simulations of Newtonian Physics",
+		img: "images/gif2b311de7101.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
-		credit: "",
+		credit: "Joshua Okoro",
+	
 	},
-		
+
 	
 // 			{
 // 		name: "Electron Cloud Atomic Model",
@@ -291,16 +302,6 @@ let WEBSITE_DATA = [
 	
 			
 	
-
-
-				{
-		name: "Simulations of Newtonian Physics",
-		img: "images/gif2b311de7101.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "Joshua Okoro",
-	
-	},
 	
 				{
 		name: "Ancestral Artifact 'Mizrach'",
