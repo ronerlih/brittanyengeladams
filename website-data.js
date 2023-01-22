@@ -202,12 +202,18 @@ let WEBSITE_DATA = [
 	{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S20221101at74608PM.jpg",
-		blurb: "When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
 	
-	
+	{
+		name: "",
+		img: "images/SS7.47.47M.png",
+		blurb: ".",
+		link: "",
+		credit: "",
+	},
 
 	
 		{
