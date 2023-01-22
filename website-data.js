@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 		},
 	
 	{
-		name: "Maquette 2021",
+		name: "Adversarial Neural Networks",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
@@ -39,14 +39,15 @@ let WEBSITE_DATA = [
 	
 
 
-														{
-		name: "Cultural Homogenization",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
-		link: "",
-		credit: ""
-	},
 	
+																	{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/01-55.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
 
 							{
 		name: "Emergent Landscape II | Tessellation",
@@ -66,11 +67,18 @@ let WEBSITE_DATA = [
 		
 		},
 	
+															{
+		name: "Cultural Homogenization",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
+		link: "",
+		credit: ""
+	},
 	
-																{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	{
+		name: "Maquette 2021",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
 	},
