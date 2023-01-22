@@ -138,7 +138,7 @@ let WEBSITE_DATA = [
 		
 {
 			name: "Architecture of Memory",
-			img: "images/814181211418152114181534114181521520.gif", 
+			img: "images/", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -208,9 +208,9 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "",
+		name: "Electron Cloud Atomic Model",
 		img: "images/SS7.47.47M.png",
-		blurb: ".",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
 		link: "",
 		credit: "",
 	},
@@ -263,7 +263,7 @@ let WEBSITE_DATA = [
 
 																{
 		name: "I Am Not A Robot",
-		img: "images/Avatartracking.jpeg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
