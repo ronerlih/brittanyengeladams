@@ -103,24 +103,23 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
-	{
-			name: "Architecture of Memory",
-			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
-														{
-		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+																				{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpeg",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
-	
+																{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 								{
 		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
+		img: "images/8114114351145115114.jpg",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -133,14 +132,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-		
-																				{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	},
+			{
+			name: "Architecture of Memory",
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+
 
 	
 	{
@@ -199,15 +198,16 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
-	
-	
-																{
-		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+															{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
-	},	
+	},
+	
+	
+	
 	
 
 	{
