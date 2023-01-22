@@ -23,13 +23,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-															{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
+	
+														{
+		name: "Filter Bubbles",
+		img: "images/IMG23dmilkyway.gif",
+		blurb: "‘Filter Bubbles where increasingly like minded communities whose views are reinforced and become more extreme have been swirling since the beginning of time. In America, political issues have always polarized communities, in some ways. Now more than ever, with the popularity of online platforms as gathering spacing which are intensifying political polarization. These online platforms are an echo chamber, a phenomenon known as ‘homophily,’  or colloquially, known as the ‘birds of a feather flock together.' The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of recommendations and personal news feeds.",
+		link: "",
+		credit: ""
 	},
+	
+
 
 														{
 		name: "Before Zeta | Film",
@@ -114,9 +117,18 @@ let WEBSITE_DATA = [
 		img: "images/gif2b311de7101.gif",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
-		credit: "Joshua Okoro",
+		credit: "",
 	
 	},
+	
+			
+ {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS_553PM.jpeg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 
 	
 // 			{
@@ -223,20 +235,25 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-														{
-		name: "Filter Bubbles",
-		img: "images/IMG23dmilkyway.gif",
-		blurb: "‘Filter Bubbles where increasingly like minded communities whose views are reinforced and become more extreme have been swirling since the beginning of time. In America, political issues have always polarized communities, in some ways. Now more than ever, with the popularity of online platforms as gathering spacing which are intensifying political polarization. These online platforms are an echo chamber, a phenomenon known as ‘homophily,’  or colloquially, known as the ‘birds of a feather flock together.' The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of recommendations and personal news feeds.",
+	
+			
+
+																							{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
-		credit: ""
-	},
-	 										{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
-	},	
+	},
+	
+																{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
+	
 		
 
 	
@@ -249,17 +266,7 @@ let WEBSITE_DATA = [
 		
 // 		},
 
-	
-
-																							{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},	
-	
-	
+		
 	
 	
 
@@ -270,22 +277,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	 										{
+		name: "Hand Dance | Film",
+		img: "images/8114114351145115114.jpg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+
 
 	
-	
-
-	
-			
- {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS_553PM.jpeg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-
-	
-
 	
 	
 
