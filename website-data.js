@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 		
  {
 		name: "Farewell 2020",
-		img: "images/Avatartracking.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit:"",
@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette 2021",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
