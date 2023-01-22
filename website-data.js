@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 
 
 														{
-		name: "Homogenization",
+		name: "Cultural Homogenization",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
 		link: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
