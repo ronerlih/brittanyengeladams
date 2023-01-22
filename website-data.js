@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	
  {
 		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/11414121191918.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit:"",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/3316530421011653043331653042101165304210210.jpeg",
+			img: "images/capebook.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
@@ -142,7 +142,7 @@ let WEBSITE_DATA = [
 
 																							{
 		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. While on teaching on Faculty, I presented ’Shower,'  a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York, in 2014.",
 		link: "",
 		credit: "",
@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 
 																							{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
