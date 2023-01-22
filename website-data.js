@@ -41,8 +41,8 @@ let WEBSITE_DATA = [
 
 														{
 		name: "Homogenization",
-		img: "images/IMG23dmilkyway.gif",
-		blurb: "‘Filter Bubbles where increasingly like minded communities whose views are reinforced and become more extreme have been swirling since the beginning of time. In America, political issues have always polarized communities, in some ways. Now more than ever, with the popularity of online platforms as gathering spacing which are intensifying political polarization. These online platforms are an echo chamber, a phenomenon known as ‘homophily'. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of recommendations and personal news feeds.",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
 		link: "",
 		credit: ""
 	},
