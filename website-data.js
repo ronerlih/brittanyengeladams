@@ -28,6 +28,16 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	
+	
+	
+																{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
 
 														{
 		name: "Filter Bubbles",
@@ -38,24 +48,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-														{
-		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-	
-															{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
-		
-	
 							{
 		name: "Emergent Landscape II | Tessellation",
 		img: "images/S2022110192534.jpeg",
@@ -64,15 +56,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	 {
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
-
-
 	
 	{
 		name: "Harvestworks |  Residency",
@@ -82,16 +65,47 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	
+	
+																{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/01-55.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 		
-
-																							{
+	
+																						{
 		name: "Skeletal Avatar",
 		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+	 {
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 
+	{
+			name: "Architecture of Memory",
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+														{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
+	
 								{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -99,27 +113,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-																		{
-		name: "Maquette 2021",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-		{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/SS20230105at4.26.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},
-
-
-	
-
-
-				{
+			{
 		name: "Simulations of Newtonian Physics",
 		img: "images/gif2b311de7101.gif",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
@@ -127,7 +121,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-	
+		
+	{
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/SS20230105at4.26.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},
 			
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -136,6 +137,21 @@ let WEBSITE_DATA = [
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
+	
+																		{
+		name: "Maquette 2021",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+		
+
+
+	
+
+
+
 
 	
 // 			{
@@ -180,13 +196,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-			name: "Architecture of Memory",
-			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+	
 	
 
 	{
@@ -262,14 +272,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-																{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
 	
 												{
 
