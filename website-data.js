@@ -287,6 +287,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+		{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
 
 	 										{
 		name: "Hand Dance | Film",
@@ -296,14 +304,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		
-		{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 
 
 
