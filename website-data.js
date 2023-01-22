@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 	
  {
 		name: "Farewell 2020",
-		img: "images/11414121191918.gif",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit:"",
@@ -123,7 +123,7 @@ let WEBSITE_DATA = [
 	
 															{
 		name: "Memory Dance",
-		img: "images/Avatartracking.jpeg",
+		img: "images/",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "",
@@ -144,7 +144,7 @@ let WEBSITE_DATA = [
 																							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014)  a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
@@ -162,13 +162,13 @@ let WEBSITE_DATA = [
 // 		},
 	
 	
-// 	{
-// 			name: "Bates College Summer Dance Festival (Faculty) ",
-// 			img: "images/Hortonatbates.png",
-// 			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-// 			link: "https://www.batesdancefestival.org/",
-// 			credit:"",
-// 		},
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	
 		
 
@@ -246,13 +246,13 @@ let WEBSITE_DATA = [
 
 	
 			
-//  {
-// 			name: "New York University's Tisch School of the Arts (Faculty)",
-// 			img: "images/SS_553PM.jpeg",
-// 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-// 			link: "https://tisch.nyu.edu/dance/courses",
-// 			credit: "",
-// 		},
+ {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS_553PM.jpeg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 
 	
 
