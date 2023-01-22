@@ -82,18 +82,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
 	
-																						{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+								{
+		name: "Hand Dance | Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	
-
-	
 	
 	 {
 		name: "Human Robot | Research",
@@ -117,13 +113,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-								{
-		name: "Hand Dance | Research",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		
+																						{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+
 			{
 		name: "Simulations of Newtonian Physics",
 		img: "images/gif2b311de7101.gif",
