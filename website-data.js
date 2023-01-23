@@ -147,15 +147,15 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	},
-
-	
 	{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/SS20230105at4.26.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
 		},
+	
+
 	
 															{
 		name: "Cultural Homogenization",
@@ -176,15 +176,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-		
-		{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
+	{
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/SS20230105at4.26.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
+		
+	
 									 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpeg",
@@ -221,13 +221,15 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+			
 															{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
+
 			
 																{
 		name: "Subtractive Synthesis",
@@ -271,9 +273,28 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
+		 										{
+		name: "Hand Dance | Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+
 	
 
-				{
+																{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		link: "",
+		credit: ""
+	},
+
+
+
+
+			{
 		name: "Ancestral Artifact 'Mizrach'",
 		img: "images/1926318892613892618138.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
@@ -281,17 +302,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	
-
-		
-															{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
 																		{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpeg",
@@ -299,9 +309,6 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
-
-
-
 
 	
 		
@@ -313,13 +320,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	 										{
-		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+
 
 			
 																						{
