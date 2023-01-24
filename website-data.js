@@ -1,6 +1,13 @@
 let WEBSITE_DATA = [
 	
 	
+																						{
+		name: "Cloud Computing",
+		img: "images/SS20230122at7.16.09PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "",
+		credit: "Google Data Center",
+	},
 
 
 			{
@@ -39,7 +46,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Harvestworks |  Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
@@ -93,13 +100,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	 {
-		name: "Posthumanism",
-		img: "images/Avatartracking.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
 
 																					{
 		name: "Skeletal Avatar",
@@ -122,7 +122,7 @@ let WEBSITE_DATA = [
 	
 																							{
 		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 
 	
 															{
-		name: "Cultural Polarization",
+		name: "Homogenization of Culture",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
 		link: "",
@@ -252,7 +252,7 @@ let WEBSITE_DATA = [
 	
 		 										{
 		name: "Hand Dance | Film",
-		img: "images/guggenheim_museum.png",
+		img: "images/8114114351145115114.jpg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -323,18 +323,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
-
-			
-																						{
-		name: "Cloud Computing",
-		img: "images/SS20230122at7.16.09PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+	
+		 {
+		name: "Posthumanism",
+		img: "images/Avatartracking.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "Google Data Center",
-	},
+		credit:"",
+		},
 
+
+
+
+	
 
 
 	
