@@ -137,6 +137,7 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
+	
 		{
 			name: "Joffrey Ballet School (Faculty)",
 			img: "images/Joffrey61855551311419380012School.png",
