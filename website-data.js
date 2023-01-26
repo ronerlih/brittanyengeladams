@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 
 							{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 
 																				{
 		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
