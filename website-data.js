@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 		
  {
 		name: "Farewell 2020",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/AVATARINRED.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit:"",
@@ -86,16 +86,18 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-		
+			
 
-	
-																{
-		name: "I Am Not A Robot",
-		img: "images/AVATARINRED.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
+																				{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpeg",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+
+	
+
 	
 								{
 		name: "Hand Dance | Research",
@@ -147,23 +149,15 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+
 																{
-		name: "Homogenization of Culture",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "‘Homophily,’  or colloquially, known as ‘birds of a feather flock together’ phenomenon, where increasingly like-minded communities whose views are reinforced and become more extreme. These communities are an echo chamber. The result of algorithmic dynamics, aided by opaque interfaces, caused by the homogenization of information. In America, politics have always polarized communities. Now more than ever, with the popularity of online platforms to host a space for gathering which has intensified political polarization.",
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
-		credit: ""
-	},
-
-	
-
-																				{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+
 	
 	
 		
