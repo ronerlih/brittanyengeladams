@@ -37,11 +37,12 @@ let WEBSITE_DATA = [
 		
 		},
 	
-													{
-		name: "Before Zeta | Film",
-		img: "images/capecod11.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+	
+																							{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
 		credit: "",
 	},
 	
@@ -140,12 +141,12 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.jpg", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
+			{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/2138383815138158.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
 },
 	
@@ -240,26 +241,27 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersConcertProgram.jpg", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
 	
 },
 
 
-
-	
-		
-																							{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
+													{
+		name: "Before Zeta | Film",
+		img: "images/capecod11.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+
+	
+	
 	
 			
 				{
