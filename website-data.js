@@ -46,15 +46,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+		{
+			name: "Architecture of Memory",
+			img: "images/814181211418152114181534114181521520.gif", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
-							{
-		name: "Emergent Landscape II | Tessellation",
-		img: "images/231519115195212215193152121.gif",
-		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	},
+
 	{
 		name: "Human Robot",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -107,15 +107,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
+								{
+		name: "Emergent Landscape II | Tessellation",
+		img: "images/231519115195212215193152121.gif",
+		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	},
 
-		{
-			name: "Architecture of Memory",
-			img: "images/814181211418152114181534114181521520.gif", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+	
 
 			{
 		name: "Simulations of Newtonian Physics",
@@ -152,17 +152,14 @@ let WEBSITE_DATA = [
 },
 	
 	
-
-																{
-		name: "I Am Not A Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+																	{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/01-55.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
 
-	
-	
 		
 	
 									 {
@@ -235,15 +232,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-
-		
-																	{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+																{
+		name: "I Am Not A Robot",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
+
+		
+
 				{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S20221101at74608PM.jpg",
@@ -290,6 +288,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+																						{
+		name: "Cloud Computing",
+		img: "images/SS20230122at7.16.09PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "",
+		credit: "Google Data Center",
+	},
 	
 																				{
 		name: "Wireless Fidelity | Exhibition",
@@ -299,18 +305,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-		
-	
-	
-	
-																						{
-		name: "Cloud Computing",
-		img: "images/SS20230122at7.16.09PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "",
-		credit: "Google Data Center",
-	},
 	
 	
 	{
