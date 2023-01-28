@@ -11,7 +11,7 @@ let WEBSITE_DATA = [
 	},
 														{
 		name: "Before Zeta | Film",
-		img: "images/SS20230105at4.26.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Architecture of Memory",
-			img: "images/814181211418152114181534114181521520.gif", 
+			img: "images/arduino-breadboard-3D_DHQ.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -75,7 +75,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 21",
-		img: "images/Avatartracking.jpeg",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -83,7 +83,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 		
 																					{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/01-55.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -217,7 +217,7 @@ let WEBSITE_DATA = [
 	
 																{
 		name: "Subtractive Synthesis",
-		img: "images/03.jpg",
+		img: "images/fec46aa5b9.gif",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
@@ -235,7 +235,7 @@ let WEBSITE_DATA = [
 	
 																{
 		name: "I Am Not A Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
