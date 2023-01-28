@@ -179,14 +179,15 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+																{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
 
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+
 	
 
 		{
@@ -197,14 +198,14 @@ let WEBSITE_DATA = [
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
 	
-			
-															{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
+			{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},	
+
 
 			{
 		name: "Emergent Landscape III | Tessellation",
