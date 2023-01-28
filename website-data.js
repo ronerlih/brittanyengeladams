@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 
 							{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/231519115195212215193152121.gif",
 		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
@@ -98,16 +98,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-	
-								{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		
+																					{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+
+	
+
 		{
 			name: "Architecture of Memory",
 			img: "images/814181211418152114181534114181521520.gif", 
@@ -125,11 +126,10 @@ let WEBSITE_DATA = [
 	
 	},
 		
-	
-																					{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -207,14 +207,15 @@ let WEBSITE_DATA = [
 			credit:"",
 		},	
 
-
 			{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/16101918161297820191816125129782019.jpeg", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
+
 	
 																{
 		name: "Subtractive Synthesis",
@@ -243,15 +244,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/16101918161297820191816125129782019.jpeg", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+				{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
+
 
 
 		
