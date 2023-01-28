@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/234907PM.jpeg",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -217,7 +217,7 @@ let WEBSITE_DATA = [
 	
 																{
 		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
+		img: "images/03.jpg",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
@@ -245,7 +245,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Emergent Landscape III | Tessellation",
-		img: "images/S20221101at74608PM.jpg",
+		img: "images/S2022102835049AM.jpg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
