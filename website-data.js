@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		
  {
 		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/SS202301217.25.19PM.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
 		credit:"",
@@ -31,21 +31,21 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/ScreenShot202301182.38.56PM.png",
+		img: "images/SS20221209at354AM.jpg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Harshal Pilania",
+		credit: "Photo by Joshua Okoro",
 		
 		},
 	
-	
-																							{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
+
 		{
 			name: "Architecture of Memory",
 			img: "images/814181211418152114181534114181521520.gif", 
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Human Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 	
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS_553PM.jpeg",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 
 								{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/231519115195212215193152121.gif",
+		img: "images/SS20230108atPM.png",
 		blurb: "Forces of the world allow rudimentary interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 
 			{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
+			img: "images/16101918161297820191816125129782019.jpeg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -151,7 +151,7 @@ let WEBSITE_DATA = [
 },
 	{
 		name: "Harvestworks |  Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
@@ -204,14 +204,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 },
+		
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
+		credit: "",
+	},
 
-		{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+		
 	
 																{
 		name: "Subtractive Synthesis",
@@ -269,13 +271,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-		 {
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
+	
+				 										{
+		name: "Hand Dance | Film",
+		img: "images/guggenheim_museum.png",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 
 	
 	
@@ -313,13 +316,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-				 										{
-		name: "Hand Dance | Film",
-		img: "images/8114114351145115114.jpg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
+	
+		 {
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 
 
 
