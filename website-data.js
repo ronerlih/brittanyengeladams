@@ -277,19 +277,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-	
-																	{
-		name: "Memory Dance",
-		img: "images/11414121191918.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	 {
+		name: "Posthumanism",
+		img: "images/01-55.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
-	
+		credit:"",
+		},
 
-	
+
 	
 													{
 
@@ -299,14 +295,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		 {
-		name: "Posthumanism",
-		img: "images/01-55.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		
+	
+																	{
+		name: "Memory Dance",
+		img: "images/11414121191918.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit:"",
-		},
-
+		credit: "",
+	},
+	
 																						{
 		name: "Cloud Computing",
 		img: "images/SS20230122at7.16.09PM.png",
