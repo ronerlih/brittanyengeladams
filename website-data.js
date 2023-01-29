@@ -9,7 +9,25 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-														{
+	
+		{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Josh Okoro",
+		
+		},
+																					{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
+
+	
+	{
 		name: "Before Zeta | Film",
 		img: "images/capebook.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
@@ -29,14 +47,7 @@ let WEBSITE_DATA = [
 	
  },
 	
-	{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Josh Okoro",
-		
-		},
+
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
@@ -143,30 +154,31 @@ let WEBSITE_DATA = [
 
 			{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/masongross_loree_fall_concert_2021_.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
 	
 },
+
 	{
 		name: "Harvestworks |  Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 		
 		},	
 	
-	
 		
-																							{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
+			{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/2138383815138158.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},
+	
+},
 		
 	
 	
@@ -203,16 +215,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
 	
-			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
 		credit: "",
-	
-},
+	},
+
 		
 	
 
@@ -301,13 +313,6 @@ let WEBSITE_DATA = [
 		credit: "Google Data Center",
 	},
 	
-																				{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
 
 	
 	
