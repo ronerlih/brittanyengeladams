@@ -26,36 +26,35 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-	{
-		name: "Before Zeta | Film",
-		img: "images/capebook.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+					{
+		name: "Sawtooth Wave",
+		img: "images/2023012170559PM.png",
+		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
+		link: "",
 		credit: "",
+	
 	},
 
+
+				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/2138383815138158.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
 	
 
-		
- {
-		name: "Farewell 2020",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+
+			{
+		name: "Simulations of Newtonian Physics",
+		img: "images/gif2b311de7101.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
-		credit:"",
+		credit: "",
 	
- },
-	
-
-	 {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
-	
+	},
 	
 
 		
@@ -66,15 +65,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-				{
-		name: "Sawtooth Wave",
-		img: "images/2023012170559PM.png",
-		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
-		link: "",
+		{
+		name: "Before Zeta | Film",
+		img: "images/capebook.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
-	
 	},
+	
+
 	
 		{
 		name: "Human Robot",
@@ -125,16 +124,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+		 {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 	
 
-			{
-		name: "Simulations of Newtonian Physics",
-		img: "images/gif2b311de7101.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "",
-	
-	},
+
 		
 								{
 		name: "Hand Dance | Research",
@@ -171,15 +170,17 @@ let WEBSITE_DATA = [
 		},	
 	
 		
-			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+ {
+		name: "Farewell 2020",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
+		link: "",
+		credit:"",
 	
-},
+ },
+	
 		
+	
 	
 	
 		{
