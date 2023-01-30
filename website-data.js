@@ -79,15 +79,15 @@ let WEBSITE_DATA = [
 
 			
 
-	
-																				{
-		name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/fec46aa5b9.gif",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
 		credit: "",
 	},
 	
+
 	
 				{
 		name: "Movement Research Performance Journal | Publication",
@@ -108,13 +108,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	 			{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S2022102835049AM.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	},
+
 	
 			{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -124,6 +118,14 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },
+	
+				{
+		name: "Emergent Landscape III | Tessellation",
+		img: "images/S2022102835049AM.jpg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	},
 
 
 		{
@@ -219,15 +221,16 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-	
-	
-																		{
-		name: "Subtractive Synthesis",
-		img: "images/fec46aa5b9.gif",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
+		
+																				{
+		name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	},
+	
+	
 	
 	
 		{
