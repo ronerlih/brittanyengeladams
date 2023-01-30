@@ -11,13 +11,12 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Josh Okoro",
-		
-		},
+		name: "Before Zeta | Film",
+		img: "images/SS20230105at4.26.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+		credit: "",
+	},
 	
 						{
 		name: "Sawtooth Wave",
@@ -27,14 +26,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-	
-	{
-		name: "Before Zeta | Film",
-		img: "images/capebook.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
+		{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "Photo by Josh Okoro",
+		
+		},
+
 
 		{
 		name: "Human Robot",
@@ -45,13 +45,14 @@ let WEBSITE_DATA = [
 	},
 
 
-																			{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/01-55.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		 {
+		name: "Farewell 2020",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
 		link: "",
-		credit: "",
-	},	
+		credit:"",
+	
+ },
 
 
 			{
@@ -63,16 +64,16 @@ let WEBSITE_DATA = [
 	
 	},
 	
-
 		
-																{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+																							{
+		name: "Shower | Performance",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
-	
+
+			
 
 	
 																				{
@@ -86,7 +87,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -97,7 +98,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/bostond.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -122,7 +123,7 @@ let WEBSITE_DATA = [
 		
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
+			img: "images/SS_553PM.jpeg",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
@@ -164,18 +165,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	 {
-		name: "Farewell 2020",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"",
 	
- },
+																{
+		name: "I Am Not A Robot",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+
 		
 																					{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -188,7 +190,7 @@ let WEBSITE_DATA = [
 		
 			{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
+			img: "images/RutgersConcertProgram.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -209,7 +211,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/fec46aa5b9.gif",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
@@ -245,15 +247,13 @@ let WEBSITE_DATA = [
 
 
 	
-		
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/01-55.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
-
 		
 
 
@@ -283,7 +283,7 @@ let WEBSITE_DATA = [
 													{
 
 		name: "Human Robot",
-		img: "images/bostond.gif",
+		img: "images/1233740.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -299,7 +299,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
@@ -340,7 +340,7 @@ let WEBSITE_DATA = [
 		
 					 										{
 		name: "Hand Dance | Film",
-		img: "images/181514.jpeg",
+		img: "images/guggenheim_museum.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
