@@ -10,6 +10,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 		{
 		name: "Before Zeta | Film",
 		img: "images/SS20230105at4.26.png",
@@ -17,6 +18,7 @@ let WEBSITE_DATA = [
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
 	},
+	
 	
 						{
 		name: "Sawtooth Wave",
@@ -26,6 +28,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+	
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
@@ -119,6 +122,7 @@ let WEBSITE_DATA = [
 	
 },
 	
+	
 				{
 		name: "Emergent Landscape III | Tessellation",
 		img: "images/S2022102835049AM.jpg",
@@ -146,6 +150,7 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	},
+	
 	
 	{
 		name: "Harvestworks |  Residency",
@@ -241,6 +246,7 @@ let WEBSITE_DATA = [
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
 	
+	
 		{
 			name: "Architecture of Memory",
 			img: "images/arduino-breadboard-3D_DHQ.jpg", 
@@ -299,8 +305,9 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 
-},	
+	
 					 										{
 		name: "Hand Dance | Film",
 		img: "images/guggenheim_museum.png",
@@ -339,7 +346,7 @@ let WEBSITE_DATA = [
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	
+	},
 
 
 	
