@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Human Robot",
-		img: "images/Avatartracking.jpeg",
+		img: "images/1233740.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/Avatartracking.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -239,7 +239,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Architecture of Memory",
-			img: "images/bostond.gif", 
+			img: "images/arduino-breadboard-3D_DHQ.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -283,7 +283,7 @@ let WEBSITE_DATA = [
 													{
 
 		name: "Human Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/neuron.gif",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
