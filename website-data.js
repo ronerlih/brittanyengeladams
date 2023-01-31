@@ -294,34 +294,6 @@ let WEBSITE_DATA = [
 	},
 
 
-
-		
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
-		
-
-
-			{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
-
-
-{
-		name: "Hand Dance | Film",
-		img: "images/181514.jpeg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
 	
 															{
 
@@ -331,15 +303,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+
 	
 		
 
-	
+
 			{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -351,9 +323,37 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
+
+		
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
+		credit: "",
+	},
+	
+		
+
+	
+			{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1215225.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
+
 	
 	
 
+{
+		name: "Hand Dance | Film",
+		img: "images/181514.jpeg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 
 	
 	
