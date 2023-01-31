@@ -28,7 +28,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-	
+			{
+		name: "Maquette 21",
+		img: "images/1233740.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 		{
 		name: "BodyMouth/Ielele | Symposium",
 		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
@@ -47,13 +53,7 @@ let WEBSITE_DATA = [
 	
 	},
 	
-										{
-		name: "Autonomous",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
+
 
 
 	{
@@ -80,20 +80,21 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Harvestworks |  Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
 		link: "https://www.harvestworks.org/",
 		credit: "",
 		
 		},
 
-			{
-		name: "Maquette 21",
-		img: "images/1233740.gif",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+											{
+		name: "Autonomous",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
 	},
+	
 
 	
  {
@@ -149,7 +150,7 @@ let WEBSITE_DATA = [
 				
 																					{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -324,22 +325,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-					{
-		name: "Singularity",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
-		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
-		credit: "Popular Mechanics",
-	},
-		{
+			{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
-		
-	{
+	
+		{
 		name: "Hand Dance | Film",
 		img: "images/181514.jpeg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
@@ -347,6 +341,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+
+					{
+		name: "Singularity",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
+		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
+		credit: "Popular Mechanics",
+	},	
+
 
 	
 	
