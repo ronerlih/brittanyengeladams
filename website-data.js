@@ -57,17 +57,14 @@ let WEBSITE_DATA = [
 		credit:"",
 	
  },
-	
-
-
-
-		{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
 		},
+		
 
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -79,7 +76,7 @@ let WEBSITE_DATA = [
 
 
 	
-	
+
 	
 	
 	{
@@ -117,20 +114,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
 
-	
-
-	
-
-	
-		{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
 	
 
 	
@@ -141,7 +125,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
+		{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
 		
 				{
 		name: "Emergent Landscape III | Tessellation",
@@ -213,16 +203,16 @@ let WEBSITE_DATA = [
 	
 },
 
-
+	{
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},
 		
 
-			{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+	
 	
 				{
 		name: "Movement Research Performance Journal | Publication",
