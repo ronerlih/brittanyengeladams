@@ -140,9 +140,9 @@ let WEBSITE_DATA = [
 	
 										{
 		name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+		link: "",
 		credit: "",
 	},
 		
@@ -151,10 +151,10 @@ let WEBSITE_DATA = [
 
 		 {
 		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		img: "images/S2022110192534.jpeg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"Tessellation by Brittany Engel-Adams",
 		},
 	
 															{
