@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/SS20230105at4.26.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -68,7 +68,7 @@ let WEBSITE_DATA = [
 
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
+			img: "images/SS_553PM.jpeg",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
@@ -318,15 +318,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-
-	
-			{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+																						{
+		name: "Cloud Computing",
+		img: "images/SS20230122at7.16.09PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
-		credit: "",
+		credit: "Google Data Center",
 	},
+	
+
 	{
 		name: "Hand Dance | Film",
 		img: "images/181514.jpeg",
@@ -335,14 +335,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-																						{
-		name: "Cloud Computing",
-		img: "images/SS20230122at7.16.09PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+	
+			{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
-		credit: "Google Data Center",
-	},	
-
+		credit: "",
+	},
 
 
 
