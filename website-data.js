@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 	
  {
 		name: "Posthumanism",
-		img: "images/S2022110192534.jpeg",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit:"Tessellation by Brittany Engel-Adams",
