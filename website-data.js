@@ -165,10 +165,10 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 				{
-		name: "Emergent Landscape III | Tessellation",
-		img: "images/S2022102835049AM.jpg",
+		name: "Superposition",
+		img: "images/IMG23dmilkyway.gif",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "https://www.brittanyengeladams.com/who-wood.html",
+		link: "",
 		credit: "",
 	},
 	
