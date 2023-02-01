@@ -317,17 +317,8 @@ let WEBSITE_DATA = [
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
-	},	
-					{
-		name: "Singularity",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
-		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
-		credit: "Popular Mechanics",
-	},	
-
+	},
 	
-
 			{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
@@ -335,7 +326,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
+
 		{
 		name: "Hand Dance | Film",
 		img: "images/181514.jpeg",
@@ -343,6 +334,17 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
+	
+
+	
+						{
+		name: "Singularity",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
+		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
+		credit: "Popular Mechanics",
+	},	
+
 	
 
 														{
