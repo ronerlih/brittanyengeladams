@@ -73,18 +73,6 @@ let WEBSITE_DATA = [
 		},
 
 
-	
-
-	
-	
-	{
-		name: "Harvestworks |  Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
-		credit: "",
-		
-		},
 
 {
 			name: "Joffrey Ballet School (Faculty)",
@@ -94,6 +82,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
+					{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
 
 	
  {
@@ -211,15 +207,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+		
+	{
+		name: "Harvestworks |  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+		
+		},
+
 				{
 		name: "Movement Research Performance Journal | Publication",
 		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
