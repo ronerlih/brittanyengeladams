@@ -97,7 +97,7 @@ let WEBSITE_DATA = [
 		img: "images/neuron.gif",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"Tessellation by Brittany Engel-Adams",
+		credit:"",
 		},
 	
 																	{
@@ -194,7 +194,7 @@ let WEBSITE_DATA = [
 
 																{
 		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -263,7 +263,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Superposition",
-		img: "images/IMG23dmilkyway.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -307,13 +307,14 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
-							{
-		name: "Singularity",
-		img: "images/9a.jpeg",
-		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
-		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
-		credit: "Popular Mechanics",
-	},	
+	
+			{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
@@ -332,14 +333,13 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-		
-			{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+								{
+		name: "Singularity",
+		img: "images/adolph_men_zel123.png",
+		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
+		link: "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
+		credit: "Popular Mechanics",
+	},	
 
 	
 	
@@ -361,7 +361,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Cloud Computing",
-		img: "images/SS20230122at7.16.09PM.png",
+		img: "images/9a.jpeg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "Google Data Center",
@@ -404,7 +404,7 @@ let WEBSITE_DATA = [
 	
 // 		{
 // 		name: "I am not a Robot | 2022",
-// 		img: "images/1233740.gif",
+// 		img: "images/AVATARINRED.gif",
 // 		blurb: "Adversarial Neural Networks, and Machine Learning Algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
 // 		link: "",
 // 		credit: "",
