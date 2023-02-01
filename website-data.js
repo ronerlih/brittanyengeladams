@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 	
 												{
 		name: "Autonomous",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/11414121191918.gif",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 
 																{
 		name: "I Am Not A Robot",
-		img: "images/",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
