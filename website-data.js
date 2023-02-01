@@ -54,16 +54,14 @@ let WEBSITE_DATA = [
 	
 	},
 	
+														{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		link: "",
+		credit: ""
+	},
 
-
-
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
 		
 
  {
@@ -171,17 +169,18 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-															{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
-		link: "",
-		credit: ""
-	},
+		{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
+	
 		{
 	      name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpeg",
-		blurb:  "Digital-Analog collage",
+		blurb:  "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	
