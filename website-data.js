@@ -84,7 +84,7 @@ let WEBSITE_DATA = [
 	
 					{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
+			img: "images/RutgersConcertProgram.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -94,7 +94,7 @@ let WEBSITE_DATA = [
 	
  {
 		name: "Posthumanism",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit:"Tessellation by Brittany Engel-Adams",
