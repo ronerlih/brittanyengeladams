@@ -352,7 +352,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Simulations of Newtonian Physics",
-		img: "images/gif2b311de7101.gif",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
