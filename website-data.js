@@ -20,6 +20,8 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	
+	
 						{
 		name: "Sawtooth Wave",
 		img: "images/SS7.47.47M.png",
@@ -37,6 +39,7 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
+	
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS_553PM.jpeg",
@@ -45,38 +48,10 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-													{
-		name: "Memory Dance",
-		img: "images/AVATARINRED.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "",
-	},
+
  	
 		
-				 {
-		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic, many wondered, ‘Where and how will we gather during a time of confinement?’ Online platforms became commonplace where material could be shared with a global audience to engage in performance and conversations from home. In many ways, these online platforms brought more diverse groups and communities together, and gave institutions the opportunity to ask and receive feedback from their communities.. Topics such as, ‘Are spaces really open to everyone, or who may feel excluded? — What will these institutions be like in the new normal?.",
-		link: "",
-		credit:"",
-	
- },
-{
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},
-{
-			name: "Architecture of Memory",
-			img: "images/lemon_rr_00.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
-	
+
 	
 		{
 		name: "Simulations of Newtonian Physics",
@@ -87,8 +62,16 @@ let WEBSITE_DATA = [
 	
 	},
 
-
 	
+{
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},
+	
+		
 																			{
 		name: "Proprioceptive Research | Mapping",
 		img: "images/arduino-breadboard-3D_DHQ.jpg",
@@ -97,6 +80,26 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
+
+		
+														{
+		name: "Memory Dance",
+		img: "images/AVATARINRED.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "",
+	},
+	
+{
+			name: "Architecture of Memory",
+			img: "images/lemon_rr_00.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},	
+
+
+
 	
 	
 
