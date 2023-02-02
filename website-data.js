@@ -125,6 +125,15 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		},
+			
+				
+																					{
+		name: "Skeletal Avatar",
+		img: "images/SS20230201at82532PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 	
 														{
 		name: "YouTube Improv  | Website",
@@ -135,27 +144,16 @@ let WEBSITE_DATA = [
 	},	
 
 	
-	
-		
-				
-																					{
-		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
 			
-
-
-	
-	{
-			name: "Architecture of Memory",
-			img: "images/lemon_rr_00.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
+{
+		name: "Harvestworks |  Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
+		
 		},
+
 
 
 		{
@@ -204,15 +202,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-	{
-		name: "Harvestworks |  Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-		link: "https://www.harvestworks.org/",
+	
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
 		credit: "",
-		
-		},
+	},	
+
 
 				{
 		name: "Movement Research Performance Journal | Publication",
@@ -306,15 +304,18 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "Popular Mechanics",
 	},	
-
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
-				{
+	
+	
+	
+	{
+			name: "Architecture of Memory",
+			img: "images/lemon_rr_00.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+	
+	{
 		name: "Digital Sculpture",
 		img: "images/3dscene.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
