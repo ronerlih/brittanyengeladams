@@ -80,17 +80,7 @@ let WEBSITE_DATA = [
 	},	
 		
 	
-					{
-		name: "Superposition",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
-
 		
-
-	
 {
 			name: "Architecture of Memory",
 			img: "images/lemon_rr_00.jpeg", 
@@ -98,6 +88,18 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},	
+
+
+		{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpeg",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	
+	},
+		
+
 
 	{
 			name: "Joffrey Ballet School (Faculty)",
@@ -139,19 +141,17 @@ let WEBSITE_DATA = [
 
 
 			
-	
-	
-
-
-
-		{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+					{
+		name: "Superposition",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
 		credit: "",
-	
 	},
+	
+
+
+
 	
 								{
 			name: "Student Dance Concert Curator at Rutgers University ",
