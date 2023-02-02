@@ -46,13 +46,7 @@ let WEBSITE_DATA = [
 		},
 	
 
- {
-		name: "Posthumanism",
-		img: "images/neuron.gif",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},	
+ 	
 		
 				 {
 		name: "Farewell 2020",
@@ -62,7 +56,13 @@ let WEBSITE_DATA = [
 		credit:"",
 	
  },
-
+{
+		name: "Posthumanism",
+		img: "images/neuron.gif",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},
 								{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
