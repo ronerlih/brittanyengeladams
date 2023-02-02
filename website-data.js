@@ -190,6 +190,15 @@ let WEBSITE_DATA = [
 	},	
 	
 
+	
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
+		credit: "",
+	},	
+
 
 	
 	
@@ -202,16 +211,7 @@ let WEBSITE_DATA = [
 	},
 
 
-
-
 	
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},		
 
 		{
 		name: "Simulations of Newtonian Physics",
@@ -222,14 +222,7 @@ let WEBSITE_DATA = [
 	
 	},	
 	
-				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/234907PM.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},
+
 		
 
 		{
@@ -239,6 +232,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+					{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/234907PM.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
 												{
 		name: "Autonomous",
 		img: "images/11414121191918.gif",
