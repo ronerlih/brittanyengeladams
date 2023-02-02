@@ -168,12 +168,13 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
-									{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+	
+										 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
 	
 
@@ -204,19 +205,18 @@ let WEBSITE_DATA = [
 			credit:"",
 		},
 	
-	
-
-
-	
-	
-									 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+									{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
+
+
 	
+	
+
 {
 			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
 			img: "images/311631513116315113154.png",
