@@ -45,15 +45,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-		{
-		name: "Simulations of Newtonian Physics",
-		img: "images/gif2b311de7101.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "",
-	
-	},
-	
+
+ {
+		name: "Posthumanism",
+		img: "images/neuron.gif",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},	
 		
 				 {
 		name: "Farewell 2020",
@@ -351,15 +350,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+			{
+		name: "Simulations of Newtonian Physics",
+		img: "images/gif2b311de7101.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
+		link: "",
+		credit: "",
 	
+	},
 
-		 {
-		name: "Posthumanism",
-		img: "images/neuron.gif",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},
+		
 
 
 	
