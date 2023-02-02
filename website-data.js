@@ -64,7 +64,7 @@ let WEBSITE_DATA = [
  },
 {
 		name: "Posthumanism",
-		img: "images/neuron.gif",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit:"",
@@ -159,7 +159,7 @@ let WEBSITE_DATA = [
 
 								{
 		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
+		img: "images/guggenheim_museum.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
