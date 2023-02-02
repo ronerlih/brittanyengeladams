@@ -121,14 +121,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-																					{
-		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
 	
+								{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/masongross_loree_fall_concert_2021_.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},	
 
 
 																		{
@@ -151,16 +152,22 @@ let WEBSITE_DATA = [
 	
 
 
+																					{
+		name: "Skeletal Avatar",
+		img: "images/SS20230201at82532PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
+	
+	{
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},
 
-	
-								{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/masongross_loree_fall_concert_2021_.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
 									{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -170,14 +177,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	{
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},
 
 	{
 		name: "Human Robot",
