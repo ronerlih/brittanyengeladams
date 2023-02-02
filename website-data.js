@@ -127,14 +127,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-							{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/masongross_loree_fall_concert_2021_.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+
 
 																		{
 		name: "Proprioceptive Research | Mapping",
@@ -158,15 +151,24 @@ let WEBSITE_DATA = [
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
 	
-	},	
-
+	},
+	
 								{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/masongross_loree_fall_concert_2021_.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
+	{
+		name: "Human Robot",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},	
+	
 	{
 		name: "Posthumanism",
 		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
@@ -176,10 +178,11 @@ let WEBSITE_DATA = [
 		},
 
 
-		{
-		name: "Human Robot",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+	
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -221,14 +224,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},	
-
+	
 
 
 	
@@ -241,8 +237,24 @@ let WEBSITE_DATA = [
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
-	},	
+	},
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},	
 
+
+			{
+		name: "Maquette 21",
+		img: "images/11414121191918.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
+	
 
 					{
 		name: "Movement Research Performance Journal | Publication",
@@ -252,13 +264,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 },
-			{
-		name: "Maquette 21",
-		img: "images/11414121191918.gif",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},
 	
 	
 		{
