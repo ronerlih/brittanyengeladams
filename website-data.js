@@ -71,13 +71,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-											{
-		name: "Autonomous",
-		img: "images/1233740.gif",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
+					{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/11_91919_.jpeg",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
-	},	
+	
+	},
 		
 	
 		
@@ -150,15 +151,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 },
-
-				{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+											{
+		name: "Autonomous",
+		img: "images/1233740.gif",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
 		credit: "",
-	
 	},
+
 	{
 		name: "Human Robot",
 		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
