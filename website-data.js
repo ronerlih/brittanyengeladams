@@ -64,23 +64,6 @@ let WEBSITE_DATA = [
 	
  },
 
-			{
-		name: "Maquette 21",
-		img: "images/1233740.gif",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},		
-
-
-																{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
-
 	
 					{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -90,6 +73,23 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },
+
+																{
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
+			{
+		name: "Maquette 21",
+		img: "images/1233740.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},	
+	
+
 					{
 		name: "Superposition",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -97,20 +97,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
 	
-	
-
+												{
+		name: "Autonomous",
+		img: "images/11414121191918.gif",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
 
 	
-
 
 	
 
@@ -122,14 +118,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+	{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
 	
-												{
-		name: "Autonomous",
-		img: "images/11414121191918.gif",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
 														{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprovhigh.gif",
