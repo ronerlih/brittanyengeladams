@@ -63,15 +63,14 @@ let WEBSITE_DATA = [
 	
  },
 
-	
-					{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},	
+
 
 																{
 		name: "Subtractive Synthesis",
@@ -100,16 +99,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+						{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
 	
+},
 
 
-								{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+
 
 
 	{
