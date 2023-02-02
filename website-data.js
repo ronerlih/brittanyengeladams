@@ -40,6 +40,15 @@ let WEBSITE_DATA = [
 		
 		},
 	
+		{
+		name: "Simulations of Newtonian Physics",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
+		link: "",
+		credit: "",
+	
+	},
+	
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS_553PM.jpeg",
@@ -49,18 +58,9 @@ let WEBSITE_DATA = [
 		},
 	
 
- 	
-		
-
+ 
 	
-		{
-		name: "Simulations of Newtonian Physics",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "",
 	
-	},
 
 	
 														{
