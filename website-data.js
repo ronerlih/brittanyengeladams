@@ -57,15 +57,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-
- 
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
+{
+			name: "Architecture of Memory",
+			img: "images/lemon_rr_00.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},	
 	
 
 		
@@ -78,16 +76,18 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },	
-		
+
+ 
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},		
 	
 		
-{
-			name: "Architecture of Memory",
-			img: "images/lemon_rr_00.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},	
+
 					{
 	      name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpeg",
