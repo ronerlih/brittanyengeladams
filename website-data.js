@@ -55,14 +55,14 @@ let WEBSITE_DATA = [
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
+		{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
 	
- 		{
-		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
+},
 	
 							{
 		name: "Movement Research Performance Journal | Publication",
@@ -186,14 +186,14 @@ let WEBSITE_DATA = [
 		},
 		
 	
-	{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+ 		{
+		name: "Superposition",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
+
 		
 
 {
