@@ -193,7 +193,7 @@ let WEBSITE_DATA = [
 	
 					{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -205,7 +205,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Autonomous",
-		img: "images/11414121191918.gif",
+		img: "images/AVATARINRED.gif",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -328,7 +328,7 @@ let WEBSITE_DATA = [
 
 														{
 		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/adolph_men_zel123.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
