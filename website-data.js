@@ -305,6 +305,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+															{
+		name: "Harvestworks' 2023 New Works Residency Awardee",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies. Our goals are to create an environment where artists can make work inspired and achieved by electronic media; to create a responsive public context for the appreciation of new work by presenting the works; to advance the art community's and the public appreciation for the use of technology in art; and to bring together innovative practitioners from all branches of the arts collaborating in the use of electronic media.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 
 														{
 
