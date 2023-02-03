@@ -110,7 +110,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Postmodernism",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/ScreenShot2023-01-13at2.25.29_102112911892020518PM",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
