@@ -76,16 +76,14 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },	
-
- 
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},		
-	
+	},
+ 
 		
 
 					{
@@ -122,13 +120,15 @@ let WEBSITE_DATA = [
 		},
 	
 	
-								{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},
+	},		
+	
 
 			{
 		name: "Superposition",
@@ -147,14 +147,13 @@ let WEBSITE_DATA = [
 		
 		},	
 	
-
-											{
-		name: "Autonomous",
-		img: "images/11414121191918.gif",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+	{
+		name: "Human Robot",
+		img: "images/1233740.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
-	},
+	},	
 
 																		{
 		name: "Subtractive Synthesis",
@@ -195,13 +194,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Human Robot",
-		img: "images/1233740.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+	
+											{
+		name: "Autonomous",
+		img: "images/11414121191918.gif",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
-	},	
+	},
 
 						{
 		name: "Movement Research Performance Journal | Publication",
@@ -324,12 +324,12 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-										{
-		name: "Singularity",
-		img: "images/9a.jpeg",
-		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
+		{
+		name: "Cloud Computing",
+		img: "images/SS20230122at7.16.09PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
-		credit: "Popular Mechanics",
+		credit: "Google Data Center",
 	},
 	
 
@@ -366,13 +366,14 @@ let WEBSITE_DATA = [
 	},
 		
 
-		{
-		name: "Cloud Computing",
-		img: "images/SS20230122at7.16.09PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+										{
+		name: "Singularity",
+		img: "images/9a.jpeg",
+		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
 		link: "",
-		credit: "Google Data Center",
+		credit: "Popular Mechanics",
 	},
+	
 
 	
 
