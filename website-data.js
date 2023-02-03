@@ -130,7 +130,27 @@ let WEBSITE_DATA = [
 	
 		
 
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/animated-sinewave.gif",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},		
 
+
+	
+		
+															{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		link: "",
+		credit: ""
+	},
+	
+	
+	
 		{
 		name: "Harvestworks |  Residency",
 		img: "images/SS202301227.20.49PM.png",
@@ -147,24 +167,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-															{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
-		link: "",
-		credit: ""
-	},
-	
-		
-
-																		{
-		name: "Subtractive Synthesis",
-		img: "images/animated-sinewave.gif",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},	
 
 	
 					{
