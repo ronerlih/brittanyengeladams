@@ -40,15 +40,14 @@ let WEBSITE_DATA = [
 		
 		},
 	
-		{
-		name: "Simulations of Newtonian Physics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
-		link: "",
-		credit: "",
-	
-	},
-	
+
+{
+		name: "Posthumanism",
+		img: "images/02.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},	
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
@@ -57,15 +56,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-
-								{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+ 		{
+		name: "Superposition",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 							{
 		name: "Movement Research Performance Journal | Publication",
@@ -76,22 +73,25 @@ let WEBSITE_DATA = [
 	
 },
 
- 		{
-		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+								{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
+	
+
+		{
+		name: "Simulations of Newtonian Physics",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
-	},
-		
+	
+	},	
 
-{
-		name: "Posthumanism",
-		img: "images/02.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},
 	
 	
 
