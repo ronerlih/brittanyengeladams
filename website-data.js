@@ -65,10 +65,10 @@ let WEBSITE_DATA = [
 	
 														{
 		name: "Memory Dance",
-		img: "images/Avatartracking.jpeg",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
 		
 					{
@@ -132,15 +132,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-																				{
-		name: "Proprioceptive Research | Mapping",
+			{
+		name: "Superposition",
 		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
-			
+		
 	
 	
 					{
@@ -263,7 +262,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Maquette 21",
-		img: "images/11414121191918.gif",
+		img: "images/Avatartracking.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -347,13 +346,14 @@ let WEBSITE_DATA = [
 		link: "https://ropac.net/",
 		credit: "",
 	},
-				{
-		name: "Superposition",
+																				{
+		name: "Proprioceptive Research | Mapping",
 		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+		
 			
 	{
 		name: "Digital Sculpture",
