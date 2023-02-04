@@ -33,10 +33,10 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/1651351514511820_lt_h.gif",
+		img: "images/318633126_10224645775344745_3839614961105284034_n copy.jpeg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
+		credit: "Joshua Okoro",
 		
 		},
 		 		{
