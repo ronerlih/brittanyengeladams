@@ -94,7 +94,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Human Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -128,7 +128,7 @@ let WEBSITE_DATA = [
 	},
 										{
 		name: "Autonomous",
-		img: "images/AVATARINRED.gif",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
