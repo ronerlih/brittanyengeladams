@@ -91,14 +91,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	{
-		name: "Human Robot",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},	
+	
 
 								{
 		name: "Hand Dance | Research",
@@ -106,7 +99,15 @@ let WEBSITE_DATA = [
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
+		{
+		name: "Human Robot",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 
 		{
 		name: "Simulations of Newtonian Physics",
