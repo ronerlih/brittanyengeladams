@@ -146,7 +146,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Simulations of Newtonian Physics",
-		img: "images/5.jpeg",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
