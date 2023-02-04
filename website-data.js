@@ -40,14 +40,14 @@ let WEBSITE_DATA = [
 		
 		},
 	
-
-{
-		name: "Posthumanism",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},	
+		{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-02-04at1.29.04PM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
+	
  {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
@@ -109,13 +109,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		{
-		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-04at1.29.04PM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},
+
+
 
 															{
 		name: "I Am Not A Robot",
@@ -124,25 +119,34 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Posthumanism",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},
 	
-	{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},	
+		
+										 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+		link: "",
+		credit: ""
+	},
 	
 
 
-			{
-		name: "Simulations of Newtonian Physics",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
+		
+																					{
+		name: "Skeletal Avatar",
+		img: "images/7_wt.jpeg",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
-	
-	},	
+	},
+			
 		
 	
 
@@ -157,17 +161,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-	
-																					{
-		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+			{
+		name: "Simulations of Newtonian Physics",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
+	
 	},
-		
+	
+
 		
 {
 			name: "Joffrey Ballet School (Faculty)",
@@ -218,17 +221,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
-
+	{
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},
 	
 
-	
-										 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
-		link: "",
-		credit: ""
-	},
+
 	
 																								{
 		name: "Shower | Performance",
