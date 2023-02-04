@@ -269,15 +269,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
-													{
-		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		
+																				{
+		name: "Postmodernism",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
-		credit: "", 
+		credit: "",
 	},
+
+	
 	
 
 	
@@ -305,14 +306,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		
-																				{
-		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+													{
+		name: "Memory Dance",
+		img: "images/01_v4.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
-	},	
+		credit: "", 
+	},
 																						{
 		name: "Farewell 2020",
 		img: "images/ScreenShot2023-02-04at3.29.18PM.png",
