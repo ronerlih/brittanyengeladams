@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/Uqx7W.gif",
+		img: "images/2023012170559PM.png",
 		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
 		link: "",
 		credit: "",
@@ -136,7 +136,7 @@ let WEBSITE_DATA = [
 		},
 															{
 		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/1233740.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -206,7 +206,7 @@ let WEBSITE_DATA = [
 
 									{
 		name: "Autonomous",
-		img: "images/1233740.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -339,7 +339,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Human Robot",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -365,7 +365,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Farewell 2020",
-		img: "images/ScreenShot2023-02-04at3.29.18PM.png",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
