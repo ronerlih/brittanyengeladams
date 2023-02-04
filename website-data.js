@@ -101,14 +101,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-																								{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
+	
 																{
 		name: "YouTube Improv  | Website",
 		img: "images/YouTubeimprovhigh.gif",
@@ -116,11 +109,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
+		{
+		name: "Maquette 21",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 
 															{
 		name: "I Am Not A Robot",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -138,7 +137,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Simulations of Newtonian Physics",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
@@ -231,13 +230,14 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-			{
-		name: "Maquette 21",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+																								{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
+	
 		{
 		name: "Harvestworks' 2023 New Works Residency Awardee",
 		img: "images/S837492874_i467984567_.jpg",
