@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-04at1.29.04PM.png",
+		img: "images/thermonuclearwarhead1.jpg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
