@@ -114,7 +114,7 @@ let WEBSITE_DATA = [
 
 															{
 		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
