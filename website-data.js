@@ -109,15 +109,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Simulations of Newtonian Physics",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
+																{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
 		link: "",
-		credit: "",
+		credit: ""
+	},
 	
-	},	
-	
+
 															{
 		name: "I Am Not A Robot",
 		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
@@ -136,24 +136,17 @@ let WEBSITE_DATA = [
 	
 
 
-		
-	
-	
-	
-	
-		
-
-
-	
-		
-															{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+			{
+		name: "Simulations of Newtonian Physics",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
-		credit: ""
-	},
+		credit: "",
 	
+	},	
+		
+	
+
 	
 	
 
