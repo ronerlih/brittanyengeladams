@@ -215,7 +215,17 @@ let WEBSITE_DATA = [
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
-	},		
+	},	
+	
+	
+	
+																								{
+		name: "Shower | Performance",
+		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		link: "",
+		credit: "",
+	},
 
 	
 		
@@ -228,14 +238,6 @@ let WEBSITE_DATA = [
 	},
 
 
-	
-																								{
-		name: "Shower | Performance",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
 	
 		{
 		name: "Harvestworks' 2023 New Works Residency Awardee",
@@ -256,6 +258,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1215225.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 
 
 													{
@@ -270,13 +280,6 @@ let WEBSITE_DATA = [
 	
 
 	
-{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
 		
 																					{
 		name: "Wireless Fidelity | Exhibition",
