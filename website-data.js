@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 	
 												{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Posthumanism",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit:"",
