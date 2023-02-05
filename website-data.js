@@ -40,18 +40,16 @@ let WEBSITE_DATA = [
 		
 		},
 	
-
-	
-
-
-
-																					{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+	{
+		name: "Human Robot",
+		img: "images/electromagnetic_spectrum.jpg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
+	
+
+
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS_553PM.jpeg",
@@ -69,14 +67,13 @@ let WEBSITE_DATA = [
 	
 },	
 
-	{
-		name: "Posthumanism",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit:"",
-		},
-
+																			{
+		name: "Subtractive Synthesis",
+		img: "images/005.jpeg",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
 		 		{
 		name: "Superposition",
 		img: "images/lemon_rr_00.jpeg",
@@ -117,14 +114,16 @@ let WEBSITE_DATA = [
 			credit:"",
 		},
 
-	{
-		name: "Human Robot",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+
+	
+
+																					{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
-	
 	
 
 	
@@ -138,15 +137,16 @@ let WEBSITE_DATA = [
 	},
 	
 
-		
 	
-																			{
-		name: "Subtractive Synthesis",
-		img: "images/005.jpeg",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
+	{
+		name: "Posthumanism",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit:"",
+		},	
+	
+
 			{
 		name: "Harvestworks' 2023 New Works Residency Awardee",
 		img: "images/S837492874_i467984567_.jpg",
