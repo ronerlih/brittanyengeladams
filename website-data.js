@@ -152,7 +152,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Simulations of Newtonian Physics",
-		img: "images/11414121191918.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Simulations of Newtonian Physics and Classical Mechanics: Exploring the relationship between motion of objects and forces acting upon them in real and augmented space.",
 		link: "",
 		credit: "",
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 	
 									{
 		name: "Autonomous",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
