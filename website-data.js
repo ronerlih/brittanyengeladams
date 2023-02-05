@@ -50,13 +50,7 @@ let WEBSITE_DATA = [
 	
 
 
-	 {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
+
 	
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -74,14 +68,21 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		 		{
-		name: "Superposition",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
-	
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
+
+		 {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 	
 																				{
 		name: "Proprioceptive Research | Mapping",
@@ -92,27 +93,21 @@ let WEBSITE_DATA = [
 	},
 	
 
-
 	
 	
-	
-	
-	
-	
-																{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+															{
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+	
+	
+	
+	
+
+
 
 
 	
@@ -135,8 +130,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+			 		{
+		name: "Superposition",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
-
 	
 	{
 		name: "Posthumanism",
@@ -194,17 +195,17 @@ let WEBSITE_DATA = [
 	
 },
 	
-
 	
 	
-	
-															{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+																{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
 		link: "",
-		credit: "",
-	},	
+		credit: ""
+	},
+	
+	
 		{
 			name: "Joffrey Ballet School (Faculty)",
 			img: "images/Joffrey61855551311419380012School.png",
