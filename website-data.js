@@ -33,20 +33,14 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpeg",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "Rodney Kimbangu",
 		
 		},
 	
-		 {
-			name: "New York University's Tisch School of the Arts (Faculty)",
-			img: "images/SS_553PM.jpeg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
+
 	
 
 
@@ -58,7 +52,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+	 {
+			name: "New York University's Tisch School of the Arts (Faculty)",
+			img: "images/SS_553PM.jpeg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/ScreenShot2023-02-052.20PM.png", 
