@@ -40,6 +40,15 @@ let WEBSITE_DATA = [
 		
 		},
 	
+												{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
+	
 				{
 		name: "Harvestworks | Residency",
 		img: "images/SS202301227.20.49PM.png",
@@ -55,14 +64,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-															{
-		name: "I Am Not A Robot",
-		img: "images/SS7.47.47M.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+
+
 
 	
 		
@@ -73,87 +76,18 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},		
-											{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
+
+			
 	
-},
-
-{
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
-	
-	
-		{
-			name: "Joffrey Ballet School (Faculty)",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
-
-
-	
-
-
-{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
-
-	
-
-
-																					{
-		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/SS7.47.47M.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
 	
-	
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},	
-	
-
-
-
-	
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},	
-
 		
-	
-	
-	
-
-
-
-
-	
-	
 								{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -162,6 +96,21 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		{
+			name: "Joffrey Ballet School (Faculty)",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
+	
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/SS_553PM.jpeg",
@@ -169,6 +118,46 @@ let WEBSITE_DATA = [
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
+
+	
+{
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
+	
+			{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/loreewide.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
+
+	
+															{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+
+
+		
+
+																					{
+		name: "Skeletal Avatar",
+		img: "images/7_wt.jpeg",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
+
+
 	
 
 		
@@ -270,7 +259,7 @@ let WEBSITE_DATA = [
 	
 		{
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpeg", 
+			img: "images/2138383815138158.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
