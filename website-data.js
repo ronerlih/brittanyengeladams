@@ -40,6 +40,14 @@ let WEBSITE_DATA = [
 		
 		},
 	
+												{
+		name: "Autonomous",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
+	
 				 		{
 		name: "Superposition",
 		img: "images/814181211418152114181534114181521520.gif",
@@ -75,14 +83,13 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
-		{
-			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},	
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/005.jpeg",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
 
 	
 	
@@ -94,14 +101,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-																			{
-		name: "Subtractive Synthesis",
-		img: "images/005.jpeg",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
+		{
+			name: "Student Dance Concert Curator at Rutgers University ",
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},	
+	
 	
 	
 
@@ -134,19 +142,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-												{
-		name: "Autonomous",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
 
 	
 	
 	{
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit:"",
