@@ -54,13 +54,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-				 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		
+															{
+		name: "I Am Not A Robot",
+		img: "images/SS7.47.47M.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
+
 	
 			 {
 			name: "New York University's Tisch School of the Arts (Faculty)",
@@ -71,15 +73,13 @@ let WEBSITE_DATA = [
 		},
 
 
-	
-	
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+{
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+		},
 
 											{
 		name: "Movement Research Performance Journal | Publication",
@@ -90,16 +90,15 @@ let WEBSITE_DATA = [
 	
 },
 	
-
-	
-	
-															{
-		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+				 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
+	
+
 	
 		{
 			name: "Student Dance Concert Curator at Rutgers University ",
@@ -110,13 +109,15 @@ let WEBSITE_DATA = [
 	
 },	
 	
-	{
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+	
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},	
+	
 
 
 
@@ -197,21 +198,6 @@ let WEBSITE_DATA = [
 	
 		
 
-
-	
-
-
-	
-	
-	
-	
-																{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
-		link: "",
-		credit: ""
-	},
 	
 												{
 		name: "Automaton?",
@@ -222,7 +208,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
 					{
 	      name: "Emergent Landscape I | Tessellation",
 		img: "images/11_91919_.jpeg",
@@ -231,6 +216,22 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+
+	
+	
+	
+
+	
+																{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		link: "",
+		credit: ""
+	},
+	
+	
+
 		{
 			name: "Joffrey Ballet School (Faculty)",
 			img: "images/Joffrey61855551311419380012School.png",
@@ -257,7 +258,7 @@ let WEBSITE_DATA = [
 	
 																									{
 		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
+		img: "images/119106655.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -343,15 +344,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
 
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-	},
-	
+	},	
 		
 														{
 		name: "Memory Dance",
@@ -386,17 +386,18 @@ let WEBSITE_DATA = [
 	
 	
 
+			{
 
-
-
-		
-		{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+
+
+		
+
 	
 	{
 		name: "Singularity",
