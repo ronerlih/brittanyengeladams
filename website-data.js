@@ -177,7 +177,17 @@ let WEBSITE_DATA = [
 // 		credit: "",
 		
 // 		},	
+	
+	
+				{
+		name: "Harvestworks' 2023 New Works Residency Awardee",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},	
 		
+	
 {
 		name: "Maquette 21",
 		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
@@ -188,15 +198,7 @@ let WEBSITE_DATA = [
 
 
 	
-			{
-		name: "Harvestworks' 2023 New Works Residency Awardee",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},	
-		
-	
+
 
 	
 	
@@ -228,14 +230,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 
+											{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
-							 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
-		link: "",
-		credit: ""
-	},
+},
+	
+
 
 		
 
@@ -269,15 +273,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
-										{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/2138383815138158.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},
-	
+							 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+		link: "",
+		credit: ""
+	},
 
 	
 			
