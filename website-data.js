@@ -92,7 +92,7 @@ let WEBSITE_DATA = [
 
 					{
 			name: "Student Dance Concert Curator at Rutgers University ",
-			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 },
 														{
 		name: "Automaton?",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -118,7 +118,7 @@ let WEBSITE_DATA = [
 },
 															{
 		name: "I Am Not A Robot",
-		img: "images/Avatartracking.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
