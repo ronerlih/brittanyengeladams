@@ -326,7 +326,7 @@ let WEBSITE_DATA = [
 			link: "https://www.batesdancefestival.org/",
 			credit:"",
 		},
-		
+		  
 
 		{
 		name: "Ancestral Artifact 'Mizrach'",
