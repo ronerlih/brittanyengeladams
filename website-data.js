@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 },
 														{
 		name: "Automaton?",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/1233740.gif",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -118,7 +118,7 @@ let WEBSITE_DATA = [
 },
 															{
 		name: "I Am Not A Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
