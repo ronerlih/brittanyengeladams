@@ -96,7 +96,7 @@ let WEBSITE_DATA = [
 	},
 								 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 
 																					{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -156,7 +156,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/SS7.47.47M.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
