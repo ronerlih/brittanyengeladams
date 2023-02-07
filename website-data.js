@@ -40,16 +40,16 @@ let WEBSITE_DATA = [
 		
 		},
 	
-	
-	
-	
-												 		{
-		name: "Superposition",
-		img: "images/01_v4.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/SS7.47.47M.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
+	
+
 		{
 			name: "New York University's Tisch School of the Arts (Faculty)",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
@@ -57,11 +57,13 @@ let WEBSITE_DATA = [
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
 		},
+	
 		
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/SS7.47.47M.png",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	
+												 		{
+		name: "Superposition",
+		img: "images/01_v4.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
@@ -76,22 +78,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-		{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 																{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		name: "Memory Dance",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
+	
+		
+
 					{
 			name: "Student Dance Concert Curator at Rutgers University ",
 			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
@@ -100,7 +96,13 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },
-
+																{
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 	
 
 
@@ -112,17 +114,16 @@ let WEBSITE_DATA = [
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	
-},	
-	
-								{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+},
+														{
+		name: "Automaton?",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
 		credit: "",
-	
 	},
-			{
+	
+	{
 		name: "Harvestworks | Residency",
 		img: "images/SS202301227.20.49PM.png",
 		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
@@ -275,13 +276,13 @@ let WEBSITE_DATA = [
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
 	
-																{
-		name: "Memory Dance",
-		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
+	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 	
 	
 																									{
@@ -291,14 +292,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-													{
-		name: "Automaton?",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
+
+									{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
-	},
 	
+	},
+		
 	
 
 
