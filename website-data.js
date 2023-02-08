@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 					{
 
 		name: "Neural Network",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
