@@ -40,14 +40,23 @@ let WEBSITE_DATA = [
 		
 		},
 	
-		
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/1233740.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+			{
+		name: "Human Robot",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
+	
+	
+												 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
+	
 	
 
 		{
@@ -60,13 +69,6 @@ let WEBSITE_DATA = [
 	
 		
 	
-												 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
 	
 
 	
@@ -78,15 +80,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
 
-		name: "Neural Network",
-		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-	
 	
 		
 
@@ -98,6 +92,35 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },
+	
+		{
+
+		name: "Neural Network",
+		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+	{
+		name: "Harvestworks | Residency",
+		img: "images/SS202301227.20.49PM.png",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
+	
+		
+		
+																				{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/1233740.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
+	
 														{
 		name: "Automaton?",
 		img: "images/814181211418152114181534114181521520.gif",
@@ -110,7 +133,7 @@ let WEBSITE_DATA = [
 
 															{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/01.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -137,13 +160,6 @@ let WEBSITE_DATA = [
 	
 
 	
-	{
-		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
 	
 
 	
@@ -166,15 +182,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-	
-	
-		{
-		name: "Human Robot",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
+
 									{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -247,14 +255,13 @@ let WEBSITE_DATA = [
 	
 		
 		
-{
-		name: "Posthumanism",
-		img: "images/dna_wireframe_0004.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+						 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
 		link: "",
-		credit:"",
-		},
-		
+		credit: ""
+	},
 
 
 
@@ -300,13 +307,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-							 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+	{
+		name: "Posthumanism",
+		img: "images/dna_wireframe_0004.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: ""
-	},
+		credit:"",
+		},
+		
+	
 
 		
 	
@@ -394,7 +403,7 @@ let WEBSITE_DATA = [
 	},
 			 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -431,7 +440,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Singularity",
-		img: "images/01.jpeg",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
 		link: "",
 		credit: "",
