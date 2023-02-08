@@ -96,17 +96,17 @@ let WEBSITE_DATA = [
 	
 	
 
-	
+								{
+		name: "Hand Dance | Research",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},	
 	
 	
 		
-																				{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/1233740.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
+	
 		{
 		name: "Harvestworks | Residency",
 		img: "images/S837492874_i467984567_.jpg",
@@ -126,14 +126,14 @@ let WEBSITE_DATA = [
 	
 },
 	
-
-								{
-		name: "Hand Dance | Research",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+																			{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/1233740.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 
 					{
 			name: "Student Dance Concert Curator at Rutgers University ",
