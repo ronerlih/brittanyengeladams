@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 	},
 
 	{
-			name: "New York University's Tisch School of the Arts (Faculty)",
+			name: "New York University's Tisch School of the Arts",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
 			link: "https://tisch.nyu.edu/dance/courses",
@@ -90,7 +90,7 @@ let WEBSITE_DATA = [
 	
 
 					{
-			name: "Student Dance Concert Curator at Rutgers University ",
+			name: "Student Dance Concert Curator at Rutgers University",
 			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/7_wt.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 	
 	
 	{
-			name: "Joffrey Ballet School (Faculty)",
+			name: "Joffrey Ballet School",
 			img: "images/Joffrey61855551311419380012School.png",
 			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
 			link: "https://www.joffreyballetschool.com",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
