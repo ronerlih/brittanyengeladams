@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/SS20230105at4.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 			
 														{
 		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -163,7 +163,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/BodyMouth_FutureBodies.gif",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
@@ -295,7 +295,7 @@ let WEBSITE_DATA = [
 
 												{
 		name: "Autonomously",
-		img: "images/Avatartracking.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
