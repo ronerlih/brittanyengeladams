@@ -93,15 +93,6 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-																	{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/_m0t_petty123.png",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-}, 	
 
 
 
@@ -117,7 +108,15 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 	
+	 	
+																	{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/_m0t_petty123.png",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
+}, 	
 									{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
