@@ -19,15 +19,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		
-{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+																			{
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
+
 	
 {
 			name: "New York University's Tisch School of the Arts",
@@ -37,16 +36,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
+{
+			name: "Architecture of Memory",
+			img: "images/3516515151651475195147512.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},		
 	
-	
-
-																			{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
 
 	
 	
@@ -66,15 +63,18 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-		
-	
 																			{
 		name: "Proprioceptive Research | Mapping",
 		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},
+	},		
+		
+
+	
+
+
 	
 	
 									{
@@ -85,15 +85,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
- {
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
+
+					{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
 	
-	
+},
+		
 
 	
 			
@@ -104,19 +105,26 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
+	 {
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 	
-					{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
-	
+		
+	{
+		name: "Harvestworks | Residency",
+		img: "images/SS202301227.20.49PM.png",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
+
 	{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -134,18 +142,11 @@ let WEBSITE_DATA = [
 
 	
 	
-	
-	{
-		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
+
 
 			{
 		name: "Human Robot",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -247,7 +248,7 @@ let WEBSITE_DATA = [
 
 	
 		{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
 			img: "images/311631513116315113154.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
@@ -336,16 +337,17 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		
-																	{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
 	
-}, 	
-								
+		{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "",
+		credit: "",
+	},
+	
+		
+							
 			
 	
 
@@ -361,13 +363,14 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},
 	
-	{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "",
+																	{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},
+	
+}, 	
 	
 																						{
 		name: "Wireless Fidelity | Exhibition",
