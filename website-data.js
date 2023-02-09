@@ -20,36 +20,35 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
-	
-						{
-		name: "Sawtooth Wave",
-		img: "images/untitled2.jpeg",
-		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
+												 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
-	
 	},
 	
-		{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/BodyMouth_FutureBodies.gif",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "",
-		
+{
+			name: "New York University's Tisch School of the Arts",
+			img: "images/SS_553PM.jpeg",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
 		},
 	
-
-
 	
+	
+
 																			{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/thermonuclearwarhead1.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
 	},
+
+	
+	
 
 					{
 
@@ -59,20 +58,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-		
-												 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+						{
+		name: "Sawtooth Wave",
+		img: "images/untitled2.jpeg",
+		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
 		link: "",
 		credit: "",
+	
 	},
+		
 	
 																			{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		name: "Proprioceptive Research | Mapping",
+		img: "images/thermonuclearwarhead1.jpg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
@@ -108,14 +107,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
+			
 		{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/SS_553PM.jpeg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},	
-	
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/BodyMouth_FutureBodies.gif",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "https://futurebodies.newmediacaucus.org/",
+		credit: "",
+		
+		},
 		
 	{
 		name: "Harvestworks | Residency",
@@ -127,7 +127,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Human Robot",
-		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		img: "images/1233740.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -136,7 +136,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -154,14 +154,14 @@ let WEBSITE_DATA = [
 
 	
 	
+		{
+		name: "Skeletal Avatar",
+		img: "images/7_wt.jpeg",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 	
-	{
-			name: "Joffrey Ballet School",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
 	
 	
 	
@@ -182,14 +182,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-			
 		{
-		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
+			name: "Joffrey Ballet School",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},	
+	
 	
 	
 
@@ -233,19 +233,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-		
-
-	{
-			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},	
-	
-		
-
-
 	
 			
 																									{
@@ -255,6 +242,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+		{
+			name: "Midcentury Architecture and Community on the Outer Cape 2020/2021 Artist Residency,",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},	
+	
 	
 				{
 		name: "Hand Dance | Film",
