@@ -250,7 +250,7 @@ let WEBSITE_DATA = [
 	
 		 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 		
 {
 			name: "Architecture of Memory",
-			img: "images/01_v4.jpeg", 
+			img: "images/SS7.47.47M.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
