@@ -58,14 +58,15 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},
 
-	
-										 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+						 {
+		name: "Postmodernism",
+		img: "images/t2_026.jpeg",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 	
 			{
@@ -170,11 +171,10 @@ let WEBSITE_DATA = [
 	
 		
 	
-
-																			{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
@@ -345,34 +345,35 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
+										 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
+
+		
 	
+																			{
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},						
+			
 	
 						{
 
 		name: "Neural Network",
-		img: "images/21519201414113333.gif",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	},	
-							
-			{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},		
-	
+	},
 	
 
-					 {
-		name: "Postmodernism",
-		img: "images/t2_026.jpeg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "",
-		credit: "",
-	},
 	
 
 
