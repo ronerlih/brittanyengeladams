@@ -133,14 +133,13 @@ let WEBSITE_DATA = [
 	},						
 	
 	
-					{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},	
+																	{
+		name: "YouTube Improv  | Website",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		link: "",
+		credit: ""
+	},
 		
 											{
 	      name: "Emergent Landscape I | Tessellation",
@@ -171,17 +170,18 @@ let WEBSITE_DATA = [
 		
 
 	
+					{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},	
+	
+	
+	
 
-	
-	
-	
-																	{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
-		link: "",
-		credit: ""
-	},
 
 	
 	
