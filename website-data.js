@@ -275,13 +275,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																		{
-		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	
+		
+										 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
-		credit: "", 
+		credit: "",
 	},
+	
+	
 	
 
 												{
@@ -349,14 +353,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-										 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+	
+																		{
+		name: "Memory Dance",
+		img: "images/01_v4.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},	
-		
 
 	
 	
