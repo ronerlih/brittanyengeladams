@@ -59,14 +59,13 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
-{
-			name: "Joffrey Ballet School",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		},
+										 		{
+		name: "Superposition",
+		img: "images/SS202302037.11.31PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 	
 			{
@@ -118,15 +117,16 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 	
-		
 	
- 												{
-		name: "Autonomous",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+									{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},
+	},	
+	
+
 	{
 		name: "Harvestworks | Residency",
 		img: "images/S837492874_i467984567_.jpg",
@@ -148,11 +148,10 @@ let WEBSITE_DATA = [
 		},		
 	
 
-	
-									{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+	 												{
+		name: "Autonomous",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
 	},
@@ -180,15 +179,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+{
+			name: "Joffrey Ballet School",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		},
 	
-	
-										 		{
-		name: "Superposition",
-		img: "images/SS202302037.11.31PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
+
 	
 	
 	
