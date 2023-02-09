@@ -213,19 +213,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-	
-																		{
-		name: "Subtractive Synthesis",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
-	
-	
 
 	
-
 	
 		{
 			name: "Bates College Summer Dance Festival (Faculty) ",
@@ -235,7 +224,14 @@ let WEBSITE_DATA = [
 			credit:"",
 		},
 	
-
+	
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
