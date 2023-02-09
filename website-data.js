@@ -176,16 +176,18 @@ let WEBSITE_DATA = [
 		
 		},
 	
+										{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/patterns01.gif",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	
+	},
 
 
 	
-		{
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
+	
 		{
 			name: "Joffrey Ballet School",
 			img: "images/Joffrey61855551311419380012School.png",
@@ -208,16 +210,14 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
-	
-	
-									{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	
-	},
+		{
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
+
 	
 	
 	{
@@ -360,7 +360,7 @@ let WEBSITE_DATA = [
 	
 																{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/11414121191918.gif",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
