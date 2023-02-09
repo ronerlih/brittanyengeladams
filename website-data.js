@@ -221,17 +221,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-		
-
 	
-	
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
 	
 																	{
 		name: "YouTube Improv  | Website",
@@ -241,7 +231,13 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-	
+		{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	
 
 	
