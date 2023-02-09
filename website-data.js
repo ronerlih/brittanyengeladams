@@ -38,7 +38,7 @@ let WEBSITE_DATA = [
 	
 {
 			name: "Architecture of Memory",
-			img: "images/3516515151651475195147512.jpg", 
+			img: "images/01_v4.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -96,15 +96,16 @@ let WEBSITE_DATA = [
 },
 		
 
-	
-			
-														{
-		name: "I Am Not A Robot",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+												{
+		name: "Autonomous",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
 	},	
+	
+			
+	
 	 {
 		name: "Posthumanism",
 		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
@@ -292,14 +293,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
-												{
-		name: "Autonomously",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+														{
+		name: "I Am Not A Robot",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
-	},	
+	},
 	
 
 
@@ -357,7 +357,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -365,7 +365,7 @@ let WEBSITE_DATA = [
 	
 																	{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
