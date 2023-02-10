@@ -75,14 +75,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-						 {
-		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "",
-		credit: "",
-	},
-	
 								{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -90,6 +82,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+							 {
+		name: "Postmodernism",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	{
 			name: "Joffrey Ballet School",
@@ -107,7 +108,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+																			{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/SS7.47.47M.png",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
+}, 
 	
 	{
 			name: "Architecture of Memory",
@@ -116,6 +125,16 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
+	
+	
+							{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
 	
 	
 
@@ -127,26 +146,10 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-						{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/ScreenShot2023-02-052.20PM.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+
 	
 	
-	
-	
-																			{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/f-d_464d56d7487a350f2a6941373ca0bc30639547b4002f8f8666ccb479+IMAGE_TINY+IMAGE_TINY.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-}, 
+
 	
 	{
 			name: "New York University's Tisch School of the Arts",
