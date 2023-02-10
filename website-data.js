@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/2023012170559PM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "The sawtooth wave is defined to be –1 at multiples of 2π and to increase linearly with time with a slope of 1/π at all other times. x = sawtooth( t , xmax ) generates a modified triangle wave with the maximum location at each period controlled by xmax.",
 		link: "",
 		credit: "",
@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 
 		 {
 		name: "Posthumanism",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		img: "images/7.jpeg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -68,7 +68,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
