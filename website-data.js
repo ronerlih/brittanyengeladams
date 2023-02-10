@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 		
 										 		{
 		name: "Superposition",
-		img: "images/SS202302037.11.31PM.png",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 	
 								{
 		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -93,7 +93,7 @@ let WEBSITE_DATA = [
 	
 							 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-07at5.08.06PM",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -123,7 +123,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/SS7.47.47M.png",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -132,22 +132,21 @@ let WEBSITE_DATA = [
 	
 							{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
 	
 },
 	
-	
-
-																					{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	{
+		name: "Maquette 21",
+		img: "images/1233740.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
-		credit: "", 
-	},
+		credit: "",
+	},	
+
 	
 
 	
@@ -166,7 +165,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -256,7 +255,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/21519201414113333.gif",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -279,7 +278,7 @@ let WEBSITE_DATA = [
 		
 		{
 			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
+			img: "images/SS7.47.47M.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -363,12 +362,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-		name: "Maquette 21",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+	
+																					{
+		name: "Memory Dance",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
 	
 
