@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	
 							 {
 		name: "Postmodernism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		img: "images/t2_026.jpeg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -91,13 +91,14 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 	
 	
-											 		{
-		name: "Superposition",
-		img: "images/2138383815138158.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
+								{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
 	
 		{
 		name: "Skeletal Avatar",
@@ -152,29 +153,27 @@ let WEBSITE_DATA = [
 
 	 {
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/t2_026.jpeg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
 		},
 	
-
+										 		{
+		name: "Superposition",
+		img: "images/2138383815138158.jpg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
 	
-	
-							{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/RutgersConcertProgram.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
+
 {
 			name: "New York University's Tisch School of the Arts",
-			img: "images/SS_553PM.jpeg",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
 			link: "https://tisch.nyu.edu/dance/courses",
 			credit: "",
