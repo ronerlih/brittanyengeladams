@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 	},
 								 {
 		name: "Postmodernism",
-		img: "images/refinery_view01wide_v01.jpg",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -140,7 +140,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower | Performance",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -298,7 +298,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Architecture of Memory",
-			img: "images/bh_accretiondisk_sim_stationary_websize.gif", 
+			img: "images/2138383815138158.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -326,7 +326,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/01_v4.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
@@ -361,7 +361,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
