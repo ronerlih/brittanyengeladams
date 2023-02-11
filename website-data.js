@@ -38,14 +38,16 @@ let WEBSITE_DATA = [
 		},
 
 		
-	
-																		{
-		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
+																				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},
+	
+}, 
+	
+		
 	
 		{
 		name: "Maquette 21",
@@ -63,6 +65,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/SS202301217.25.19PM.png",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	 {
 		name: "Posthumanism",
@@ -71,6 +81,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
+	
 
 											 		{
 		name: "Superposition",
@@ -80,7 +91,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-	
+	{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 	
 	{
 			name: "Joffrey Ballet School",
@@ -90,16 +107,10 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 	
-	{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
+	
 								 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -148,15 +159,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-																				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-}, 
+
 	
 	
 	
@@ -298,7 +301,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpeg", 
+			img: "images/2138383815138158.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
