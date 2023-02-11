@@ -70,17 +70,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-		
-																				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+
+	
+		{
+		name: "Skeletal Avatar",
+		img: "images/AVATARINRED.gif",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
 		credit: "",
-	
-}, 
-	
+	},
 			 												{
 		name: "Autonomous",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -101,15 +99,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	
-		{
-		name: "Skeletal Avatar",
-		img: "images/AVATARINRED.gif",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
+		
+		
+																				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},
+	
+}, 
+	
 		
 						 {
 		name: "Postmodernism",
