@@ -86,7 +86,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Skeletal Avatar",
-		img: "images/AVATARINRED.gif",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -106,7 +106,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Maquette 21",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 		
 						 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -257,16 +257,18 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
-			
+	
 	
 		
-		{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+																					{
+		name: "Memory Dance",
+		img: "images/01_v4.jpeg bh_accretiondisk_sim_stationary_websize.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},			
+	
+		
 
 
 											{
@@ -304,17 +306,15 @@ let WEBSITE_DATA = [
 	
 
 
+		{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 		
 
-	
-		
-																					{
-		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},	
 
 		
 							{
@@ -373,7 +373,7 @@ let WEBSITE_DATA = [
 // 	},
 										 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/t2_026.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
