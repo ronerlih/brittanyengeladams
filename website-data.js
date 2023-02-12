@@ -67,7 +67,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/005.jpeg",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 	
 						 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
