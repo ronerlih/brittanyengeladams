@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 		},
 																	{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/IMG23dmilkyway.gif",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
