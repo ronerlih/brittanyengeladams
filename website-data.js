@@ -95,15 +95,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
+	 													{
+		name: "I Am Not A Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
 
-	{
-			name: "Joffrey Ballet School",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		}, 
+
 
 		
 																				{
@@ -253,7 +253,7 @@ let WEBSITE_DATA = [
 
 											{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/S2022102835049AM.jpg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -262,14 +262,14 @@ let WEBSITE_DATA = [
 		
 	
 	
-
-														{
-		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
+	{
+			name: "Joffrey Ballet School",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		}, 
+	
 
 	
 	
@@ -305,7 +305,7 @@ let WEBSITE_DATA = [
 	
 // 			{
 // 		name: "Electron Cloud Atomic Model",
-// 		img: "images/SS7.47.47M.png",
+// 		img: "images/SS20230122at7.16.09PM.png",
 // 		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
 // 		link: "",
 // 		credit: "",
