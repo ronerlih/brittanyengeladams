@@ -243,6 +243,17 @@ let WEBSITE_DATA = [
 	
 	
 	
+	
+											{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
+		credit: "",
+	
+	},
+	
+	
 		{
 			name: "Architecture of Memory",
 			img: "images/2138383815138158.jpg", 
@@ -253,14 +264,6 @@ let WEBSITE_DATA = [
 		
 
 
-											{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
-		credit: "",
-	
-	},
 		
 	
 	
