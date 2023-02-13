@@ -284,7 +284,7 @@ let WEBSITE_DATA = [
 	
 											 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/t2_026.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -337,7 +337,7 @@ let WEBSITE_DATA = [
 			
 	{
 			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
+			img: "images/2138383815138158.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
