@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -196,7 +196,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Human Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/21519201414113333.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
