@@ -38,6 +38,13 @@ let WEBSITE_DATA = [
 		
 		},
 	
+					 												{
+		name: "Autonomous",
+		img: "images/SS7.47.47M.png",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
 		{
 			name: "New York University's Tisch School of the Arts",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
@@ -46,13 +53,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-					 												{
-		name: "Autonomous",
-		img: "images/SS7.47.47M.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
+	
 		
 																				{
 		name: "Movement Research Performance Journal | Publication",
@@ -123,7 +124,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -145,7 +146,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/AVATARINRED.gif",
+		img: "images/avatar.JPG",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
