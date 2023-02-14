@@ -368,8 +368,27 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+		{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+		credit: "",
+	},
 
+
+
+	
+			{
+		name: "Dark Matter",
+		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
+		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
+		link: "",
+		credit: "",
+	},	
+
+
+	
 	
 
 	
@@ -383,26 +402,7 @@ let WEBSITE_DATA = [
 	
 
 	
-			{
-		name: "Dark Matter",
-		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
-		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
-		link: "",
-		credit: "",
-	},	
-
-
 	
-
-
-	
-		{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
-		credit: "",
-	},
 
 	
 	
