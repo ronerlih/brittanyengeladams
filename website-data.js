@@ -150,7 +150,7 @@ let WEBSITE_DATA = [
 
 				 {
 		name: "Posthumanism",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -161,7 +161,7 @@ let WEBSITE_DATA = [
 			
 																					{
 		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/01_v4.jpeg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -242,13 +242,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
+			{
+		name: "Human Robot",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 	
 	
 
@@ -262,21 +262,21 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
+
+	
 		{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-	
-	
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 		
 	
 			
 																							{
 		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
+		img: "images/119106655.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -353,7 +353,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Singularity",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
 		blurb: "The technological singularity—or simply the singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, I.J. Good's intelligence explosion model, an upgradable intelligent agent will eventually enter a 'runaway reaction' of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an 'explosion' in intelligence and resulting in a powerful superintelligence that qualitatively far surpasses all human intelligence.",
 		link: "",
 		credit: "Source: Wikipedia",
@@ -362,7 +362,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/ScreenShot2023-02-06at10.41.24AM",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "",
@@ -373,7 +373,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Farewell 2020",
-		img: "images/t2_026.jpeg",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
@@ -383,7 +383,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Dark Matter",
-		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
