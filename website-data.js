@@ -46,15 +46,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},
 	
 
+	
 	
 		
 																				{
@@ -65,6 +59,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 }, 
+	
+		
+			{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},	
+	
 																		{
 		name: "Subtractive Synthesis",
 		img: "images/SS202301217.25.19PM.png",
@@ -119,24 +123,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-			{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},	
-	
-	
-																		{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
 
+		{
+			name: "New York University's Tisch School of the Arts",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
 	
+
+		{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},
 		
 	
 	
@@ -150,15 +153,15 @@ let WEBSITE_DATA = [
 			credit: "",
 	
 },
-	
+																		{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 
-	{
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},
+
 				 {
 		name: "Posthumanism",
 		img: "images/SS2023-02-07at5.45.35PM.png",
