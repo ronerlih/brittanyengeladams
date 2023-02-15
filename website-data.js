@@ -203,14 +203,7 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
-			{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},	
-
+	
 	
 
 												{
@@ -223,12 +216,19 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
+			{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},	
+
 
 
 						 {
 		name: "Postmodernism",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -280,7 +280,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
