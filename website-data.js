@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/BodyMouth_FutureBodies.gif",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/11414121191918.gif",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -93,17 +93,18 @@ let WEBSITE_DATA = [
 },
 
 
+		{
+		name: "Maquette 21",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 	
 
 	
 	
-		{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+	
 		
 		
 	 													{
@@ -152,6 +153,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+				 {
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
+	
 					{
 		name: "Hand Dance | Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -160,20 +170,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				 {
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
+	
 
 
 
 			
 																					{
 		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -224,13 +228,12 @@ let WEBSITE_DATA = [
 	},	
 
 		{
-		name: "Maquette 21",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
-	
 
 	
 	
@@ -408,7 +411,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/01_v4.jpeg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
