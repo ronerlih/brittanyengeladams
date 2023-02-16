@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/2138383815138158.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -63,7 +63,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Maquette 21",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -112,10 +112,28 @@ let WEBSITE_DATA = [
 		}, 
 
 	
-	
+		
+				 {
+		name: "Posthumanism",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 	
 		
 		
+
+				{
+		name: "Skeletal Avatar",
+		img: "images/7_wt.jpeg",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
+
+	
+
 	 													{
 		name: "I Am Not A Robot",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -123,24 +141,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-				{
-		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
-
-	
-	
-				 {
-		name: "Posthumanism",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
 
 		
 
@@ -156,7 +156,7 @@ let WEBSITE_DATA = [
 },
 																		{
 		name: "Proprioceptive Research | Mapping",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -217,11 +217,18 @@ let WEBSITE_DATA = [
 	},
 	
 
+										{
+		name: "Hand Dance | Research",
+		img: "images/181514.jpeg",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 
 
 						 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -238,13 +245,6 @@ let WEBSITE_DATA = [
 
 	
 
-										{
-		name: "Hand Dance | Research",
-		img: "images/181514.jpeg",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
 
 				{
 		name: "Human Robot",
