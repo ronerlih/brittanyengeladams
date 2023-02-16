@@ -162,7 +162,7 @@ let WEBSITE_DATA = [
 			
 																				{
 		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -174,7 +174,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
+		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -217,13 +217,7 @@ let WEBSITE_DATA = [
 	
 
 
-													 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
+
 	
 				{
 		name: "Human Robot",
@@ -233,7 +227,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+													 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 
 						 {
 		name: "Postmodernism",
