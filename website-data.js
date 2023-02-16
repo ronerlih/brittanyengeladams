@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 		},
 					 												{
 		name: "Autonomous",
-		img: "images/SS7.47.47M.png",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -351,17 +351,15 @@ let WEBSITE_DATA = [
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
 	},
-		
+	
 		
 																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		name: "Bottom-Up/Top-Down Reasoning.",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
 	},	
-		
-		
 			
 																					{
 		name: "Memory Dance",
@@ -381,14 +379,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-
-																						{
-		name: "Bottom-Up/Top-Down Reasoning.",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		
+		
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
+
 
 
 	
