@@ -263,7 +263,7 @@ let WEBSITE_DATA = [
 		
 	{
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -430,15 +430,14 @@ let WEBSITE_DATA = [
 	
 	
 
-	
-	
 		{
-		name: "Cloud Computing",
-		img: "images/005.jpeg",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		name: "Polarized",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		blurb: "Filter Bubbles a phenomenon where increasingly like minded communities whose views are reinforced and become more extreme. The result of algorithmic dynamics that are aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. In America, political issues have always polarized communities. Now more than ever, due to the popularity of online platforms as gathering spaces, such as Facebook, Twitter, and TikTok as a means to unite people, which paradoxically intensifies their political, social, economical, geographical differences. These platforms are an echo chamber, known as ‘homophily’, or colloquially known as ‘birds of a feather flock together.’",
 		link: "",
 		credit: "",
 	},
+	
 	
 	
 	
@@ -463,14 +462,15 @@ let WEBSITE_DATA = [
 
 	
 	
+	
+
 		{
-		name: "Polarized",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-		blurb: "Filter Bubbles a phenomenon where increasingly like minded communities whose views are reinforced and become more extreme. The result of algorithmic dynamics that are aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. In America, political issues have always polarized communities. Now more than ever, due to the popularity of online platforms as gathering spaces, such as Facebook, Twitter, and TikTok as a means to unite people, which paradoxically intensifies their political, social, economical, geographical differences. These platforms are an echo chamber, known as ‘homophily’, or colloquially known as ‘birds of a feather flock together.’",
+		name: "Cloud Computing",
+		img: "images/005.jpeg",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "",
 	},
-
 	
 		{
 		name: "Projectile motion",
