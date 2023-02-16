@@ -413,7 +413,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/neuron.gif",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "https://www.amazon.com/Haptics-MIT-Press-Essential-Knowledge/dp/0262535807/ref=asc_df_0262535807/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=9281398372657436640&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9067609&hvtargid=pla-523672353753&psc=1",
 		credit: "",
