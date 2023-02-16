@@ -465,7 +465,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Polarized",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png.",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Filter Bubbles a phenomenon where increasingly like minded communities whose views are reinforced and become more extreme. The result of algorithmic dynamics that are aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. In America, political issues have always polarized communities. Now more than ever, due to the popularity of online platforms as gathering spaces, such as Facebook, Twitter, and TikTok as a means to unite people, which paradoxically intensifies their political, social, economical, geographical differences. These platforms are an echo chamber, known as ‘homophily’, or colloquially known as ‘birds of a feather flock together.’",
 		link: "",
 		credit: "",
@@ -474,7 +474,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Projectile motion",
-		img: "images/lemon_rr_00.jpeg.",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
