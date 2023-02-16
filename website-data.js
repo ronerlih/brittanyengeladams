@@ -219,19 +219,19 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Human Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+
+	
+									{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	
-
 
 						 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -310,15 +310,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-	
-										{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+				{
+		name: "Human Robot",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 
 	
@@ -352,14 +352,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-						{
-		name: "Hand Dance | Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+	
+			{
+		name: "Haptics",
+		img: "images/liioncellthumbnail.jpg",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
+		link: "https://www.amazon.com/Haptics-MIT-Press-Essential-Knowledge/dp/0262535807/ref=asc_df_0262535807/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=9281398372657436640&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9067609&hvtargid=pla-523672353753&psc=1",
 		credit: "",
-	},		
-
+	},
+	
 	
 	
 																						{
@@ -405,18 +406,17 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
+							{
+		name: "Hand Dance | Film",
+		img: "images/181514.jpeg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},	
 
 	
 	
-			{
-		name: "Haptics",
-		img: "images/neuron.gif",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
-		link: "https://www.amazon.com/Haptics-MIT-Press-Essential-Knowledge/dp/0262535807/ref=asc_df_0262535807/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=9281398372657436640&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9067609&hvtargid=pla-523672353753&psc=1",
-		credit: "",
-	},
-	
+
 	
 
 
@@ -474,7 +474,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Projectile motion",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
