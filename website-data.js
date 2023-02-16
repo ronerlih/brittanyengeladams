@@ -126,14 +126,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
-		credit: "",
-	},
 		
+			
+																				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+}, 	
 						 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpeg",
@@ -146,28 +148,27 @@ let WEBSITE_DATA = [
 	
 
 
+	
+																		{
+		name: "Proprioceptive Research | Mapping",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 		
 
-	{
-			name: "Bates College Summer Dance Festival (Faculty) ",
-			img: "images/Hortonatbates.png",
-			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
-			link: "https://www.batesdancefestival.org/",
-			credit:"",
-		},
 	
 
-
-	
-			
-																				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+			{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
+	},
+
 	
-}, 	
 	
 		
 
@@ -182,17 +183,16 @@ let WEBSITE_DATA = [
 		
 
 	
+	{
+			name: "Bates College Summer Dance Festival (Faculty) ",
+			img: "images/Hortonatbates.png",
+			blurb: "2019 Faculty at The Bates Summer Dance Festival. ‘Bates Dance Festival brings together an international community of choreographers, performers, educators & students in a cooperative community to study, perform & create new work.’",
+			link: "https://www.batesdancefestival.org/",
+			credit:"",
+		},
 	
 
 
-	
-																		{
-		name: "Proprioceptive Research | Mapping",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
 	
 		
 
