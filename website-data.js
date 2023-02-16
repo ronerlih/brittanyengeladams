@@ -75,14 +75,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-			 {
-		name: "Posthumanism",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
 	
+		
+			
+																				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+}, 
 
 
 
@@ -148,20 +151,17 @@ let WEBSITE_DATA = [
 	},
 		
 
-	
+			 {
+		name: "Posthumanism",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 	
 
 
 	
-			
-																				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-}, 	
 	
 		
 
