@@ -404,7 +404,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Bottom-Up/Top-Down Reasoning.",
-		img: "images/242929174_10222276509114570_1483752838181446711_n.jpg",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
