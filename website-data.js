@@ -74,14 +74,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-					 												{
-		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
+
 
 	
 
@@ -96,7 +89,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "", 
 	},
-	
+			
+					 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
 
 
 {
@@ -295,7 +295,7 @@ let WEBSITE_DATA = [
 	
 													 		{
 		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
+		img: "images/t2_026.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -367,7 +367,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Dark Matter",
-		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -376,7 +376,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower | Performance",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -445,7 +445,7 @@ let WEBSITE_DATA = [
 	
 																						{
 		name: "Farewell 2020",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
@@ -454,7 +454,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Singularity",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
 		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence (AGI).",
 		link: "",
 		credit: "",
