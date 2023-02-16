@@ -118,7 +118,22 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+	
+	 													{
+		name: "I Am Not A Robot",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
+			{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+		credit: "",
+	},
 		
 						 {
 		name: "YouTube Improv  | Performance",
@@ -131,13 +146,6 @@ let WEBSITE_DATA = [
 
 	
 
-	 													{
-		name: "I Am Not A Robot",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
 
 		
 
@@ -151,13 +159,7 @@ let WEBSITE_DATA = [
 	
 
 
-		{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
-		credit: "",
-	},
+
 	
 		{
 			name: "New York University's Tisch School of the Arts",
@@ -238,15 +240,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-		
-													{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+							{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
-	
 	},
+	
 
 	
 
@@ -305,17 +307,17 @@ let WEBSITE_DATA = [
 
 
 	
-
-	
-							{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+		
+													{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
+	
 	},
 	
+
 
 	
 										{
