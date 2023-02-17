@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Haptics",
-		img: "images/1_M4dhHPIbQPc85V388cniNA.jpeg",
+		img: "images/fec46aa5b9.gif",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -84,7 +84,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Perceptual Brittleness",
-		img: "images/SS202302037.11.31PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
