@@ -122,13 +122,14 @@ let WEBSITE_DATA = [
 		},
 
 
-																		{
-		name: "Proprioceptive Research",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+					 {
+		name: "YouTube Improv  | Performance",
+		img: "images/2121__5_55521212121212521212.jpeg",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+		
 	
 
 				{
@@ -229,13 +230,12 @@ let WEBSITE_DATA = [
 		credit:"",
 		},
 
-	
-						 {
-		name: "YouTube Improv  | Performance",
-		img: "images/2121__5_55521212121212521212.jpeg",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+																		{
+		name: "Proprioceptive Research",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
 	
 		
