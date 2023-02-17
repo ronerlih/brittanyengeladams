@@ -38,13 +38,13 @@ let WEBSITE_DATA = [
 		
 		},
 	
-{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},	
+				 												{
+		name: "Autonomous",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Haptics",
@@ -255,20 +255,20 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-
-				 												{
-		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
+{
+			name: "New York University's Tisch School of the Arts",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},
+	
 	
 	
 							{
 
 		name: "Neural Network",
-		img: "images/01.jpeg",
+		img: "images/SS7.47.47M.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cloud Computing",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/005.jpeg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "",
@@ -403,13 +403,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-							{
-		name: "Hand Dance | Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},	
 
 		{
 		name: "Polarized",
@@ -418,9 +411,18 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+								{
+		name: "Hand Dance | Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},	
+
 		{
 		name: "Singularity",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/01.jpeg",
 		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence.",
 		link: "",
 		credit: "",
