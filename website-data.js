@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Perceptual Brittleness",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -238,15 +238,15 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-
+					 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},
 		
-	{
-			name: "Architecture of Memory",
-			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+
 	
 
 	
@@ -278,18 +278,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	
-	
-	
-
-
-	
-
-
-	
-	
-	
 // 				{
 // 		name: "Ancestral Artifact  'Mizrach'",
 // 		img: "images/1926318892613892618138.jpeg",
@@ -298,22 +286,15 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 		},
-
-
+		
+	{
+			name: "Architecture of Memory",
+			img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 	
-
-	
-						 												{
-		name: "Autonomous",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},	
-
-	
-
-
 			
 																							{
 		name: "Bottom-Up/Top-Down Reasoning.",
@@ -323,21 +304,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-
-	
-
-
-	
 // 			{
 // 		name: "Electron Cloud Atomic Model",
 // 		img: "images/SS20230122at7.16.09PM.png",
 // 		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
 // 		link: "",
 // 		credit: "",
-// 	},
-
-		
+// 	},	
 																							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
@@ -345,8 +318,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
-	
 		
 				{
 		name: "Ancestral Artifact  'Mizrach'",
@@ -355,9 +326,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-	
 	
 																					{
 		name: "Memory Dance",
@@ -385,9 +353,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		
-	
-
 	
 																						{
 		name: "Wireless Fidelity | Exhibition",
@@ -397,9 +362,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-
 				{
 		name: "Skeletal Avatar",
 		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
@@ -408,12 +370,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-	
-	
-	
-
-	
 
 			{
 		name: "Digital Sculpture",
@@ -424,9 +380,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-
-
 // 			{
 // 		name: "Singularity",
 // 		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
@@ -434,11 +387,7 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-	
-	
 
-	
-	
 		{
 		name: "Cloud Computing",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -446,8 +395,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 																						{
 		name: "Farewell 2020",
@@ -472,8 +419,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
 		{
 		name: "Singularity",
 		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
