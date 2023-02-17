@@ -158,13 +158,14 @@ let WEBSITE_DATA = [
 	
 	
 
-			 {
-		name: "Posthumanism",
-		img: "images/rmb45m_004.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},
+
 	
 
 
@@ -217,16 +218,15 @@ let WEBSITE_DATA = [
 	},
 
 
-	
 
-
-								{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+			 {
+		name: "Posthumanism",
+		img: "images/rmb45m_004.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+		},
+
 	
 						 {
 		name: "YouTube Improv  | Performance",
