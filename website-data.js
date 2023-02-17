@@ -170,7 +170,7 @@ let WEBSITE_DATA = [
 		
 													{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/11_91919_.jpeg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/red-who.html",
 		credit: "",
@@ -211,7 +211,7 @@ let WEBSITE_DATA = [
 	
 													 		{
 		name: "Superposition",
-		img: "images/_m0t_petty123.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -258,7 +258,7 @@ let WEBSITE_DATA = [
 
 				 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/f-d_464d56d7487a350f2a6941373ca0bc30639547b4002f8f8666ccb479+IMAGE_TINY+IMAGE_TINY.jpg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -338,7 +338,7 @@ let WEBSITE_DATA = [
 	
 				 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -346,7 +346,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cloud Computing",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "",
