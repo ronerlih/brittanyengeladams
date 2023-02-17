@@ -69,12 +69,14 @@ let WEBSITE_DATA = [
 	},
 		
 					{
-		name: "Human Robot",
-		img: "images/ScreenShot20230204at1.39.14PM.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
+		name: "Perceptual Brittleness",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
-	},	
+	},
+	
+	
 
 	{
 			name: "New York University's Tisch School of the Arts",
@@ -122,15 +124,15 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 		
-	
-
-				{
-		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+		{
+		name: "Human Robot",
+		img: "images/ScreenShot20230204at1.39.14PM.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
-	},	
+	},
+
+	
 					{
 		name: "Dark Matter",
 		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
