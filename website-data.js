@@ -257,6 +257,14 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
+			{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
+
 	
 							{
 
@@ -268,15 +276,7 @@ let WEBSITE_DATA = [
 	},
 	
 
-		
-																							{
-		name: "Bottom-Up/Top-Down Reasoning.",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
-		credit: "",
-	},
-
+	
 	
 	
 	
@@ -310,16 +310,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-			{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},	
-
-
 	
+
+
+			
+																							{
+		name: "Bottom-Up/Top-Down Reasoning.",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
+		credit: "",
+	},
 	
 	
 
