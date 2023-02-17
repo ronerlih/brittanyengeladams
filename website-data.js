@@ -46,14 +46,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-					 												{
-		name: "Autonomous",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		{
+		name: "Haptics",
+		img: "images/electromagnetic_spectrum.jpg",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 	
 	
@@ -168,14 +169,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				{
-		name: "Haptics",
-		img: "images/electromagnetic_spectrum.jpg",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
+					 												{
+		name: "Autonomous",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
-	},
-
+	},	
 
 
 
