@@ -210,7 +210,7 @@ let WEBSITE_DATA = [
 	
 													 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/_m0t_petty123.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -337,7 +337,7 @@ let WEBSITE_DATA = [
 	
 				 {
 		name: "Postmodernism",
-		img: "images/_m0t_petty123.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
