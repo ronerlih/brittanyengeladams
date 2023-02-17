@@ -387,7 +387,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Polarized",
-		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Filter Bubbles a phenomenon where increasingly like minded communities whose views are reinforced and become more extreme. The result of algorithmic dynamics that are aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. In America, political issues have always polarized communities. Now more than ever, due to the popularity of online platforms as gathering spaces, such as Facebook, Twitter, and TikTok as a means to unite people, which paradoxically intensifies their political, social, economical, geographical differences. These platforms are an echo chamber, known as ‘homophily’, or colloquially known as ‘birds of a feather flock together.’",
 		link: "",
 		credit: "",
