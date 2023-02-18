@@ -109,7 +109,7 @@ let WEBSITE_DATA = [
 	},	
 																		{
 		name: "Subtractive Synthesis",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/Roland_TR-808_(large).jpg",
 		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
 		link: "",
 		credit: "",
@@ -138,7 +138,7 @@ let WEBSITE_DATA = [
 		
 												{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/RutgersConcertProgram.jpeg", 
+			img: "images/RutgersConcertProgram.jpg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
