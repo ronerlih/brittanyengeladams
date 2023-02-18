@@ -439,7 +439,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Infinitesimal Calculus ",
 		img: "images/i050950a.gif",
-		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y) for an unknown function φ, the functions f and H being continuous in [a, b] and [a, b] ×[a, b] respectively, with f(a) = 0. He divides [a, b] into n subintervals by the points yk = a+kb-an(1≤k≤n), replaces y in (1) by these n values, and the integral by the corresponding Riemann sums, which gives him a system of n linear equations (2) {h11z1 =b1h21z1 + h22z2 = b2………hn1z1 + hn2z2 +…+ hnnzn =bn with hjk = H(yj, yk), zk = φ(yk) and bk = f(yk); the integral equation (1) was thus considered as obtained from systems (2) by a limit process when the number of unknowns became infinite.",
+		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
 		link: "",
 		credit: "",
 	},	
