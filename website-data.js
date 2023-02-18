@@ -306,7 +306,7 @@ let WEBSITE_DATA = [
 		
 																					{
 		name: "Memory Dance",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/earmuff_0002_layer1copy2.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -403,7 +403,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Singularity",
-		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
