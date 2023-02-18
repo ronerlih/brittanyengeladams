@@ -376,8 +376,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 {
-		name: "Singularity",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		name: "Singularity (AI)",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.)",
 		link: "",
 		credit: "",
@@ -402,7 +402,7 @@ let WEBSITE_DATA = [
 	},
 
 			{
-		name: "Singularity",
+		name: "The Singularity Is Near",
 		img: "images/wfporcos_0003.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
