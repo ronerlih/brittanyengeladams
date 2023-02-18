@@ -223,10 +223,10 @@ let WEBSITE_DATA = [
 
 	
 												{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/S2022110192534.jpeg",
 		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/red-who.html",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
 	
 	},
