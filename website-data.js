@@ -385,13 +385,13 @@ let WEBSITE_DATA = [
 
 	
 
-// 			{
-// 		name: "Singularity",
-// 		img: "images/ice_cubes_3d_model_s02.jpg",
-// 		blurb: "The technological singularity—or simply the singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, I.J. Good's intelligence explosion model, an upgradable intelligent agent will eventually enter a 'runaway reaction' of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an 'explosion' in intelligence and resulting in a powerful superintelligence that qualitatively far surpasses all human intelligence.",
-// 		link: "",
-// 		credit: "",
-// 	},
+			{
+		name: "Singularity",
+		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
+		blurb: "The technological singularity—or simply the singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, I.J. Good's intelligence explosion model, an upgradable intelligent agent will eventually enter a 'runaway reaction' of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an 'explosion' in intelligence and resulting in a powerful superintelligence that qualitatively far surpasses all human intelligence.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Polarization",
