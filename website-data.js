@@ -80,13 +80,14 @@ let WEBSITE_DATA = [
 	
 }, 
 
-	 {
-		name: "Posthumanism",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		
+																			{
+		name: "Proprioceptive Research",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},
 
 		{
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
@@ -102,7 +103,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Maquette 21",
-		img: "images/rmb45m_004.jpg",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -114,21 +115,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-		
-																			{
-		name: "Proprioceptive Research",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	 {
+		name: "Posthumanism",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+		},	
+
 
 
 		
 		{
 		name: "Human Robot",
-		img: "images/1233740.gif",
+		img: "images/7.jpeg",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
