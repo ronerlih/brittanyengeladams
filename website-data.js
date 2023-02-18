@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 	
 				 												{
 		name: "Autonomous",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -66,15 +66,14 @@ let WEBSITE_DATA = [
 	},	
 	
 	
-	
+																		{
+		name: "Subtractive Synthesis",
+		img: "images/Roland_TR-808_(large).jpg",
+		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
+		link: "",
+		credit: "",
+	},	
 
-{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/SS_553PM.jpeg",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},	
 
 
 		
@@ -89,7 +88,7 @@ let WEBSITE_DATA = [
 		
 												{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/RutgersConcertProgram.jpg", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -105,13 +104,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-																		{
-		name: "Subtractive Synthesis",
-		img: "images/Roland_TR-808_(large).jpg",
-		blurb: "An Oscillator is used to generate a suitably bright sound. This is routed through a Filter. A Filter is used to cut-off or cut-down the brightness to something more suitable. This resultant sound is routed to an Amplifier. An Amplifier is used to control the loudness of the sound over a period of time so as to emulate a natural instrument.",
-		link: "",
-		credit: "",
-	},
+{
+			name: "New York University's Tisch School of the Arts",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},	
+
 	 {
 		name: "Posthumanism",
 		img: "images/ice_cubes_3d_model_s02.jpg",
@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 		
 		{
 		name: "Human Robot",
-		img: "images/7.jpeg",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -251,7 +251,7 @@ let WEBSITE_DATA = [
 	},
 				{
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -285,8 +285,8 @@ let WEBSITE_DATA = [
 	},
 	
 																								{
-		name: "Bottom-Up/Top-Down Reasoning.",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		name: "Reasoning.",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
@@ -370,7 +370,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Dark Matter",
-		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
+		img: "images/thermonuclearwarhead1.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -387,16 +387,16 @@ let WEBSITE_DATA = [
 
 // 			{
 // 		name: "Singularity",
-// 		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+// 		img: "images/ice_cubes_3d_model_s02.jpg",
 // 		blurb: "The technological singularity—or simply the singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, I.J. Good's intelligence explosion model, an upgradable intelligent agent will eventually enter a 'runaway reaction' of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an 'explosion' in intelligence and resulting in a powerful superintelligence that qualitatively far surpasses all human intelligence.",
 // 		link: "",
 // 		credit: "",
 // 	},
 	
 		{
-		name: "Polarized",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Filter Bubbles a phenomenon where increasingly like minded communities whose views are reinforced and become more extreme. The result of algorithmic dynamics that are aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. In America, political issues have always polarized communities. Now more than ever, due to the popularity of online platforms as gathering spaces, such as Facebook, Twitter, and TikTok as a means to unite people, which paradoxically intensifies their political, social, economical, geographical differences. These platforms are an echo chamber, known as ‘homophily’, or colloquially known as ‘birds of a feather flock together.’",
+		name: "Polarization",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
