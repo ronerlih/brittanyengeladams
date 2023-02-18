@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 	
 				 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/SS7.47.47M.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -254,13 +254,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 
-																							{
-		name: "Bottom-Up/Top-Down Reasoning.",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
-		credit: "",
-	},
+
 
 	
 
@@ -283,7 +277,16 @@ let WEBSITE_DATA = [
 		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
 		link: "",
 		credit: ""
-	},	
+	},
+	
+																								{
+		name: "Bottom-Up/Top-Down Reasoning.",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
+		credit: "",
+	},
+	
 		
 							{
 
@@ -294,14 +297,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-				{
-		name: "Ancestral Artifact  'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+
+		
+																					{
+		name: "Memory Dance",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
-	},
+		credit: "", 
+	},	
+	
 
 // 			{
 // 		name: "Electron Cloud Atomic Model",
@@ -327,22 +332,20 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 
-	
-		
-																					{
-		name: "Memory Dance",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+					{
+		name: "Ancestral Artifact  'Mizrach'",
+		img: "images/1215225.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
-		credit: "", 
-	},	
+		credit: "",
+	},
 
 
 		
 	
 				 {
 		name: "Postmodernism",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/t2_026.jpeg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -393,7 +396,7 @@ let WEBSITE_DATA = [
 // 	},
 	{
 		name: "Singularity",
-		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "In the world of artificial intelligence, the idea of (singularity) looms large. This slippery concept describes the moment AI exceeds beyond human control and rapidly transforms society. The tricky thing about AI singularity (and why it borrows terminology from black hole physics) is that it’s enormously difficult to predict where it begins and nearly impossible to know what’s beyond this technological (event horizon.) However, some AI researchers are on the hunt for signs of reaching singularity measured by AI progress approaching the skills and ability comparable to a human. One such metric, defined by Translated, a Rome-based translation company, is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of Artificial General Intelligence.",
 		link: "",
 		credit: "",
