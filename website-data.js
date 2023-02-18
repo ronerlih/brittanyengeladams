@@ -340,17 +340,17 @@ let WEBSITE_DATA = [
 		},	
 
 
-
-
-		
-	
-				 {
-		name: "Postmodernism",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		{
+		name: "Polarization",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
+
+		
+	
+
 	
 
 				{
@@ -360,7 +360,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																						{
+																							{
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
@@ -393,22 +393,22 @@ let WEBSITE_DATA = [
 
 
 	
-		{
-		name: "Polarization",
-		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+				 {
+		name: "Postmodernism",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
 	},
-	
-	
-				{
+
+			{
 		name: "Singularity",
 		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
-	},
+	},	
+	
 								{
 		name: "Hand Dance | Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
