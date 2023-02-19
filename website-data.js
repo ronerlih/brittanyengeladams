@@ -353,8 +353,8 @@ let WEBSITE_DATA = [
 	},
 
 	{
-		name: "Singularity (AI)",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		name: "Gravitational Singularity",
+		img: "images/Spacetime_lattice_analogy.svg.png",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
@@ -378,13 +378,13 @@ let WEBSITE_DATA = [
 	},
 	
 
-			{
-		name: "The Singularity Is Near",
-		img: "images/Screen\Shot 2023-02-19at1.14.09PM.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
-		link: "",
-		credit: "",
-	},	
+// 			{
+// 		name: "The Singularity Is Near",
+// 		img: "images/ScreenShot2023-02-19at1.14.09PM.png",
+// 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+// 		link: "",
+// 		credit: "",
+// 	},	
 	
 						{
 		name: "Dark Matter",
