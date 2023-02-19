@@ -380,7 +380,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "The Singularity Is Near",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/Screen\Shot 2023-02-19at1.14.09PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
