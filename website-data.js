@@ -326,7 +326,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmodernism",
-		img: "images/",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -362,7 +362,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Infinitesimal Calculus ",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
 		link: "",
 		credit: "",
