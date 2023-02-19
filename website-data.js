@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/11.jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -53,17 +53,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-													{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
-	
-},
-	
+
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+
 	
 	
 	
@@ -94,13 +92,14 @@ let WEBSITE_DATA = [
 	},
 
 		
-{
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},	
+
+				{
+		name: "Skeletal Avatar",
+		img: "images/SS20230201at82532PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 
 
 	
@@ -234,28 +233,29 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
-
-
-	
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-
-
 	
 	
-				{
-		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
+													{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/RutgersConcertProgram.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
+	
+},
+
+
+{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},		
+	
+
+	
+	
 	
 	
 				{
@@ -302,17 +302,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		
+														{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	
+	},	
 	
 		
-	{
-		name: "Posthumanism",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
-
+	
 	
 
 																							{
@@ -350,14 +350,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-													{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	
-	},
+{
+		name: "Posthumanism",
+		img: "images/wfporcos_0003.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
+
 
 	{
 		name: "Gravitational Singularity",
@@ -400,6 +400,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+
+		{
+		name: "Cloud Computing",
+		img: "images/hawaii0011.jpg",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "https://www.google.com/about/datacenters/",
+		credit: "",
+	},
+	
+	
+
 																							{
 		name: "Farewell 2020",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
@@ -408,17 +419,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-		{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "https://www.google.com/about/datacenters/",
-		credit: "",
-	},
-	
-	
-
 
 
 		{
