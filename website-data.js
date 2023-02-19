@@ -326,7 +326,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Polarization",
-		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
