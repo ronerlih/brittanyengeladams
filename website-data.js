@@ -87,13 +87,14 @@ let WEBSITE_DATA = [
 	},
 
 		
-				 												{
-		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},	
+{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},	
+
 
 	
 
@@ -142,16 +143,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-{
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},	
 
 		
-			
+					 												{
+		name: "Autonomous",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+		link: "",
+		credit: "",
+	},			
 
 	
 	
@@ -171,13 +171,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-		name: "Posthumanism",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},	
+	
 
 	
 	
@@ -191,7 +185,13 @@ let WEBSITE_DATA = [
 	},	
 
 		
-
+	{
+		name: "Posthumanism",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 	
 
 	
@@ -245,7 +245,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -268,15 +268,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-																								{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		
+																					{
+		name: "Memory Dance",
+		img: "images/earmuff_0002_layer1copy2.jpg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
-	
 		
 							{
 
@@ -287,15 +286,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-		
-																					{
-		name: "Memory Dance",
-		img: "images/earmuff_0002_layer1copy2.jpg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	
+																								{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
-		credit: "", 
-	},	
+		credit: "",
+	},
+	
+	
 	
 
 
@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 	},
 																							{
 		name: "Shower | Performance",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/119106655.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -360,15 +360,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
 	{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		name: "Infinitesimal Calculus ",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
 		link: "",
 		credit: "",
-	},
+	},	
+
+
+
 	
 		{
 		name: "Polarization",
@@ -406,16 +407,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	
 		{
-		name: "Infinitesimal Calculus ",
-		img: "images/i050950a.gif",
-		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "",
 		credit: "",
-	},	
-
+	},
+	
+	
 
 
 
