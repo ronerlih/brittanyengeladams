@@ -405,7 +405,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
+		{
+		name: "Polarization",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		link: "",
+		credit: "",
+	},
 
 	
 	
@@ -418,13 +424,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Polarization",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},	
+	
 		{
 		name: "Rhizome",
 		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
