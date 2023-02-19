@@ -296,17 +296,18 @@ let WEBSITE_DATA = [
 	},
 	
 	
+		{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 	
 
 
 	
-						{
-		name: "Ancestral Artifact  'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+
 																							{
 		name: "Shower | Performance",
 		img: "images/119106655.jpeg",
@@ -315,18 +316,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 		
-
-		{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},	
+							{
+		name: "Ancestral Artifact  'Mizrach'",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 
 			 {
 		name: "Postmodernism",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -369,17 +369,6 @@ let WEBSITE_DATA = [
 	},	
 
 
-
-	
-		{
-		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
-	
-
 // 			{
 // 		name: "The Singularity Is Near",
 // 		img: "images/ScreenShot2023-02-19at1.14.09PM.png",
@@ -396,7 +385,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-
+	{
+		name: "Polarization",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		link: "",
+		credit: "",
+	},
 	
 																							{
 		name: "Farewell 2020",
