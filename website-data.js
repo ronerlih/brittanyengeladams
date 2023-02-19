@@ -183,7 +183,7 @@ let WEBSITE_DATA = [
 
 	
 	
-		
+		 
 					 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpeg",
@@ -249,40 +249,24 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 				{
-		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},	
-	
-
-
-
-
-	
-
-// 				{
-// 		name: "Ancestral Artifact  'Mizrach'",
-// 		img: "images/1926318892613892618138.jpeg",
-// 		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
-// 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-// 		link: "",
-// 		credit: "",
-// 		},
-		
-
-	
-
-
-																				{
-		name: "YouTube Improv  | Website",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' is an automated website for live performance. The tool produces spontaneity and indeterminacy, while also bringing the authenticity of the real on stage, which depicts local people, real events, media, and culture. ",
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
+
+								{
+		name: "Hand Dance | Film",
+		img: "images/181514.jpeg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
+	
 	
 																								{
 		name: "Reasoning.",
@@ -383,15 +367,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
-
-
 	
 				 {
 		name: "Postmodernism",
@@ -409,13 +384,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-								{
-		name: "Hand Dance | Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},	
+	
 
 	{
 		name: "Cloud Computing",
@@ -453,20 +422,6 @@ let WEBSITE_DATA = [
 
 	
 
-		
-
-	
-
-
-	
-// 	{
-// 			name: "New York University's Tisch Department of Theater at ETW",
-// 			img: "images/SS2022115PM.jpg",
-// 			blurb: "2020-2021 The Experimental Theater Wing has a curricular progression that integrates rigorous realistic scene study, physically based actor training (Grotowski influenced, as well as other approaches), Meisner technique, Stanislavski based script analysis, modern dance, postmodern dance, viewpoints, choreography, voice and speech, extended voice, singing and creating original work.",
-// 			link: "https://tisch.nyu.edu/drama/about/studios/experimental-theatre-wing",
-// 			credit: "",
-// 		},
-	
 
 
 	
@@ -481,43 +436,6 @@ let WEBSITE_DATA = [
 	
 	
 	
-	
-		
-
-
-
-
-	
-	
-// 		{
-// 		name: "I am not a Robot | 2022",
-// 		img: "images/AVATARINRED.gif",
-// 		blurb: "Adversarial Neural Networks, and Machine Learning Algorithms. A performer performs a series of tasks, as a set of instructions, that an avatar simulation is trying to learn and perfect.",
-// 		link: "",
-// 		credit: "",
-// 	},
-	
-
-// 	{
-// 			name: "The Bessies' 2020 Archive",
-// 			img: "images/12345678910delal_alal.png",
-// 			blurb: "'Hand Dance' film commisioned by The Guggenheim Museum Works & Process selected by The Bessies' as part of the 2020 archive of NYC canceled dance performances.",
-// 			link: "http://bessies.org/canceled-work-2020/",
-// 			credit: "",
-// 		},
-
-
-	
-	
-		
-	
-	// 		{
-	// 		name: "The Young and The Banging (Publication)",
-	// 		img: "images/tyatb_01jdfnwkjhfwhjfwejk2.jpg",
-	// 		blurb: "'The Young and Banging’ takes a style much like a yearbook, it showcases hand picked young people and companies in cities across the world exploring the different creative outlets that we are exposed to. Along with the creation of a book, galleries are also set up as part of the entire process.  Published in 2008 by Heron Preston.",
-	// 		link: "https://hypebeast.com/2008/9/the-young-and-the-banging-by-heron-preston",
-	// 		credit: "",
-	// 	},
 	
 	
 	// {
@@ -539,13 +457,6 @@ let WEBSITE_DATA = [
 
 	
 
-	//  {
-	// 		name: "YouTube Improv Live",
-	// 		img: "images/72115225215215225591316152255.jpg",
-	// 		blurb: "",
-	// 		link: "",
-	// 		credit: "",
-	// },
 	
 	
 // 		{
