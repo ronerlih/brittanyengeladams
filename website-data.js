@@ -171,14 +171,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-							{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+	
+	
+	{
+		name: "Gravitational Singularity",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
 	},
-
 	
 
 	
@@ -219,7 +220,7 @@ let WEBSITE_DATA = [
 	
 													 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -356,14 +357,25 @@ let WEBSITE_DATA = [
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
 	},
-	{
-		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
+							{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
 
+	
+																								{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
+		credit: "",
+	},
+
+	
+	
 {
 		name: "Posthumanism",
 		img: "images/wfporcos_0003.jpg",
@@ -371,13 +383,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
-		credit: "",
-	},
 
 // 			{
 // 		name: "The Singularity Is Near",
@@ -396,24 +401,22 @@ let WEBSITE_DATA = [
 	},	
 
 
-
-	
-																								{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
-		credit: "",
-	},
 		{
 		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
 
-	
+
+		{
+		name: "Panpsychism",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
+		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+		credit: "",
+	},
 	
 
 																							{
