@@ -73,26 +73,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	{
-
-		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
-		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
-
-		
-																			{
-		name: "Proprioceptive Research",
-		img: "images/7.2.21-Electromagnetic-Spectrum.jpg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	},
-
-		
-
 				{
 		name: "Skeletal Avatar",
 		img: "images/7_wt.jpeg",
@@ -100,6 +80,26 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
+		
+																			{
+		name: "Proprioceptive Research",
+		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
+	{
+
+		name: "Harvestworks | Residency",
+		img: "images/SS202301227.20.49PM.png",
+		blurb: "Harvestworks' 2023 New Works Residency awardee (January 1 – December 31, 2023). Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},		
+
+
 
 
 	
@@ -286,14 +286,17 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},
 		
-							{
+	
+	
 
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
+
 
 	
 																								{
@@ -315,16 +318,14 @@ let WEBSITE_DATA = [
 	},	
 	
 		
-	
-	
+	{
 
-																							{
-		name: "Shower | Performance",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	},	
+	},		
 		
 							{
 		name: "Ancestral Artifact  'Mizrach'",
@@ -334,14 +335,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Infinitesimal Calculus ",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
-		link: "",
-		credit: "",
-	},
-		
+	
 
 
 	
@@ -378,7 +372,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit:"",
 		},
-
+		{
+		name: "Panpsychism",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
+		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+		credit: "",
+	},
 
 // 			{
 // 		name: "The Singularity Is Near",
@@ -432,16 +432,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-
-			{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+		{
+		name: "Infinitesimal Calculus ",
+		img: "images/i050950a.gif",
+		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
+		link: "",
 		credit: "",
 	},
+		
+
+
+	
 	
 
 	
