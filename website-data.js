@@ -216,14 +216,6 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
-	
-													 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
 
 
 	
@@ -235,6 +227,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+													 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
@@ -372,10 +372,10 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cloud Computing",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "https://www.google.com/about/datacenters/",
-		credit: "Google data center",
+		credit: "",
 	},
 
 
