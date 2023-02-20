@@ -349,14 +349,14 @@ let WEBSITE_DATA = [
 	},
 
 
-
-		{
-		name: "Rhizome",
-		img: "images/Rhizome.png",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+	{
+		name: "Polarization",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		link: "",
 		credit: "",
 	},
+
 							{
 		name: "Hand Dance | Research",
 		img: "images/1215151151515147229523.png",
@@ -399,15 +399,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-
-
 		{
-		name: "Polarization",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
+		name: "Rhizome",
+		img: "images/Rhizome.png",
+		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
+		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
 	},
+
+	
 
 
 		{
