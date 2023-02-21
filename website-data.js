@@ -373,7 +373,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
@@ -383,7 +383,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Posthumanism",
-		img: "images/rmb45m_004.jpg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
