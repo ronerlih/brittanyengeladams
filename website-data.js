@@ -445,7 +445,7 @@ let WEBSITE_DATA = [
 	},
 
 		{
-		name: "Infinitesimal Calculus ",
+		name: "Infinitesimal Calculus",
 		img: "images/i050950a.gif",
 		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
 		link: "",
@@ -454,7 +454,13 @@ let WEBSITE_DATA = [
 		
 
 
-	
+	{
+		name: "Pineal Gland & DMT",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
+		link: "https://www.salon.com/2021/05/15/how-the-pineal-gland-became-an-obsession-for-both-spiritualists-and-sci-fi-writers/",
+		credit: "",
+	},	
 	
 
 	
