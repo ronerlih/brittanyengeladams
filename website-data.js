@@ -268,13 +268,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
-		credit: "",
-	},
+	
 
 {
 		name: "Harvestworks | Residency",
@@ -285,7 +279,13 @@ let WEBSITE_DATA = [
 	},
 	
 		
-	
+	{
+		name: "Panpsychism",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
+		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+		credit: "",
+	},	
 	
 
 																							{
@@ -306,16 +306,14 @@ let WEBSITE_DATA = [
 
 	
 	
-														{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+	
+																									{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
 		credit: "",
-	
 	},	
-	
-		
 	{
 
 		name: "Neural Network",
@@ -340,7 +338,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Projectile Motion",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -364,14 +362,16 @@ let WEBSITE_DATA = [
 	},
 
 	
-																								{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
-		credit: "",
-	},
 
+	
+														{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	
+	},
 	
 	
 {
@@ -423,7 +423,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "https://www.google.com/about/datacenters/",
 		credit: "",
