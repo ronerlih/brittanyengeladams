@@ -295,6 +295,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+																										{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
+		credit: "",
+	},	
 
 				 {
 		name: "Postmodernism",
@@ -307,13 +314,7 @@ let WEBSITE_DATA = [
 	
 	
 	
-																									{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
-		credit: "",
-	},	
+
 	{
 
 		name: "Neural Network",
