@@ -472,7 +472,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Skin Conductance Response",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-22at5.22.58PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence (Bradley et al. 2001).",
 		link: "",
 		credit: "",
