@@ -95,7 +95,7 @@ let WEBSITE_DATA = [
 },
 			{
 		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -109,7 +109,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -124,7 +124,7 @@ let WEBSITE_DATA = [
 	
 	{
 			name: "Architecture of Memory",
-			img: "images/arduino-breadboard-3D_DHQ.jpg", 
+			img: "images/ScreenShot2023-02-13at7.18.30PM.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -167,7 +167,7 @@ let WEBSITE_DATA = [
 }, 	
 					 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -219,15 +219,14 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
-	
-								{
-		name: "Hand Dance | Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+
+																										{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
 		credit: "",
-	},
-	
+	},	
 	
 																							{
 		name: "Wireless Fidelity | Exhibition",
@@ -295,14 +294,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																										{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
-		link: "",
+	
+	
+								{
+		name: "Hand Dance | Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
-	},	
-
+	},
 				 {
 		name: "Postmodernism",
 		img: "images/ice_cubes_3d_model_s02.jpg",
@@ -393,7 +393,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -450,7 +450,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Pineal Gland & DMT",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
 		link: "https://www.salon.com/2021/05/15/how-the-pineal-gland-became-an-obsession-for-both-spiritualists-and-sci-fi-writers/",
 		credit: "",
