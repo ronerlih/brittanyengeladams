@@ -422,15 +422,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-	
-			{
-		name: "Cloud Computing",
-		img: "images/_m0t_petty123.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "https://www.google.com/about/datacenters/",
+		{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
+		link: "",
 		credit: "",
 	},
+	
+
 	
 																								{
 		name: "Farewell 2020",
@@ -440,15 +440,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "With regard to Algebra, as the most frequently studied mappings between topological vector spaces are linear, it is quite natural that linear Algebra should have greatly influenced Functional Analysis. In fact, at the end of the XIXth century, the old idea that infinitesimal Calculus was derived from the algebraic ‘Calculus of differences’ by a ‘limit process’ began to acquire a more precise and more influential form when Volterra applied a similar idea to an integral equation (1)∫ayϕ(x)H(x,y)dx = f(y).",
-		link: "",
+
+		
+			{
+		name: "Cloud Computing",
+		img: "images/_m0t_petty123.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "https://www.google.com/about/datacenters/",
 		credit: "",
 	},
-		
-
 
 	{
 		name: "Pineal Gland & DMT",
