@@ -122,7 +122,7 @@ let WEBSITE_DATA = [
 		
 																			{
 		name: "Proprioceptive Research",
-		img: "images/SS7.47.47M.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
