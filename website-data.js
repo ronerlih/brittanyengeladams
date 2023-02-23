@@ -169,7 +169,7 @@ let WEBSITE_DATA = [
 }, 	
 					 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
