@@ -38,17 +38,17 @@ let WEBSITE_DATA = [
 		credit: "Photo by Joshua Okoro",
 		
 		},
-	
-	{
-		name: "Human Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+					 												{
+		name: "Autonomous",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
 	},
+
 						{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -167,23 +167,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 }, 	
-					 												{
-		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
-		link: "",
-		credit: "",
-	},
 	
-		{
-		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+	{
+		name: "Human Robot",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},	
 	
-
+	
+													 		{
+		name: "Superposition",
+		img: "images/SS7.47.47M.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 
 		
@@ -275,14 +275,15 @@ let WEBSITE_DATA = [
 	},
 
 	
-
-{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+														{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
+	
 	},
+	
 	
 		
 	{
@@ -300,15 +301,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-																										{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+
+{
+		name: "Posthumanism",
+		img: "images/wfporcos_0003.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
-	
+		credit:"",
+		},	
 				 {
 		name: "YouTube Improv  | Performance",
 		img: "images/2121__5_55521212121212521212.jpeg",
@@ -347,15 +347,16 @@ let WEBSITE_DATA = [
 		},
 
 	
-
 	
-{
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+																										{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},
+	
+
 
 
 							{
@@ -367,17 +368,16 @@ let WEBSITE_DATA = [
 	},
 
 	
+{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 
 	
-														{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	
-	},
-	
+
 				{
 		name: "Projectile Motion",
 		img: "images/arrowscollection43dsmodel001.jpg",
@@ -397,7 +397,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Dark Matter",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/captura.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -412,17 +412,17 @@ let WEBSITE_DATA = [
 
 	
 
-
-	
-
-	
-													 		{
-		name: "Superposition",
-		img: "images/SS7.47.47M.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		{
+		name: "Polarization",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
+	
+
+	
+
 
 	
 				{
