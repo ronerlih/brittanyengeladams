@@ -117,13 +117,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-				{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
+	
+
+		
+																			{
+		name: "Proprioceptive Research",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},
+	},	
 
 	{
 			name: "Architecture of Memory",
@@ -185,18 +188,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
 
-		
-																			{
-		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+	
+				{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 
 	
