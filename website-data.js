@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/11.jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 	},
 						{
 		name: "Perceptual Brittleness",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -110,7 +110,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -169,7 +169,7 @@ let WEBSITE_DATA = [
 }, 	
 					 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
