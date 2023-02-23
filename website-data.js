@@ -179,17 +179,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
-	
-													 		{
-		name: "Superposition",
-		img: "images/earmuff_0002_layer1copy2.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+
+
+
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
-	},
-
-	
+	},	
 				{
 		name: "Haptics",
 		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
@@ -237,15 +236,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+	
+	
+													 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
+
 	
 	
 
@@ -293,18 +293,18 @@ let WEBSITE_DATA = [
 		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
 	},	
-		 {
-		name: "Postmodernism",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "",
+
+{
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
 
-
 {
 		name: "Posthumanism",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -367,14 +367,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-{
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		 {
+		name: "Postmodernism",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "",
 		credit: "",
-	},
+	},	
+
 
 	
 
@@ -473,7 +473,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/r0.jpg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence (Bradley et al. 2001).",
 		link: "",
 		credit: "",
