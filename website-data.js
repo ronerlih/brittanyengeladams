@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/earmuff_0002_layer1copy2.jpg",
+		img: "images/SS7.47.47M.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	
 													 		{
 		name: "Superposition",
-		img: "images/SS7.47.47M.png",
+		img: "images/earmuff_0002_layer1copy2.jpg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -304,7 +304,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Posthumanism",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/Spacetime_lattice_analogy.svg.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	},		
 		{
 		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
@@ -380,7 +380,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/c100_contextsignature.jpg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -404,7 +404,7 @@ let WEBSITE_DATA = [
 	},	
 		{
 		name: "Rhizome",
-		img: "images/rmb45m_004.jpg",
+		img: "images/Rhizome.png",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -414,7 +414,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -427,7 +427,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Cloud Computing",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "https://www.google.com/about/datacenters/",
 		credit: "",
