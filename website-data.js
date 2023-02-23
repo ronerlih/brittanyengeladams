@@ -437,7 +437,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
@@ -455,7 +455,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Pineal Gland & DMT",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
 		link: "",
 		credit: "",
