@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "Crystal Oscillator",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/crystalc.jpg",
 		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal).[2][4] The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
 		link: "",
 		credit: "",
