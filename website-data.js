@@ -224,14 +224,13 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
-								{
-		name: "Hand Dance | Film",
-		img: "images/181514.jpeg",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
-		credit: "",
-	},
-	
+	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 						{
 		name: "Ancestral Artifact 'Mizrach'",
 		img: "images/1215225.jpeg",
@@ -252,28 +251,28 @@ let WEBSITE_DATA = [
 	},
 	
 	
-
+								{
+		name: "Hand Dance | Film",
+		img: "images/181514.jpeg",
+		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		credit: "",
+	},
 	
-
-	{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 	
 
 
 	
-	
-				{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+																			{
+		name: "Crystal Oscillator",
+		img: "images/ScreenShot2023-02-16at8.29.45PM.png",
+		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal).[2][4] The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
 		link: "",
 		credit: "",
-	},	
+	},
+
+	
+	
 		
 	
 						{
@@ -294,14 +293,16 @@ let WEBSITE_DATA = [
 		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
 	},	
-																			{
-		name: "Crystal Oscillator",
-		img: "images/ScreenShot2023-02-16at8.29.45PM.png",
-		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal).[2][4] The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
+
+
+				{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-	},
-
+	},	
+	
 	{
 		name: "Gravitational Singularity",
 		img: "images/Spacetime_lattice_analogy.svg.png",
