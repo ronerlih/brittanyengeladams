@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/11.jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -466,7 +466,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
 		link: "",
 		credit: "",
