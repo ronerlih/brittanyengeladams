@@ -153,17 +153,13 @@ let WEBSITE_DATA = [
 		},	
 		
 	
-		
-				
-																				{
-		name: "Movement Research Performance Journal | Publication",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+						{
+		name: "Ancestral Artifact 'Mizrach'",
+		img: "images/1215225.jpeg",
+		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
 		credit: "",
-	
-},
-	
+	},
 	
 			
 																			{
@@ -233,14 +229,18 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
-						{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
 
+
+			
+				
+																				{
+		name: "Movement Research Performance Journal | Publication",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
 	
 
 														{
@@ -470,13 +470,7 @@ let WEBSITE_DATA = [
 	},	
 	
 
-	{
-		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
-		link: "",
-		credit: "",
-	},	
+	
 	
 	
 				{
@@ -488,7 +482,13 @@ let WEBSITE_DATA = [
 	},	
 
 
-
+	{
+		name: "Substance Dualism",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
+		link: "",
+		credit: "",
+	},
 	
 
 
