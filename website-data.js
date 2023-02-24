@@ -204,7 +204,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Human Robot",
-		img: "images/",
+		img: "images/21519201414113333.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -349,17 +349,18 @@ let WEBSITE_DATA = [
 		},
 	
 
-			{
-		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
 
 	
 
-
+	
+																										{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+		link: "",
+		credit: "",
+	},
+	
 
 							{
 		name: "Hand Dance | Research",
@@ -377,16 +378,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-
-	
-																										{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+			{
+		name: "Polarization",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
-	
+
+
 
 	
 
