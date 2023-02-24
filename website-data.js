@@ -431,7 +431,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Cloud Computing",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "https://www.google.com/about/datacenters/",
 		credit: "",
@@ -449,7 +449,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
