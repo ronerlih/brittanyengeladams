@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Posthumanism",
-		img: "images/rmb45m_004.jpg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -374,7 +374,7 @@ let WEBSITE_DATA = [
 
 		 {
 		name: "Postmodernism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -412,14 +412,14 @@ let WEBSITE_DATA = [
 	},
 
 
- 
-		{
-		name: "Gravitational Singularity",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
-		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
+ 				{
+		name: "Skin Conductance Response",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence (Bradley et al. 2001).",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 
 
 		{
@@ -441,15 +441,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
-
-	
-																								{
-		name: "Farewell 2020",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		{
+		name: "Gravitational Singularity",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
-	},
+	},	
+
 						{
 		name: "Dark Matter",
 		img: "images/liioncellthumbnail.jpg",
@@ -469,22 +468,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-
 	
-	
-	
-				{
-		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence (Bradley et al. 2001).",
+																								{
+		name: "Farewell 2020",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
+	
+	
+
 
 
 	{
 		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/rmb45m_004.jpg",
 		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
 		link: "",
 		credit: "",
