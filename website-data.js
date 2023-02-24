@@ -154,15 +154,17 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		}, 
-		
 	
-																		{
-		name: "Crystal Oscillator",
-		img: "images/crystalc.jpg",
-		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal).[2][4] The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
-	},		
+	},
+		
+	
+		
 
 	
 	
@@ -233,15 +235,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	
-													 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+																			{
+		name: "Crystal Oscillator",
+		img: "images/crystalc.jpg",
+		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal).[2][4] The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
 		link: "",
 		credit: "",
 	},
+	
+
 
 	
 	
