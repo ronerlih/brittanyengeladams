@@ -273,14 +273,14 @@ let WEBSITE_DATA = [
 	},	
 		
 	
-
-		{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
+	{
+		name: "Gravitational Singularity",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
 	},
+
 
 	
 	
@@ -326,16 +326,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},		
-		{
-		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
-		link: "",
-		credit: "",
-	},	
+		
 
 	
-
+		{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
+		link: "",
+		credit: "",
+	},
 
 	 {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
