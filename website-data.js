@@ -346,16 +346,16 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
+	
 
-	
-	
-																										{
-		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
+			{
+		name: "Polarization",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
+
 	
 
 
@@ -377,15 +377,16 @@ let WEBSITE_DATA = [
 	},	
 
 
-
 	
-		{
-		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+																										{
+		name: "Ethics",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
 	},
+	
+
 	
 
 	
