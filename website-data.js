@@ -261,7 +261,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
 		link: "",
 		credit: "",
@@ -463,7 +463,7 @@ let WEBSITE_DATA = [
 
 
 	{
-		name: "Somatosensory system",
+		name: "Somatosensory System",
 		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
 		link: "",
@@ -494,7 +494,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Substance Dualism",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
 		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
 		link: "",
 		credit: "",
