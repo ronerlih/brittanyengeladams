@@ -126,13 +126,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-	{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
+			{
+		name: "Rhizome",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
+		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
-	},
+	},	
+	
 	
 
 	 
@@ -245,15 +246,13 @@ let WEBSITE_DATA = [
 },
 	
 
-														{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+					{
+		name: "Digital Sculpture",
+		img: "images/3dscene.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
-	
 	},
-	
 	
 								{
 		name: "Hand Dance | Film",
@@ -274,24 +273,25 @@ let WEBSITE_DATA = [
 
 
 	
-	
-		
-	
-			{
-		name: "Rhizome",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+	{
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
-	},	
-
-					{
-		name: "Digital Sculpture",
-		img: "images/3dscene.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+	},
+		
+		
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},	
+
+
+	
 	
 		
 	{
@@ -302,15 +302,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-
-	
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
+														{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
-	},	
+	
+	},
+	
 
 
 				 {
@@ -431,15 +431,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-
 	
-				{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "https://www.google.com/about/datacenters/",
+	{
+		name: "Pineal Gland & DMT",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
+		link: "",
 		credit: "",
-	},		
+	},	
+			
 
 		{
 		name: "Gravitational Singularity",
@@ -459,14 +459,14 @@ let WEBSITE_DATA = [
 
 
 
-
 	{
-		name: "Pineal Gland & DMT",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
+		name: "Somatosensory system",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
 		link: "",
 		credit: "",
-	},	
+	},
+
 	
 	
 																								{
@@ -491,14 +491,14 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-	{
-		name: "Somatosensory system",
-		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
-		link: "",
+			{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "https://www.google.com/about/datacenters/",
 		credit: "",
 	},
+
 	
 	
 
