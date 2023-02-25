@@ -363,13 +363,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-						{
-		name: "Dark Matter",
-		img: "images/liioncellthumbnail.jpg",
-		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
-		link: "",
-		credit: "",
-	},	
+	
 
 
 
@@ -379,8 +373,15 @@ let WEBSITE_DATA = [
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
-	},	
-
+	},
+	
+						{
+		name: "Dark Matter",
+		img: "images/liioncellthumbnail.jpg",
+		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
+		link: "",
+		credit: "",
+	},
 	
 {
 			name: "New York University's Tisch School of the Arts",
@@ -501,6 +502,14 @@ let WEBSITE_DATA = [
 	},
 	
 
+	
+	{
+		name: "Visceral Afferents VS. Non-Visceral Afferents",
+		img: "images/nihms131017f2.jpg",
+		blurb: "A key difference between visceral and non-visceral sensory neurons is the degree to which their peripheral terminals are specialized. For example, cutaneous afferents can have one of many different sensory endings to transduce stimuli into electrical energy (e.g., Merkel cells, Ruffini endings, Pacinian corpuscles), whereas only two types of specialized ending have been reported in visceral afferents: intraganglionic laminar endings (IGLEs) and intramuscular arrays (IMAs). Both types have limited distributions (e.g., near sphincters), are specific to muscular vagal or pelvic innervation, and are less intricate than their non-visceral counterparts. IGLEs and IMAs appear to be low-threshold mechanoreceptors and are therefore less likely to be involved in detecting noxious events. Most spinal visceral afferents are believed to have primitive, unencapsulated endings (like non-visceral nociceptors), with no specialized structure and one or a few punctate receptive fields.",
+		link: "",
+		credit: "",
+	},
 	
 	
 	
