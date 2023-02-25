@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/animated-sinewave.gif",
+		img: "images/2023012170559PM.png",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -81,7 +81,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Posthumanism",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -163,31 +163,31 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/7_wt.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},	
-	
-							{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+
+		
+	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+
+		
+	{
+		name: "Human Robot",
+		img: "images/1233740.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
-	
 		
 
-
-
-																							{
-		name: "Shower | Performance",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
-		link: "",
-		credit: "",
-	},
 	
 
 	
@@ -209,7 +209,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -251,7 +251,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/21519201414113333.gif",
 		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
@@ -269,6 +269,7 @@ let WEBSITE_DATA = [
 	
 
 	
+
 	
 	{
 			name: "Architecture of Memory",
@@ -278,16 +279,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-
 	
-	{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+
+																							{
+		name: "Shower | Performance",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
-		
+
 		
 														 		{
 		name: "Superposition",
@@ -376,7 +377,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Gravitational Singularity",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/Spacetime_lattice_analogy.svg.png",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
