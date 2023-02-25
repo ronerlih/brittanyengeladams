@@ -482,6 +482,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
+	{
+		name: "Substance Dualism",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
+		link: "",
+		credit: "",
+	},
 			{
 		name: "Cloud Computing",
 		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
@@ -490,19 +497,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-
-
-	{
-		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
-		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
-		link: "",
-		credit: "",
-	},
-	
-
-	
 	{
 		name: "Visceral Afferents VS. Non-Visceral Afferents",
 		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
