@@ -505,7 +505,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Visceral Afferents VS. Non-Visceral Afferents",
-		img: "images/nihms131017f2.jpg",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "A key difference between visceral and non-visceral sensory neurons is the degree to which their peripheral terminals are specialized. For example, cutaneous afferents can have one of many different sensory endings to transduce stimuli into electrical energy (e.g., Merkel cells, Ruffini endings, Pacinian corpuscles), whereas only two types of specialized ending have been reported in visceral afferents: intraganglionic laminar endings (IGLEs) and intramuscular arrays (IMAs). Both types have limited distributions (e.g., near sphincters), are specific to muscular vagal or pelvic innervation, and are less intricate than their non-visceral counterparts. IGLEs and IMAs appear to be low-threshold mechanoreceptors and are therefore less likely to be involved in detecting noxious events. Most spinal visceral afferents are believed to have primitive, unencapsulated endings (like non-visceral nociceptors), with no specialized structure and one or a few punctate receptive fields.",
 		link: "",
 		credit: "",
