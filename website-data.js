@@ -346,13 +346,6 @@ let WEBSITE_DATA = [
 	},	
 		
 
-			{
-		name: "Rhizome",
-		img: "images/braininjarb.jpg",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
-		credit: "",
-	},
 
 
 
@@ -366,12 +359,19 @@ let WEBSITE_DATA = [
 	},	
 
 	
+			{
+		name: "Rhizome",
+		img: "images/braininjarb.jpg",
+		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
+		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+		credit: "",
+	},
 
 
 
 		 {
 		name: "Postmodernism",
-		img: "images/11414121191918.gif",
+		img: "images/liioncellthumbnail.jpg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -380,16 +380,16 @@ let WEBSITE_DATA = [
 		
 						{
 		name: "Dark Matter",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/11414121191918.gif",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
 	},
 
-							{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+ 				{
+		name: "Skin Conductance Response",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
 	},
@@ -418,14 +418,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
- 				{
-		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
+
+								{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	
 	{
 		name: "Somatosensory System",
 		img: "images/earmuff_0002_layer1copy2.jpg",
@@ -452,6 +452,31 @@ let WEBSITE_DATA = [
 			credit: "",
 		},	
 		
+		
+	{
+		name: "Substance Dualism",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
+		link: "",
+		credit: "",
+	},
+
+	
+			{
+		name: "Cloud Computing",
+		img: "images/rmb45m_004.jpg",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
+		link: "https://www.google.com/about/datacenters/",
+		credit: "",
+	},
+
+		{
+		name: "Polarization",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Panpsychism",
@@ -462,34 +487,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-
-
-
-		{
-		name: "Polarization",
-		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
-	
-
-				{
-		name: "Cloud Computing",
-		img: "images/rmb45m_004.jpg",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
-		link: "https://www.google.com/about/datacenters/",
-		credit: "",
-	},
-	
-	{
-		name: "Substance Dualism",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
-		link: "",
-		credit: "",
-	},
 	
 	
 	
