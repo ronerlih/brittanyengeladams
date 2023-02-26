@@ -75,18 +75,6 @@ let WEBSITE_DATA = [
 	},	
 
 
-
-	
-
-	
-{
-		name: "Posthumanism",
-		img: "images/_m0t_petty123.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-		},
-	
 		{
 		name: "Maquette 21",
 		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
@@ -94,6 +82,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
+	
+	{
+		name: "Posthumanism",
+		img: "images/_m0t_petty123.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+		},
 
 	
 {
@@ -151,7 +147,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		img: "images/2_streetelementstrafficlight_00071.jpeg",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -172,7 +168,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -303,7 +299,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Panpsychism",
-		img: "images/",
+		img: "images/Rhizome.png",
 		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
 		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
@@ -325,13 +321,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-																							{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
-		credit: "",
-	},
+
 
 
 					{
@@ -340,8 +330,15 @@ let WEBSITE_DATA = [
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-	},		
-
+	},
+	
+																							{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
+		credit: "",
+	},
 									{
 		name: "Hand Dance | Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -353,7 +350,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		img: "images/braininjarb.jpg",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -376,7 +373,7 @@ let WEBSITE_DATA = [
 
 		 {
 		name: "Postmodernism",
-		img: "images/t2_026.jpeg",
+		img: "images/11414121191918.gif",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -425,7 +422,7 @@ let WEBSITE_DATA = [
  				{
 		name: "Skin Conductance Response",
 		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence (Bradley et al. 2001).",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
 	},
@@ -508,7 +505,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Visceral Afferents VS. Non-Visceral Afferents",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/captura.jpg",
 		blurb: "A key difference between visceral and non-visceral sensory neurons is the degree to which their peripheral terminals are specialized. For example, cutaneous afferents can have one of many different sensory endings to transduce stimuli into electrical energy (e.g., Merkel cells, Ruffini endings, Pacinian corpuscles), whereas only two types of specialized ending have been reported in visceral afferents: intraganglionic laminar endings (IGLEs) and intramuscular arrays (IMAs). Both types have limited distributions (e.g., near sphincters), are specific to muscular vagal or pelvic innervation, and are less intricate than their non-visceral counterparts. IGLEs and IMAs appear to be low-threshold mechanoreceptors and are therefore less likely to be involved in detecting noxious events. Most spinal visceral afferents are believed to have primitive, unencapsulated endings (like non-visceral nociceptors), with no specialized structure and one or a few punctate receptive fields.",
 		link: "",
 		credit: "",
