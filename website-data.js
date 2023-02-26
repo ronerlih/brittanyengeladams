@@ -424,16 +424,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-
-		{
-		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+	{
+		name: "Somatosensory System",
+		img: "images/earmuff_0002_layer1copy2.jpg",
+		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
 		link: "",
 		credit: "",
 	},
-	
+
 
 	
 	{
@@ -464,13 +462,15 @@ let WEBSITE_DATA = [
 
 
 
-	{
-		name: "Somatosensory System",
-		img: "images/earmuff_0002_layer1copy2.jpg",
-		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
+
+		{
+		name: "Polarization",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
+	
 
 				{
 		name: "Cloud Computing",
