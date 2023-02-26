@@ -294,14 +294,12 @@ let WEBSITE_DATA = [
 	},	
 
 
-	
-	
 		
-	{
-		name: "Panpsychism",
-		img: "images/Rhizome.png",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+		{
+		name: "Gravitational Singularity",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
+		link: "",
 		credit: "",
 	},	
 
@@ -378,22 +376,23 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
+
+		
+						{
+		name: "Dark Matter",
+		img: "images/liioncellthumbnail.jpg",
+		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
-	},	
-	
-{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
-			credit: "",
-		},	
-		
+	},
+
+							{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 
 
 
@@ -445,23 +444,24 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 			
-
-							{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
-
+{
+			name: "New York University's Tisch School of the Arts",
+			img: "images/ScreenShot2023-01-12at44329PM.png",
+			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+			link: "https://tisch.nyu.edu/dance/courses",
+			credit: "",
+		},	
+		
 	
-						{
-		name: "Dark Matter",
-		img: "images/liioncellthumbnail.jpg",
-		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
-		link: "",
+		{
+		name: "Panpsychism",
+		img: "images/Rhizome.png",
+		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
+		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
 	},
+	
+
 
 
 
