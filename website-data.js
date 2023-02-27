@@ -226,7 +226,7 @@ let WEBSITE_DATA = [
 	
 																			{
 		name: "Crystal Oscillator",
-		img: "images/crystalc.jpg",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal). The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
 		link: "",
 		credit: "",
@@ -246,7 +246,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "A fundamental issue with machine learning algorithm brittleness is the notion of bottom-up versus top-down reasoning, which is a basic cognitive science construct.",
 		link: "",
 		credit: "",
