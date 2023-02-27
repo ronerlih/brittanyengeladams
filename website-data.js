@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/thermonuclearwarhead1.jpg",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 		},
 					 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/2023012170559PM.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -147,7 +147,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -438,7 +438,7 @@ let WEBSITE_DATA = [
 		
 			{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light?",
 		link: "https://www.google.com/about/datacenters/",
 		credit: "",
