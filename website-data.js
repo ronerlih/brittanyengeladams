@@ -334,7 +334,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
+		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -360,7 +360,7 @@ let WEBSITE_DATA = [
 		
 						{
 		name: "Dark Matter",
-		img: "images/braininjarb.jpg",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -433,7 +433,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		img: "images/1000platos-1914-08b1.gif",
 		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
 		link: "",
 		credit: "",
