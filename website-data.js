@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Sawtooth Wave",
-		img: "images/animated-sinewave.gif",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -32,19 +32,21 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "BodyMouth/Ielele | Symposium",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		img: "images/BodyMouth_FutureBodies.gif",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "https://futurebodies.newmediacaucus.org/",
-		credit: "Photo by Joshua Okoro",
+		credit: "",
 		
 		},
-					 												{
-		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+	
+	 	{
+		name: "Posthumanism",
+		img: "images/Rhizome.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+		},
+
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
@@ -83,27 +85,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-	{
-		name: "Posthumanism",
-		img: "images/_m0t_petty123.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+					 												{
+		name: "Autonomous",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
-		credit:"",
-		},
+		credit: "",
+	},
 
-	
-{
-			name: "Joffrey Ballet School",
-			img: "images/Joffrey61855551311419380012School.png",
-			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-			link: "https://www.joffreyballetschool.com",
-			credit: "",
-		}, 
-
-
-
-		
-		
 	
 		 													{
 		name: "I Am Not A Robot",
@@ -112,6 +101,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		
+{
+			name: "Joffrey Ballet School",
+			img: "images/Joffrey61855551311419380012School.png",
+			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
+			link: "https://www.joffreyballetschool.com",
+			credit: "",
+		}, 
 	
 
 			{
@@ -122,15 +119,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
-	
-	 {
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
-		},
-		
+	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},	
+
 	
 
 	 
@@ -158,7 +154,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/7_wt.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -200,14 +196,15 @@ let WEBSITE_DATA = [
 	},	
 
 	
-	
-	{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},		
+		 {
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
+		},
+		
+		
 
 
 
@@ -237,7 +234,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpeg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -256,7 +253,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
 		link: "",
 		credit: "",
@@ -319,14 +316,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-																							{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
+										{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
 		credit: "",
 	},
+
 									{
 		name: "Hand Dance | Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -363,7 +360,7 @@ let WEBSITE_DATA = [
 		
 						{
 		name: "Dark Matter",
-		img: "images/11414121191918.gif",
+		img: "images/braininjarb.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -426,19 +423,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-									{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
+		
+																								{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "https://ropac.net/",
 		credit: "",
-	},		
-	
-		{
-		name: "Panpsychism",
-		img: "images/sicklecell_productshot4.jpg",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
+	},
+	{
+		name: "Substance Dualism",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
+		link: "",
 		credit: "",
 	},
 		
@@ -454,13 +451,13 @@ let WEBSITE_DATA = [
 		},
 
 	{
-		name: "Substance Dualism",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
-		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
-		link: "",
+		name: "Panpsychism",
+		img: "images/sicklecell_productshot4.jpg",
+		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
+		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
 	},
-	
+		
 			{
 		name: "Cloud Computing",
 		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
