@@ -330,6 +330,13 @@ let WEBSITE_DATA = [
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
+	},
+					{
+		name: "Dark Matter",
+		img: "images/dna_wireframe_0004.jpg",
+		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
+		link: "",
+		credit: "",
 	},	
 
 			{
@@ -341,13 +348,7 @@ let WEBSITE_DATA = [
 	},
 
 
-			{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
-		link: "",
-		credit: "",
-	},
+	
 
 		 {
 		name: "Postmodernism",
@@ -356,15 +357,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-		
-						{
-		name: "Dark Matter",
-		img: "images/dna_wireframe_0004.jpg",
-		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
+		{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
 	},
+		
+	
 
  				{
 		name: "Skin Conductance Response",
