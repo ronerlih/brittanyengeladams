@@ -463,7 +463,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Panpsychism",
-		img: "images/Rhizome.png",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
 		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
 		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
 		credit: "",
@@ -485,7 +485,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Visceral Afferents VS. Non-Visceral Afferents",
-		img: "images/captura.jpg",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "A key difference between visceral and non-visceral sensory neurons is the degree to which their peripheral terminals are specialized. For example, cutaneous afferents can have one of many different sensory endings to transduce stimuli into electrical energy (e.g., Merkel cells, Ruffini endings, Pacinian corpuscles), whereas only two types of specialized ending have been reported in visceral afferents: intraganglionic laminar endings (IGLEs) and intramuscular arrays (IMAs). Both types have limited distributions (e.g., near sphincters), are specific to muscular vagal or pelvic innervation, and are less intricate than their non-visceral counterparts. IGLEs and IMAs appear to be low-threshold mechanoreceptors and are therefore less likely to be involved in detecting noxious events. Most spinal visceral afferents are believed to have primitive, unencapsulated endings (like non-visceral nociceptors), with no specialized structure and one or a few punctate receptive fields.",
 		link: "",
 		credit: "",
