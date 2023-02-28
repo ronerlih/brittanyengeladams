@@ -439,7 +439,7 @@ let WEBSITE_DATA = [
 		name: "Cloud Computing",
 		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next?",
-		link: "https://www.google.com/about/datacenters/",
+		link: "",
 		credit: "",
 	},
 	
@@ -453,19 +453,19 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-	{
-		name: "Panpsychism",
-		img: "images/sicklecell_productshot4.jpg",
-		blurb: "Panpsychism's appeal may stem partly from the fact that scientists currently can not explain what consciousness – the thing that gives you a mind and makes you self-aware — actually is. During the 17th century Enlightenment, philosopher René Descartes famously argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. None of that has happened; indeed, the very notion of it happening seems nonsensical.",
-		link: "https:https://www.scienceandnonduality.com/article/panpsychism",
-		credit: "",
-	},
+// 	{
+// 		name: "Panpsychism",
+// 		img: "images/electromagnetic_spectrum.jpg",
+// 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+// 		link: "",
+// 		credit: "",
+// 	},
 		
 
 	{
-		name: "Substance Dualism",
+		name: "Cartesian Dualism",
 		img: "images/rmb45m_004.jpg",
-		blurb: "Substance dualism is also often dubbed ‘Cartesian dualism’, but some substance dualists are keen to distinguish their theories from Descartes’s. E. J. Lowe, for example, is a substance dualist, in the following sense. He holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism. Lowe (2006) claims that his theory is close to P. F. Strawson’s (1959), whilst admitting that Strawson would not have called it substance dualism.",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. ‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
 	},
