@@ -162,15 +162,17 @@ let WEBSITE_DATA = [
 
 		
 
+	
 				
 																				{
-		name: "Movement Research Performance Journal | Publication",
+		name: "Movement Research Performance Journal Publication (2021)",
 		img: "images/lemon_rr_00.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	
 },
+	
 	
 		
 	{
@@ -186,6 +188,7 @@ let WEBSITE_DATA = [
 
 	
 	
+	
 
 				 {
 		name: "YouTube Improv  | Performance",
@@ -195,6 +198,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},	
 
+	
 	
 	
 		 {
@@ -329,6 +333,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 			{
 		name: "Haptics",
 		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
@@ -337,13 +342,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 					{
 		name: "Dark Matter",
 		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 
 								{
 		name: "Hand Dance | Film",
@@ -364,6 +371,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 		{
 		name: "Rhizome",
 		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
@@ -373,6 +381,7 @@ let WEBSITE_DATA = [
 	},	
 	
 
+	
  				{
 		name: "Skin Conductance Response",
 		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
@@ -405,7 +414,9 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
+	
+	
+	{
 		name: "Polarization",
 		img: "images/005.jpeg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
@@ -413,6 +424,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
 	{
 		name: "Somatosensory Receptors",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -423,6 +435,7 @@ let WEBSITE_DATA = [
 
 
 	
+	
 	{
 		name: "Hypothalamus",
 		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
@@ -430,6 +443,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
+	
+	
 		
 																								{
 		name: "Wireless Fidelity | Exhibition",
@@ -439,7 +454,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		
+	
+	
 				{
 		name: "Bismuth",
 		img: "images/1926318892613892618138.jpeg",
@@ -447,6 +463,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 	
 
 	
@@ -457,6 +474,7 @@ let WEBSITE_DATA = [
 			link: "",
 			credit: "",
 		},
+	
 
 // 	{
 // 		name: "Panpsychism",
@@ -467,6 +485,7 @@ let WEBSITE_DATA = [
 // 	},
 		
 
+	
 	{
 		name: "Cartesian Dualism",
 		img: "images/rmb45m_004.jpg",
@@ -474,6 +493,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
 	
 	
 	
@@ -487,6 +507,8 @@ let WEBSITE_DATA = [
 	},
 
 
+	
+	
 	{
 		name: "Autonomic Nervous System",
 		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
