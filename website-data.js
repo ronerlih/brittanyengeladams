@@ -348,7 +348,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Somatosensory Receptors",
-		img: "images/cartoonsolarsystemc4dmodel001.jpeg",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses. Other nerve endings in the system respond to changes in their chemical environment (chemoreceptors) or to temperature (thermoreceptors).",
 		link: "",
 		credit: "",
@@ -356,7 +356,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Haptics",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
