@@ -457,26 +457,6 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	{
-		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance. The hypothalamus works between the endocrine and nervous systems. The endocrine system is a network of hormone-producing glands and organs that help regulate bodily functions. As different systems and parts of the body send signals to the brain, they can alert the hypothalamus to any unbalanced factors that need addressing. The hypothalamus responds by stimulating relevant endocrine activity to address this balance.",
-		link: "",
-		credit: "",
-	},	
-	
-	
-		
-																								{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "",
-		credit: "",
-	},
-
-	
-	
 				{
 		name: "Bismuth",
 		img: "images/adolph_men_zel123.png",
@@ -484,6 +464,24 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+
+
+		{
+		name: "Cartesian Dualism",
+		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. ‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
+		link: "",
+		credit: "",
+	},
+		{
+		name: "Hypothalamus",
+		img: "images/wfporcos_0003.jpg",
+		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance. The hypothalamus works between the endocrine and nervous systems. The endocrine system is a network of hormone-producing glands and organs that help regulate bodily functions. As different systems and parts of the body send signals to the brain, they can alert the hypothalamus to any unbalanced factors that need addressing. The hypothalamus responds by stimulating relevant endocrine activity to address this balance.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	
 
@@ -507,15 +505,17 @@ let WEBSITE_DATA = [
 		
 
 	
-	{
-		name: "Cartesian Dualism",
-		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. ‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
+
+	
+		
+		
+																								{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 	
 	
