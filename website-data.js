@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 	 	{
 			
 		name: "Posthumanism",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -195,7 +195,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Human Robot",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -356,7 +356,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Haptics",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -365,7 +365,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/arrowscollection43dsmodel001.jpgg",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
