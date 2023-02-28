@@ -268,12 +268,10 @@ let WEBSITE_DATA = [
 	},		
 
 	
-	
-	
-																										{
-		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
-		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part. We study ethics in order to improve our lives, and therefore its principal concern is the nature of human well-being. Aristotle follows Socrates and Plato in taking the virtues to be central to a well-lived life. Like Plato, he regards the ethical virtues (justice, courage, temperance and so on) as complex rational, emotional and social skills. But he rejects Plato’s idea that to be completely virtuous one must acquire, through a training in the sciences, mathematics, and philosophy, an understanding of what goodness is. What we need, in order to live well, is a proper appreciation of the way in which such goods as friendship, pleasure, virtue, honor and wealth fit together as a whole.",
+	{
+		name: "Autonomic Nervous System",
+		img: "images/sicklecell_productshot4.jpg",
+		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
 		link: "",
 		credit: "",
 	},
@@ -532,15 +530,17 @@ let WEBSITE_DATA = [
 
 	
 	
-	{
-		name: "Autonomic Nervous System",
-		img: "images/sicklecell_productshot4.jpg",
-		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
+	
+	
+	
+	
+																										{
+		name: "Aristotle’s Ethics",
+		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part. We study ethics in order to improve our lives, and therefore its principal concern is the nature of human well-being. Aristotle follows Socrates and Plato in taking the virtues to be central to a well-lived life. Like Plato, he regards the ethical virtues (justice, courage, temperance and so on) as complex rational, emotional and social skills. But he rejects Plato’s idea that to be completely virtuous one must acquire, through a training in the sciences, mathematics, and philosophy, an understanding of what goodness is. What we need, in order to live well, is a proper appreciation of the way in which such goods as friendship, pleasure, virtue, honor and wealth fit together as a whole.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 
 
