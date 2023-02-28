@@ -3,12 +3,14 @@ let WEBSITE_DATA = [
 
 
 			{
+				
 		name: "Proximity Technology from Qualcomm",
 		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
 	},
+	
 	
 	
 		{
@@ -19,7 +21,10 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+	
 						{
+							
 		name: "Sawtooth Wave",
 		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
@@ -39,14 +44,19 @@ let WEBSITE_DATA = [
 		
 		},
 	
+	
 	 	{
+			
 		name: "Posthumanism",
 		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
+			
 		},
 
+	
+	
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
@@ -58,6 +68,7 @@ let WEBSITE_DATA = [
 },
 	
 	
+	
 																					{
 		name: "Memory Dance",
 		img: "images/01_v4.jpeg",
@@ -66,6 +77,7 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},		
 
+	
 	
 			
 																			{
@@ -85,6 +97,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
+	
+	
 					 												{
 		name: "Autonomous",
 		img: "images/colosseum_361-1.jpeg",
@@ -101,6 +115,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 		
 {
 			name: "Joffrey Ballet School",
@@ -110,6 +126,8 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 	
+	
+	
 
 			{
 		name: "Projectile Motion",
@@ -117,7 +135,8 @@ let WEBSITE_DATA = [
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
-	},		
+	},
+	
 
 	{
 			name: "Architecture of Memory",
@@ -164,7 +183,7 @@ let WEBSITE_DATA = [
 
 	
 				
-																				{
+		{
 		name: "Movement Research Performance Journal Publication (2021)",
 		img: "images/lemon_rr_00.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
@@ -184,10 +203,7 @@ let WEBSITE_DATA = [
 	},
 		
 
-	
 
-	
-	
 	
 
 				 {
@@ -198,6 +214,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},	
 
+	
 	
 	
 	
@@ -239,7 +256,10 @@ let WEBSITE_DATA = [
 	},
 
 	
+	
+	
 		{
+			
 		name: "Harvestworks | Residency",
 		img: "images/8118221151181119920231518111.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
@@ -247,6 +267,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
+	
 	
 	
 																										{
@@ -271,7 +292,6 @@ let WEBSITE_DATA = [
 
 
 	
-[
 																							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
@@ -299,6 +319,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
+	
+	
 														{
 	      name: "Emergent Landscape I | Tessellation",
 		img: "images/SS2023124534PM.png",
@@ -307,6 +329,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+	
 	
 								{
 		name: "Ancestral Artifact 'Mizrach'",
