@@ -346,14 +346,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-										{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+
+	{
+		name: "Somatosensory Receptors",
+		img: "images/cartoonsolarsystemc4dmodel001.jpeg",
+		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses. Other nerve endings in the system respond to changes in their chemical environment (chemoreceptors) or to temperature (thermoreceptors).",
 		link: "",
 		credit: "",
 	},
-	
 	
 			{
 		name: "Haptics",
@@ -446,15 +446,15 @@ let WEBSITE_DATA = [
 	},
 
 	
-	{
-		name: "Somatosensory Receptors",
-		img: "images/cartoonsolarsystemc4dmodel001.jpeg",
-		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses. Other nerve endings in the system respond to changes in their chemical environment (chemoreceptors) or to temperature (thermoreceptors).",
+
+
+										{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-
-
 	
 	
 	{
