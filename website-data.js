@@ -458,27 +458,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-				{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
-		link: "",
-		credit: "",
-	},
-	
-
-	
-		{
-		name: "Cartesian Dualism",
-		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. ‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
-		link: "",
-		credit: "",
-	},	
-
-
-	
 		{
 		name: "Hypothalamus",
 		img: "images/wfporcos_0003.jpg",
@@ -486,6 +465,26 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
+	{
+		name: "Rhizome",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
+		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+		credit: "",
+	},
+	
+	
+	
+
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	
 		{
@@ -499,13 +498,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "Rhizome",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+	
+		{
+		name: "Cartesian Dualism",
+		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it. ‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
+		link: "",
 		credit: "",
 	},
+	
 	
 
 // 	{
