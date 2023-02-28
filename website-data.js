@@ -460,7 +460,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-28at8.48.41AM.png",
+		img: "images/ScreenShot2023-02-28at8.48.41AM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance. The hypothalamus works between the endocrine and nervous systems. The endocrine system is a network of hormone-producing glands and organs that help regulate bodily functions. As different systems and parts of the body send signals to the brain, they can alert the hypothalamus to any unbalanced factors that need addressing. The hypothalamus responds by stimulating relevant endocrine activity to address this balance.",
 		link: "",
 		credit: "",
