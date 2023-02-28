@@ -172,7 +172,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -404,16 +404,13 @@ let WEBSITE_DATA = [
 	},
 		
 	
-
-	
- 				{
-		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
+		{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
 		link: "",
 		credit: "",
 	},
-
 
 
 	
@@ -433,7 +430,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Maquette 21",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/005.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -475,15 +472,18 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
 
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
+	
+ 				{
+		name: "Skin Conductance Response",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
 	},
+	
+
+	
 	
 	
 	
