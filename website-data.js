@@ -196,6 +196,7 @@ let WEBSITE_DATA = [
 	},	
 
 	
+	
 		 {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
 			img: "images/capebook.png",
@@ -222,6 +223,7 @@ let WEBSITE_DATA = [
 // 		},	
 	
 
+	
 
 	
 																			{
@@ -232,6 +234,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
 		{
 		name: "Harvestworks | Residency",
 		img: "images/8118221151181119920231518111.jpg",
@@ -240,6 +243,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
+	
 	
 																										{
 		name: "Aristotle’s Ethics",
@@ -250,6 +254,7 @@ let WEBSITE_DATA = [
 	},
 	
 
+	
 	
 		{
 		name: "Infinitesimal Calculus",
@@ -262,7 +267,7 @@ let WEBSITE_DATA = [
 
 
 	
-
+[
 																							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
@@ -409,9 +414,9 @@ let WEBSITE_DATA = [
 	},
 
 	{
-		name: "Somatosensory System",
+		name: "Somatosensory Receptors",
 		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "In physiology, the somatosensory system is the network of neural structures in the brain and body that produce the perception of touch, as well as temperature, body position, and pain. It is a subset of the sensory nervous system, which also represents visual, auditory, olfactory, and gustatory stimuli.",
+		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses. Other nerve endings in the system respond to changes in their chemical environment (chemoreceptors) or to temperature (thermoreceptors).",
 		link: "",
 		credit: "",
 	},
@@ -419,9 +424,9 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "Pineal Gland & DMT",
+		name: "Hypothalamus",
 		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
+		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance. The hypothalamus works between the endocrine and nervous systems. The endocrine system is a network of hormone-producing glands and organs that help regulate bodily functions. As different systems and parts of the body send signals to the brain, they can alert the hypothalamus to any unbalanced factors that need addressing. The hypothalamus responds by stimulating relevant endocrine activity to address this balance.",
 		link: "",
 		credit: "",
 	},	
@@ -430,15 +435,15 @@ let WEBSITE_DATA = [
 		name: "Wireless Fidelity | Exhibition",
 		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "https://ropac.net/",
+		link: "",
 		credit: "",
 	},
 
 		
 				{
-		name: "Cloud Computing",
+		name: "Bismuth",
 		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next?",
+		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
 		link: "",
 		credit: "",
 	},
@@ -449,7 +454,7 @@ let WEBSITE_DATA = [
 			name: "New York University's Tisch School of the Arts",
 			img: "images/ScreenShot2023-01-12at44329PM.png",
 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "https://tisch.nyu.edu/dance/courses",
+			link: "",
 			credit: "",
 		},
 
