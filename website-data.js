@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 	
 					 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/sicklecell_productshot4.jpg",
+		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
 		link: "",
 		credit: "",
@@ -300,7 +300,7 @@ let WEBSITE_DATA = [
 		
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -365,7 +365,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/arrowscollection43dsmodel001.jpgg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
