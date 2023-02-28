@@ -458,7 +458,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Bismuth",
-		img: "images/1926318892613892618138.jpeg",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
 		link: "",
 		credit: "",
