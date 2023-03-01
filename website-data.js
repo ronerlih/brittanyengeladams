@@ -125,13 +125,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 	
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "bismuth (Bi), the most metallic and the least abundant of the elements in the nitrogen group (Group 15 [Va] of the periodic table). Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Bismuth",
+// 		img: "images/adolph_men_zel123.png",
+// 		blurb: "bismuth (Bi), the most metallic and the least abundant of the elements in the nitrogen group (Group 15 [Va] of the periodic table). Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 	
 
@@ -549,7 +549,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
+	
+	
+	
+	
+																										{
+		name: "Cloud Computing",
+		img: "images/SS20230122at7.16.09PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+		link: "",
+		credit: "",
+	},
 
 	
 
