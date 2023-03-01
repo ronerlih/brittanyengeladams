@@ -125,15 +125,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 	
-	
-	
-					{
-		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "bismuth (Bi), the most metallic and the least abundant of the elements in the nitrogen group (Group 15 [Va] of the periodic table). Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
+		link: "",
 		credit: "",
 	},
+
+	
+
 	
 	
 			{
@@ -402,14 +403,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-		{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth, which has been known since ancient times, was often confused with lead and tin. Bismuth was first shown to be a distinct element in 1753 by Claude Geoffroy the Younger. Bismuth does occur free in nature and in such minerals as bismuthinite (Bi2S3) and bismite (Bi2O3). The largest deposits of bismuth are found in Bolivia, although bismuth is usually obtained as a by-product of mining and refining lead, copper, tin, silver and gold.",
-		link: "",
+					{
+		name: "Perceptual Brittleness",
+		img: "images/dna_wireframe_0004.jpg",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
 	},
-
 
 	
 
