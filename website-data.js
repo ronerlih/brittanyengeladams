@@ -281,7 +281,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/01_v4.jpeg",
+		img: "images/i050950a.gif",
 		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
 		link: "",
 		credit: "",
@@ -349,17 +349,17 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Somatosensory Receptors",
-		img: "images/c100_contextsignature.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
 	},
 	
-			{
-		name: "Haptics",
-		img: "images/arrowscollection43dsmodel001.jpg",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
-		link: "",
+					{
+		name: "Perceptual Brittleness",
+		img: "images/dna_wireframe_0004.jpg",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
 	},
 	
@@ -404,14 +404,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-					{
-		name: "Perceptual Brittleness",
-		img: "images/dna_wireframe_0004.jpg",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+
+			{
+		name: "Haptics",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
+		link: "",
 		credit: "",
 	},
-
 	
 
 
