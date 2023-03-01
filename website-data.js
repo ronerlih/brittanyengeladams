@@ -109,7 +109,7 @@ let WEBSITE_DATA = [
 	
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -136,15 +136,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 
-	{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},	
 
 	
 
@@ -426,14 +425,15 @@ let WEBSITE_DATA = [
 
 
 
+	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},	
 
-			{
-		name: "Maquette 21",
-		img: "images/005.jpeg",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},	
+		
 	
 	{
 		name: "Polarization",
