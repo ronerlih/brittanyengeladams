@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/sicklecell_productshot4.jpg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -196,7 +196,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Human Robot",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -531,7 +531,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-03-01at12.56.42PM.png",
 		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
 		link: "",
 		credit: "",
