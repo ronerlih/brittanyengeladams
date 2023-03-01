@@ -363,8 +363,8 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-28at8.48.41AM.png", 
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance. The hypothalamus works between the endocrine and nervous systems. The endocrine system is a network of hormone-producing glands and organs that help regulate bodily functions. As different systems and parts of the body send signals to the brain, they can alert the hypothalamus to any unbalanced factors that need addressing. The hypothalamus responds by stimulating relevant endocrine activity to address this balance.",
+		img: "images/SS2023-02-07at5.45.35PM.png", 
+		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
 	},
@@ -396,7 +396,7 @@ let WEBSITE_DATA = [
 
 		 {
 		name: "Postmodernism",
-		img: "images/rmb45m_004.jpg",
+		img: "images/01.jpeg",
 		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
 		link: "",
 		credit: "",
@@ -490,7 +490,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/01.jpeg",
+		img: "images/rmb45m_004.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
