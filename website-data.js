@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/bh_accretiondisk_sim_stationary_websize.gif",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -300,7 +300,7 @@ let WEBSITE_DATA = [
 		
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -476,7 +476,7 @@ let WEBSITE_DATA = [
 	
  				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
