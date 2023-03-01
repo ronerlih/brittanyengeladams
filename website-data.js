@@ -270,7 +270,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
 		link: "",
 		credit: "",
@@ -355,13 +355,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "Perceptual Brittleness",
-		img: "images/morgurgurgurariewhorecatspeed4154.png",
-		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
+		{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
+	
 	
 	{
 		name: "Hypothalamus",
@@ -479,7 +481,7 @@ let WEBSITE_DATA = [
 	
  				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
@@ -487,13 +489,11 @@ let WEBSITE_DATA = [
 	
 
 	
-
-		{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+				{
+		name: "Perceptual Brittleness",
+		img: "images/morgurgurgurariewhorecatspeed4154.png",
+		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
+		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
 	},
 
