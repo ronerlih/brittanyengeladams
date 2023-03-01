@@ -437,7 +437,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -543,7 +543,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
