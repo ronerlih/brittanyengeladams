@@ -501,7 +501,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Quantum Computing",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
@@ -509,7 +509,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cartesian Dualism",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
@@ -543,7 +543,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/contex-1.jpg",
+		img: "images/SS7.47.47M.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
