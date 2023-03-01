@@ -497,7 +497,13 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	
+			{
+		name: "Quantum Computing",
+		img: "images/ScreenShot2023-02-19at1.14.09PM.png",
+		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Cartesian Dualism",
