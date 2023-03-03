@@ -416,13 +416,13 @@ let WEBSITE_DATA = [
 	
 
 
-// 			{
-// 		name: "The Singularity Is Near",
-// 		img: "images/ScreenShot2023-02-19at1.14.09PM.png",
-// 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
-// 		link: "",
-// 		credit: "",
-// 	},	
+			{
+		name: "The Singularity Is Near",
+		img: "images/ScreenShot2023-02-19at1.14.09PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+		link: "",
+		credit: "",
+	},	
 	
 	{
 		name: "Somatosensory Receptors",
@@ -519,13 +519,13 @@ let WEBSITE_DATA = [
 	
 	
 
-// 	{
-// 		name: "Panpsychism",
-// 		img: "images/electromagnetic_spectrum.jpg",
-// 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Panpsychism",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+		link: "",
+		credit: "",
+	},
 		
 
 
@@ -584,7 +584,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "ROM VS.RAM",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png.",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
 		blurb: "ROM VS. RAM. Memory Present in Computers Humans: (ROM) Read Only Memory; applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. (RAM) Reads and Writes Memory; Random Access Memory applies to memory learned from experiences. The information is temporarily stored. It erases when you restart or shut down your computer. Because the information is stored electrically on transistors, when there is no electric current, the data disappears.",
 		link: "",
 		credit: "",
