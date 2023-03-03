@@ -154,15 +154,6 @@ let WEBSITE_DATA = [
 
 	
 
-	
-	
-			{
-		name: "Maquette 21",
-		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},
 
 
 	
@@ -187,6 +178,15 @@ let WEBSITE_DATA = [
 	},
 	
 
+	
+	
+			{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 
 	
 		{
@@ -231,7 +231,7 @@ let WEBSITE_DATA = [
 	
 		 {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/capebook.png",
+			img: "images/311631513116315113154.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
@@ -322,7 +322,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/S2022110192534.jpeg",
 		blurb:  "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
