@@ -551,7 +551,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
