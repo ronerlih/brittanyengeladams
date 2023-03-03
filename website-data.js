@@ -51,17 +51,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 
-	
-	
-		{
-			
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
 		credit: "",
-	},	
+	},
+	
+	
+		
 	
 
 													{
@@ -103,17 +106,15 @@ let WEBSITE_DATA = [
 	
 },
 	
-
-
-
-		
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+																	{
+		name: "Crystal Oscillator",
+		img: "images/SS7.47.47M.png",
+		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal). The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
 		link: "",
 		credit: "",
 	},
+
+
 	
 	
 
@@ -257,15 +258,15 @@ let WEBSITE_DATA = [
 
 	
 
-	
-																			{
-		name: "Crystal Oscillator",
-		img: "images/crystalc.jpg",
-		blurb: "In a crystal oscillator circuit the filter is a piezoelectric crystal (commonly a quartz crystal). The crystal mechanically vibrates as a resonator, and its frequency of vibration determines the oscillation frequency. Crystals have a very high Q-factor and also better temperature stability than tuned circuits, so crystal oscillators have much better frequency stability than LC or RC oscillators. Crystal oscillators are the most common type of linear oscillator, used to stabilize the frequency of most radio transmitters, and to generate the clock signal in computers and quartz clocks.",
-		link: "",
+		{
+			
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
-
+	
 	
 	
 		
@@ -304,7 +305,7 @@ let WEBSITE_DATA = [
 		
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -350,13 +351,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+		
+
+		
+																								{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "",
+		credit: "",
+	},
 	
 		{
 
@@ -385,20 +389,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
+{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
 	
 	
-	
 
-		
-																								{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "",
-		credit: "",
-	},
 		
 
 		 {
@@ -460,13 +461,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Rhizome",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
-		credit: "",
-	},		
+			
 	
 		
 					{
@@ -478,7 +473,13 @@ let WEBSITE_DATA = [
 	},
 	
 
-
+	{
+		name: "Rhizome",
+		img: "images/coggearsmechanismbrassc4dmodel001.jpeg",
+		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
+		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+		credit: "",
+	},
 	
 	
 
