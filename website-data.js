@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/contex.jpg",
+		img: "images/adolph_men_zel123.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -95,16 +95,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
+ 	{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
+	
 
-	
-			{
-		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},
 	
 																	{
 		name: "Crystal Oscillator",
@@ -113,16 +114,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	 	{
-			
-		name: "Posthumanism",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-			
-		},
+			{
+		name: "Movement Research Performance Journal Publication (2021)",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
+	
 
 {
 			name: "New York University's Tisch School of the Arts",
@@ -369,7 +369,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hypothalamus",
-		img: "images/captura.jpg", 
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
@@ -501,7 +501,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Quantum Computing",
-		img: "images/adolph_men_zel123.png",
+		img: "images/contex.jpg",
 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
