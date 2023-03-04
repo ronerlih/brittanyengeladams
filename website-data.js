@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Sawtooth Wave",
-		img: "images/11.jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/23-1.jpg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -77,18 +77,18 @@ let WEBSITE_DATA = [
 },
 
 	
-																					{
-		name: "Memory Dance",
-		img: "images/adolph_men_zel123.png",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
-		credit: "", 
-	},	
+		credit: "",
+	},
 	
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/SS7.47.47M.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -178,15 +178,16 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-			{
-		name: "Maquette 21",
-		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+																					{
+		name: "Memory Dance",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
-	},
-
+		credit: "", 
+	},	
+	
+	
+	
 	
 		{
 		name: "Skeletal Avatar",
@@ -300,7 +301,7 @@ let WEBSITE_DATA = [
 		
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -466,7 +467,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
+		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -524,7 +525,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Panpsychism",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -574,7 +575,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/rmb45m_004.jpg",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
@@ -584,7 +585,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
