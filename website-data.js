@@ -564,8 +564,8 @@ let WEBSITE_DATA = [
 
 	
 																										{
-		name: "ROM & RAM",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		name: "ROM VS RAM",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
