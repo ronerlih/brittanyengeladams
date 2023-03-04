@@ -515,7 +515,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "The Limbic System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
@@ -525,7 +525,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Panpsychism",
-		img: "images/",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
