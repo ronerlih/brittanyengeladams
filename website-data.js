@@ -201,7 +201,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/skin-receptors-senses-basics.jpg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -377,16 +377,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-
-				
 			{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
-		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
+		name: "The Singularity Is Near",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
+
 	
 	
 {
@@ -414,14 +412,16 @@ let WEBSITE_DATA = [
 
 	
 
-
+				
 			{
-		name: "The Singularity Is Near",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
+		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
-	},	
+	},
+
+	
 	
 	{
 		name: "Somatosensory Receptors",
@@ -500,7 +500,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/sicklecell_productshot4.jpg",
 		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
 		link: "",
 		credit: "",
@@ -555,7 +555,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/ScreenShot2023-02-22at5.22.58PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
