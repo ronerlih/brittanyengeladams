@@ -560,16 +560,16 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-	
-	
 																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+		name: "ROM & RAM",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
 	},
+	
+	
+
 	
 
 	{
@@ -580,21 +580,21 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+		
 	
-
 																										{
-		name: "ROM & RAM",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
-	
+
 	
 	
 														{
 	      name: "Emergent Landscape II | Tessellation",
-		img: "images/S2022110192534.jpeg",
+		img: "images/SS20230108atPM.png",
 		blurb: "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
