@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Sawtooth Wave",
-		img: "images/animated-sinewave.gif",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
 		blurb: " The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle. A single sawtooth, or an intermittently triggered sawtooth, is called a ramp waveform. The convention is that a sawtooth wave ramps upward and then sharply drops. In a reverse (or inverse) sawtooth wave, the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",
 		link: "",
 		credit: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -603,6 +603,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+	
+		
+														{
+	      name: "Pineal Gland DMT neurotransmitter system ",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
+		link: "",
+		credit: "",
+	
+	},
+	
 	
 	
 	
