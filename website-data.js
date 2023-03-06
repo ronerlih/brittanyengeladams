@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/earmuff_0002_layer1copy2.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -514,10 +514,11 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: " Cape Cod Book by Peter McMahon and Christine Cipriani",
 		},
+	
 		
 																										{
 		name: "The Limbic System",
-		img: "images/23-1.jpg",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
