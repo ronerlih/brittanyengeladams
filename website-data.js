@@ -524,6 +524,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+															{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb: "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	
+	},
 		
 		{
 		name: "Quantum Computing",
@@ -534,15 +543,7 @@ let WEBSITE_DATA = [
 	},
 
 
-														{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	
-	},
-		
+
 
 																										{
 		name: "Aristotle’s Ethics",
