@@ -395,7 +395,7 @@ let WEBSITE_DATA = [
 	
 {
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
+			img: "images/earmuff_0002_layer1copy2.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -473,7 +473,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
+		img: "images/wfporcos_0003.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
