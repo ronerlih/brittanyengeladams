@@ -420,16 +420,15 @@ let WEBSITE_DATA = [
 	},
 
 	
-			{
-		name: "The Singularity Is Near",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+
+		
+		{
+		name: "Panpsychism",
+		img: "images/SS7.47.47M.png",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
 	},
-
-		
-	
 
 			{
 		name: "Perceptual Brittleness",
@@ -512,7 +511,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "The Limbic System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
@@ -520,10 +519,11 @@ let WEBSITE_DATA = [
 	
 	
 
-	{
-		name: "Panpsychism",
-		img: "images/SS7.47.47M.png",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+
+			{
+		name: "The Singularity Is Near",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
@@ -560,7 +560,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/ ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -572,7 +572,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
