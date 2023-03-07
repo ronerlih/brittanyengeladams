@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/SS20230105at4.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/Uqx7W.gif",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -86,7 +86,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/_m0t_petty123.png",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
+		img: "images/morgurgurgurariewhorecatspeed4154.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -184,7 +184,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -265,7 +265,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -386,7 +386,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Somatosensory Receptors",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/01_v4.jpeg",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -406,7 +406,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -552,7 +552,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/contex.jpg",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
@@ -562,7 +562,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -584,7 +584,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -605,7 +605,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity?",
 		link: "",
 		credit: "",
