@@ -76,16 +76,13 @@ let WEBSITE_DATA = [
 	
 },
 
-	
- 	{
-			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
 	
 			{
 		name: "Movement Research Performance Journal Publication (2021)",
@@ -97,13 +94,18 @@ let WEBSITE_DATA = [
 },	
 	
 	
-		{
-		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+
+	
+		
+ 	{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+			
+		},
 
 				 {
 		name: "YouTube Improv  | Performance",
@@ -117,7 +119,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/01_v4.jpeg",
+		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -182,7 +184,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
