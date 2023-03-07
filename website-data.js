@@ -393,15 +393,17 @@ let WEBSITE_DATA = [
 	},
 	
 	
-{
-			name: "Architecture of Memory",
-			img: "images/earmuff_0002_layer1copy2.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 
 
+	
+															{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
+		credit: "",
+	
+	},
 
 				
 			{
@@ -529,16 +531,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
+	{
+			name: "Architecture of Memory",
+			img: "images/earmuff_0002_layer1copy2.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 	
-															{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
-	
-	},
-		
 		{
 		name: "Quantum Computing",
 		img: "images/crystalc.jpg",
