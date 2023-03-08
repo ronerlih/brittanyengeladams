@@ -387,7 +387,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Somatosensory Receptors",
-		img: "images/01_v4.jpeg",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -457,7 +457,7 @@ let WEBSITE_DATA = [
 		
 					{
 		name: "Dark Matter",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/01_v4.jpeg",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
