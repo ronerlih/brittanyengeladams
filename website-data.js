@@ -409,7 +409,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Haptics",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
