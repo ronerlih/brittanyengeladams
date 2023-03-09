@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -119,7 +119,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/ ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 		
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -327,7 +327,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS20230108atPM.png",
+		img: "images/S2022110192534.jpeg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -375,27 +375,6 @@ let WEBSITE_DATA = [
 
 	
 
-	 				{
-		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
-		link: "",
-		credit: "",
-	},
- 
-
-	
-	{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
-		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
-		link: "",
-		credit: "",
-	},
-	
-	
-
-
 	
 															{
 	      name: "Emergent Landscape II | Tessellation",
@@ -406,10 +385,32 @@ let WEBSITE_DATA = [
 	
 	},
 
+
+ 
+		
+			
+		{
+		name: "Panpsychism",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+		link: "",
+		credit: "",
+	},
+	 				{
+		name: "Skin Conductance Response",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
+		link: "",
+		credit: "",
+	},
+
+	
+
+
 				
 			{
 		name: "Haptics",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -442,24 +443,26 @@ let WEBSITE_DATA = [
 	
 
 
-										{
-		name: "Hand Dance | Research",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+	
+		
+																										{
+		name: "Fight-or-Flight Response",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
+		link: "",
+		credit: "",
+	},	
+
+		
+	{
+		name: "Somatosensory Receptors",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
 	},
 	
-			
-			
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
-		link: "",
-		credit: "",
-	},
-
+	
 		
 
 	
@@ -467,7 +470,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Architecture of Memory",
-			img: "images/earmuff_0002_layer1copy2.jpg", 
+			img: "images/2138383815138158.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -486,23 +489,20 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
 	
 	
-
-	
-		
-																										{
-		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
+										{
+		name: "Hand Dance | Research",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},	
+	},
 
 	
 		 {
@@ -543,7 +543,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing",
-		img: "images/01_v4.jpeg",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
