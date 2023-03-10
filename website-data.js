@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/RutgersConcertProgram.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/liioncellthumbnail.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/7_wt.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -327,7 +327,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/S2022110192534.jpeg",
+		img: "images/SS20230108atPM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -564,7 +564,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/dna_wireframe_0004.jpg",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
