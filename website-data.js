@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -206,7 +206,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/01.jpeg",
+		img: "images/23-1.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Human Robot",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/21519201414113333.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/AVATARINRED.gif",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -265,10 +265,10 @@ let WEBSITE_DATA = [
 	
 		
 	
-	{
-		name: "Autonomic Nervous System",
-		img: "images/avtarhigh.png",
-		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
+		{
+		name: "Quantum Computing",
+		img: "images/contex.jpg",
+		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
 	},
@@ -391,7 +391,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -410,7 +410,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Haptics",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -435,7 +435,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/181514.jpeg",
 		blurb: "For a machine learning algorithm to ‘learn’ to recognize a tiger, it must ‘see’ tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object. Once an algorithm can classify an object correctly, it can invoke a set of rules for how to treat that object, i.e., if in a car and a tiger (or any other animal) is in the car’s path, then the car should stop.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
@@ -524,7 +524,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hypothalamus",
-		img: "images/Madonna_retina_ish_ingU2alalala.png", 
+		img: "images/wfporcos_0003.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
@@ -539,15 +539,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-	
-		{
-		name: "Quantum Computing",
-		img: "images/contex.jpg",
-		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
+	{
+		name: "Autonomic Nervous System",
+		img: "images/avtarhigh.png",
+		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation. These afferent fibers allow the body to monitor the internal environment and adjust effector organs as necessary to maintain homeostasis.",
 		link: "",
 		credit: "",
 	},
+	
+
 
 
 
@@ -564,7 +564,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -574,7 +574,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Somatosensory Receptors",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -586,7 +586,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -596,7 +596,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/sicklecell_productshot4.jpg",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
@@ -607,7 +607,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
 		link: "",
 		credit: "",
