@@ -455,7 +455,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
