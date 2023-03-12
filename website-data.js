@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 	},	
 														 		{
 		name: "Superposition",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -482,7 +482,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "The Singularity Is Near",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/Rhizome.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
