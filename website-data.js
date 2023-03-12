@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/Qualcomm.png",
+		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Before Zeta | Film",
-		img: "images/capecod11.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -576,7 +576,7 @@ let WEBSITE_DATA = [
 		
 	{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
