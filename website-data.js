@@ -46,7 +46,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -400,7 +400,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
@@ -412,7 +412,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Haptics",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -492,7 +492,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -543,7 +543,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -574,7 +574,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
