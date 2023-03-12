@@ -280,7 +280,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower | Performance",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
