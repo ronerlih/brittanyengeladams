@@ -317,7 +317,7 @@ let WEBSITE_DATA = [
 
 							{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
@@ -412,7 +412,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Haptics",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -590,7 +590,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -611,7 +611,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
 		link: "",
 		credit: "",
