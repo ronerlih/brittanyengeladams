@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/7_wt.jpeg",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -400,7 +400,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
@@ -518,7 +518,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "The Limbic System",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
