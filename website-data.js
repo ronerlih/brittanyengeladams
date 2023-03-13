@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
@@ -400,7 +400,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
