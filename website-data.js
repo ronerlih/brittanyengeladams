@@ -375,17 +375,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
 	
-
 	
-															{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+																										{
+		name: "The Limbic System",
+		img: "images/dna_wireframe_0004.jpg",
+		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
+		link: "",
 		credit: "",
-	
 	},
 
 		{
@@ -517,14 +514,19 @@ let WEBSITE_DATA = [
 	},
 
 	
-		
-																										{
-		name: "The Limbic System",
-		img: "images/dna_wireframe_0004.jpg",
-		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
-		link: "",
+	
+	
+
+	
+															{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
+	
 	},
+
 	
 		{
 		name: "Hypothalamus",
@@ -537,7 +539,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/1000platos-1914-08b1.gif",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -613,7 +615,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
 		link: "",
 		credit: "",
