@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 			
 			{
 		name: "Projectile Motion",
-		img: "images/SS202301217.25.19PM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -328,7 +328,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS20230108atPM.png",
+		img: "images/S2022102835049AM.jpg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
