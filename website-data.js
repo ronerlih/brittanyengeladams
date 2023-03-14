@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/animated-sinewave.gif",
+		img: "images/2023012170559PM.png",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/ScreenShot2023-02-16at8.29.45PM.png",
+		img: "images/SS7.47.47M.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -267,7 +267,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing",
-		img: "images/contex.jpg",
+		img: "images/23-1.jpg",
 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Gravitational Singularity",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
+		img: "images/Spacetime_lattice_analogy.svg.png",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
@@ -400,7 +400,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/crystalc.jpg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
@@ -422,7 +422,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -485,7 +485,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "The Singularity Is Near",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/morgurgurgurariewhorecatspeed4154.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -520,7 +520,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "The Limbic System",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
