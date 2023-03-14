@@ -88,12 +88,12 @@ let WEBSITE_DATA = [
 	
 	
 	
-		{
-			
-		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+			{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
 		credit: "",
 	},
 	
@@ -191,18 +191,18 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	}, 
-	
-			{
 
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
+
+
+		
+		{
+			
+		name: "Harvestworks | Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
-
-
-	
 	
 																					{
 		name: "Memory Dance",
@@ -470,7 +470,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Scientists can create computer simulations of our Universe. By tweaking different aspects of their simulation, astronomers can see how things such as dark matter and dark energy play a role in our universe. Now, if you are willing to spring for a fancy hard drive, you can keep one of these simulations in your pocket.",
 		link: "",
 		credit: "",
@@ -491,7 +491,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
