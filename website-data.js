@@ -545,7 +545,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/sicklecell_productshot4.jpg",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -558,7 +558,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
