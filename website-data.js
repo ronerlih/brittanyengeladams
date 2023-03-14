@@ -307,14 +307,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-														 		{
-		name: "Superposition",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},	
-
+	
+ 	{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+	
 							{
 		name: "Ancestral Artifact 'Mizrach'",
 		img: "images/1215225.jpeg",
@@ -427,15 +428,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 	
-
+														 		{
+		name: "Superposition",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 
 			{
 		name: "Perceptual Brittleness",
