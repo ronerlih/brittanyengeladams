@@ -379,7 +379,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "The Limbic System",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
 		link: "",
 		credit: "",
@@ -420,7 +420,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/morgurgurgurariewhorecatspeed4154.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -428,7 +428,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
