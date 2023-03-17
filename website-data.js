@@ -302,7 +302,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/ScreenShot2023-02-18at6.03.28PM.png",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
 		link: "",
 		credit: "",
@@ -551,7 +551,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Cartesian Dualism",
-		img: "images/automotivescissorliftandsuvriggedc4dmodel005-1.jpg",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
