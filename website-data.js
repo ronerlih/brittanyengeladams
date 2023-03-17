@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/animated-sinewave.gif",
+		img: "images/2023012170559PM.png",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
