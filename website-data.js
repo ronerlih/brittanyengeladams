@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/16101918161297820191816125129782019.jpeg", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/11.jpg",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 			
 			{
 		name: "Projectile Motion",
-		img: "images/animated-sinewave.gif",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -267,7 +267,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
 		link: "",
 		credit: "",
@@ -338,7 +338,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -483,7 +483,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "The Singularity Is Near",
-		img: "images/23-1.jpg",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -531,7 +531,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg", 
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
@@ -551,7 +551,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Cartesian Dualism",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/ScreenShot2023-02-08at6.14.49PM.png",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
@@ -569,7 +569,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -595,7 +595,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/005.jpeg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -605,7 +605,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images//1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
@@ -616,7 +616,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
 		link: "",
 		credit: "",
