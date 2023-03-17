@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/",
+		img: "images/2023012170559PM.png",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
  	
 														 		{
 		name: "Superposition",
-		img: "images/crystalc.jpg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -400,7 +400,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention. In humans, the amplitude of SCRs is related to the level of arousal elicited by visual stimuli with either positive or negative emotional valence.",
 		link: "",
 		credit: "",
@@ -510,7 +510,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/rmb45m_004.jpg",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -569,7 +569,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/rmb45m_004.jpg",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -579,7 +579,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot20230204at1.39.14PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
