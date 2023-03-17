@@ -26,7 +26,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/2023012170559PM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
