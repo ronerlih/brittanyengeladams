@@ -508,7 +508,7 @@ let WEBSITE_DATA = [
 	},
 {
 		name: "Cartesian Dualism",
-		img: "images/automotivescissorliftandsuvriggedc4dmodel005.jpg",
+		img: "images/liioncellthumbnail.jpg",
 		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
 		link: "",
 		credit: "",
@@ -540,7 +540,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/Rhizome.png",
+		img: "images/refinery_view01wide_v01.jpg",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -548,7 +548,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Autonomic Nervous System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/5.jpeg Madonna_retina_ish_ingU2alalala.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -561,7 +561,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/rmb45m_004.jpg",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
@@ -569,7 +569,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -579,7 +579,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -595,7 +595,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -616,7 +616,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system ",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
 		link: "",
 		credit: "",
