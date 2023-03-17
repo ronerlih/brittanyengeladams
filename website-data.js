@@ -57,7 +57,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/16101918161297820191816125129782019.jpeg", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -78,7 +78,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/2_streetelementstrafficlight_00071.jpeg",
+		img: "images/1233740.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		img: "images/242714982_10222276480233848_7374378084717392719_n.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "SAW Oscillator",
-		img: "images/animated-sinewave.gif",
+		img: "images/11.jpg",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 			
 			{
 		name: "Projectile Motion",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-22at5.22.58PM.png",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
