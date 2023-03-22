@@ -11,7 +11,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+				
+			{
+		name: "Projectile Motion",
+		img: "images/animated-sinewave.gif",
+		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
+		link: "",
+		credit: "",
+	},
 	
 		{
 		name: "Before Zeta | Film",
@@ -119,13 +126,13 @@ let WEBSITE_DATA = [
 	
 			
 		
-																	{
-		name: "SAW Oscillator",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
-		link: "",
-		credit: "",
-	},
+// 																	{
+// 		name: "SAW Oscillator",
+// 		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+// 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 				{
 		name: "Movement Research Performance Journal Publication (2021)",
@@ -140,14 +147,7 @@ let WEBSITE_DATA = [
 
 
 	
-			
-			{
-		name: "Projectile Motion",
-		img: "images/animated-sinewave.gif",
-		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
-		link: "",
-		credit: "",
-	},
+
 	
 		
 {
@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 	
  	{
 			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
+			img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -531,7 +531,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg", 
+		img: "images/ScreenShot2023-02-03at7.06.17PM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
