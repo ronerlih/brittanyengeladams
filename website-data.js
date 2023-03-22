@@ -265,13 +265,13 @@ let WEBSITE_DATA = [
 	
 		
 	
-		{
-		name: "Quantum Computing",
-		img: "images/",
-		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Quantum Computing",
+// 		img: "images/",
+// 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 
 
