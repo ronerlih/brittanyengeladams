@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/avtarhigh.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
