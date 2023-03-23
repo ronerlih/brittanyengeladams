@@ -186,7 +186,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/11414121191918.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Dance Teacher, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -429,7 +429,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically. As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by 'where or 'when'. Gravitational singularities exist at a junction between general relativity and quantum mechanics; therefore, the properties of the singularity cannot be described without an established theory of quantum gravity. ",
 		link: "",
 		credit: "",
@@ -561,7 +561,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
