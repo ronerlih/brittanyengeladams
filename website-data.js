@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 	
  	{
 			name: "Architecture of Memory",
-			img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg", 
+			img: "images/2138383815138158.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -422,7 +422,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/ScreenShot20230204at1.39.14PM.png",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
 		blurb: "An accessible, nontechnical overview of active touch sensing, from sensory receptors in the skin to tactile surfaces on flat screen displays. Haptics, or haptic sensing, refers to the ability to identify and perceive objects through touch. This is active touch, involving exploration of an object with the hand rather than the passive sensing of a vibration or force on the skin. The development of new technologies, including prosthetic hands and tactile surfaces for flat screen displays, depends on our knowledge of haptics.",
 		link: "",
 		credit: "",
@@ -448,7 +448,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
 		link: "",
 		credit: "",
@@ -492,7 +492,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/r0.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -520,7 +520,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/Roland_TR-808_(large).jpg",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -529,13 +529,13 @@ let WEBSITE_DATA = [
 
 
 	
-		{
-		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png", 
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
-		link: "",
-		credit: "",
-	},
+// 		{
+// 		name: "Hypothalamus",
+// 		img: "images/ScreenShot2023-02-27at1.20.10PM.png", 
+// 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 
 	{
@@ -561,7 +561,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/SS7.47.47M.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
@@ -569,7 +569,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/hawaii0011.jpg",
 		blurb: "While receptors for the other senses are localized in compact sense organs (the ears for hearing, the eyes for sight, the nose for smell), receptors for touch and its kindred senses are distributed all over the skin and inside the body. Many of these receptors are essentially nerve endings encapsulated in the cells of surrounding skin, muscle, or other tissue that have been modified into structures to convey physical forces (pressure, stretching, motion) to them. Stimulating these mechanical receptors allows the flow of charged particles into the nerve, transforming the physical force into the brain’s language of electrical impulses.",
 		link: "",
 		credit: "",
@@ -578,7 +578,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape II | Tessellation",
-		img: "images/11_91919_.jpeg",
+		img: "images/SS2023124534PM.png",
 		blurb: "Online Tessellation",
 		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
@@ -595,7 +595,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-07at5.01.45PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
