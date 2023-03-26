@@ -266,13 +266,13 @@ let WEBSITE_DATA = [
 	
 		
 	
-// 		{
-// 		name: "Quantum Computing",
-// 		img: "images/",
-// 		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Quantum Computing",
+		img: "images/",
+		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
+		link: "",
+		credit: "",
+	},
 	
 
 
@@ -301,13 +301,13 @@ let WEBSITE_DATA = [
 
 
 	
-// 		{
-// 		name: "Infinitesimal Calculus",
-// 		img: "images/1SomatosensoryAxonTypes.png",
-// 		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
-// 		link: "",
-// 		credit: "",
-// 	},	
+		{
+		name: "Infinitesimal Calculus",
+		img: "images/1SomatosensoryAxonTypes.png",
+		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
+		link: "",
+		credit: "",
+	},	
 	
  	{
 			name: "Architecture of Memory",
@@ -449,7 +449,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/hawaii0011.jpg",
 		blurb: "In response to acute stress, the body’s sympathetic nervous system is activated due to the sudden release of hormones. The sympathetic nervous systems stimulate the adrenal glands triggering the release of catecholamines, which include adrenaline and noradrenaline. This results in an increase in heart rate, blood pressure, and breathing rate.2 After the threat is gone, it takes between 20 to 60 minutes for the body to return to its pre-arousal levels.",
 		link: "",
 		credit: "",
