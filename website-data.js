@@ -407,20 +407,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-
-				
-
-
-			 {
-		name: "Postmodernism",
-		img: "images/23-1.jpg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
-		link: "",
-		credit: "",
-	},
-	
+		
 				{
 		name: "Haptics",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -428,6 +415,19 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+
+
+				
+
+
+			 {
+		name: "Postmodernism",
+		img: "images/rmb45m_004.jpg",
+		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		link: "",
+		credit: "",
+	},
+
 			{
 		name: "Gravitational Singularity",
 		img: "images/Spacetime_lattice_analogy.svg.png",
