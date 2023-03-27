@@ -381,7 +381,7 @@ let WEBSITE_DATA = [
 																										{
 		name: "The Limbic System",
 		img: "images/streetelementspillar_00080.jpeg",
-		blurb: "The limbic system is responsible for the bulk of nonpropositional human communication. This forebrain network of cortical and subcortical structures has been thought of only in relation to its regulation of emotion and motivation, but in fact its range of functional responsibilities is large and includes major segments of social and communicative behavior. It is known that humans share these structures homologously with other mammals, and for nonhuman primates, the limbic system comprises the level of neural activity that controls species-wide communication interactions.",
+		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem. The thalamus, hypothalamus (production of important hormones and regulation of thirst, hunger, mood etc) and basal ganglia (reward processing, habit formation, movement and learning) are also involved in the actions of the limbic system, but two of the major structures are the hippocampus and the amygdala.",
 		link: "",
 		credit: "",
 	},
@@ -541,7 +541,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		img: "images/flameemoji3dmodel001.jpg",
 		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
 		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
 		credit: "",
@@ -551,9 +551,9 @@ let WEBSITE_DATA = [
 
 
 {
-		name: "Cartesian Dualism",
+		name: "Cartesian Dualism Theory",
 		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb: "‘Cartesian dualism’, in the following sense, holds that a normal human being involves two substances, one a body and the other a person. The latter is not, however, a purely mental substance that can be defined in terms of thought or consciousness alone, as Descartes claimed. But persons and their bodies have different identity conditions and are both substances, so there are two substances essentially involved in a human being, hence this is a form of substance dualism.",
+		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
 	},
