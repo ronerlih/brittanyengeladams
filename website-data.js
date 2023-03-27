@@ -53,7 +53,7 @@ let WEBSITE_DATA = [
 		},
 	
 						 												{
-		name: "Free will",
+		name: "Free Will",
 		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
@@ -250,14 +250,14 @@ let WEBSITE_DATA = [
 
 
 
-// 		{
-// 		name: "Harvestworks |  Residency",
-// 		img: "images/8118221151181119920231518111.jpeg",
-// 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-// 		link: "https://www.harvestworks.org/",
-// 		credit: "",
+		{
+		name: "Harvestworks |  Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
+		link: "https://www.harvestworks.org/",
+		credit: "",
 		
-// 		},	
+		},	
 	
 
 	
@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Quantum Computing",
 		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "Quantum computing solves mathematical problems and runs quantum models using the tenets of quantum theory. Some of the quantum systems it is used to model include photosynthesis, superconductivity and complex molecular formations.",
+		blurb: "Quantum computing refers to using the principles of quantum mechanics to manipulate information and perform computations. Algorithms designed for quantum computers take advantage of the fact that quantum-mechanical systems may exist in a superposition of states to solve certain problems up to exponentially faster than classical computers. Once quantum computing becomes scalable, it will have enormous practical implications in a wide variety of fields including cryptography, computational chemistry, mathematics, and computer science.",
 		link: "",
 		credit: "",
 	},
@@ -303,15 +303,15 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/",
-		blurb: "In mathematics, an infinitesimal number is a quantity that is closer to zero than any standard real number, but that is not zero. The word infinitesimal comes from a 17th-century Modern Latin coinage infinitesimus, which originally referred to the 'infinity-th' item in a sequence.",
+		img: "images/ScreenShot2023-02-22at5.22.58PM.png",
+		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
 	},	
 	
  	{
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
+			img: "images/front.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
