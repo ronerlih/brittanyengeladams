@@ -268,7 +268,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Quantum computing refers to using the principles of quantum mechanics to manipulate information and perform computations. Algorithms designed for quantum computers take advantage of the fact that quantum-mechanical systems may exist in a superposition of states to solve certain problems up to exponentially faster than classical computers. Once quantum computing becomes scalable, it will have enormous practical implications in a wide variety of fields including cryptography, computational chemistry, mathematics, and computer science.",
 		link: "",
 		credit: "",
@@ -610,14 +610,14 @@ let WEBSITE_DATA = [
 
 	
 		
-// 														{
-// 	      name: "Pineal Gland DMT neurotransmitter system ",
-// 		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
-// 		blurb: "The requisite enzymes for DMT synthesis occur in pineal. If the pineal gland does in fact produce DMT, the next question is whether it plays any kind of role in ‘a potential DMT neurotransmitter system’ that could exist in the body. If there is a DMT neurotransmitter system, and if it regulates our sense of reality, that opens many interesting avenues regarding questions of how biological function (the body) affects the mind (consciousness) on a moment to moment basis. That is, if higher activity of the DMT neurotransmitter system is associated with a greater sense of reality (truth, certainty, importance, etc), and lower activity vice versa, what then regulates DMT activity.",
-// 		link: "",
-// 		credit: "",
+														{
+	      name: "Pineal Gland DMT neurotransmitter system",
+		img: "images/xiaomicyberdogriggedformayamb3dmodel006.jpeg",
+		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
+		link: "",
+		credit: "",
 	
-// 	},
+	},
 	
 	
 	
@@ -643,13 +643,13 @@ let WEBSITE_DATA = [
 
 	
 	
-// 		{
-// 		name: "Hand Dance Research",
-// 		img: "images/11414121191918.gif",
-// 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Hand Dance Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
