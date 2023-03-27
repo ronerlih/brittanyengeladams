@@ -31,15 +31,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 						{
+						{
 							
-// 		name: "Non-Sinusoidal",
-// 		img: "images/2023012170559PM.png",
-// 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
-// 		link: "",
-// 		credit: "",
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
+		link: "",
+		credit: "",
 	
-// 	},
+	},
 	
 	
 	
@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 			{
 
 		name: "Neural Network",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -390,7 +390,7 @@ let WEBSITE_DATA = [
  	
 														 		{
 		name: "Superposition",
-		img: "images/",
+		img: "images/hawaii0011.jpg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -449,7 +449,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
