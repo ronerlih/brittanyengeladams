@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/S2022102835049AM.jpg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -339,7 +339,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -586,16 +586,14 @@ let WEBSITE_DATA = [
 	
 	},
 
-
-		
-	
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-07at5.01.45PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+		{
+		name: "Hand Dance Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
+
 
 		
 	
@@ -642,14 +640,16 @@ let WEBSITE_DATA = [
 	
 
 	
+			
 	
-		{
-		name: "Hand Dance Research",
-		img: "images/11414121191918.gif",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
+
 	
 
 	
