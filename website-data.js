@@ -552,7 +552,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Cartesian Dualism Theory",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/rmb45m_004.jpg",
 		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
