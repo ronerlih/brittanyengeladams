@@ -401,7 +401,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/r0.jpg",
+		img: "images/prep_stop.jpg",
 		blurb: "When you engage in a mental workload task, such as solving a bunch of math problems (even if not particularly hard), the level willtend to shoot up and then gradually decline. Because many different kinds of events can elevate your skin conductance (strong emotion, a startling event, a demanding task, etc.)",
 		link: "",
 		credit: "",
@@ -511,7 +511,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
+		img: "images/r0.jpg",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
