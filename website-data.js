@@ -232,7 +232,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -552,7 +552,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Cartesian Dualism Theory",
-		img: "images/ScreenShot2023-03-01at12.56.42PM.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
@@ -644,7 +644,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
