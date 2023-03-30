@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Before Zeta | Film",
-		img: "images/capecod11.png",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 		credit: "",
@@ -34,7 +34,7 @@ let WEBSITE_DATA = [
 						{
 							
 		name: "Non-Sinusoidal",
-		img: "images/animated-sinewave.gif",
+		img: "images/2023012170559PM.png",
 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
 		link: "",
 		credit: "",
@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Free Will",
-		img: "images/Madonna_retina_stingU2?lololol.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
+		img: "images/23-1.jpg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -86,7 +86,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -484,7 +484,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-24at9.35.42PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -562,7 +562,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/SS7.47.47M.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
@@ -576,14 +576,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	}, 
 	
-	
-															{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
+																								{
+		name: "Farewell 2020",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "",
 		credit: "",
-	
 	},
 
 // 		{
@@ -607,16 +605,18 @@ let WEBSITE_DATA = [
 	
 	},
 	
-	
 		
 	
-																								{
-		name: "Farewell 2020",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "",
+															{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
+	
 	},
+		
+
 	
 	
 	
