@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 				
 			{
 		name: "Projectile Motion",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. The applications of projectile motion in physics and engineering are numerous. Some examples include meteors as they enter Earth’s atmosphere, fireworks, and the motion of any ball in sports. Such objects are called projectiles and their path is called a trajectory. The motion of falling objects as discussed in Motion Along a Straight Line is a simple one-dimensional type of projectile motion in which there is no horizontal movement. In this section, we consider two-dimensional projectile motion, and our treatment neglects the effects of air resistance.’",
 		link: "",
 		credit: "",
@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
+			img: "images/masongross_loree_fall_concert_2021_.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -221,7 +221,7 @@ let WEBSITE_DATA = [
  	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at6.49.29PM.png",
+		img: "images/SS7.47.47M.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -319,7 +319,7 @@ let WEBSITE_DATA = [
 	
 							{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
@@ -380,7 +380,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Limbic System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/giraffes.jpeg",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem. The thalamus, hypothalamus (production of important hormones and regulation of thirst, hunger, mood etc) and basal ganglia (reward processing, habit formation, movement and learning) are also involved in the actions of the limbic system, but two of the major structures are the hippocampus and the amygdala.",
 		link: "",
 		credit: "",
@@ -521,7 +521,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-07at5.08.06PM.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
