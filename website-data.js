@@ -380,7 +380,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Limbic System",
-		img: "images/giraffes.jpeg",
+		img: "images/SS202302037.11.31PM.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem. The thalamus, hypothalamus (production of important hormones and regulation of thirst, hunger, mood etc) and basal ganglia (reward processing, habit formation, movement and learning) are also involved in the actions of the limbic system, but two of the major structures are the hippocampus and the amygdala.",
 		link: "",
 		credit: "",
