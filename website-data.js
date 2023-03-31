@@ -532,7 +532,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Hypothalamus",
-		img: "images/front.jpg", 
+		img: "images/wfporcos_0003.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
@@ -562,7 +562,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Aristotle’s Ethics",
-		img: "images/SS7.47.47M.png",
+		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
 		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
 		link: "",
 		credit: "",
@@ -575,15 +575,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	}, 
-	
-																								{
-		name: "Farewell 2020",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
-		link: "",
+																{
+	      name: "Emergent Landscape II | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb: "Online Tessellation",
+		link: "https://www.brittanyengeladams.com/who-blue.html",
 		credit: "",
+	
 	},
-
+	
 // 		{
 // 		name: "Hand Dance Research",
 // 		img: "images/11414121191918.gif",
@@ -607,15 +607,16 @@ let WEBSITE_DATA = [
 	
 		
 	
-															{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
+
 	
+	
+																								{
+		name: "Farewell 2020",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
+		link: "",
+		credit: "",
 	},
-		
 
 	
 	
