@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -493,7 +493,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/streetelementspillar_00080.jpeg",
+		img: "images/01_v4.jpeg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -511,7 +511,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-03at7.06.17PM.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -575,14 +575,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	}, 
-																{
-	      name: "Emergent Landscape II | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb: "Online Tessellation",
-		link: "https://www.brittanyengeladams.com/who-blue.html",
-		credit: "",
+// 																{
+// 	      name: "Emergent Landscape II | Tessellation",
+// 		img: "images/SS2023124534PM.png",
+// 		blurb: "Online Tessellation",
+// 		link: "https://www.brittanyengeladams.com/who-blue.html",
+// 		credit: "",
 	
-	},
+// 	},
 	
 // 		{
 // 		name: "Hand Dance Research",
