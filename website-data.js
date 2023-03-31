@@ -472,7 +472,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
 		link: "",
 		credit: "",
