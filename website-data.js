@@ -54,7 +54,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -65,7 +65,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-02-28at8.38.33AM.png",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -77,7 +77,7 @@ let WEBSITE_DATA = [
 
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/masongross_loree_fall_concert_2021_.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
