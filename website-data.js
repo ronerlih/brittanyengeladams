@@ -195,7 +195,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/SS202301227.20.49PM.png",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
