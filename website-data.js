@@ -86,7 +86,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Maquette 21",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -99,7 +99,7 @@ let WEBSITE_DATA = [
 			{
 
 		name: "Neural Network",
-		img: "images/contex.jpg",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
