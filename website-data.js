@@ -497,7 +497,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		img: "images/contex.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -558,7 +558,7 @@ let WEBSITE_DATA = [
 
 {
 		name: "Cartesian Dualism Theory",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
@@ -568,7 +568,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/",
+		img: "images/ScreenShot2023-02-07at5.01.45PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -605,7 +605,7 @@ let WEBSITE_DATA = [
 		
 														{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
 		link: "",
 		credit: "",
