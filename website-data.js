@@ -31,9 +31,9 @@ let WEBSITE_DATA = [
 							{
 							
 		name: "Doppler Effect",
-		img: "images/2023012170559PM.png",
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
 		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
-		link: "",
+		link: "https://www.britannica.com/science/Doppler-effect",
 		credit: "",
 	
 	},
@@ -166,7 +166,7 @@ let WEBSITE_DATA = [
 // 			{
 // 		name: "Bismuth",
 // 		img: "images/adolph_men_zel123.png",
-// 		blurb: "bismuth (Bi), the most metallic and the least abundant of the elements in the nitrogen group (Group 15 [Va] of the periodic table). Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
+// 		blurb: "bismuth is the most metallic and the least abundant of the elements in the nitrogen group. Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
 // 		link: "",
 // 		credit: "",
 // 	},
@@ -275,10 +275,10 @@ let WEBSITE_DATA = [
 		
 	
 		{
-		name: "Quantum Computing",
+		name: "Quantum Computing & Bismuth",
 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
-		blurb: "Quantum computing refers to using the principles of quantum mechanics to manipulate information and perform computations. Algorithms designed for quantum computers take advantage of the fact that quantum-mechanical systems may exist in a superposition of states to solve certain problems up to exponentially faster than classical computers. Once quantum computing becomes scalable, it will have enormous practical implications in a wide variety of fields including cryptography, computational chemistry, mathematics, and computer science.",
-		link: "",
+		blurb: "Bismuth has hallmark signatures of materials known as topological insulators, which get their name because they move electricity efficiently at the edge of their surfaces. In solid materials carrying electricity, electrons tend to accelerate and scatter randomly until they no longer conduct energy in any particular direction. As scattering occurs, electrons collide with other atoms, material impurities, and each other, heating the conducting material. But topological insulators such as bismuth heat much less because they do a much better job at conducting electrons with much less scattering.",
+		link: "https://news.northeastern.edu/2019/09/11/northeastern-university-physics-professor-arun-bansil-discovered-new-properties-of-bismuth-that-may-be-useful-for-low-power-electronics-and-supercomputers/",
 		credit: "",
 	},
 	
@@ -321,7 +321,7 @@ let WEBSITE_DATA = [
 																							{
 		name: "Shower | Performance",
 		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' (2014) a performative work inspired by the music of American musical composer Nico Muhly. Presented at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
@@ -331,30 +331,29 @@ let WEBSITE_DATA = [
 							{
 		name: "Ancestral Artifact 'Mizrach'",
 		img: "images/1215225.jpeg",
-		blurb: "A 'Mizrach' crafted by  my great-great grandfather, Israel Manaschewitz for my grandmother, Judy Engel, whose from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "'Mizrach' crafted by, Israel Manaschewitz (great-great grandfather) for my Bubie. She comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
 	
-	
-	
-														{
-	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
-	},
 			
-			
-		{
-		name: "Panpsychism",
-		img: "images/braininjarb.jpg",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+																								{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
 	},
+	
+		
+			
+// 		{
+// 		name: "Panpsychism",
+// 		img: "images/braininjarb.jpg",
+// 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+// 		link: "",
+// 		credit: "",
+// 	},
 		
 	
 
@@ -369,6 +368,8 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+	
 
 										{
 		name: "Hand Dance | Film",
@@ -378,15 +379,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-		
-																								{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "",
-		credit: "",
-	},
 
+														{
+	      name: "Emergent Landscape I | Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},
+	
 	
 	
 																										{
@@ -611,22 +613,22 @@ let WEBSITE_DATA = [
 
 	
 		
-														{
-	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
-		link: "",
-		credit: "",
+// 														{
+// 	      name: "Pineal Gland DMT neurotransmitter system",
+// 		img: "images/lemon_rr_00.jpeg",
+// 		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
+// 		link: "",
+// 		credit: "",
 	
-	},
+// 	},
 	
 
 
 																										{
-		name: "Aristotle’s Ethics",
+		name: "Nicomachean Ethics",
 		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
-		blurb: "Aristotle conceives of ethical theory as a field distinct from the theoretical sciences. Its methodology must match its subject matter—good action—and must respect the fact that in this field many generalizations hold only for the most part.",
-		link: "",
+		blurb: "In the Nicomachean Ethics, Aristotle sets out to examine the nature of happiness. He argues that happiness consists in ‘activity of the soul in accordance with virtue’, for example with moral virtues, such as courage, generosity and justice, and intellectual virtues, such as knowledge, wisdom and insight. The Ethics also discusses the nature of practical reasoning, the value and the objects of pleasure, the different forms of friendship, and the relationship between individual virtue, society and the State. Aristotle’s work has had a profound and lasting influence on all subsequent Western thought about ethical matters.",
+		link: "https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics",
 		credit: "",
 	},		
 	
