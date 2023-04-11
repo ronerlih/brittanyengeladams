@@ -441,7 +441,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/captura.jpg",
+		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -495,20 +495,19 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-					{
-		name: "Singularity Is Near",
-		img: "images/contex.jpg",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+
+	{
+		name: "Cartesian Dualism Theory",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
 	},
-	
-	
 
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/skin-receptors-senses-basics.jpg",
+		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -554,15 +553,16 @@ let WEBSITE_DATA = [
 	},
 
 	
-
-
-{
-		name: "Cartesian Dualism Theory",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
-		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
+					{
+		name: "Singularity Is Near",
+		img: "images/contex.jpg",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
+	
+
+
 
 			
 	
