@@ -28,18 +28,26 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	
-	
-						{
+							{
 							
-		name: "Non-Sinusoidal",
+		name: "Doppler Effect",
 		img: "images/2023012170559PM.png",
-		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
+		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
 		link: "",
 		credit: "",
 	
 	},
+	
+	
+// 						{
+							
+// 		name: "Non-Sinusoidal",
+// 		img: "images/2023012170559PM.png",
+// 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
+// 		link: "",
+// 		credit: "",
+	
+// 	},
 	
 	
 	
@@ -65,7 +73,7 @@ let WEBSITE_DATA = [
 		
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/bostond.gif",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -332,7 +340,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/S2022102835049AM.jpg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -342,7 +350,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/braininjarb.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -364,7 +372,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Hand Dance | Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		img: "images/79514154515144445114______444_44.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -451,7 +459,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/Roland_TR-808_(large).jpg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -468,7 +476,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
 		link: "",
 		credit: "",
@@ -532,7 +540,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-03-01at11.21.04AM.png",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
