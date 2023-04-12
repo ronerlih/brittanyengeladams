@@ -626,7 +626,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/ScreenShot2023-02-13at9.10.00PM.png",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "In the Nicomachean Ethics, Aristotle sets out to examine the nature of happiness. He argues that happiness consists in ‘activity of the soul in accordance with virtue’, for example with moral virtues, such as courage, generosity and justice, and intellectual virtues, such as knowledge, wisdom and insight. The Ethics also discusses the nature of practical reasoning, the value and the objects of pleasure, the different forms of friendship, and the relationship between individual virtue, society and the State. Aristotle’s work has had a profound and lasting influence on all subsequent Western thought about ethical matters.",
 		link: "https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics",
 		credit: "",
