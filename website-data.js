@@ -240,7 +240,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/2138383815138158.jpg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 	
  	{
 			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
+			img: "images/front.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -393,7 +393,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Limbic System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/SS202302037.11.31PM.PNG",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem. The thalamus, hypothalamus (production of important hormones and regulation of thirst, hunger, mood etc) and basal ganglia (reward processing, habit formation, movement and learning) are also involved in the actions of the limbic system, but two of the major structures are the hippocampus and the amygdala.",
 		link: "",
 		credit: "",
@@ -403,7 +403,7 @@ let WEBSITE_DATA = [
  	
 														 		{
 		name: "Superposition",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -423,7 +423,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -517,7 +517,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.PNG",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -660,7 +660,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/242543148_10222276472273649_1878152047925662837_n.jpg",
+		img: "images/hawaii0011.jpg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
