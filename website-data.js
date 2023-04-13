@@ -1,6 +1,14 @@
 let WEBSITE_DATA = [
 	
 
+		{
+		name: "Before Zeta | Film",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "",
+		credit: "",
+	},
+		
 
 			{
 				
@@ -11,14 +19,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			{
-		name: "Before Zeta | Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-		credit: "",
-	},
-				
+			
 			{
 		name: "Projectile Motion",
 		img: "images/aim9x_000b.jpeg",
@@ -27,16 +28,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-							{
-							
-		name: "Doppler Effect",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
-		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
-		link: "https://www.britannica.com/science/Doppler-effect",
+	{
+		name: "Maquette 21",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
 		credit: "",
-	
 	},
+	
 	
 	
 // 						{
@@ -507,18 +506,18 @@ let WEBSITE_DATA = [
 	
 
 	{
-		name: "Cartesian Dualism Theory",
+		name: "Cartesian Dualism",
 		img: "images/hawaii0011.jpg",
-		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
+		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
 	},
 
 	
 	{
-		name: "Autonomic Nervous System",
+		name: "The Nervous System",
 		img: "images/rmb45m_004.jpg",
-		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
+		blurb: "The sympathetic nervous system (SNS) and the parasympathetic nervous system (PSNS) are both components of the autonomic nervous system (ANS). Together, they regulate the involuntary and reflexive functions of the human body. The PSNS controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. It is responsible for regulating digestive and sexual function while keeping heart rate and blood pressure steady. The SNS is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
 	},
@@ -557,8 +556,8 @@ let WEBSITE_DATA = [
 	{
 		name: "Rhizome",
 		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
-		blurb: "Rhizome comes from the Greek rhizoma. Rhizome is often taken as being synonymous with “root”; in botany, a rhizome is a plant structure that grows underground and has both roots (commonly, the part that grows down into the ground) and shoots (commonly, the part that grows up through the ground). The word is associated with postmodern theorists Gilles Deleuze and Felix Guattari, who use the rhizome to describe a process of existence and growth that does not come from a single central point of origin.",
-		link: "https://literariness.org/2017/04/26/the-philosophical-concept-of-rhizome/",
+		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
+		link: "",
 		credit: "",
 	},
 
