@@ -75,7 +75,7 @@ let WEBSITE_DATA = [
 			{
 
 		name: "Neural Network",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/01_v4.jpeg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -123,14 +123,7 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 
-	{
-		name: "Maquette 21",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},
-	
+
 			
 		
 																	{
@@ -143,7 +136,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/SS7.47.47M.png",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -210,14 +203,22 @@ let WEBSITE_DATA = [
 	},
 
 
+// 				{
+// 		name: "Skeletal Avatar",
+// 		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
+// 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+// 		link: "",
+// 		credit: "",
+// 	},	
+
+	
 				{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		name: "Skeletal System",
+		img: "images/7_wt.jpeg",
+		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth. Regardless of age or sex, the skeletal system can be broken down into two parts, known as the axial skeleton and the appendicular skeleton..",
 		link: "",
 		credit: "",
-	},	
-
+	},
 	
 	
 		
@@ -275,10 +276,10 @@ let WEBSITE_DATA = [
 		
 	
 		{
-		name: "Quantum Computing & Bismuth",
+		name: "Quantum Computing",
 		img: "images/9a.jpeg",
-		blurb: "Bismuth has hallmark signatures of materials known as topological insulators, which get their name because they move electricity efficiently at the edge of their surfaces. In solid materials carrying electricity, electrons tend to accelerate and scatter randomly until they no longer conduct energy in any particular direction. As scattering occurs, electrons collide with other atoms, material impurities, and each other, heating the conducting material. But topological insulators such as bismuth heat much less because they do a much better job at conducting electrons with much less scattering.",
-		link: "https://news.northeastern.edu/2019/09/11/northeastern-university-physics-professor-arun-bansil-discovered-new-properties-of-bismuth-that-may-be-useful-for-low-power-electronics-and-supercomputers/",
+		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+		link: "",
 		credit: "",
 	},
 	
