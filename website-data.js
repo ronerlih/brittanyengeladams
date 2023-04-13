@@ -373,7 +373,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Hand Dance | Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
 		credit: "",
@@ -601,13 +601,13 @@ let WEBSITE_DATA = [
 	
 // 	},
 	
-// 		{
-// 		name: "Hand Dance Research",
-// 		img: "images/11414121191918.gif",
-// 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Hand Dance Research",
+		img: "images/11414121191918.gif",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 
 
 
