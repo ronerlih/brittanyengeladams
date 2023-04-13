@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 		img: "images/1651351514511820_lt_h.gif",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "",
-		credit: "Photo by Joshua Okoro",
+		credit: "",
 		
 		},
 	
@@ -133,13 +133,13 @@ let WEBSITE_DATA = [
 	
 			
 		
-// 																	{
-// 		name: "SAW Oscillator",
-// 		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
-// 		blurb: "SAW (Surface Acoustic Wave) Oscillators by Phonon are essentially specialty microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
-// 		link: "",
-// 		credit: "",
-// 	},
+																	{
+		name: "Crystal & SAW Oscillators",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
+		link: "",
+		credit: "",
+	},
 
 				{
 		name: "Movement Research Performance Journal Publication (2021)",
@@ -179,13 +179,13 @@ let WEBSITE_DATA = [
 
 	 
 
-// 		{
-// 		name: "Electron Cloud Atomic Model",
-// 		img: "images/SS7.47.47M.png",
-// 		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		{
+		name: "Electron Cloud Atomic Model",
+		img: "images/SS7.47.47M.png",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+		link: "",
+		credit: "",
+	},
 
 
 	
