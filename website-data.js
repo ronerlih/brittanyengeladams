@@ -126,8 +126,8 @@ let WEBSITE_DATA = [
 
 				
 																								{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
@@ -370,7 +370,7 @@ let WEBSITE_DATA = [
 
 
 					{
-		name: "Digital Sculpture",
+		name: "3D Scene",
 		img: "images/08851212212510_2189202011994__2912202011522519.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -390,7 +390,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/redscroll202.gif",
+		img: "images/S2022110192534.jpeg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
