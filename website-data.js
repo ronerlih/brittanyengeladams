@@ -451,7 +451,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/captura.jpg",
 		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -499,7 +499,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Polarization",
-		img: "images/Rhizome.png",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -532,7 +532,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hypothalamus",
-		img: "images/dna_wireframe_0004.jpg", 
+		img: "images/wfporcos_0003.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
@@ -627,7 +627,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "In the Nicomachean Ethics, Aristotle sets out to examine the nature of happiness. He argues that happiness consists in ‘activity of the soul in accordance with virtue’, for example with moral virtues, such as courage, generosity and justice, and intellectual virtues, such as knowledge, wisdom and insight. The Ethics also discusses the nature of practical reasoning, the value and the objects of pleasure, the different forms of friendship, and the relationship between individual virtue, society and the State. Aristotle’s work has had a profound and lasting influence on all subsequent Western thought about ethical matters.",
 		link: "https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics",
 		credit: "",
