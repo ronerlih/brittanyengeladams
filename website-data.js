@@ -29,7 +29,7 @@ let WEBSITE_DATA = [
 	},
 	
 	{
-		name: "Maquette 21",
+		name: "Maquette 2021",
 		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "3D Scene",
-		img: "images/08851212212510_2189202011994__2912202011522519.gif",
+		img: "images/einstein.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
