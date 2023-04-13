@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/SS7.47.47M.PNG",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.PNG",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/01_v4.jpeg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Professor of Dance, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -203,7 +203,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 	
  	{
 			name: "Architecture of Memory",
-			img: "images/front.jpg", 
+			img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -330,7 +330,7 @@ let WEBSITE_DATA = [
 	
 							{
 		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1215225.jpeg",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "'Mizrach' crafted by, Israel Manaschewitz (great-great grandfather) for my Bubie. She comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
@@ -382,7 +382,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I | Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/S2022110192534.jpeg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -390,7 +390,7 @@ let WEBSITE_DATA = [
 	},
 	
 	
-	-
+
 																										{
 		name: "Limbic System",
 		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
@@ -414,7 +414,7 @@ let WEBSITE_DATA = [
 	
 	 				{
 		name: "Skin Conductance Response",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/ScreenShot2023-02-06at10.41.24AM.png",
 		blurb: "When you engage in a mental workload task, such as solving a bunch of math problems (even if not particularly hard), the level willtend to shoot up and then gradually decline. Because many different kinds of events can elevate your skin conductance (strong emotion, a startling event, a demanding task, etc.)",
 		link: "",
 		credit: "",
@@ -508,7 +508,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism Theory",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/collection_heavy_vehicle_02.jpg",
 		blurb: "The French philosopher René Descartes (1596-1650) argued that the natures of mind and body are completely different from one another and that each could exist by itself.",
 		link: "",
 		credit: "",
@@ -517,7 +517,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Autonomic Nervous System",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.PNG",
+		img: "images/rmb45m_004.jpg",
 		blurb: "The autonomic nervous system consists of general visceral efferent fibers that create a motor response due to general visceral afferent fiber stimulation. Although general visceral afferent fibers are part of the ANS, they are not classified as part of the sympathetic or parasympathetic system. However, these visceral sensory nerves often colocalize within sympathetic and parasympathetic nerves. GVA fibers carry sensory impulses from internal organs to the central nervous system. Stimuli that activate GVA fibers include hunger, blood pressure, organ distention, and visceral inflammation.",
 		link: "",
 		credit: "",
@@ -532,7 +532,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
+		img: "images/dna_wireframe_0004.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
