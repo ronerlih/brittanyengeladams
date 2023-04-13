@@ -52,23 +52,22 @@ let WEBSITE_DATA = [
 	
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/ScreenShot2023-02-052.20PM.png", 
+			img: "images/loreewide.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
 	
 },
-
-
-			
-																								{
-		name: "Wireless Fidelity | Exhibition",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "",
-		credit: "",
-	},	
+	{
 	
+		name: "Doppler Effect",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
+		link: "",
+
+	},
+
+
 
 		
 
@@ -123,15 +122,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		}, 
 	
-	{
-	
-		name: "Doppler Effect",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
-		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
-		link: "https://www.britannica.com/science/Doppler-effect",
 
-	},
 
+				
+																								{
+		name: "Wireless Fidelity | Exhibition",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		link: "",
+		credit: "",
+	},	
 			
 		
 																	{
