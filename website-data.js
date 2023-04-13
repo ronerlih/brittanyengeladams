@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 							{
 							
 		name: "Doppler Effect",
-		img: "images/maxresdefault.jpg",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
 		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
 		link: "https://www.britannica.com/science/Doppler-effect",
 		credit: "",
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 	
 						 												{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.PNG",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
