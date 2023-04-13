@@ -52,7 +52,7 @@ let WEBSITE_DATA = [
 	
 													{
 			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			img: "images/ScreenShot2023-02-052.20PM.png", 
 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
 			link: "",
 			credit: "",
@@ -122,7 +122,15 @@ let WEBSITE_DATA = [
 			link: "https://www.joffreyballetschool.com",
 			credit: "",
 		}, 
+	
+	{
+	
+		name: "Doppler Effect",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
+		link: "https://www.britannica.com/science/Doppler-effect",
 
+	},
 
 			
 		
@@ -330,9 +338,9 @@ let WEBSITE_DATA = [
 
 	
 							{
-		name: "Ancestral Artifact 'Mizrach'",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "'Mizrach' crafted by, Israel Manaschewitz (great-great grandfather) for my Bubie. She comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		name: "Ancestral Artifact",
+		img: "images/2023-04-1331.18PM.png",
+		blurb: "Judy Engel (my grandmother), comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
