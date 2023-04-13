@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
+		img: "images/Intersection.jpeg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -51,15 +51,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-	{
-		name: "BodyMouth/Ielele | Symposium",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
-		link: "",
-		credit: "Photo by Joshua Okoro",
-		
-		},
+													{
+			name: "Student Dance Concert Curator at Rutgers University",
+			img: "images/ScreenShot2023-02-04at6.03.40PM.png", 
+			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+			link: "",
+			credit: "",
 	
+},
+
 						 												{
 		name: "Autonomous",
 		img: "images/SS2023-04-13.30.41PM.png",
@@ -83,18 +83,18 @@ let WEBSITE_DATA = [
 		
 	
 
-													{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
+	{
+		name: "BodyMouth/Ielele | Symposium",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		link: "",
+		credit: "Photo by Joshua Okoro",
+		
+		},
 	
-},
-
 		{
 		name: "Maquette 21",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -107,7 +107,7 @@ let WEBSITE_DATA = [
 			{
 
 		name: "Neural Network",
-		img: "images/01.jpeg",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 
 				 {
 		name: "YouTube Improv  | Performance",
-		img: "images/72115225215215225591316152255.jpg",
+		img: "images/25521252120021521202552120212052120025913161552120225.gif",
 		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
 		link: "",
 		credit: ""
@@ -143,7 +143,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
+		img: "images/SS7.47.47M.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/1233740.gif",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Professor of Dance, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -240,7 +240,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/2138383815138158.jpg",
+		img: "images/adolph_men_zel123.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -276,7 +276,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing & Bismuth",
-		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+		img: "images/9a.jpeg",
 		blurb: "Bismuth has hallmark signatures of materials known as topological insulators, which get their name because they move electricity efficiently at the edge of their surfaces. In solid materials carrying electricity, electrons tend to accelerate and scatter randomly until they no longer conduct energy in any particular direction. As scattering occurs, electrons collide with other atoms, material impurities, and each other, heating the conducting material. But topological insulators such as bismuth heat much less because they do a much better job at conducting electrons with much less scattering.",
 		link: "https://news.northeastern.edu/2019/09/11/northeastern-university-physics-professor-arun-bansil-discovered-new-properties-of-bismuth-that-may-be-useful-for-low-power-electronics-and-supercomputers/",
 		credit: "",
