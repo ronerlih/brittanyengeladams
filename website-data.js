@@ -459,7 +459,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/670-67.png",
+		img: "images/i050950a.gif",
 		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -540,7 +540,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hypothalamus",
-		img: "images/Avatartracking.jpeg", 
+		img: "images/SS2023-04-1at11.43.53AM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
 		link: "",
 		credit: "",
