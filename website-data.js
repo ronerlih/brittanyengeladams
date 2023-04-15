@@ -144,7 +144,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/_m0t_petty123.png",
+		img: "images/2138383815138158.jpg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -213,7 +213,7 @@ let WEBSITE_DATA = [
 
 // 				{
 // 		name: "Skeletal Avatar",
-// 		img: "images/ScreenShot2023-02-05at2.15.20PM.png",
+// 		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 // 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 // 		link: "",
 // 		credit: "",
@@ -229,21 +229,19 @@ let WEBSITE_DATA = [
 	},
 	
 	
-		
+	
+					{
+		name: "3D Scene",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},	
 
 	
 	
 	
-		
- 	{
-			
-		name: "Posthumanism",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-			
-		},
+
 
 	{
 			name: "New York University's Tisch School of the Arts",
@@ -362,18 +360,20 @@ let WEBSITE_DATA = [
 // 	},
 		
 	
-
+		
+ 	{
+			
+		name: "Posthumanism",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
 		
 
 
 
-					{
-		name: "3D Scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
 	
 	
 
