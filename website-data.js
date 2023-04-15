@@ -136,7 +136,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "Crystal & SAW Oscillators",
-		img: "images/animated-sinewave.gif",
+		img: "images/2023012170559PM.png",
 		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
 		link: "",
 		credit: "",
@@ -204,7 +204,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks | Residency",
-		img: "images/SS202301227.20.49PM.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -281,7 +281,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Quantum Computing",
-		img: "images/adolph_men_zel123.png",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
@@ -457,7 +457,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
+		img: "images/SS11559PM.png",
 		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
