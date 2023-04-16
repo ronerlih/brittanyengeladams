@@ -231,8 +231,8 @@ let WEBSITE_DATA = [
 	
 	
 					{
-		name: "3D Scene",
-		img: "images/morning.png",
+		name: "Digital Sculpture",
+		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
@@ -324,7 +324,7 @@ let WEBSITE_DATA = [
 	
 		
 																							{
-		name: "Shower | Performance",
+		name: "Shower",
 		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
 		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
@@ -378,7 +378,7 @@ let WEBSITE_DATA = [
 	
 
 										{
-		name: "Hand Dance | Film",
+		name: "Hand Dance, Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
@@ -387,7 +387,7 @@ let WEBSITE_DATA = [
 
 
 														{
-	      name: "Emergent Landscape I | Tessellation",
+	      name: "Emergent Landscape I, Tessellation",
 		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
@@ -529,7 +529,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 										{
-		name: "Hand Dance | Research",
+		name: "Hand Dance, Research",
 		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -600,7 +600,7 @@ let WEBSITE_DATA = [
 	},			
 	
 // 																{
-// 	      name: "Emergent Landscape II | Tessellation",
+// 	      name: "Emergent Landscape II, Tessellation",
 // 		img: "images/SS2023124534PM.png",
 // 		blurb: "Online Tessellation",
 // 		link: "https://www.brittanyengeladams.com/who-blue.html",
