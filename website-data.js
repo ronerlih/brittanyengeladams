@@ -96,18 +96,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+				 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		link: "",
+		credit: ""
+	},	
 	
 	
 
-	
-			 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
-		link: "",
-		credit: "",
-	},
-	
+
 	
 	
 		
@@ -130,13 +129,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 			
-				 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		
+			 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
-		credit: ""
-	},	
+		credit: "",
+	},
 		
 
 			{
@@ -200,7 +200,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks Residency",
-		img: "images/8118221151181119920231518111.jpeg",
+		img: "images/8118221151181119920231518111.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -275,10 +275,12 @@ let WEBSITE_DATA = [
 	
 		
 	
-		{
-		name: "Quantum Computing",
-		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+	
+	
+	 				{
+		name: "Skin Conductance",
+		img: "images/S12.46.19P.png",
+		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
 		link: "",
 		credit: "",
 	},
@@ -357,18 +359,18 @@ let WEBSITE_DATA = [
 		
 	
 		
- 	{
-			
-		name: "Posthumanism",
-		img: "images/WatchPolarVortexMovinginOverUS.gif",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+ 
+
+	
+	
+																										{
+		name: "ROM VS. RAM",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
-		credit:"",
-			
-		},
-		
-
-
+		credit: "",
+	},
+	
 
 	
 	
@@ -411,16 +413,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
- 
-	
-	
-	 				{
-		name: "Skin Conductance",
-		img: "images/S12.46.19P.png",
-		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
+		{
+		name: "Quantum Computing",
+		img: "images/qubit_quantumcomp.ong.png",
+		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
 	},
+ 
 
 		
 				{
@@ -497,17 +497,6 @@ let WEBSITE_DATA = [
 	
 
 
-
-	
-	{
-		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
-	
-
 	{
 		name: "Cartesian Dualism",
 		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
@@ -516,6 +505,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+											{
+		name: "Hand Dance (Research)",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	{
 		name: "The Nervous System",
@@ -524,15 +521,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-										{
-		name: "Hand Dance (Research)",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		{
+		name: "Polarization",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
-	
+
 			{
 		name: "Hypothalamus",
 		img: "images/front.jpg", 
@@ -541,17 +537,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-																										{
-		name: "ROM VS. RAM",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
-		link: "",
-		credit: "",
-	},
-	
 
+	{
+			
+		name: "Posthumanism",
+		img: "images/WatchPolarVortexMovinginOverUS.gif",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
+		
 
 	
 
