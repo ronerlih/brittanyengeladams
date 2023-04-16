@@ -11,15 +11,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-			{
-		name: "Before Zeta Film",
-		img: "images/film0875543.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "",
-		credit: "",
-	},
-			
+		
 			{
 		name: "Projectile Motion",
 		img: "images/animated-sinewave.gif",
@@ -27,6 +19,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+	
+				{
+		name: "Before Zeta Film",
+		img: "images/film0875543.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "",
+		credit: "",
+	},
+		
 	
 	{
 		name: "Maquette 2021",
@@ -68,22 +69,6 @@ let WEBSITE_DATA = [
 
 	},
 
-
-
-		
-
-			{
-
-		name: "Neural Network",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-	
-		
-	
-
 	{
 		name: "BodyMouth/Ielele Symposium",
 		img: "images/TTTTtttt04-15t11.34.41M.png",
@@ -93,13 +78,24 @@ let WEBSITE_DATA = [
 		
 		},
 	
-				 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+
+
+			{
+
+		name: "Neural Network",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
-		credit: ""
-	},	
+		credit: "",
+	},
+																	{
+		name: "Crystal & SAW Oscillators",
+		img: "images/crystalc.jpg",
+		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
+		link: "",
+		credit: "",
+	},
+	
 	
 	
 
@@ -134,23 +130,22 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 			
+				 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		link: "",
+		credit: ""
+	},	
 		
-																	{
-		name: "Crystal & SAW Oscillators",
-		img: "images/crystalc.jpg",
-		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
+
+			{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
-	},
-
-				{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},	
+	},	
 
 
 
@@ -211,15 +206,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
 				{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
+		name: "Movement Research Performance Journal Publication",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},	
+	
+},	
 
+	
 	
 // 				{
 // 		name: "Skeletal System",
@@ -388,7 +384,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/S2022102835049AM.jpg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
