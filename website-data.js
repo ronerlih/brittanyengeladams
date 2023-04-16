@@ -50,14 +50,14 @@ let WEBSITE_DATA = [
 	
 	
 	
-													{
-			name: "Student Dance Concert Curator at Rutgers University",
-			img: "images/loreewide.png", 
-			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-			link: "",
-			credit: "",
+// 													{
+// 			name: "Student Dance Concert Curator at Rutgers University",
+// 			img: "images/loreewide.png", 
+// 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
+// 			link: "",
+// 			credit: "",
 	
-},
+// },
 	{
 	
 		name: "Doppler Effect",
@@ -96,7 +96,7 @@ let WEBSITE_DATA = [
 				 {
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do. Presented by Mason Gross School of the Arts at Rutgers University.",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
 		link: "",
 		credit: ""
 	},	
@@ -223,7 +223,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Skeletal System",
-		img: "images/7_wt.jpeg",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth. Regardless of age or sex, the skeletal system can be broken down into two parts, known as the axial skeleton and the appendicular skeleton..",
 		link: "",
 		credit: "",
