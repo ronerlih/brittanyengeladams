@@ -144,8 +144,8 @@ let WEBSITE_DATA = [
 	},
 
 				{
-		name: "Movement Research Performance Journal Publication (2021)",
-		img: "images/2138383815138158.jpg",
+		name: "Movement Research Performance Journal Publication",
+		img: "images/1926318892613892618138.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -514,7 +514,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
