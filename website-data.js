@@ -212,21 +212,21 @@ let WEBSITE_DATA = [
 	},
 
 
-// 				{
-// 		name: "Skeletal Avatar",
-// 		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-// 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-// 		link: "",
-// 		credit: "",
-// 	},	
+				{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},	
 
 	
-				{
-		name: "Skeletal System",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth.",
-		credit: "",
-	},
+// 				{
+// 		name: "Skeletal System",
+// 		img: "images/SS20230201at82532PM.png",
+// 		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth.",
+// 		credit: "",
+// 	},
 	
 	
 	
@@ -539,8 +539,8 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Hypothalamus",
-		img: "images/SS2023-04-1at11.43.53AM.png", 
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders. The hypothalamus’ main role is to keep the body in homeostasis as much as possible. Homeostasis means a healthy and balanced internal state. The body is always trying to achieve this balance.",
+		img: "images/front.jpg", 
+		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
 	},
