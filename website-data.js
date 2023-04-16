@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 	
 			{
-		name: "Before Zeta | Film",
+		name: "Before Zeta Film",
 		img: "images/film0875543.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
@@ -85,7 +85,7 @@ let WEBSITE_DATA = [
 	
 
 	{
-		name: "BodyMouth/Ielele | Symposium",
+		name: "BodyMouth/Ielele Symposium",
 		img: "images/TTTTtttt04-15t11.34.41M.png",
 		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
 		link: "",
@@ -204,7 +204,7 @@ let WEBSITE_DATA = [
 		
 		{
 			
-		name: "Harvestworks | Residency",
+		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
@@ -378,16 +378,16 @@ let WEBSITE_DATA = [
 	
 
 										{
-		name: "Hand Dance, Film",
+		name: "Hand Dance Film",
 		img: "images/181514.jpeg",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
-		link: "https://www.guggenheim.org/initiatives/works-process/virtual-commissions",
+		link: "",
 		credit: "",
 	},	
 
 
 														{
-	      name: "Emergent Landscape I, Tessellation",
+	      name: "Emergent Landscape I Tessellation",
 		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
@@ -530,7 +530,7 @@ let WEBSITE_DATA = [
 	},
 	
 										{
-		name: "Hand Dance, Research",
+		name: "Hand Dance (Research)",
 		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -610,7 +610,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Hand Dance Research",
+		name: "Hand Dance (Research)",
 		img: "images/11414121191918.gif",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -623,7 +623,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
