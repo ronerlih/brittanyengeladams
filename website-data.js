@@ -38,15 +38,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-// 						{
+						{
 							
-// 		name: "Non-Sinusoidal",
-// 		img: "images/2023012170559PM.png",
-// 		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or DC - but that is arguably just a sinusoid at zero frequency.",
-// 		link: "",
-// 		credit: "",
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
+		link: "",
+		credit: "",
 	
-// 	},
+	},
 	
 	
 	
@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 		
 																	{
 		name: "Crystal & SAW Oscillators",
-		img: "images/2023012170559PM.png",
+		img: "images/crystalc.jpg",
 		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
 		link: "",
 		credit: "",
@@ -165,13 +165,13 @@ let WEBSITE_DATA = [
 	},
 
 	
-// 			{
-// 		name: "Bismuth",
-// 		img: "images/adolph_men_zel123.png",
-// 		blurb: "bismuth is the most metallic and the least abundant of the elements in the nitrogen group. Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
-// 		link: "",
-// 		credit: "",
-// 	},
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "bismuth is the most metallic and the least abundant of the elements in the nitrogen group. Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
+		link: "",
+		credit: "",
+	},
 
 	
 
@@ -243,13 +243,13 @@ let WEBSITE_DATA = [
 	
 
 
-	{
-			name: "New York University's Tisch School of the Arts",
-			img: "images/ScreenShot2023-01-12at44329PM.png",
-			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-			link: "",
-			credit: "",
-		},
+// 	{
+// 			name: "New York University's Tisch School of the Arts",
+// 			img: "images/ScreenShot2023-01-12at44329PM.png",
+// 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
+// 			link: "",
+// 			credit: "",
+// 		},
 
 	
 	
@@ -409,7 +409,7 @@ let WEBSITE_DATA = [
  	
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-19at2.46.57PM.png",
+		img: "images/interfewrencewavepattern.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
