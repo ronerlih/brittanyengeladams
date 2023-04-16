@@ -224,8 +224,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Skeletal System",
 		img: "images/SS20230201at82532PM.png",
-		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth. Regardless of age or sex, the skeletal system can be broken down into two parts, known as the axial skeleton and the appendicular skeleton..",
-		link: "",
+		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth.",
 		credit: "",
 	},
 	
@@ -401,7 +400,7 @@ let WEBSITE_DATA = [
 																										{
 		name: "Limbic System",
 		img: "images/1512.37.52.png",
-		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem. The thalamus, hypothalamus (production of important hormones and regulation of thirst, hunger, mood etc) and basal ganglia (reward processing, habit formation, movement and learning) are also involved in the actions of the limbic system, but two of the major structures are the hippocampus and the amygdala.",
+		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
 	},
@@ -420,9 +419,9 @@ let WEBSITE_DATA = [
 	
 	
 	 				{
-		name: "Skin Conductance Response",
+		name: "Skin Conductance",
 		img: "images/S12.46.19P.png",
-		blurb: "When you engage in a mental workload task, such as solving a bunch of math problems (even if not particularly hard), the level willtend to shoot up and then gradually decline. Because many different kinds of events can elevate your skin conductance (strong emotion, a startling event, a demanding task, etc.)",
+		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
 		link: "",
 		credit: "",
 	},
@@ -525,7 +524,7 @@ let WEBSITE_DATA = [
 	{
 		name: "The Nervous System",
 		img: "images/rmb45m_004.jpg",
-		blurb: "The sympathetic nervous system (SNS) and the parasympathetic nervous system (PSNS) are both components of the autonomic nervous system (ANS). Together, they regulate the involuntary and reflexive functions of the human body. The PSNS controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. It is responsible for regulating digestive and sexual function while keeping heart rate and blood pressure steady. The SNS is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
+		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous systeM. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
 	},
@@ -595,7 +594,7 @@ let WEBSITE_DATA = [
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
 		img: "images/meditation_omshanti.png",
-		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
+		blurb: "Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
 	
@@ -636,8 +635,8 @@ let WEBSITE_DATA = [
 																										{
 		name: "Nicomachean Ethics",
 		img: "images/fascia__1298.png",
-		blurb: "In the Nicomachean Ethics, Aristotle sets out to examine the nature of happiness. He argues that happiness consists in ‘activity of the soul in accordance with virtue’, for example with moral virtues, such as courage, generosity and justice, and intellectual virtues, such as knowledge, wisdom and insight. The Ethics also discusses the nature of practical reasoning, the value and the objects of pleasure, the different forms of friendship, and the relationship between individual virtue, society and the State. Aristotle’s work has had a profound and lasting influence on all subsequent Western thought about ethical matters.",
-		link: "https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics",
+		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
+		link: "",
 		credit: "",
 	},		
 	
