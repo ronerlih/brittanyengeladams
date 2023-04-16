@@ -548,7 +548,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/contex.jpg",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -592,7 +592,7 @@ let WEBSITE_DATA = [
 	},
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/meditation_omshanti.png",
 		blurb: "In the seventeenth century, the philosopher Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, has been shrouded in mystery. Scientists now know it controls the production of melatonin, playing an important role in modulating circadian rhythms, or the body's internal clock. However, an online search for notes to include in a course she was teaching opened Borjigin's eyes to a thriving community still convinced of the pineal gland's mystical power.",
 		link: "",
 		credit: "",
