@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/film0875543.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette 2021",
-		img: "images/Avatartracking.jpeg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -70,9 +70,9 @@ let WEBSITE_DATA = [
 	},
 
 	{
-		name: "BodyMouth/Ielele Symposium",
-		img: "images/TTTTtttt04-15t11.34.41M.png",
-		blurb: "'BodyMouth 'Ielele' at The New Media Caucus Symposium, September 30th-October 2nd 2022, at Virginia Tech, focused on the theme of 'Future Bodies.' The New Media Caucus (NMC) is an international non-profit association formed to promote the development and understanding of new media art.",
+		name: "New Media Caucus",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: " Presentation of'BodyMouth' at The 2022 New Media Caucus Symposium, focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
 		
@@ -376,7 +376,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Hand Dance Film",
-		img: "images/181514.jpeg",
+		img: "images/79514154515144445114______444_44.png",
 		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
 		link: "",
 		credit: "",
