@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/2138383815138158.jpg",
+		img: "images/755555_11351893a_.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -20,18 +20,26 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 				{
 		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
 	},
-		
+	
+				{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
+		credit: "",
+	},	
 	
 	{
 		name: "Maquette 2021",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/humanrobot_two.gif",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -89,9 +97,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 																	{
-		name: "Crystal & SAW Oscillators",
-		img: "images/crystalc.jpg",
-		blurb: "Microsemi’s precision crystal and surface acoustic wave (SAW) oscillator portfolio delivers precision frequency control and timing solutions for various applications.  Products include crystals and crystal oscillators, frequency translators, clock and data recovery products, SAW filters and components used in several markets such as aerospace, communications, data storage, industrial, medical, military, navigation, test and measurement, and instrumentation systems.",
+		name: "SAW Oscillators",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
 	},
@@ -162,24 +170,23 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "bismuth is the most metallic and the least abundant of the elements in the nitrogen group. Bismuth is hard, brittle, lustrous, and coarsely crystalline. It can be distinguished from all other metals by its colour—gray-white with a reddish tinge.",
+		img: "images/contex.jpg",
+		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
 		credit: "",
 	},
 
 	
 
-		{
-			
-		name: "Harvestworks Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
+	
 
-
+ {
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: "",
+		},
 	
 
 	 
@@ -226,8 +233,8 @@ let WEBSITE_DATA = [
 	
 	
 					{
-		name: "Digital Sculpture",
-		img: "images/else_chin_drs_ark.png",
+		name: "Morning View",
+		img: "images/11811_192114417.gif",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
@@ -267,58 +274,40 @@ let WEBSITE_DATA = [
 		
 // 		},	
 	
+	
+							 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+		link: "",
+		credit: "",
+	},
+
+	{
+			
+		name: "Harvestworks Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 
 	
-
-	
-	
-		
-	
-	
-	
-	 				{
+																					{
+		name: "Memory Dance",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
+		 				{
 		name: "Skin Conductance",
 		img: "images/S12.46.19P.png",
 		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
 		link: "",
 		credit: "",
 	},
-	
 
-
- {
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021),",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: "",
-		},
-	
-
-	
-																					{
-		name: "Memory Dance",
-		img: "images/unnamed-4.png",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
-	
-	
-	
-							 												{
-		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-		link: "",
-		credit: "",
-	},
-	
-	
-	
- 	
-		
-	
 		
 																							{
 		name: "Shower",
@@ -340,7 +329,7 @@ let WEBSITE_DATA = [
 
 {
 			name: "Architecture of Memory",
-			img: "images/ice_cubes_3d_model_s02.jpg", 
+			img: "images/liioncellthumbnail.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -364,7 +353,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/01.jpeg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -377,7 +366,7 @@ let WEBSITE_DATA = [
 										{
 		name: "Hand Dance Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film by Brittany Engel-Adams made in collaboration with David Lang, Annie-B Parson and Ron Erlih for The Guggenheim Museum’s Works & Process. ‘Hand Dance’ uses a hand pose estimation algorithm to overlay the original hands from a dataset on a performer. The algorithm used to ‘learn’ how to estimate a hand pose, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground suggesting a larger world beyond the performer’s home.",
+		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
 	},	
@@ -424,7 +413,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/eyeshadow.601.jpg",
+		img: "images/11.jpg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -435,9 +424,9 @@ let WEBSITE_DATA = [
 
 
 			 {
-		name: "Postmodernism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb:  "As we look forward toward the new impossible challenges of the 21st century. The 21st century will be full of new even-more difficult challenges than we have ever encountered before. Ranging from climate change, to the rise of disruptive technologies like artificial intelligence. The most complicated challenge of all, is the challenge to our humanity. In the coming decades, the twin revolution of bio-tech and info-techo merge into a singular overwhelming scientific tsunami. This might undermine our conception of humanity and  shake the humanist foundation of modernist civilization.",
+		name: "Postmemory",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb:  "Marianne Hirsch: “Postmemory” describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.",
 		link: "",
 		credit: "",
 	},
@@ -453,7 +442,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Infinitesimal Calculus",
 		img: "images/SS11559PM.png",
-		blurb: "In the engineer's practical treatment of the differential calculus, an infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
 	},
@@ -479,7 +468,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
 		link: "",
 		credit: "",
@@ -498,14 +487,14 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
 	},
 
 											{
-		name: "Hand Dance (Research)",
+		name: "Displaced figure",
 		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -515,14 +504,14 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "The Nervous System",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous systeM. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
 	},
 		{
-		name: "Polarization",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		name: "Filter Bubbles ",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -530,7 +519,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Hypothalamus",
-		img: "images/front.jpg", 
+		img: "images/i050950a.gif", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
@@ -554,7 +543,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		img: "images/Rhizome.png",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
@@ -563,7 +552,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/cyborg_leg.png",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -576,7 +565,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -589,8 +578,8 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/meditation_omshanti.png",
-		blurb: "Rene Descartes claimed that the pineal gland, a small pinecone-shaped organ located deep in the center of the brain, was the seat of the soul. Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
 	
@@ -606,7 +595,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 		{
-		name: "Hand Dance (Research)",
+		name: "Disintegrating figure",
 		img: "images/11414121191918.gif",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
@@ -645,13 +634,6 @@ let WEBSITE_DATA = [
 	// },
 	
 	
-	// {
-	// 	name: "Motion-Capture (Infrared)",
-	// 	img: "images/xbox360.png",
-	// 	blurb: "",
-	// 	link: "",
-	// 	credit: "",
-	// },
 
 	
 
@@ -668,15 +650,7 @@ let WEBSITE_DATA = [
 
 	
 
-	
-// 	{
-// 		name: "Nancy Manocherian's the cell theatre",
-// 		img: "images/11124__19119.png",
-// 		blurb: "BodyMouth the tool in residency at the Nancy Manocherian's the cell theatre.",
-// 		link: "",
-// 		credit: "",
-// 	},
-	
+
 	
 	
 ];
