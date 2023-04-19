@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpeg",
+		img: "images/2138383815138158.jpeg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Symposium",
-		img: "images/1651351514511820_lt_h.gif",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
 		blurb: " Presentation of'BodyMouth' at The 2022 New Media Caucus Symposium, focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
@@ -207,7 +207,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication",
-		img: "images/1926318892613892618138.jpeg",
+		img: "images/2138383815138158.jpeg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -385,7 +385,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/S2022102835049AM.jpg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
