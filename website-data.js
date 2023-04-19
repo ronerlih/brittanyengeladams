@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 	{
 		name: "BodyMouth Symposium",
 		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
-		blurb: " Presentation of'BodyMouth' at The 2022 New Media Caucus Symposium, focused on the theme of 'Future Bodies.'",
+		blurb: "lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
 		
@@ -557,21 +557,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-
-
-	
-	
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+	{
+		name: "Disintegrating figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},	
-
-
 
 
 	
@@ -593,14 +585,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 	
 // 	},
-	
-		{
-		name: "Disintegrating figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
-	},
+	},	
+	
 
 
 		{
