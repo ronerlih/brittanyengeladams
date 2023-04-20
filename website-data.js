@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		img: "images/front.jpg",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -39,7 +39,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Maquette 2021",
-		img: "images/humanrobot_two.gif",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
+		img: "images/BodyMouth_FutureBodies.gif",
 		blurb: "lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
@@ -277,13 +277,24 @@ let WEBSITE_DATA = [
 	
 							 												{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
 	},
 
-	{
+
+
+	
+																					{
+		name: "Memory Dance",
+		img: "images/01_v4.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
+	
+		{
 			
 		name: "Harvestworks Residency",
 		img: "images/S837492874_i467984567_.jpg",
@@ -291,18 +302,9 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
-
-	
-																					{
-		name: "Memory Dance",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
 		 				{
 		name: "Skin Conductance",
-		img: "images/S12.46.19P.png",
+		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
 		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
 		link: "",
 		credit: "",
@@ -385,7 +387,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/1512.37.52.png",
+		img: "images/Rhizome.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
