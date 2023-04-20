@@ -86,16 +86,16 @@ let WEBSITE_DATA = [
 
 	},
 	
-
-
-			{
-
-		name: "Neural Network",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+			
+																								{
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
 	},
+
+	
 																	{
 		name: "SAW Oscillators",
 		img: "images/SomatosensoryAxonTypes.png",
@@ -127,15 +127,15 @@ let WEBSITE_DATA = [
 // 		}, 
 	
 
+		{
 
-				
-																								{
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+		name: "Neural Network",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	},	
+	},
+		
 				 {
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
@@ -587,6 +587,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 	
 // 	},
+	
+	
+		{
+		name: "Somatosensory Receptors",
+		img: "images/eyeshadow.601.jpg",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+		link: "",
+		credit: "",
+	},	
+
 		
 																										{
 		name: "Cloud Computing",
@@ -597,14 +607,6 @@ let WEBSITE_DATA = [
 	},	
 	
 
-
-		{
-		name: "Somatosensory Receptors",
-		img: "images/eyeshadow.601.jpg",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
-		link: "",
-		credit: "",
-	},	
 
 
 																										{
