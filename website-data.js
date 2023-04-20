@@ -14,7 +14,7 @@ let WEBSITE_DATA = [
 		
 			{
 		name: "Projectile Motion",
-		img: "images/animated-sinewave.gif",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
@@ -23,27 +23,20 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/front.jpg",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
 	},
-	
-				{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/ark_of_the_covenant_01.jpg",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
-		link: "",
-		credit: "",
-	},	
-	
 	{
-		name: "Maquette 2021",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		name: "BodyMouth Symposium",
+		img: "images/BodyMouth_FutureBodies.gif",
+		blurb: "lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
-	},
+		
+		},	
+
 	
 	
 	
@@ -56,7 +49,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+		
 	
+	{
+		name: "Maquette 2021",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+		link: "",
+		credit: "",
+	},
 	
 	
 // 													{
@@ -67,6 +68,14 @@ let WEBSITE_DATA = [
 // 			credit: "",
 	
 // },
+
+				{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/ark_of_the_covenant_01.jpg",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
+		credit: "",
+	},
 	{
 	
 		name: "Doppler Effect",
@@ -76,15 +85,6 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},
-
-	{
-		name: "BodyMouth Symposium",
-		img: "images/BodyMouth_FutureBodies.gif",
-		blurb: "lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
-		link: "",
-		credit: "",
-		
-		},
 	
 
 
@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 	},
 																	{
 		name: "SAW Oscillators",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -106,7 +106,7 @@ let WEBSITE_DATA = [
 	
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		img: "images/avtarhigh.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -131,7 +131,7 @@ let WEBSITE_DATA = [
 				
 																								{
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
@@ -149,7 +149,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -415,7 +415,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/11.jpg",
+		img: "images/liioncellthumbnail.jpg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -521,7 +521,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Hypothalamus",
-		img: "images/i050950a.gif", 
+		img: "images/wfporcos_0003.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
@@ -531,7 +531,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/WatchPolarVortexMovinginOverUS.gif",
+		img: "images/ScreenShot2023-02-18at6.38.00PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -554,7 +554,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -572,7 +572,7 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -590,7 +590,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -600,7 +600,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/eyeshadow.601.jpg",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -609,7 +609,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png",
+		img: "images/SS2023-04-1at11.43.53AM.png",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
