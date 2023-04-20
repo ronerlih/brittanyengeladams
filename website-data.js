@@ -309,15 +309,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-		
-																							{
-		name: "Shower",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		{
+		name: "Filter Bubbles ",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
+
 		
 
 	
@@ -453,7 +452,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -497,7 +496,7 @@ let WEBSITE_DATA = [
 
 											{
 		name: "Displaced figure",
-		img: "images/1215151151515147229523.png",
+		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -511,14 +510,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Filter Bubbles ",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+
+		
+																							{
+		name: "Shower",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
 	},
-
 			{
 		name: "Hypothalamus",
 		img: "images/wfporcos_0003.jpg", 
@@ -561,7 +561,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "Disintegrating figure",
-		img: "images/11414121191918.gif",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
