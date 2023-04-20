@@ -201,15 +201,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	}, 
-		{
-		name: "Electron Cloud Atomic Model",
-		img: "images/SS7.47.47M.png",
-		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+	
+
+	
+																					{
+		name: "Memory Dance",
+		img: "images/01_v4.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
-
-
 		
 
 				{
@@ -283,16 +284,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-
-	
-																					{
-		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	{
+		name: "Electron Cloud Atomic Model",
+		img: "images/SS7.47.47M.png",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
 		link: "",
-		credit: "", 
+		credit: "",
 	},
+
+
 	
 		{
 			
@@ -349,8 +349,39 @@ let WEBSITE_DATA = [
 		
 	
 		
- 
+ 	
 
+																										{
+		name: "Limbic System",
+		img: "images/Rhizome.png",
+		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
+		link: "",
+		credit: "",
+	},
+
+
+	
+														 		{
+		name: "Superposition",
+		img: "images/interfewrencewavepattern.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
+	
+	
+	
+
+
+														{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},
+	
 	
 	
 																										{
@@ -362,8 +393,6 @@ let WEBSITE_DATA = [
 	},
 	
 
-	
-	
 
 										{
 		name: "Hand Dance Film",
@@ -371,37 +400,8 @@ let WEBSITE_DATA = [
 		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
-	},	
-
-
-														{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
 	},
-	
-	
-
-																										{
-		name: "Limbic System",
-		img: "images/Rhizome.png",
-		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
-		link: "",
-		credit: "",
-	},
-
-
- 	
-														 		{
-		name: "Superposition",
-		img: "images/interfewrencewavepattern.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
-		link: "",
-		credit: "",
-	},
+ 
 
 		{
 		name: "Quantum Computing",
@@ -428,7 +428,7 @@ let WEBSITE_DATA = [
 			 {
 		name: "Postmemory",
 		img: "images/SomatosensoryAxonTypes.png",
-		blurb:  "Marianne Hirsch: “Postmemory” describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.",
+		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.(Marianne Hirsch: The Generation of Postmemory: Writing and Visual Culture After the Holocaust)",
 		link: "",
 		credit: "",
 	},
