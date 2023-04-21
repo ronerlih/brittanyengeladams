@@ -79,8 +79,17 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
 		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
+		link: "",
+		credit: "",
+
+	},
+		{
+	
+		name: "PTSD",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
 
@@ -89,7 +98,7 @@ let WEBSITE_DATA = [
 			
 																								{
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
@@ -215,7 +224,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication",
-		img: "images/2138383815138158.jpg",
+		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -395,7 +404,7 @@ let WEBSITE_DATA = [
 
 										{
 		name: "Hand Dance Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
@@ -404,7 +413,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Quantum Computing",
-		img: "images/qubit_quantumcomp.ong.png",
+		img: "images/fascia__1298.png",
 		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
@@ -414,7 +423,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -426,9 +435,9 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/SomatosensoryAxonTypes.png",
-		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.(Marianne Hirsch: The Generation of Postmemory: Writing and Visual Culture After the Holocaust)",
-		link: "",
+		img: "images/contex.jpg",
+		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.",
+		link: "https://postmemory.net/",
 		credit: "",
 	},
 
@@ -505,7 +514,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "The Nervous System",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous systeM. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
@@ -545,7 +554,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Rhizome",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
@@ -572,7 +581,7 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/meditation_omshanti.png",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -600,7 +609,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/crystalc.jpg",
+		img: "images/Roland_TR-808_(large).jpg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -611,7 +620,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/captura.jpg",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
