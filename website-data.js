@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
+		img: "images/Intersection.jpeg",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/capecod11.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -79,7 +79,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
 		link: "",
 		credit: "",
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -158,7 +158,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/interfewrencewavepattern.jpeg",
+		img: "images/79514154515144445114______444_44.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -383,7 +383,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/S2022102835049AM.jpg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -394,7 +394,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/01.jpeg",
+		img: "images/qubit_quantumcomp.ong.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
