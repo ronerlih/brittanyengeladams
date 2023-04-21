@@ -30,8 +30,8 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "BodyMouth Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg",
-		blurb: "lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
+		img: "images/1651351514511820_lt_h.gif",
+		blurb: "Lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
 		
