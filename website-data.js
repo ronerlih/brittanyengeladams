@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/Intersection.jpeg",
+		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/capecod11.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -428,16 +428,16 @@ let WEBSITE_DATA = [
 
 
 			{
-		name: "Perceptual Brittleness",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "By placing all of perception within a developmental framework, perceptual competence becomes the result of experience evoked by a set of behaviors and predispositions. If the machinery of development is sufficient to reliably lead to the perceptual competence in the first place, then it is likely to be able to regenerate it in somewhat changed circumstances, thus avoiding brittleness.",
+		name: "Brittleness in AI",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
 	},
 						{
 		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
+		img: "images/liioncellthumbnail.jpg",
+		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
 	},
