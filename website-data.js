@@ -37,18 +37,19 @@ let WEBSITE_DATA = [
 		
 		},	
 
-	
-	
-	
-						{
-							
-		name: "Non-Sinusoidal",
-		img: "images/2023012170559PM.png",
-		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
+
+										{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
-	
 	},
+ 
+	
+	
+	
+
 		
 	
 	{
@@ -69,10 +70,10 @@ let WEBSITE_DATA = [
 	
 // },
 
-				{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/cyborg_leg.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
@@ -111,14 +112,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/cyborg_leg.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 	
 	
 
@@ -135,14 +136,13 @@ let WEBSITE_DATA = [
 // 		}, 
 	
 
-		{
-
-		name: "Neural Network",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+					{
+		name: "3D Scene",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-	},
+	},	
 		
 				 {
 		name: "YouTube Improv",
@@ -239,15 +239,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-	
-	
-					{
-		name: "3D Scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		{
+
+		name: "Neural Network",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},	
+	
+
 
 	
 	
@@ -361,7 +362,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/Rhizome.png",
+		img: "images/fascia__1298.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
@@ -399,21 +400,20 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-
-										{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
+							{
+							
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
 		link: "",
 		credit: "",
+	
 	},
- 
+
 
 		{
 		name: "Quantum Computing",
-		img: "images/fascia__1298.png",
+		img: "images/Rhizome.png",
 		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
