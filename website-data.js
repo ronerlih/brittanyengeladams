@@ -475,16 +475,14 @@ let WEBSITE_DATA = [
 		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
 		credit: "",
 	},
-	
-		{
-			
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+						{
+		name: "Dark Matter",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
+		
 
 
 
@@ -523,26 +521,21 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg", 
+		img: "images/crystalc.jpg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
-	},
-	
-					{
-		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
+	},	
+{
+			
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+			
+		},
 	
-		
-
-	
-
-
-
 	{
 		name: "Rhizome",
 		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
