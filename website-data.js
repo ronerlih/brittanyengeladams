@@ -37,23 +37,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-
-					{
-		name: "Digital Sculpture",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+	{
+	
+		name: "PTSD",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
+
 	},
 
- 
-	
-	
-	
-
-		
-	
 	{
 		name: "Maquette 2021",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -62,20 +55,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-// 													{
-// 			name: "Student Dance Concert Curator at Rutgers University",
-// 			img: "images/loreewide.png", 
-// 			blurb: "BFA Dance Students at Mason Gross School of the Arts created work in response to a theatrical productions or performance from the turn of the century reimagined for the 21st century stage.",
-// 			link: "",
-// 			credit: "",
-	
-// },
+
 	
 	{
 		name: "BodyMouth Symposium",
 		img: "images/SS20221209at354AM.jpg",
-		blurb: "Live performance of 'BodyMouth' which turns the body into an instrument for speech, at 2022 New Media Caucus Symposium, at Virginia Tech.",
+		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
 		
@@ -90,15 +75,14 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},
-		{
-	
-		name: "PTSD",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
+						{
+		name: "Digital Sculpture",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-
 	},
+
 	
 	{
 		name: "Electron Cloud Atomic Model",
@@ -124,20 +108,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-	
-
 
 	
 	
-		
-// {
-// 			name: "Joffrey Ballet School",
-// 			img: "images/Joffrey61855551311419380012School.png",
-// 			blurb: "(2012-2017) Faculty at the Joffrey Ballet School. ‘Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. Robert Joffrey and Gerald Arpino founded the Joffrey Ballet School in 1953. The school continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you. continues to strive for its founders’ vision by deconstructing dance to allow dancers the ability to perfect their technique and form so it flows naturally and passionately from within. Joffrey Ballet School cultivates the individual artist within you.’",
-// 			link: "https://www.joffreyballetschool.com",
-// 			credit: "",
-// 		}, 
 											{
 		name: "Hand Dance Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -146,14 +119,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
+														{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},
 		
-				 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
-		link: "",
-		credit: ""
-	},			
+				
 		
 	
 		
@@ -269,22 +245,6 @@ let WEBSITE_DATA = [
 	
 	
 		
-		
-
-
-
-
-
-
-
-// 		{
-// 		name: "Harvestworks |  Residency",
-// 		img: "images/S837492874_i467984567_.jpg",
-// 		blurb: "Development of BodyMouth a movement and sound instrument that turns the body into a mouth for speech. The Harvestworks T.E.A.M Lab supports the creation of art works achieved through the use of new and evolving technologies and provides an environment for experimentation with project consultants, technicians, instructors and innovative practitioners in all branches of the electronic arts.",
-// 		link: "https://www.harvestworks.org/",
-// 		credit: "",
-		
-// 		},	
 	
 	
 							 												{
@@ -381,19 +341,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+			 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		link: "",
+		credit: ""
+	},	
 	
 
 
-														{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
-	},
-	
 	
 	
 																										{
@@ -614,17 +571,6 @@ let WEBSITE_DATA = [
 	
 
 
-	
-	
-	
-	// {
-	// 	name: "Family archive",
-	// 	img: "images/3516515151651475195147512.jpg",
-	// 	blurb: "Epistolary Correspondence with family, living in America and Israel/Palestine during COVID-19 Pandemic, as part of my research for ‘Architecture of Memory’, published in the Movement Research Performance Journal No. 55.",
-	// 	link: "",
-	// 	credit: "",
-	// },
-	
 	
 
 	
