@@ -11,16 +11,6 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
-			{
-		name: "Projectile Motion",
-		img: "images/colosseum_361-1.jpeg",
-		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
-		link: "",
-		credit: "",
-	},
-	
-	
 				{
 		name: "Before Zeta Film",
 		img: "images/capecod11.png",
@@ -28,23 +18,35 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "BodyMouth Symposium",
-		img: "images/SS20221209at354AM.jpg",
-		blurb: "Live performance of 'BodyMouth' which turns the body into an instrument for speech, at 2022 New Media Caucus Symposium, at Virginia Tech.",
-		link: "",
-		credit: "",
 		
-		},	
-
-
-										{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
+		
+																										{
+		name: "Fight-or-Flight Response",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
 	},
+		
+
+			 													{
+		name: "I Am Not A Robot",
+		img: "images/cyborg_leg.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+	
+
+
+					{
+		name: "Digital Sculpture",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+
  
 	
 	
@@ -69,14 +71,16 @@ let WEBSITE_DATA = [
 // 			credit: "",
 	
 // },
-
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/cyborg_leg.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	
+	{
+		name: "BodyMouth Symposium",
+		img: "images/SS20221209at354AM.jpg",
+		blurb: "Live performance of 'BodyMouth' which turns the body into an instrument for speech, at 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
-	},
+		
+		},
+
 	{
 	
 		name: "Doppler Effect",
@@ -134,15 +138,14 @@ let WEBSITE_DATA = [
 // 			link: "https://www.joffreyballetschool.com",
 // 			credit: "",
 // 		}, 
-	
-
-					{
-		name: "3D Scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+											{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 		
 				 {
 		name: "YouTube Improv",
@@ -384,7 +387,7 @@ let WEBSITE_DATA = [
 
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/S2022102835049AM.jpg",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -457,15 +460,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-		
-																										{
-		name: "Fight-or-Flight Response",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
-		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
+			{
+		name: "Projectile Motion",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
-	},	
+	},
+		
 
 
 			{
@@ -486,13 +488,7 @@ let WEBSITE_DATA = [
 
 
 
-	{
-		name: "Cartesian Dualism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
-		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
-		link: "",
-		credit: "",
-	},
+
 
 											{
 		name: "Displaced figure",
@@ -502,7 +498,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+		{
+		name: "Cartesian Dualism",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
+		link: "",
+		credit: "",
+	},
 	{
 		name: "The Nervous System",
 		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
@@ -547,7 +549,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
+		img: "images/broken_staircase_sig_01.jpeg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
