@@ -59,7 +59,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "BodyMouth Symposium",
-		img: "images/SS20221209at354AM.jpg",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpeg",
 		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -69,7 +69,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/SS2023157M.png",
 		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
 		link: "",
 		credit: "",
@@ -144,15 +144,16 @@ let WEBSITE_DATA = [
 
 
 
-
 	
-	{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+																					{
+		name: "Memory Dance",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
+	
+
 
 	
 			{
@@ -188,15 +189,14 @@ let WEBSITE_DATA = [
 	},
 
 	
-
-	
-																					{
-		name: "Memory Dance",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+	{
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
-		credit: "", 
+		credit: "",
 	},
+
 		
 
 				{
