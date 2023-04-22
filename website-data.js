@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 	},
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/r2.jpeg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
