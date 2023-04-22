@@ -488,7 +488,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Cartesian Dualism",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
