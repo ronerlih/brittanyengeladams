@@ -27,15 +27,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-
-			 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+	{
+	
+		name: "Doppler Effect",
+		img: "images/SS2023157M.png",
+		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
 		link: "",
 		credit: "",
-	},
+
+	},	
+
+	
 	
 	{
 	
@@ -65,16 +67,14 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-
-	{
-	
-		name: "Doppler Effect",
-		img: "images/SS2023157M.png",
-		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
-
 	},
+	
 						{
 		name: "Digital Sculpture",
 		img: "images/morning.png",
@@ -208,7 +208,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Movement Research Performance Journal Publication",
-		img: "images/djifhbwhibvnawjkfnjkvnawkjdfnqwru_ndfswgjhgehjk___xnkvajkg__.png",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -261,17 +261,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			
-																								{
-		name: "Wireless Fidelity",
-		img: "images/film0875543.png",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
-		link: "",
-		credit: "",
-	},
-
-
-
 	
 		{
 			
