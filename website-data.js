@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	{
 		name: "BodyMouth Symposium",
 		img: "images/SS20221209at354AM.jpg",
-		blurb: "Lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
+		blurb: "Live performance of 'BodyMouth' which turns the body into an instrument for speech, at 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
 		
@@ -538,7 +538,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
@@ -547,7 +547,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
