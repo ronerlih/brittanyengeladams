@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "BodyMouth Symposium",
-		img: "images/1651351514511820_lt_h.gif",
+		img: "images/SS20221209at354AM.jpg",
 		blurb: "Lecture demonstration of 'BodyMouth' at The 2022 New Media Caucus Symposium focused on the theme of 'Future Bodies.'",
 		link: "",
 		credit: "",
@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -95,11 +95,10 @@ let WEBSITE_DATA = [
 
 	},
 	
-			
-																								{
-		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
+	{
+		name: "Electron Cloud Atomic Model",
+		img: "images/SS7.47.47M.png",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
 		link: "",
 		credit: "",
 	},
@@ -215,7 +214,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/01_v4.jpeg",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -292,14 +291,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	{
-		name: "Electron Cloud Atomic Model",
-		img: "images/SS7.47.47M.png",
-		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+			
+																								{
+		name: "Wireless Fidelity",
+		img: "images/film0875543.png",
+		blurb: "Wireless Fidelity digital installation at The Gallery Thaddaeus Ropac in 2015. Founded in 1983, Thaddaeus Ropac has galleries across Europe and Asia, located in London, Paris, Salzburg and Seoul. Specialising in contemporary art and representing over 60 artists, the gallery supports and showcases the careers of some of the most influential artists today with a wide-ranging programme of over 40 exhibitions curated at the six extensive and historic gallery spaces each year.",
 		link: "",
 		credit: "",
 	},
+
 
 
 	
@@ -320,7 +320,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Filter Bubbles ",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -468,22 +468,6 @@ let WEBSITE_DATA = [
 	},	
 
 
-	
-
-		
-	
-	
-		
-
-	
-					{
-		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
-		link: "",
-		credit: "",
-	},
-
 			{
 		name: "Perceptual Brittleness",
 		img: "images/ice_cubes_3d_model_s02.jpg",
@@ -492,7 +476,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+		{
+			
+		name: "Posthumanism",
+		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
+
 
 
 	{
@@ -523,7 +516,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
 		link: "",
 		credit: "",
@@ -536,16 +529,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-
-	{
-			
-		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+					{
+		name: "Dark Matter",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Unlike normal matter, dark matter does not interact with the electromagnetic force. This means it does not absorb, reflect or emit light, making it extremely hard to spot. In fact, researchers have been able to infer the existence of dark matter only from the gravitational effect it seems to have on visible matter. Dark matter seems to outweigh visible matter roughly six to one, making up about 27% of the universe.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
+	
 		
 
 	
