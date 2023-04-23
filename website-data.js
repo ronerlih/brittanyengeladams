@@ -42,7 +42,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -51,7 +51,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Maquette 2021",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	},
 	
 						{
-		name: "Digital Sculpture",
+		name: "sen·so·ri·um",
 		img: "images/morning.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 	},
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/r2.jpeg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -122,7 +122,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/004351893123001135189312300432120.gif",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -227,7 +227,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		img: "images/01.jpeg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -256,7 +256,7 @@ let WEBSITE_DATA = [
 	
 							 												{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -271,9 +271,9 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		 				{
-		name: "Skin Conductance",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
-		blurb: "Skin Conductance is the phenomenon that the skin momentarily becomes a better conductor of electricity when either external or internal stimuli occur that are physiologically arousing.",
+		name: "Skin Conductance Response",
+		img: "images/cyborg_leg.png",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
 	},
@@ -432,7 +432,7 @@ let WEBSITE_DATA = [
 	},
 						{
 		name: "Dark Matter",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
@@ -453,7 +453,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cartesian Dualism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/r2.jpeg",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -476,7 +476,7 @@ let WEBSITE_DATA = [
 	},
 			{
 		name: "Hypothalamus",
-		img: "images/crystalc.jpg", 
+		img: "images/Madonna_retina_ish_ingU2alalala.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
@@ -484,7 +484,7 @@ let WEBSITE_DATA = [
 {
 			
 		name: "Posthumanism",
-		img: "images/22.-recurso_avances-en-robotica-scaled-e1634287575105-1024x691.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
