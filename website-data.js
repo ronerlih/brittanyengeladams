@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 		name: "Doppler Effect",
 		img: "images/SS2023157M.png",
-		blurb: "Doppler effect, the apparent difference between the frequency at which sound or light waves leave a source and that at which they reach an observer, caused by relative motion of the observer and the wave source. This phenomenon is used in astronomical measurements, in Mössbauer effect studies, and in radar and modern navigation.",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
 
@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	},
 	
 						{
-		name: "sen·so·ri·um",
+		name: "Sensorium",
 		img: "images/morning.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -147,7 +147,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -164,17 +164,18 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+		{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},	
 	
 
 	
 
- {
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: "",
-		},
 																						
 		 {
 		 
@@ -224,14 +225,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},	
+ {
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: "",
+		},
 	
 
 
@@ -289,10 +289,10 @@ let WEBSITE_DATA = [
 	}, 	
 
 	
-							{
-		name: "Ancestral Artifact",
-		img: "images/2023-04-1331.18PM.png",
-		blurb: "Judy Engel (my grandmother), comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+					{
+		name: "Dark Matter",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
 	},
@@ -351,7 +351,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/qubit_quantumcomp.ong.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -424,32 +424,33 @@ let WEBSITE_DATA = [
 
 
 			{
-		name: "Brittleness in AI",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		name: "Perceptual Problem",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
-		link: "https://www.womencorporatedirectors.org/WCD/News/JAN-Feb2020/Reality%20Light.pdf",
-		credit: "",
-	},
-						{
-		name: "Dark Matter",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
 	},
+	
 		
-
-
-
-
-
-											{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+							{
+		name: "Ancestral Artifact",
+		img: "images/2023-04-1331.18PM.png",
+		blurb: "My bubbie, Judy Engel is a descendant of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
+
+{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
+
+
 	
 		{
 		name: "Cartesian Dualism",
@@ -481,15 +482,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-{
-			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+
+											{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
 	
 	{
 		name: "Rhizome",
@@ -502,30 +502,32 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/broken_staircase_sig_01.jpeg",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
-	{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},	
+
 
 
 	
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/meditation_omshanti.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
 	
-	},			
+	},
+	
+		{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},	
 	
 // 																{
 // 	      name: "Emergent Landscape II, Tessellation",
@@ -548,7 +550,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/Roland_TR-808_(large).jpg",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
