@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/SS2023157M.png",
+		img: "images/dopplerenurembirg",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -38,7 +38,14 @@ let WEBSITE_DATA = [
 	},	
 
 	
-	
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		link: "",
+		credit: "",
+	},
+
 	{
 	
 		name: "PTSD",
@@ -49,13 +56,6 @@ let WEBSITE_DATA = [
 
 	},
 
-	{
-		name: "Maquette 2021",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
-		link: "",
-		credit: "",
-	},
 	
 
 	
@@ -67,10 +67,10 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
+		{
+		name: "Maquette 2021",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
 	},
@@ -91,26 +91,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
-																	{
-		name: "SAW Oscillators",
-		img: "images/Uqx7W.gif",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
-		link: "",
-		credit: "",
-	},
-					{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
-		link: "",
-		credit: "",
-	},
-	
-
-	
-	
 											{
 		name: "Hand Dance Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -119,6 +99,26 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
+		credit: "",
+	},
+	
+	
+																	{
+		name: "SAW Oscillators",
+		img: "images/Uqx7W.gif",
+		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+		link: "",
+		credit: "",
+	},
+	
+	
+
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
@@ -216,14 +216,7 @@ let WEBSITE_DATA = [
 	
 },	
 
-	
-	
-// 				{
-// 		name: "Skeletal System",
-// 		img: "images/SS20230201at82532PM.png",
-// 		blurb: "The human skeletal system consists of all of the bones, cartilage, tendons, and ligaments in the body. Altogether, the skeleton makes up about 20 percentTrusted Source of a person’s body weight. An adult’s skeleton contains 206 bones. Children’s skeletons actually contain more bones because some of them, including those of the skull, fuse together as they grow up. There are also some differences in the male and female skeleton. The male skeleton is usually longer and has a high bone mass. The female skeleton, on the other hand, has a broader pelvis to accommodate for pregnancy and child birth.",
-// 		credit: "",
-// 	},
+
 	
  {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
@@ -236,17 +229,6 @@ let WEBSITE_DATA = [
 
 
 	
-	
-	
-
-
-// 	{
-// 			name: "New York University's Tisch School of the Arts",
-// 			img: "images/ScreenShot2023-01-12at44329PM.png",
-// 			blurb: "(2020-2022) Faculty in the Dance and Theater Department at New York University's Tisch School of the Arts. ‘Our breadth of excellence across the departments is unique and world-renowned. You can earn a degree in a wide range of disciplines that are uniquely integrated within one school. Artists and scholars come from around the world to study acting, dance, cinema studies, collaborative arts, design for stage and film, dramatic writing, film and television, game design, interactive media arts, interactive telecommunications, moving image archiving and preservation, musical theatre writing, performance studies, photography, public policy, and recorded music.’",
-// 			link: "",
-// 			credit: "",
-// 		},
 
 	
 	
@@ -297,14 +279,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-{
-			name: "Architecture of Memory",
-			img: "images/unnamed-4.png", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
-	
+			 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		link: "",
+		credit: ""
+	},	
+		
 		
 			
 // 		{
@@ -337,14 +319,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-			 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
-		link: "",
-		credit: ""
-	},	
-	
+{
+			name: "Architecture of Memory",
+			img: "images/unnamed-4.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
+
 
 
 	
