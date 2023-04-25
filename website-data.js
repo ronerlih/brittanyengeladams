@@ -147,7 +147,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/crystalc.jpg",
+		img: "images/_m0t_petty123.png",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -182,7 +182,13 @@ let WEBSITE_DATA = [
 // 	},
 	
 
-																						
+	{
+		name: "Viewpoint discrimination",
+		img: "images/qubit_quantumcomp.ong.png",
+		blurb: "The First Amendment provides that Congress shall make no law prohibiting the freedom of speech. This core principle applies whether the speech in question is shared in a public square or on the internet. As the Supreme Court stated, the most important place for the exchange of views is cyberspace.", 
+		link: "",
+		credit: "",
+	},																					
 
 	 
 
