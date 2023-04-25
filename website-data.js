@@ -405,7 +405,7 @@ let WEBSITE_DATA = [
 
 
 			{
-		name: "Perceptual Problem",
+		name: "Brittleness in AI",
 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "",
