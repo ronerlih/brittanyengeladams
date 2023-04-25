@@ -173,13 +173,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-	{
-		name: "Electron Cloud Atomic Model",
-		img: "images/SS7.47.47M.png",
-		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
-		link: "",
-		credit: "",
-	},
+// 	{
+// 		name: "Electron Cloud Atomic Model",
+// 		img: "images/SS7.47.47M.png",
+// 		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 
 																						
@@ -187,13 +187,13 @@ let WEBSITE_DATA = [
 	 
 
 
-	{
-		name: "Filter Bubbles ",
-		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
+// 	{
+// 		name: "Filter Bubbles ",
+// 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+// 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 	
 	{
