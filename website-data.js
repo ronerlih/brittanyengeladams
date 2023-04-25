@@ -237,7 +237,7 @@ let WEBSITE_DATA = [
 	
 							 												{
 		name: "Autonomous",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -396,7 +396,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Projectile Motion",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/animated-sinewave.gif",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
@@ -521,7 +521,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/eyeshadow.601.jpg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -529,7 +529,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Somatosensory Receptors",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -541,7 +541,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/captura.jpg",
+		img: "images/fascia__1298.png",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
