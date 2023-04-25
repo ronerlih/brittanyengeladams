@@ -76,7 +76,7 @@ let WEBSITE_DATA = [
 	},
 	
 						{
-		name: "Sensorium",
+		name: "Digital Sculpture",
 		img: "images/morning.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -180,8 +180,8 @@ let WEBSITE_DATA = [
 		 {
 		 
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity digital installation presented by The Gallery Thaddaeus Ropac in 2015.",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
 },
