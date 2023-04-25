@@ -83,13 +83,14 @@ let WEBSITE_DATA = [
 	},
 
 	
-	{
-		name: "Electron Cloud Atomic Model",
-		img: "images/SS7.47.47M.png",
-		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+		 {
+		 
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
-		credit: "",
-	},
+	        credit: "",
+},
 											{
 		name: "Hand Dance Film",
 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
@@ -110,7 +111,7 @@ let WEBSITE_DATA = [
 	
 																	{
 		name: "SAW Oscillators",
-		img: "images/Uqx7W.gif",
+		img: "images/11.jpg",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -172,18 +173,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-
+	{
+		name: "Electron Cloud Atomic Model",
+		img: "images/SS7.47.47M.png",
+		blurb: "The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right. In the right-hand photo, the blades are moving too fast for you to see the individual blades. You can’t tell where any given blade is at any given moment. In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom. Like fan blades, electrons move very quickly and we can never tell exactly where they are. If that’s the case, how can we represent electrons in models of the atom?.",
+		link: "",
+		credit: "",
+	},
 	
 
 																						
-		 {
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
-		link: "",
-	        credit: "",
-},
+
 	 
 
 
@@ -350,7 +350,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Quantum Computing",
-		img: "images/Rhizome.png",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
 		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
@@ -412,10 +412,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		
+						{
+		name: "Ancestral Artifact",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "My bubbie, Judy Engel is a descendant of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 	
-
-{
+	{
 			
 		name: "Posthumanism",
 		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
@@ -424,13 +429,6 @@ let WEBSITE_DATA = [
 		credit:"",
 			
 		},
-						{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "My bubbie, Judy Engel is a descendant of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
 
 	
 		{
