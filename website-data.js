@@ -238,7 +238,7 @@ let WEBSITE_DATA = [
 	
 							 												{
 		name: "Autonomous",
-		img: "images/SS2023-04-13.30.41PM.png",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -247,7 +247,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Harvestworks Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpeg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -264,7 +264,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
+		img: "images/01_v4.jpeg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Professor of Dance, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -303,7 +303,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/fascia__1298.png",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
@@ -414,13 +414,7 @@ let WEBSITE_DATA = [
 	},
 	
 		
-							{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "My bubbie, Judy Engel is a descendant of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+	
 
 {
 			
@@ -431,7 +425,13 @@ let WEBSITE_DATA = [
 		credit:"",
 			
 		},
-
+						{
+		name: "Ancestral Artifact",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "My bubbie, Judy Engel is a descendant of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		link: "",
+		credit: "",
+	},
 
 	
 		{
