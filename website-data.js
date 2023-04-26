@@ -167,7 +167,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/01.jpeg",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -269,20 +269,20 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/01_v4.jpeg",
+		img: "images/eyeshadow.601.jpg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. As a Professor of Dance, I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	}, 	
 
 	
-					{
-		name: "Dark Matter",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
-		link: "",
-		credit: "",
-	},
+// 					{
+// 		name: "Dark Matter",
+// 		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+// 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 			 {
 		name: "YouTube Improv",
@@ -296,7 +296,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -308,7 +308,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		img: "images/fascia__1298.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/hawaii0011.jpg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -547,7 +547,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/fascia__1298.png",
+		img: "images/01.jpeg",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
