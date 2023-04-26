@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/SS7.47.47M.png",
+		img: "images/SS2023157M.png",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 																	{
 		name: "SAW Oscillators",
-		img: "images/11.jpg",
+		img: "images/Roland_TR-808_(large).jpg",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -185,7 +185,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Viewpoint discrimination",
 		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "The First Amendment provides that Congress shall make no law prohibiting the freedom of speech. This core principle applies whether the speech in question is shared in a public square or on the internet. As the Supreme Court stated, the most important place for the exchange of views is cyberspace.", 
+		blurb: "The First Amendment provides that 'Congress shall make no law prohibiting the freedom of speech.' This core principle applies whether the speech in question is shared in a public square or on the internet. As the Supreme Court stated, 'the most important place for the exchange of views is cyberspace.'", 
 		link: "",
 		credit: "",
 	},																					
