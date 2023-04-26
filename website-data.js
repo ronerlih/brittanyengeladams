@@ -36,14 +36,15 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},	
-
-	{
-		name: "Maquette 2021",
-		img: "images/1233740.gif",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+											{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
+	
 
 
 	{
@@ -76,7 +77,7 @@ let WEBSITE_DATA = [
 	},
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/broken_staircase_sig_01.jpeg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -86,19 +87,18 @@ let WEBSITE_DATA = [
 		 {
 		 
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
 },
-											{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
+{
+		name: "Maquette 2021",
+		img: "images/1233740.gif",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
 	},
-	
 
 
 							{
