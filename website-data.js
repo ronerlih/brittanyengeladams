@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -446,7 +446,7 @@ let WEBSITE_DATA = [
 	},
 	{
 		name: "The Nervous System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
