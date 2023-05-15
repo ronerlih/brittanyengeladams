@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -70,7 +70,7 @@ let WEBSITE_DATA = [
 		},
 			 													{
 		name: "I Am Not A Robot",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 																	{
 		name: "SAW Oscillators",
-		img: "images/Roland_TR-808_(large).jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -122,7 +122,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/S2022110192534copy.jpeg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -138,14 +138,14 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/WatchPolarVortexMovinginOverUS.gif",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
 	},
 			{
 		name: "Skeletal Avatar",
-		img: "images/7_wt.jpeg",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -164,7 +164,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -182,8 +182,8 @@ let WEBSITE_DATA = [
 	{
 		name: "Viewpoint discrimination",
 		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "The First Amendment provides that 'Congress shall make no law prohibiting the freedom of speech.' This core principle applies whether the speech in question is shared in a public square or on the internet. As the Supreme Court stated, 'the most important place for the exchange of views is cyberspace.'", 
-		link: "",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
+		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
 	},																					
 
@@ -248,15 +248,15 @@ let WEBSITE_DATA = [
 	
 		{
 			
-		name: "Harvestworks Residency",
-		img: "images/8118221151181119920231518111.jpg",
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
+		img: "images/skin-receptors-senses-basics.jpg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -293,7 +293,7 @@ let WEBSITE_DATA = [
 			
 		{
 		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -315,7 +315,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -335,7 +335,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/S12.46.19P.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -349,15 +349,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-
-
 		{
-		name: "Quantum Computing",
-		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
-		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+		name: "AI and Algorithm Brittleness",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "",
 		credit: "",
 	},
+
+
  
 
 		
@@ -375,9 +375,9 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/contex.jpg",
-		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right.",
-		link: "https://postmemory.net/",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
+		link: "",
 		credit: "",
 	},
 
@@ -399,21 +399,21 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Projectile Motion",
-		img: "images/animated-sinewave.gif",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
 	},
 		
 
-
-			{
-		name: "Brittleness in AI",
-		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
+		{
+		name: "Quantum Computing",
+		img: "images/ScreenShot2023-03-01at11.10.44AM.png",
+		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
 	},
+	
 	
 						{
 		name: "Ancestral Artifact",
@@ -436,7 +436,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cartesian Dualism",
-		img: "images/r2.jpeg",
+		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -453,7 +453,7 @@ let WEBSITE_DATA = [
 																							{
 		name: "Shower",
 		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, inspired by the music of American musical composer Nico Muhly. Presented by The Joffrey School at The Peter Jay Sharp Theatre's Symphony Space, New York.",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
 		link: "",
 		credit: "",
 	},
@@ -465,13 +465,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-											{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+															{
+	      name: "Pineal Gland DMT neurotransmitter system",
+		img: "images/meditation_omshanti.png",
+		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
+	
 	},
+
 	
 	{
 		name: "Rhizome",
@@ -491,25 +493,26 @@ let WEBSITE_DATA = [
 	},
 
 
-
-	
-
-															{
-	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
+											{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	
 	},
 	
-		{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+
+	
+
+
+																										{
+		name: "Nicomachean Ethics",
+		img: "images/wfporcos_0003.jpg",
+		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 	
 // 																{
 // 	      name: "Emergent Landscape II, Tessellation",
@@ -524,7 +527,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -537,18 +540,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
-	
-
-
-
-																										{
-		name: "Nicomachean Ethics",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
+		{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},		
+	},	
+	
+		
 	
 
 
