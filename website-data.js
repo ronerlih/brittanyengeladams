@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/SS2023157M.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -50,7 +50,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -61,7 +61,7 @@ let WEBSITE_DATA = [
 
 	
 	{
-		name: "BodyMouth Symposium",
+		name: "BodyMouth Exhibition",
 		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpeg",
 		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
@@ -70,14 +70,14 @@ let WEBSITE_DATA = [
 		},
 			 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/r2.jpeg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -94,7 +94,7 @@ let WEBSITE_DATA = [
 },
 {
 		name: "Maquette 2021",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/01.jpeg",
 		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 
 
 							{
-		name: "Digital Sculpture",
+		name: "3d scene",
 		img: "images/morning.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -155,7 +155,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Bismuth",
-		img: "images/contex.jpg",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
 		credit: "",
@@ -303,13 +303,13 @@ let WEBSITE_DATA = [
 		
  	
 
-																										{
-		name: "Limbic System",
-		img: "images/fascia__1298.png",
-		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
-		link: "",
-		credit: "",
-	},
+// 																										{
+// 		name: "Limbic System",
+// 		img: "images/fascia__1298.png",
+// 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
+// 		link: "",
+// 		credit: "",
+// 	},
 
 
 	
@@ -363,7 +363,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -457,13 +457,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg", 
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
-		link: "",
-		credit: "",
-	},	
+// 			{
+// 		name: "Hypothalamus",
+// 		img: "images/wfporcos_0003.jpg", 
+// 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
+// 		link: "",
+// 		credit: "",
+// 	},	
 
 											{
 		name: "Displaced figure",
@@ -544,7 +544,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/01.jpeg",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
