@@ -18,14 +18,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
 	
-},
+								{
+		name: "3D Scene",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
+	},
+
 	{
 		name: "BodyMouth Exhibition",
 		img: "images/319230451_10224665358634315_5057811054479063502_n.jpeg",
@@ -47,15 +48,16 @@ let WEBSITE_DATA = [
 	
 	
 
-
-
-							{
-		name: "3D Scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
+		{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},
+	
+},
+
+
 	
 
 // 		{
