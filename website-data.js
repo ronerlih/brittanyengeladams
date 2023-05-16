@@ -166,13 +166,13 @@ let WEBSITE_DATA = [
 
 
 	
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
-		link: "",
-		credit: "",
-	},
+// 			{
+// 		name: "Bismuth",
+// 		img: "images/adolph_men_zel123.png",
+// 		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+// 		link: "",
+// 		credit: "",
+// 	},
 		 				{
 		name: "Skin Conductance Response",
 		img: "images/skin-receptors-senses-basics.jpg",
@@ -354,7 +354,7 @@ let WEBSITE_DATA = [
 	
 	},
 		{
-		name: "AI and Algorithm Brittleness",
+		name: "AI Brittleness",
 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "",
