@@ -46,16 +46,16 @@ let WEBSITE_DATA = [
 	
 
 	
-	
-
-		{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+				{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
-	
-},
+	},		
+
+
 
 
 	
@@ -85,15 +85,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},		
-				{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+	
+			{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	},		
-		 {
+	
+},
+	{
 		 
 		name: "Wireless Fidelity",
 		img: "images/8537885385349.jpeg",
@@ -111,27 +112,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-
-	{
-	
-		name: "PTSD",
-		img: "images/broken_staircase_sig_01.jpeg",
-		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
+							 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
-
 	},
-	
-		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
-		link: "",
-		credit: "",
-	},	
+{
+			name: "Architecture of Memory",
+			img: "images/2138383815138158.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
+
+	
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
@@ -148,13 +145,12 @@ let WEBSITE_DATA = [
 
 
 
-	
-																					{
-		name: "Memory Dance",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		 				{
+		name: "Skin Conductance Response",
+		img: "images/skin-receptors-senses-basics.jpg",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
-		credit: "", 
+		credit: "",
 	},
 	
 
@@ -173,13 +169,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		 				{
-		name: "Skin Conductance Response",
-		img: "images/skin-receptors-senses-basics.jpg",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+	
+																					{
+		name: "Memory Dance",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
+
 
 	
 // 	{
@@ -242,13 +240,15 @@ let WEBSITE_DATA = [
 
 	
 	
-							 												{
-		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+
+		
+																							{
+		name: "Shower",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
 		link: "",
 		credit: "",
-	},
+	},	
 	
 {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
@@ -325,15 +325,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 
 
+	{
+	
+		name: "PTSD",
+		img: "images/broken_staircase_sig_01.jpeg",
+		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
+		link: "",
+		credit: "",
+
+	},
 
 	
 	
@@ -402,7 +404,7 @@ let WEBSITE_DATA = [
 	},
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/arduino-breadboard-3D_DHQ.jpegg",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -445,16 +447,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	{
-			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+											{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
+	
 							{
 		name: "3D Scene",
 		img: "images/morning.png",
@@ -489,24 +489,26 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+
+	
+	{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},
-	
-	
-
-
-											{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+	},	
+	{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+			
+		},
+
+
 	
 
 	
@@ -546,15 +548,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+	
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
-	},	
-	
-		
+	},
+			
 	
 
 
