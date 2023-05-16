@@ -166,13 +166,13 @@ let WEBSITE_DATA = [
 
 
 	
-// 			{
-// 		name: "Bismuth",
-// 		img: "images/adolph_men_zel123.png",
-// 		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
-// 		link: "",
-// 		credit: "",
-// 	},
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		link: "",
+		credit: "",
+	},
 		 				{
 		name: "Skin Conductance Response",
 		img: "images/skin-receptors-senses-basics.jpg",
@@ -202,13 +202,13 @@ let WEBSITE_DATA = [
 	 
 
 
-// 	{
-// 		name: "Filter Bubbles ",
-// 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
-// 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-// 		link: "",
-// 		credit: "",
-// 	},
+	{
+		name: "Filter Bubbles ",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		link: "",
+		credit: "",
+	},
 
 	
 	{
@@ -229,26 +229,26 @@ let WEBSITE_DATA = [
 // 	},
 
 		
-// 																										{
-// 		name: "Fight-or-Flight Response",
-// 		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
-// 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
-// 		link: "",
-// 		credit: "",
-// 	},
+																										{
+		name: "Fight-or-Flight Response",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
+		link: "",
+		credit: "",
+	},
 
 	
 
 
 	
 	
-// 							 												{
-// 		name: "Autonomous",
-// 		img: "images/colosseum_361-1.jpeg",
-// 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-// 		link: "",
-// 		credit: "",
-// 	},
+							 												{
+		name: "Autonomous",
+		img: "images/colosseum_361-1.jpeg",
+		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+		link: "",
+		credit: "",
+	},
 	
 {
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
@@ -307,13 +307,13 @@ let WEBSITE_DATA = [
 		
  	
 
-// 																										{
-// 		name: "Limbic System",
-// 		img: "images/fascia__1298.png",
-// 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
-// 		link: "",
-// 		credit: "",
-// 	},
+																										{
+		name: "Limbic System",
+		img: "images/fascia__1298.png",
+		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
+		link: "",
+		credit: "",
+	},
 
 
 	
@@ -565,7 +565,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/wavinghandemoji3dmodel013.jpeg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
