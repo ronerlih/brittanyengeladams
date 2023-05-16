@@ -116,7 +116,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/broken_staircase_sig_01.jpeg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -402,7 +402,7 @@ let WEBSITE_DATA = [
 	},
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/meditation_omshanti.png",
+		img: "images/arduino-breadboard-3D_DHQ.jpegg",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -449,7 +449,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
