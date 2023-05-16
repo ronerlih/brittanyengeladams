@@ -60,15 +60,15 @@ let WEBSITE_DATA = [
 
 	
 
-// 		{
+		{
 	
-// 		name: "Doppler Effect",
-// 		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-// 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-// 		link: "",
-// 		credit: "",
+		name: "Doppler Effect",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
 
-// 	},	
+	},	
 
 // 	{
 // 		name: "Hand Dance Film",
@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		img: "images/181514.jpeg",
 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
