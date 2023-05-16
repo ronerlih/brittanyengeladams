@@ -18,14 +18,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-								{
-		name: "3D Scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+																	{
+		name: "SAW Oscillators",
+		img: "images/animated-sinewave.gif",
+		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
 	},
+	
 
 	{
 		name: "BodyMouth Exhibition",
@@ -454,10 +454,10 @@ let WEBSITE_DATA = [
 		credit:"",
 			
 		},
-																{
-		name: "SAW Oscillators",
-		img: "images/animated-sinewave.gif",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+							{
+		name: "3D Scene",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -487,15 +487,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
-					{
-		name: "Singularity Is Near",
-		img: "images/film0875543.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+		
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
+	
+	
 
 
 											{
@@ -510,13 +511,13 @@ let WEBSITE_DATA = [
 	
 
 
-																										{
-		name: "Nicomachean Ethics",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
-		link: "",
-		credit: "",
-	},
+// 																										{
+// 		name: "Nicomachean Ethics",
+// 		img: "images/wfporcos_0003.jpg",
+// 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 	
 // 																{
@@ -528,15 +529,14 @@ let WEBSITE_DATA = [
 	
 // 	},
 	
-	
-		
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+					{
+		name: "Singularity Is Near",
+		img: "images/film0875543.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
+
 		{
 		name: "The Nervous System",
 		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
