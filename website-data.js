@@ -13,7 +13,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Before Zeta Film",
-		img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -27,14 +27,14 @@ let WEBSITE_DATA = [
 		},	
 
 	{
-	
-		name: "Doppler Effect",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		name: "BodyMouth Exhibition",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpeg",
+		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
-
-	},	
+		
+		},
+	
 	{
 		name: "Maquette 2021",
 		img: "images/01.jpeg",
@@ -58,17 +58,18 @@ let WEBSITE_DATA = [
 	},
 	
 
+		{
 	
-
-	
-	{
-		name: "BodyMouth Exhibition",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpeg",
-		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
+		name: "Doppler Effect",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
-		
-		},
+
+	},	
+
+	
+
 			 													{
 		name: "I Am Not A Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
@@ -89,7 +90,7 @@ let WEBSITE_DATA = [
 		 {
 		 
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
@@ -162,15 +163,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-		{
-
-		name: "Neural Network",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		 				{
+		name: "Skin Conductance Response",
+		img: "images/skin-receptors-senses-basics.jpg",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
-	},	
+	},
+
 	
 // 	{
 // 		name: "Electron Cloud Atomic Model",
@@ -248,14 +248,15 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
-		 				{
-		name: "Skin Conductance Response",
-		img: "images/skin-receptors-senses-basics.jpg",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+
+		{
+
+		name: "Neural Network",
+		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-	},
-	
+	},		
 
 		
 																				{
@@ -417,16 +418,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-	{
-			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+				{
+		name: "Somatosensory Receptors",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
+
 
 	
 		{
@@ -436,14 +435,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
-		link: "",
-		credit: "",
-	},
 
+	{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+		link: "",
+		credit:"",
+			
+		},
 																{
 		name: "SAW Oscillators",
 		img: "images/animated-sinewave.gif",
