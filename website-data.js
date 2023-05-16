@@ -72,7 +72,7 @@ let WEBSITE_DATA = [
 
 // 	{
 // 		name: "Hand Dance Film",
-// 		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+// 		img: "images/",
 // 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum - Works & Process in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 // 		link: "",
 // 		credit: " ",
@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/181514.jpeg",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
