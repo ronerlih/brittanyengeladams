@@ -18,15 +18,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-		
-																										{
-		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
-		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
-		link: "",
-		credit: "",
-	},
+	{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
+			img: "images/311631513116315113154.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: "",
+		},	
+
 	{
 	
 		name: "Doppler Effect",
@@ -36,26 +35,28 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},	
-											{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
-		link: "",
-		credit: "",
-	},
-	
-	
-
-
 	{
-	
-		name: "PTSD",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
-		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
+		name: "Maquette 2021",
+		img: "images/01.jpeg",
+		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
 		link: "",
 		credit: "",
+	},	
+	
 
+	
+	
+
+
+
+							{
+		name: "3d scene",
+		img: "images/morning.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
+		credit: "",
 	},
+	
 
 	
 
@@ -70,20 +71,21 @@ let WEBSITE_DATA = [
 		},
 			 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them.",
 		link: "",
 		credit: "",
 	},
-					{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/r2.jpeg",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
-		link: "",
-		credit: "",
-	},
 
+
+					{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
+},	
 		 {
 		 
 		name: "Wireless Fidelity",
@@ -92,37 +94,37 @@ let WEBSITE_DATA = [
 		link: "",
 	        credit: "",
 },
-{
-		name: "Maquette 2021",
-		img: "images/01.jpeg",
-		blurb: "The Maquette is a robotic automaton, designed for a performative work, inspired by Choreographer Deborah Hay's 1966 work ‘Solo’ that is not really a solo but rather a work for 16 dancers, 8 tele-guided platforms and their operators, each dancer follows a solitary path that only episodically cross. Their ecology of movement reaches its climax when it is the platforms that move them across the stage, dignified as Apollos or stiff as planks.", 
+	{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by Works & Process at The Guggenheim Museum in New York. ‘Hand Dance’ uses a hand pose estimation algorithm from a public dataset to augment hands over a live performer. The algorithm learns to estimate a hand position, perhaps is emancipating those anonymous hands, or at least giving them a place in the foreground - suggesting a larger world.",
 		link: "",
 		credit: "",
 	},
 
+	{
+	
+		name: "PTSD",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
+		link: "",
+		credit: "",
 
-							{
-		name: "3d scene",
-		img: "images/morning.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
 	},
 	
-																	{
-		name: "SAW Oscillators",
-		img: "images/animated-sinewave.gif",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+		
+																							{
+		name: "Shower",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
 		link: "",
 		credit: "",
-	},
-	
-	
+	},	
 
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/S2022110192534copy.jpeg",
+		img: "images/who_wood_picture1.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -208,34 +210,26 @@ let WEBSITE_DATA = [
 	},
 
 		
-
-				{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/r2.jpeg",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
 		credit: "",
-	
-},	
+	},
 
-
-	
- {
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/311631513116315113154.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: "",
-		},
-	
-
-
-	
-
-	
-	
-	
 		
+																										{
+		name: "Fight-or-Flight Response",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
+		link: "",
+		credit: "",
+	},
+
+	
+
+
 	
 	
 							 												{
@@ -396,14 +390,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
-		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
+															{
+	      name: "Pineal Gland DMT neurotransmitter system",
+		img: "images/meditation_omshanti.png",
+		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
+	
 	},
+
 		
 
 		{
@@ -441,22 +436,23 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	{
-		name: "The Nervous System",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
+			{
+		name: "Somatosensory Receptors",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
 	},
 
-		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
+																{
+		name: "SAW Oscillators",
+		img: "images/animated-sinewave.gif",
+		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
 	},
+	
+
 // 			{
 // 		name: "Hypothalamus",
 // 		img: "images/wfporcos_0003.jpg", 
@@ -465,14 +461,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-															{
-	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/meditation_omshanti.png",
-		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
+			{
+		name: "Projectile Motion",
+		img: "images/arrowscollection43dsmodel001.jpg",
+		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
-	
-	},
+	},	
 
 	
 	{
@@ -527,19 +522,19 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
-	
 		{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+		name: "The Nervous System",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 		{
 		name: "Disintegrating figure",
 		img: "images/1215151151515147229523.png",
