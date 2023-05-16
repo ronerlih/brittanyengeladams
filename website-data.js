@@ -63,7 +63,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "Doppler Effect",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/dopplerenurembirg.png",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -156,15 +156,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "", 
 	},
-			{
-		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+	
+
+					{
+		name: "Ancestral Artifact",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
-
-
 	
 			{
 		name: "Bismuth",
@@ -220,18 +220,18 @@ let WEBSITE_DATA = [
 	},
 
 		
-// 					{
-// 		name: "Galileo's Law of Falling Bodies",
-// 		img: "images/r2.jpeg",
-// 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
-// 		link: "",
-// 		credit: "",
-// 	},
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
+		credit: "",
+	},
 
 		
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -244,7 +244,7 @@ let WEBSITE_DATA = [
 	
 							 												{
 		name: "Autonomous",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
@@ -327,7 +327,7 @@ let WEBSITE_DATA = [
 	
 {
 			name: "Architecture of Memory",
-			img: "images/unnamed-4.png", 
+			img: "images/2138383815138158.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -420,13 +420,14 @@ let WEBSITE_DATA = [
 	},
 	
 	
-						{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+			{
+		name: "Skeletal Avatar",
+		img: "images/SS20230201at82532PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+	
 				{
 		name: "Somatosensory Receptors",
 		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
@@ -473,7 +474,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
@@ -580,7 +581,7 @@ let WEBSITE_DATA = [
 ];
 
 
-
+c
 
 
 
