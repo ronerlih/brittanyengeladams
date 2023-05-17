@@ -220,7 +220,7 @@ let WEBSITE_DATA = [
 		
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/r2.jpeg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -245,7 +245,7 @@ let WEBSITE_DATA = [
 																							{
 		name: "Shower",
 		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York, inspired by the music of American musical composer Nico Muhly",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
 	},	
@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/fascia__1298.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
@@ -357,7 +357,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "AI Brittleness",
-		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "",
 		credit: "",
@@ -369,7 +369,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -442,7 +442,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Cartesian Dualism",
-		img: "images/meditation_omshanti.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
