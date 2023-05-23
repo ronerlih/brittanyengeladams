@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpeg",
+		img: "images/8118221151181119920231518111.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -144,13 +144,13 @@ let WEBSITE_DATA = [
 
 
 
-		 				{
-		name: "Skin Conductance Response",
-		img: "images/Avatartracking.jpeg",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
-		link: "",
-		credit: "",
-	},
+// 		 				{
+// 		name: "Skin Conductance Response",
+// 		img: "images/Avatartracking.jpeg",
+// 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 
 					{
@@ -190,7 +190,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Viewpoint discrimination",
-		img: "images/qubit_quantumcomp.ong.png",
+		img: "images/crystalc.jpg",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
@@ -219,7 +219,7 @@ let WEBSITE_DATA = [
 		
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/hanging_scales_thumbnail_0001.png",
+		img: "images/hanging_scales_thumbnail_0001.jpeg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/crystalc.jpg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -547,7 +547,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "The Nervous System",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/rmb45m_004.jpg",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
