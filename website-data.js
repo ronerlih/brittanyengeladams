@@ -60,15 +60,15 @@ let WEBSITE_DATA = [
 
 	
 
-		{
-	
-		name: "Doppler Effect",
-		img: "images/emergencybutton4b.jpeg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-		link: "",
+															{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-
+	
 	},	
+
 
 // 	{
 // 		name: "Hand Dance Film",
@@ -188,17 +188,24 @@ let WEBSITE_DATA = [
 // 	},
 	
 
-	{
+		{
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+																			
+
+
+
+		{
 		name: "Viewpoint discrimination",
 		img: "images/crystalc.jpg",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
-	},																					
-
-	 
-
-
+	},	
 	{
 		name: "Filter Bubbles ",
 		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
@@ -206,16 +213,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-	
-	{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”, and his concept of the ‘aura’, to describe how we use the machine in order to make art, is in a sense a requiem to handmade art. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-
 		
 					{
 		name: "Galileo's Law of Falling Bodies",
@@ -225,20 +222,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		
-																										{
-		name: "Fight-or-Flight Response",
-		img: "images/SS2023157M.png",
-		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
+		{
+		name: "Panpsychism",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
 	},
 
-	
-
-
-	
-	
 
 		
 																							{
@@ -292,15 +283,16 @@ let WEBSITE_DATA = [
 		credit: ""
 	},	
 		
-		
 			
-		{
-		name: "Panpsychism",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+																										{
+		name: "Fight-or-Flight Response",
+		img: "images/SS2023157M.png",
+		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
-	},
+	},	
+			
+
 		
 	
 		
@@ -431,15 +423,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-														{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
+		{
 	
-	},	
+		name: "Doppler Effect",
+		img: "images/emergencybutton4b.jpeg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
+
+	},
 
 											{
 		name: "Displaced figure",
@@ -475,7 +467,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-
+	{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
 	
 	{
 		name: "Rhizome",
@@ -484,16 +482,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-
 	
-	{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},	
 	{
 			
 		name: "Posthumanism",
