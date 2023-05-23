@@ -234,7 +234,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		img: "images/119106655.jpeg",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -251,7 +251,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/ScreenShot2023-02-19at3.54.14PM.png",
+		img: "images/01.jpeg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
