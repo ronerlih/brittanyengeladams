@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/209385904___385893475689376782657826.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpeg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -97,7 +97,7 @@ let WEBSITE_DATA = [
 	{
 		 
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
@@ -127,17 +127,16 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-
-	
-	
-														{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		{
+		name: "Cartesian Dualism",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
+		link: "",
 		credit: "",
-	
 	},
+	
+	
+
 		
 	
 
@@ -244,7 +243,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
+		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -330,23 +329,21 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/broken_staircase_sig_01.jpeg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
 
 	},
 
-	
-	
-																										{
-		name: "ROM VS. RAM",
-		img: "images/S12.46.19P.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+								{
+		name: "3D Scene",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
-	
+
 			{
 		name: "Perceptual Brittleness",
 		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
@@ -442,14 +439,15 @@ let WEBSITE_DATA = [
 	},
 
 
-	
-		{
-		name: "Cartesian Dualism",
-		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
-		link: "",
+														{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/SS2023124534PM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-	},
+	
+	},	
+
 											{
 		name: "Displaced figure",
 		img: "images/11414121191918.gif",
@@ -457,14 +455,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-							{
-		name: "3D Scene",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		
+																										{
+		name: "ROM VS. RAM",
+		img: "images/S12.46.19P.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
 	},
+	
+
 	
 
 // 			{
