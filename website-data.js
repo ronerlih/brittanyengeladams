@@ -112,13 +112,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-							 												{
-		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-		link: "",
-		credit: "",
-	},
+// 							 												{
+// 		name: "Autonomous",
+// 		img: "images/Avatartracking.jpeg",
+// 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+// 		link: "",
+// 		credit: "",
+// 	},
 {
 			name: "Architecture of Memory",
 			img: "images/2138383815138158.jpg", 
@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 	
 														{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -147,7 +147,7 @@ let WEBSITE_DATA = [
 
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/skin-receptors-senses-basics.jpg",
+		img: "images/Avatartracking.jpeg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -157,7 +157,7 @@ let WEBSITE_DATA = [
 					{
 		name: "Ancestral Artifact",
 		img: "images/1926318892613892618138.jpeg",
-		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
 	},
@@ -165,7 +165,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Bismuth",
 		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth has played important roles in metal and condensed matter physics. The extremely low carrier density of Bismuth allows quantum limits of the Landau level to be studied under high magnetic field and quantum size effects to be observed at ∼100-nm length scale. The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid Bi to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
 		credit: "",
 	},
