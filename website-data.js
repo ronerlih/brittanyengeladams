@@ -346,8 +346,8 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 								{
-		name: "3D Scene",
-		img: "images/11811_192114417.gif",
+		name: "3D Scene (Mocap Research)",
+		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
