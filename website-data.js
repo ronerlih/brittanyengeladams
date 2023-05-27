@@ -345,10 +345,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-								{
-		name: "3D Scene (Mocap Research)",
-		img: "images/else_chin_drs_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		{
+		name: "The Nervous System",
+		img: "images/rmb45m_004.jpg",
+		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
 	},
@@ -525,15 +525,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-
-
-		{
-		name: "The Nervous System",
-		img: "images/rmb45m_004.jpg",
-		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
+							{
+		name: "3D Scene (Mocap Research)",
+		img: "images/else_chin_drs_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
+
+	
 	
 					{
 		name: "Singularity Is Near",
