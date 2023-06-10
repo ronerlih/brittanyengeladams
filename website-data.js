@@ -96,7 +96,7 @@ let WEBSITE_DATA = [
 	{
 		 
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
@@ -209,7 +209,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Viewpoint discrimination",
-		img: "images/crystalc.jpg",
+		img: "images/S12.46.19P.png",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
@@ -224,7 +224,7 @@ let WEBSITE_DATA = [
 		
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/hanging_scales_thumbnail_0001.jpeg",
+		img: "images/fascia__1298.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -232,7 +232,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Panpsychism",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -242,7 +242,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -294,7 +294,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
+		img: "images/hawaii0011.jpg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
 		link: "",
 		credit: "",
@@ -425,7 +425,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -434,7 +434,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "Doppler Effect",
-		img: "images/emergencybutton4b.jpeg",
+		img: "images/SS2023157M.png",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -451,7 +451,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "ROM VS. RAM",
-		img: "images/S12.46.19P.png",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -494,7 +494,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/SS11559PM.png",
+		img: "images/ScreenShot2023-03-01at9.49.04AM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -527,14 +527,14 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
+		img: "images/ScreenShot2023-02-07at5.01.45PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
 		
 							{
-		name: "3D Scene (Mocap Research)",
+		name: "3D Scene",
 		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -545,7 +545,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Singularity Is Near",
-		img: "images/nuclearex.png",
+		img: "images/Roland_TR-808_(large).jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -561,7 +561,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/rustoncars.png",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
