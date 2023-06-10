@@ -49,7 +49,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -62,7 +62,7 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -112,7 +112,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -129,7 +129,7 @@ let WEBSITE_DATA = [
 // 	},
 {
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
+			img: "images/ScreenShot2023-02-22at7.29.50PM.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/1233740.gif",
+		img: "images/01_v4.jpeg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/nuclearex.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -355,7 +355,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "The Nervous System",
-		img: "images/rmb45m_004.jpg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/eyeshadow.601.jpg",
+		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -397,7 +397,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -485,7 +485,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/Rhizome.png",
+		img: "images/SS2023-04-1at11.43.53AM.png",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
