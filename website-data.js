@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cartesian Dualism",
-		img: "images/8121321520113118152__152014.gif",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/hawaii0011.jpg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -494,7 +494,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-03-01at9.49.04AM.png",
+		img: "images/captura.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
