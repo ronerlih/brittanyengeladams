@@ -112,7 +112,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -137,7 +137,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cartesian Dualism",
-		img: "images/rustoncars.png",
+		img: "images/1233740.gif",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -179,7 +179,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/01_v4.jpegc",
+		img: "images/01_v4.jpeg",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -216,7 +216,7 @@ let WEBSITE_DATA = [
 	},	
 	{
 		name: "Filter Bubbles ",
-		img: "images/dopplerenurembirg.png",
+		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -224,7 +224,7 @@ let WEBSITE_DATA = [
 		
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/7_wt.jpeg",
+		img: "images/hanging_scales_thumbnail_0001.jpeg",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -232,7 +232,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Panpsychism",
-		img: "images/captura.jpg",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -242,7 +242,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
+		img: "images/119106655.jpeg",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -268,7 +268,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/eyeshadow.601.jpg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+		img: "images/t2_026.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/ SS2023-02-07at5.45.35PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -355,7 +355,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "The Nervous System",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/rmb45m_004.jpg",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/nuclearex.png",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/eyeshadow.601.jpg",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -425,7 +425,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/cyborg_leg.png",
+		img: "images/skin-receptors-senses-basics.jpg",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -485,7 +485,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		img: "images/hawaii0011.jpg",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
@@ -524,14 +524,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 	
 // 	},
-		
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-04at1.29.04PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+						{
+		name: "Singularity Is Near",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
-	},
+	},	
+
 		
 							{
 		name: "3D Scene",
@@ -542,14 +542,14 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
-					{
-		name: "Singularity Is Near",
-		img: "images/Roland_TR-808_(large).jpg",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-04at1.29.04PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},	
+	
 	
 
 
