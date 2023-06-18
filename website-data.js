@@ -93,14 +93,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-	{
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
+		{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
-	        credit: "",
-},
+		credit: "",
+	},
 				{
 		name: "Movement Research Performance Journal Publication",
 		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
@@ -129,7 +128,7 @@ let WEBSITE_DATA = [
 // 	},
 {
 			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
+			img: "images/broken_staircase_sig_01.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -168,14 +167,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
-		credit: "",
-	},
+	        credit: "",
+},
+	
 	
 																					{
 		name: "Memory Dance",
