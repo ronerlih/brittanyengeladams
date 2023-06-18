@@ -431,15 +431,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-// 		{
+		{
 	
-// 		name: "Doppler Effect",
-// 		img: "images/SS2023157M.png",
-// 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-// 		link: "",
-// 		credit: "",
+		name: "Doppler Effect",
+		img: "images/SS2023157M.png",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
 
-// 	},
+	},
 
 											{
 		name: "Displaced figure",
@@ -535,7 +535,7 @@ let WEBSITE_DATA = [
 		
 							{
 		name: "3D Scene",
-		img: "images/11811_192114417.gif",
+		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
