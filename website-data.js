@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -128,7 +128,7 @@ let WEBSITE_DATA = [
 // 	},
 {
 			name: "Architecture of Memory",
-			img: "images/broken_staircase_sig_01.jpeg", 
+			img: "images/11.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -308,7 +308,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Limbic System",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/contex.jpg",
 		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses. You can find the structures of the limbic system buried deep within the brain, underneath the cerebral cortex and above the brainstem.",
 		link: "",
 		credit: "",
