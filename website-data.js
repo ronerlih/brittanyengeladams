@@ -59,15 +59,15 @@ let WEBSITE_DATA = [
 
 
 	
-
-															{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/S2022102835049AM.jpg",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+				{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
 	
-	},	
+},
+
 
 
 // 	{
@@ -85,30 +85,24 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},		
-			 													{
-		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+			{
+		 
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpeg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
-		credit: "",
-	},	
-
-		{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
-		link: "",
-		credit: "",
-	},
-				{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
+	        credit: "",
 },
+
+
+															{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/S2022102835049AM.jpg",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
 	
+	},		
 		{
 		name: "Autonomous",
 		img: "images/Madonna_retina_ish_ingU2alalala.png",
@@ -117,6 +111,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+{
+			name: "Architecture of Memory",
+			img: "images/11.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
 
 // 							 												{
@@ -126,13 +127,15 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-{
-			name: "Architecture of Memory",
-			img: "images/11.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		link: "",
+		credit: "",
+	},
+
 
 		{
 		name: "Cartesian Dualism",
@@ -167,16 +170,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
+
+	
+			 													{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
-	        credit: "",
-},
-	
-	
+		credit: "",
+	},	
 																					{
 		name: "Memory Dance",
 		img: "images/ice_cubes_3d_model_s02.jpg",
