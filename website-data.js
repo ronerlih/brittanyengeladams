@@ -12,12 +12,15 @@ let WEBSITE_DATA = [
 	},
 	
 				{
-		name: "Before Zeta Film",
-		img: "images/film0875543.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "",
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
-	},
+	},		
+
+	
 
 				 {
 		name: "YouTube Improv",
@@ -43,18 +46,15 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},	
-	
-
-	
 				{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		name: "Before Zeta Film",
+		img: "images/film0875543.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "",
 		credit: "",
-	},		
+	},
 
+	
 
 
 
