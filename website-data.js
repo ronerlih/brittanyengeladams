@@ -242,7 +242,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/119106655.jpeg",
+		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -318,7 +318,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/t2_026.jpeg",
+		img: "images/meditation_omshanti.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -329,7 +329,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/aim9x_000b.jpeg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
@@ -362,7 +362,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -371,7 +371,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
 		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
 		link: "",
 		credit: "",
@@ -389,7 +389,7 @@ let WEBSITE_DATA = [
 		
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -475,15 +475,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
-																										{
-		name: "Cloud Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+
+							{
+		name: "3D Scene",
+		img: "images/else_chin_drs_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
-
 
 	
 	{
@@ -497,7 +496,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/wavinghandemoji3dmodel013.jpeg",
+		img: "images/captura.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -534,15 +533,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-
-		
-							{
-		name: "3D Scene",
-		img: "images/else_chin_drs_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+	
+																										{
+		name: "Cloud Computing",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
+		
+
 	
 	
 				{
