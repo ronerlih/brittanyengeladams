@@ -18,14 +18,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																	{
-		name: "SAW Oscillators",
-		img: "images/ts_cpuenvironment08.jpeg",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+
+				 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
-	
 
 	{
 		name: "BodyMouth Exhibition",
@@ -139,7 +139,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cartesian Dualism",
-		img: "images/",
+		img: "images/humanrobot_two.gif",
 		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -285,14 +285,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-			 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+	
+																		{
+		name: "SAW Oscillators",
+		img: "images/ts_cpuenvironment08.jpeg",
+		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
-		credit: ""
+		credit: "",
 	},	
-		
 			
 																										{
 		name: "Fight-or-Flight Response",
