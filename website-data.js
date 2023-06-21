@@ -125,10 +125,10 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		{
+		name: "Filter Bubbles ",
+		img: "images/interfewrencewavepattern.jpeg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
@@ -217,14 +217,14 @@ let WEBSITE_DATA = [
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
 	},	
-	{
-		name: "Filter Bubbles ",
-		img: "images/interfewrencewavepattern.jpeg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+
+			{
+		name: "Bismuth",
+		img: "images/adolph_men_zel123.png",
+		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
 		credit: "",
-	},
-		
+	},	
 					{
 		name: "Galileo's Law of Falling Bodies",
 		img: "images/hanging_scales_thumbnail_0001.jpeg",
