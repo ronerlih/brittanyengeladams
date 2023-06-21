@@ -103,14 +103,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},		
-		{
-		name: "Autonomous",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+			
+				{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
 	},
-
 {
 			name: "Architecture of Memory",
 			img: "images/11.jpg", 
@@ -211,7 +211,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Viewpoint discrimination",
-		img: "images/S12.46.19P.png",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
@@ -388,15 +388,15 @@ let WEBSITE_DATA = [
 	},
  
 
-		
-				{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
+
+		{
+		name: "Autonomous",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
 	},
-	
+
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
 		img: "images/wavinghandemoji3dmodel013.jpeg",
