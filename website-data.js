@@ -108,13 +108,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-{
-			name: "Architecture of Memory",
-			img: "images/11.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
+																					{
+		name: "Memory Dance",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
 
 
 // 							 												{
@@ -176,15 +176,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-																					{
-		name: "Memory Dance",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
 
 
+{
+			name: "Architecture of Memory",
+			img: "images/11.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 	
 // 	{
 // 		name: "Electron Cloud Atomic Model",
