@@ -25,7 +25,7 @@ let WEBSITE_DATA = [
 				 {
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as well all do.",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
 		credit: ""
 	},
