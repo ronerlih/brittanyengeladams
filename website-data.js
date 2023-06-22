@@ -48,7 +48,7 @@ let WEBSITE_DATA = [
 // 	},	
 				{
 		name: "Before Zeta Film",
-		img: "images/film0875543.png",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -80,7 +80,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/79514154515144445114______444_44.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
@@ -88,7 +88,7 @@ let WEBSITE_DATA = [
 			{
 		 
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac.",
 		link: "",
 	        credit: "",
@@ -103,7 +103,7 @@ let WEBSITE_DATA = [
 	},	
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -171,7 +171,7 @@ let WEBSITE_DATA = [
 	
 			 													{
 		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
@@ -200,7 +200,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/whowood.gif",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -235,7 +235,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Panpsychism",
-		img: "images/Avatartracking.jpeg",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -245,14 +245,14 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
 	},	
 {
 			name: "Architecture of Memory",
-			img: "images/11.jpg", 
+			img: "images/Rhizome.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
@@ -261,7 +261,7 @@ let WEBSITE_DATA = [
 		{
 
 		name: "Neural Network",
-		img: "images/i050950a.gif",
+		img: "images/liioncellthumbnail.jpg",
 		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
@@ -270,7 +270,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/cyborg_leg.png",
+		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -364,7 +364,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/dna_wireframe_0004.jpg",
 		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -427,7 +427,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/skin-receptors-senses-basics.jpg",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -471,7 +471,7 @@ let WEBSITE_DATA = [
 // 	},	
 	{
 		name: "Disintegrating figure",
-		img: "images/11414121191918.gif",
+		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -489,7 +489,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/Rhizome.png",
+		img: "images/hawaii0011.jpg",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Rejecting the “Father Principle” or the principle of the otigin.-as-identity, Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
@@ -538,7 +538,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-04at2.33.05PM.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -549,7 +549,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/crystalc.jpg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
@@ -564,7 +564,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/nuclearex.png",
+		img: "images/11414121191918.gif",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
