@@ -471,7 +471,7 @@ let WEBSITE_DATA = [
 // 	},	
 	{
 		name: "Disintegrating figure",
-		img: "images/ScreenShot2023-02-13at7.18.30PM.png",
+		img: "images/oxi_oh.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
