@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		img: "images/BodyMouth_FutureBodies.gif",
 		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -270,7 +270,7 @@ let WEBSITE_DATA = [
 		
 																				{
 		name: "Proprioceptive Research",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -288,7 +288,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "SAW Oscillators",
-		img: "images/ts_cpuenvironment08.jpeg",
+		img: "images/Simple-AM-Receiver-Using-BC547-Transistor.jpg",
 		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
