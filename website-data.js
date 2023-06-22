@@ -399,7 +399,7 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/wavinghandemoji3dmodel013.jpeg",
+		img: "images/iambic-pentameter.jpg",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
