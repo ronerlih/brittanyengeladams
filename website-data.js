@@ -331,7 +331,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "PTSD",
-		img: "images/aim9x_000b.jpeg",
+		img: "images/gas.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying.",
 		link: "",
 		credit: "",
