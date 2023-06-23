@@ -265,10 +265,12 @@ let WEBSITE_DATA = [
 		},
 
 
-					{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+	
+	
+																		{
+		name: "SAW Oscillators",
+		img: "images/animated-sinewave.gif",
+		blurb: "Surface Acoustic Wave (SAW) Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
 	},
@@ -291,14 +293,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-	
-																		{
-		name: "SAW Oscillators",
-		img: "images/animated-sinewave.gif",
-		blurb: "Surface Acoustic Wave (SAW) Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+					{
+		name: "Ancestral Artifact",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
-	},	
+	},
 			
 																										{
 		name: "Fight-or-Flight Response",
