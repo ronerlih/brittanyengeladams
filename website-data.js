@@ -32,7 +32,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/BodyMouth_FutureBodies.gif",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -142,7 +142,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	
+			{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},		
+
 
 		
 	
@@ -160,13 +168,7 @@ let WEBSITE_DATA = [
 // 	},
 	
 
-					{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+	
 
 	
 			 													{
@@ -220,7 +222,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
+		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
 		link: "",
 		credit: "",
@@ -252,25 +254,25 @@ let WEBSITE_DATA = [
 	},	
 {
 			name: "Architecture of Memory",
-			img: "images/Rhizome.png", 
+			img: "images/S2022110192534copy.jpeg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
 			link: "",
 			credit: "",
 		},
 
-		{
 
-		name: "Neural Network",
-		img: "images/liioncellthumbnail.jpg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+					{
+		name: "Ancestral Artifact",
+		img: "images/1926318892613892618138.jpeg",
+		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
 		link: "",
 		credit: "",
-	},		
+	},
 
-		
+	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/01_v4.jpeg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -288,15 +290,15 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "SAW Oscillators",
-		img: "images/Simple-AM-Receiver-Using-BC547-Transistor.jpg",
-		blurb: "SAW (Surface Acoustic Wave) Oscillators are microcircuits that process analog signals in radar, communications, electronic warfare (EW), and other defense and space applications. SAW Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		blurb: "Surface Acoustic Wave (SAW) Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
 	},	
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -350,7 +352,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
 		link: "",
 		credit: "",
@@ -364,7 +366,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/dna_wireframe_0004.jpg",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
 		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -373,7 +375,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		img: "images/broken_staircase_sig_01.jpeg",
 		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
 		link: "",
 		credit: "",
@@ -391,7 +393,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -410,8 +412,8 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Quantum Computing",
-		img: "images/emergencybutton4b.jpeg",
-		blurb: "Quantum computing employs the properties of quantum physics like superposition and entanglement to perform computation. Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
 	},
@@ -498,7 +500,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/captura.jpg",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -530,7 +532,7 @@ let WEBSITE_DATA = [
 // 	},
 						{
 		name: "Singularity Is Near",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -538,7 +540,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/nuclearex.png",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -549,7 +551,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
