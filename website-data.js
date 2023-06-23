@@ -246,16 +246,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-
-		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+	
+																				{
+		name: "Proprioceptive Research",
+		img: "images/01_v4.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
-	},	
+	}, 
+	
 {
 			name: "Architecture of Memory",
 			img: "images/004351893123001135189312300432120.gif", 
@@ -276,13 +275,16 @@ let WEBSITE_DATA = [
 	},
 
 	
-																				{
-		name: "Proprioceptive Research",
-		img: "images/01_v4.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+
+		
+																							{
+		name: "Shower",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
-	}, 	
+	},
+	
 
 	
 // 					{
