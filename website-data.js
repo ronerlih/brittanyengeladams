@@ -363,7 +363,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "The Nervous System",
-		img: "images/rmb45m_004.jpg",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
 		link: "",
 		credit: "",
