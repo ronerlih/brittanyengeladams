@@ -290,7 +290,7 @@ let WEBSITE_DATA = [
 	
 																		{
 		name: "SAW Oscillators",
-		img: "images/ScreenShot2023-02-16at8.27.52PM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "Surface Acoustic Wave (SAW) Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
 		link: "",
 		credit: "",
@@ -438,7 +438,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "Doppler Effect",
-		img: "images/animated-sinewave.gif",
+		img: "images/SS2023157M.png",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -447,7 +447,7 @@ let WEBSITE_DATA = [
 
 											{
 		name: "Displaced figure",
-		img: "images/arduino-breadboard-3D_DHQ.jpg",
+		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -566,7 +566,7 @@ let WEBSITE_DATA = [
 	
 																								{
 		name: "Farewell 2020",
-		img: "images/11414121191918.gif",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Given the special situation of lockdown experienced in 2020 due to the pandemic caused by COVID-19, many wondered,‘Where and how will we gather during a time of confinement?’ Special online platforms where material (videos, ideas for virtual interactive activities, etc.), could be shared with a global audience to engage in performance from home, of course, without forgetting to prioritize inclusion and consider the diversity of their audiences. In many ways, these online platforms brought more diverse groups from the dance community together, and gave dance institutions the opportunity to ask and receive feedback from the community. For instance, inviting the public to a special artist talk sessions to discuss and share ideas about the role of art, and performance, welcoming their interpretation of works of art, promoting equality between people and universal access to culture. This discussion addressed topics such as: Are these spaces really open to everyone, or are there people who may feel excluded?  Dance institutions and performance venues with free access are more equal? What should Dance institutions be like in the ‘new normal'.",
 		link: "",
 		credit: "",
