@@ -11,6 +11,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+	
 				{
 			
 		name: "Harvestworks Artist Residency",
@@ -33,7 +34,16 @@ let WEBSITE_DATA = [
 	{
 		name: "BodyMouth Exhibition",
 		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "Live performance of 'BodyMouth' a movement and sound instrument that turns the body into a mouth for speech, presented at The 2022 New Media Caucus Symposium, at Virginia Tech.",
+		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
+		link: "",
+		credit: "",
+		
+		},
+
+	{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
 		
