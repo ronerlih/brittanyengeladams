@@ -33,22 +33,20 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		img: "images/BodyMouth_FutureBodies.gif",
 		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
 		
 		},
-
-	{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
+		{
+		name: "Filter Bubbles ",
+		img: "images/interfewrencewavepattern.jpeg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
-		
-		},
-	
+	},
+
 // 	{
 // 		name: "Maquette 2021",
 // 		img: "images/01.jpeg",
@@ -88,13 +86,16 @@ let WEBSITE_DATA = [
 // 		credit: " ",
 // 	},
 
-	{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
+
+
+		{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
-	},		
+		
+		},
 			{
 		 
 		name: "Wireless Fidelity",
@@ -138,14 +139,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-		{
-		name: "Filter Bubbles ",
-		img: "images/interfewrencewavepattern.jpeg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+
+	{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
 	},
-
+	
 
 		{
 		name: "Cartesian Dualism",
@@ -429,7 +431,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Quantum Computing",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/qubit_quantumcomp.ong.png",
 		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
@@ -438,7 +440,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		img: "images/SS20230201at82532PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -517,7 +519,7 @@ let WEBSITE_DATA = [
 	{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/captura.jpg",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -551,7 +553,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		img: "images/nuclearex.png",
 		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -568,7 +570,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
