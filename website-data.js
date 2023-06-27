@@ -330,9 +330,9 @@ let WEBSITE_DATA = [
  	
 
 																										{
-		name: "Limbic System",
+		name: "Broca's area",
 		img: "images/broca.png",
-		blurb: "The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses.",
+		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
 		link: "",
 		credit: "",
 	},
