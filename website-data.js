@@ -149,7 +149,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Cartesian Dualism",
 		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "The position taken by René Descartes that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
+		blurb: "Cartesian Dualism suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
 	},
@@ -251,7 +251,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Panpsychism",
 		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Philosopher René Descartes argued for a so-called 'dualist' approach to explaining how our mind interacts with our body. He argued the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
 	},
