@@ -231,7 +231,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Viewpoint discrimination",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another. The algorithmic bias I’m most concerned about comes from “automated decision systems” —replacing human decision makers like judges, doctors, bureaucrats, or bankers. These algorithms take our data (i.e. age, gender, income, education, zip-code etc.), and process that data according to a set of rules, generating an output that becomes the basis for a decision.'", 
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.'", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
 	},	
