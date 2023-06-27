@@ -567,7 +567,13 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
+						{
+		name: "Newtonian Physics",
+		img: "images/physics-productivity-first-law.jpg",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation formulated in the late seventeenth century by English physicist Sir Isaac Newton (1642–1727).",
+		link: "",
+		credit: "",
+	},
 	
 				{
 		name: "Projectile Motion",
