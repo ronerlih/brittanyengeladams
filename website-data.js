@@ -586,6 +586,13 @@ let WEBSITE_DATA = [
 
 	
 
+				{
+		name: "Historical Materialism",
+		img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
+		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
