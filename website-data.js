@@ -199,7 +199,7 @@ let WEBSITE_DATA = [
 				{
 		name: "Haptics",
 		img: "images/wavinghandemoji3dmodel013.jpeg",
-		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
@@ -239,7 +239,7 @@ let WEBSITE_DATA = [
 			{
 		name: "Bismuth",
 		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "The ferromagnetism of Bismuth is found to be associated with a surprising structural memory effect in the molten state and the ability for solid bismuth to “remember” its liquid structural motifs. This structural memory effect may present an important route in defect engineering for creating materials.",
+		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
 		link: "",
 		credit: "",
 	},	
@@ -498,7 +498,7 @@ let WEBSITE_DATA = [
 	{
 		name: "Rhizome",
 		img: "images/crystalc.jpg",
-		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
+		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
 		link: "",
 		credit: "",
 	},
@@ -555,7 +555,7 @@ let WEBSITE_DATA = [
 																										{
 		name: "Cloud Computing",
 		img: "images/nuclearex.png",
-		blurb: "Since the first optical transatlantic cable that went into operation in 1988 - TAT-8 - computers have been sharing datas at the speed of light. Human mind can not. A complete new speed for information. Now occupying drives all over a world that is saying hello, gluttoning energy. Tera after tera, the datas stored become spaces. Linked, potentially compared, pondered, valued, sometimes structured, hierarchised and shared, they are creating a new informational and atmospheric reality. What consciousness will come from this reality? Cloud computing appears as a floating phenomena with a strange and powerful aspect, fitting its name as if it was meant. One can grasp its shape in a totally different way than the nearest one sitting next. Can it be seen as a new common ground, a global informational and shared condition or is the cloud creating a new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+		blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
 	},
