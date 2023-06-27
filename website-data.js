@@ -113,7 +113,7 @@ let WEBSITE_DATA = [
 
 	{
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/311631513116315113154.png",
+			img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: "",
@@ -121,7 +121,7 @@ let WEBSITE_DATA = [
 			{
 		 
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
@@ -231,14 +231,14 @@ let WEBSITE_DATA = [
 		{
 		name: "Viewpoint discrimination",
 		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.'", 
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
 	},	
 
 			{
 		name: "Bismuth",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/qubit_quantumcomp.ong.png",
 		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
 		link: "",
 		credit: "",
@@ -384,13 +384,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Infinitesimal Calculus",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Infinitesimal Calculus",
+	// 	img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+	// 	blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 			 {
