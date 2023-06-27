@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpeg",
+		img: "images/8118221151181119920231518111.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -87,23 +87,21 @@ let WEBSITE_DATA = [
 // 	},
 
 
-
-		{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
+	{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
-		
-		},
-			{
-		 
-		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+	},
+	
+																					{
+		name: "Memory Dance",
+		img: "images/INO_OO.PNG",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-	        credit: "",
-},
+		credit: "", 
+	},
 
 		{
 		name: "Human Robot",
@@ -120,15 +118,15 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: "",
 		},
-
-	
-																					{
-		name: "Memory Dance",
-		img: "images/Avatartracking.jpeg",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+			{
+		 
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
-		credit: "", 
-	},
+	        credit: "",
+},
+
 
 
 // 							 												{
@@ -140,14 +138,16 @@ let WEBSITE_DATA = [
 // 	},
 
 
-	{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
+
+	
+		{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
-	},
-	
+		
+		},
 
 		{
 		name: "Cartesian Dualism",
@@ -368,6 +368,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
+		{
+		name: "The Nervous System",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
+		link: "",
+		credit: "",
+	},
 
 			{
 		name: "Perceptual Brittleness",
@@ -376,13 +383,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "The Nervous System",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body. Parasympathetic controls the ‘rest and digest’ functions of the body and maintains the body’s internal environment. Sympathetic is the driving force behind the ‘fight or flight’ response and triggers a number of physiological changes that prepare the body to confront or flee a perceived threat.",
-		link: "",
-		credit: "",
-	},
+	
 		{
 		name: "Infinitesimal Calculus",
 		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
@@ -412,7 +413,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/fascia__1298.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -427,15 +428,17 @@ let WEBSITE_DATA = [
 	
 	},
 
-		
-
 		{
-		name: "Quantum Computing",
-		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+			
+		name: "Posthumanism",
+		img: "images/captura.jpg",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},
+		credit:"",
+			
+		},	
+
+
 	
 	
 			{
@@ -490,15 +493,15 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},	
+
+	
 	{
-		name: "Disintegrating figure",
-		img: "images/maxresdefault.jpg",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
+		name: "Rhizome",
+		img: "images/crystalc.jpg",
+		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
 		link: "",
 		credit: "",
 	},
-	
-
 							{
 		name: "3D Scene",
 		img: "images/else_chin_drs_ark.png",
@@ -507,25 +510,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-	{
-		name: "Rhizome",
-		img: "images/contex.jpg",
-		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits. This is what Deleuze terms a 'horizontality' of thought. Deleuze and Guattari argue that there is no distinction between the individual and the collective.",
+		{
+		name: "Disintegrating figure",
+		img: "images/maxresdefault.jpg",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
-	
-	{
-			
-		name: "Posthumanism",
-		img: "images/captura.jpg",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
-		link: "",
-		credit:"",
-			
-		},
 
+	
+
+		{
+		name: "Quantum Computing",
+		img: "images/qubit_quantumcomp.ong.png",
+		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+		link: "",
+		credit: "",
+	},
 
 	
 
@@ -570,7 +571,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
