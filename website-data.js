@@ -232,14 +232,14 @@ let WEBSITE_DATA = [
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
 	},	
-
-			{
-		name: "Bismuth",
-		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
+											{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},	
+	},
+	
 					{
 		name: "Galileo's Law of Falling Bodies",
 		img: "images/SS7.47.47M.png",
@@ -464,10 +464,10 @@ let WEBSITE_DATA = [
 
 	// },
 
-											{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+			{
+		name: "Bismuth",
+		img: "images/qubit_quantumcomp.ong.png",
+		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
 		link: "",
 		credit: "",
 	},
