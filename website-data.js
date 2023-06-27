@@ -198,7 +198,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/wavinghandemoji3dmodel013.jpeg",
 		blurb: "Haptics is defined as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback. Virtual reality systems and real-world technologies use haptics to enhance interactions with humans.",
 		link: "",
 		credit: "",
@@ -218,7 +218,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/MATRIX_0.png",
+		img: "images/SS2023124534PM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
