@@ -138,16 +138,13 @@ let WEBSITE_DATA = [
 // 	},
 
 
-
-	
-		{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
+					{
+		name: "Singularity Is Near",
+		img: "images/WALTERBENJAMIN.PNG",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
-		
-		},
+	},
 
 		{
 		name: "Cartesian Dualism",
@@ -560,13 +557,18 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		
-					{
-		name: "Singularity Is Near",
-		img: "images/WALTERBENJAMIN.PNG",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+
+
+	
+	
+		{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
-	},	
+		
+		},
 						{
 		name: "Newtonian Physics",
 		img: "images/physics-productivity-first-law.jpg",
