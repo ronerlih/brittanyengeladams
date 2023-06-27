@@ -279,9 +279,9 @@ let WEBSITE_DATA = [
 	
 	
 																		{
-		name: "SAW Oscillators",
-		img: "images/animated-sinewave.gif",
-		blurb: "Surface Acoustic Wave (SAW) Oscillators are different from other oscillator types in that they use acoustic waves on a material's surface for signal processing.",
+		name: "Oscilloscope",
+		img: "images/Tektronix_Oscilloscope_475A.jpg",
+		blurb: "An oscilloscope is a type of electronic test instrument that graphically displays varying voltages of one or more signals as a function of time.",
 		link: "",
 		credit: "",
 	},
@@ -378,8 +378,8 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Perceptual Brittleness",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty. For a machine learning algorithm to “learn” to see a stop sign, for example, it must “see” tens of thousands of similar images in order to understand patterns of reoccurrence. What the algorithm has “learned” is that a particular set of mathematical relationships belong together as a label for a particular object.",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
 	},
@@ -395,7 +395,7 @@ let WEBSITE_DATA = [
 
 			 {
 		name: "Postmemory",
-		img: "images/broken_staircase_sig_01.jpeg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
 		link: "",
 		credit: "",
@@ -431,7 +431,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Posthumanism",
-		img: "images/captura.jpg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -457,15 +457,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
+	// 	{
 	
-		name: "Doppler Effect",
-		img: "images/SS2023157M.png",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-		link: "",
-		credit: "",
+	// 	name: "Doppler Effect",
+	// 	img: "images/SS2023157M.png",
+	// 	blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+	// 	link: "",
+	// 	credit: "",
 
-	},
+	// },
 
 											{
 		name: "Displaced figure",
@@ -486,13 +486,13 @@ let WEBSITE_DATA = [
 
 	
 
-// 			{
-// 		name: "Hypothalamus",
-// 		img: "images/wfporcos_0003.jpg", 
-// 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
-// 		link: "",
-// 		credit: "",
-// 	},	
+			{
+		name: "Hypothalamus",
+		img: "images/wfporcos_0003.jpg", 
+		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
+		link: "",
+		credit: "",
+	},	
 
 	
 	{
@@ -522,7 +522,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Quantum Computing",
-		img: "images/qubit_quantumcomp.ong.png",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
 		link: "",
 		credit: "",
