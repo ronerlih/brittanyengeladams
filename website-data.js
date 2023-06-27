@@ -331,7 +331,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Broca's area",
-		img: "images/broca.png",
+		img: "images/BROCA_ANTERIOR_VIEW.PNG",
 		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
 		link: "",
 		credit: "",
