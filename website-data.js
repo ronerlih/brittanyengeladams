@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
+		img: "images//Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -148,7 +148,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Cartesian Dualism",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "Cartesian Dualism suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
