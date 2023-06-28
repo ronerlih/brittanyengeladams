@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
@@ -227,7 +227,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Viewpoint discrimination",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
@@ -314,7 +314,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -375,7 +375,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
