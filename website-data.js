@@ -304,13 +304,13 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-					{
-		name: "Ancestral Artifact",
-		img: "images/1926318892613892618138.jpeg",
-		blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
-		link: "",
-		credit: "",
-	},
+	// 				{
+	// 	name: "Ancestral Artifact",
+	// 	img: "images/1926318892613892618138.jpeg",
+	// 	blurb: "A Mizrach crafted by my great-grandfather Israel Manaschewitz for my grandmother, Judy Engel. My grandmother comes from the lineage of one of the most renowned scholars of his day, Rabbi Ezekiel Landau, known by his book, 'Noda be-Yehuda'. He is believed to be a descendant of the famous commentator of the 12th century, Rashi.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 			
 																										{
 		name: "Fight-or-Flight Response",
@@ -326,13 +326,13 @@ let WEBSITE_DATA = [
 		
  	
 
-																										{
-		name: "Broca's area",
-		img: "images/BROCA_ANTERIOR_VIEW.PNG",
-		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
-		link: "",
-		credit: "",
-	},
+	// 																									{
+	// 	name: "Broca's area",
+	// 	img: "images/BROCA_ANTERIOR_VIEW.PNG",
+	// 	blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 	
@@ -390,13 +390,13 @@ let WEBSITE_DATA = [
 	// },
 
 
-			 {
-		name: "Postmemory",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
-		link: "",
-		credit: "",
-	},
+	// 		 {
+	// 	name: "Postmemory",
+	// 	img: "images/SS2023-02-07at5.45.35PM.png",
+	// 	blurb:  "Postmemory describes the relationship that the 'generation after' bears to the personal, collective, and cultural trauma of those who came before — to experiences they 'remember' only by means of the stories, images, and behaviors among which they grew up. But these experiences were transmitted to them so deeply and affectively as to seem to constitute memories in their own right. (literary and visual legacies of the Holocaust and other, related sites of memory, Marianne Hirsch) ",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 			{
 		name: "Gravitational Singularity",
