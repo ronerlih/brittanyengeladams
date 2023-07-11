@@ -98,7 +98,7 @@ let WEBSITE_DATA = [
 
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/Simple-AM-Receiver-Using-BC547-Transistor.jpg",
+		img: "images/arduino-breadboard-3D_DHQ.jpg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
