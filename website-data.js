@@ -141,7 +141,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Singularity Is Near",
-		img: "images/WALTERBENJAMIN.PNG",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -485,7 +485,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Hypothalamus",
-		img: "images/wfporcos_0003.jpg", 
+		img: "images/ts_cpuenvironment08.jpeg", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
