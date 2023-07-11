@@ -90,19 +90,20 @@ let WEBSITE_DATA = [
 
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		img: "images/Simple-AM-Receiver-Using-BC547-Transistor.jpg",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
 	},
-	
-																					{
-		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
+	{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
+			img: "images/capecod11.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: "",
+		},
+
+
 
 		{
 		name: "Human Robot",
@@ -111,15 +112,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-
-	{
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: "",
-		},
-			{
+	
+																					{
+		name: "Memory Dance",
+		img: "images/INO_OO.PNG",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
+		{
 		 
 		name: "Wireless Fidelity",
 		img: "images/8537885385349.jpeg",
@@ -130,19 +131,20 @@ let WEBSITE_DATA = [
 
 
 
-// 							 												{
-// 		name: "Autonomous",
-// 		img: "images/Avatartracking.jpeg",
-// 		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-// 		link: "",
-// 		credit: "",
-// 	},
+							 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+		link: "",
+		credit: "",
+	},
 
-
-					{
-		name: "Singularity Is Near",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+	
+		
+																							{
+		name: "Shower",
+		img: "images/5S20221028102648PM.jpeg",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
 	},
@@ -172,13 +174,13 @@ let WEBSITE_DATA = [
 
 
 
-// 		 				{
-// 		name: "Skin Conductance Response",
-// 		img: "images/Avatartracking.jpeg",
-// 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
-// 		link: "",
-// 		credit: "",
-// 	},
+		 				{
+		name: "Skin Conductance Response",
+		img: "images/Avatartracking.jpeg",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+		link: "",
+		credit: "",
+	},
 	
 
 	
@@ -196,7 +198,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
@@ -259,7 +261,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/eyeshadow.601.jpg",
+		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -286,24 +288,24 @@ let WEBSITE_DATA = [
 
 	
 
-		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+					{
+		name: "Singularity Is Near",
+		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
+
 	
 
 	
-// 					{
-// 		name: "Dark Matter",
-// 		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-// 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
-// 		link: "",
-// 		credit: "",
-// 	},
+					{
+		name: "Dark Matter",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
+		link: "",
+		credit: "",
+	},
 
 	// 				{
 	// 	name: "Ancestral Artifact",
@@ -315,7 +317,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -381,13 +383,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-	// 	{
-	// 	name: "Infinitesimal Calculus",
-	// 	img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
-	// 	blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+		{
+		name: "Infinitesimal Calculus",
+		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+		link: "",
+		credit: "",
+	},
 
 
 	// 		 {
@@ -454,15 +456,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	// 	{
+		{
 	
-	// 	name: "Doppler Effect",
-	// 	img: "images/SS2023157M.png",
-	// 	blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-	// 	link: "",
-	// 	credit: "",
+		name: "Doppler Effect",
+		img: "images/SS2023157M.png",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
 
-	// },
+	},
 
 			{
 		name: "Bismuth",
@@ -530,13 +532,13 @@ let WEBSITE_DATA = [
 	
 
 
-// 																										{
-// 		name: "Nicomachean Ethics",
-// 		img: "images/wfporcos_0003.jpg",
-// 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
-// 		link: "",
-// 		credit: "",
-// 	},
+																										{
+		name: "Nicomachean Ethics",
+		img: "images/wfporcos_0003.jpg",
+		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
+		link: "",
+		credit: "",
+	},
 	
 	
 // 																{
@@ -551,7 +553,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/nuclearex.png",
+		img: "images/crystalc.jpg",
 		blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -562,7 +564,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "PTSD",
-		img: "images/gas.png",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
 		link: "",
 		credit: "",
@@ -572,7 +574,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Newtonian Physics",
-		img: "images/physics-productivity-first-law.jpg",
+		img: "images/ark_of_the_covenant_01.jpg",
 		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation formulated in the late seventeenth century by English physicist Sir Isaac Newton (1642–1727).",
 		link: "",
 		credit: "",
