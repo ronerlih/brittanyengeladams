@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpeg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -23,12 +23,12 @@ let WEBSITE_DATA = [
 
 	
 
-				 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+				{
+		name: "Before Zeta Film",
+		img: "images/SS20230203at6.38.20PM.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
-		credit: ""
+		credit: "",
 	},
 
 	{
@@ -55,15 +55,15 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},	
-				{
-		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
-		link: "",
-		credit: "",
-	},
 
-	
+
+				 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage then have to adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+		link: "",
+		credit: ""
+	},	
 
 
 
@@ -196,7 +196,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/wavinghandemoji3dmodel013.jpeg",
+		img: "images/arrowscollection43dsmodel001.jpg",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
