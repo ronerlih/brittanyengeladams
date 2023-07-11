@@ -11,6 +11,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+
+				{
+		name: "Historical Materialism",
+		img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
+		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+		link: "",
+		credit: "",
+	},
 	
 				{
 			
@@ -25,7 +33,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -123,7 +131,7 @@ let WEBSITE_DATA = [
 		{
 		 
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
@@ -131,13 +139,6 @@ let WEBSITE_DATA = [
 
 
 
-							 												{
-		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-		link: "",
-		credit: "",
-	},
 
 	
 		
@@ -312,7 +313,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
@@ -396,7 +397,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Infinitesimal Calculus",
-		img: "images/magneticfieldrectanglebarmagnet3dmodel008.jpeg",
+		img: "images/i050950a.gif",
 		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
@@ -575,7 +576,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "PTSD",
-		img: "images/ark_of_the_covenant_01.jpg",
+		img: "images/liioncellthumbnail.jpg",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
 		link: "",
 		credit: "",
@@ -599,16 +600,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-
-	
-
-				{
-		name: "Historical Materialism",
-		img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
-		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+							 												{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
 		link: "",
 		credit: "",
 	},
+
+	
 	
 
 	
