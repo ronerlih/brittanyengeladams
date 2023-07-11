@@ -227,7 +227,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Viewpoint discrimination",
-		img: "images/colosseum_361-1.jpeg",
+		img: "images/1512.37.52.png",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
@@ -314,7 +314,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/colosseum_361-1.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -366,7 +366,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "The Nervous System",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body.",
 		link: "",
 		credit: "",
@@ -417,7 +417,7 @@ let WEBSITE_DATA = [
 
 															{
 	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/iambic-pentameter.jpg",
 		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
 		link: "",
 		credit: "",
@@ -447,7 +447,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -493,7 +493,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/crystalc.jpg",
+		img: "images/hawaii0011.jpg",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
 		link: "",
 		credit: "",
