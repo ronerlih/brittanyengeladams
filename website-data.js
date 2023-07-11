@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Before Zeta Film",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
 		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -137,18 +137,16 @@ let WEBSITE_DATA = [
 	        credit: "",
 },
 
+{
+			name: "Architecture of Memory",
+			img: "images/01_v4.jpeg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
+			link: "",
+			credit: "",
+		},
 
 
 
-	
-		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
-		link: "",
-		credit: "",
-	},
 
 		{
 		name: "Cartesian Dualism",
@@ -177,7 +175,7 @@ let WEBSITE_DATA = [
 
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/Avatartracking.jpeg",
+		img: "images/ScreenShot2023-02-27at1.20.10PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -219,7 +217,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/004351893123001135189312300432120.gif",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -262,32 +260,39 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Perceptual Brittleness",
-		img: "images/1_xdHhUJxBagBJdF6aVBJJ7g.png",
-		img: "images/bostond.gif",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
 },
 
-			
+		{
+		name: "Recursive function",
+		img: "images/recursivefunction.png",
+		blurb: "In programming terms, a recursive function can be defined as a routine that calls itself directly or indirectly..",
+		link: "",
+		credit: "",
+},			
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	}, 
 	
-{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface. Published in The Movement Research Performance Journal No. 55.",
-			link: "",
-			credit: "",
-		},
 
 
+	
+		
+																							{
+		name: "Shower",
+		img: "images/ScreenShot2023-02-04at3.53.20PM.png",
+		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+		link: "",
+		credit: "",
+	},
 	
 	
 																		{
@@ -442,7 +447,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Posthumanism",
-		img: "images/Rhizome.png",
+		img: "images/1233740.gif",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -600,13 +605,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 
-							 												{
-		name: "Autonomous",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
-		link: "",
-		credit: "",
-	},
+	// 						 												{
+	// 	name: "Autonomous",
+	// 	img: "images/Avatartracking.jpeg",
+	// 	blurb: "Free will is the capacity or ability to choose between different possible courses of action unimpeded. Free will is closely linked to the concepts of moral responsibility, praise, culpability, sin, and other judgements which apply only to actions that are freely chosen.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	
 	
