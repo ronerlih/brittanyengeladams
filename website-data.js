@@ -33,7 +33,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images//Futurebodies_by_JoshuaOkoro108.jpg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 		},
 		{
 		name: "Filter Bubbles ",
-		img: "images/Homogeneous-heterogeneous-mixture-pure-substance-element.png",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -89,7 +89,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-23at2.05.01PM.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ is a film commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
@@ -345,16 +345,15 @@ let WEBSITE_DATA = [
 	},
 	
 
-
-	{
-	
-		name: "PTSD",
-		img: "images/gas.png",
-		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
+		{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
+		
+		},
 
-	},
 
 							{
 							
@@ -559,16 +558,17 @@ let WEBSITE_DATA = [
 		
 
 
-	
-	
 		{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
+	
+		name: "PTSD",
+		img: "images/gas.png",
+		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
 		link: "",
 		credit: "",
-		
-		},
+
+	},
+	
+
 						{
 		name: "Newtonian Physics",
 		img: "images/physics-productivity-first-law.jpg",
@@ -579,7 +579,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/ScreenShot2023-02-18at11.49.32AM.png",
+		img: "images/animated-sinewave.gif",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
