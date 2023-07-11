@@ -229,7 +229,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Viewpoint discrimination",
-		img: "images/1512.37.52.png",
+		img: "images/sickle.png",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "https://mediajustice.org/news/greenlining-institute-algorithmic-bias-explained-qa-with-vinhcent-le/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD1_2mk3gu6xq2Z8T1-2c9mZJp0sHNZ5HXkctz-IEcR8X5QVEBs-YpYaAnGyEALw_wcB",
 		credit: "",
