@@ -155,22 +155,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-			{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		{
+		name: "Transformative drives",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
-	},		
-
-
+	},	
 		
-	
-
-		
-
 
 
 		 				{
@@ -234,14 +226,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
 			{
-		name: "Transformative drives",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+	
 											{
 		name: "Displaced figure",
 		img: "images/11414121191918.gif",
