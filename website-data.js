@@ -148,15 +148,14 @@ let WEBSITE_DATA = [
 		},
 
 
-
-
-		{
-		name: "Cartesian Dualism",
-		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "Cartesian Dualism is a concept that suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
+							{
+		name: "3D Scene",
+		img: "images/else_chin_drs_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
+	
 		{
 		name: "Transformative drives",
 		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
@@ -477,14 +476,14 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},
-
-			{
-		name: "Bismuth",
-		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
+				{
+		name: "Projectile Motion",
+		img: "images/animated-sinewave.gif",
+		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
 	},
+	
 		
 																										{
 		name: "ROM VS. RAM",
@@ -513,10 +512,10 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-							{
-		name: "3D Scene",
-		img: "images/else_chin_drs_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+	{
+		name: "Cartesian Dualism",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "Cartesian Dualism is a concept that suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
 	},
@@ -592,13 +591,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Projectile Motion",
-		img: "images/animated-sinewave.gif",
-		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
+			{
+		name: "Bismuth",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
 		link: "",
 		credit: "",
-	},	
+	},
 
 	// 						 												{
 	// 	name: "Autonomous",
