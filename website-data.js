@@ -563,7 +563,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/crystalc.jpg",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
@@ -574,7 +574,7 @@ let WEBSITE_DATA = [
 		{
 	
 		name: "PTSD",
-		img: "images/liioncellthumbnail.jpg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
 		link: "",
 		credit: "",
@@ -584,8 +584,8 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Newtonian Physics",
-		img: "images/ark_of_the_covenant_01.jpg",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation formulated in the late seventeenth century by English physicist Sir Isaac Newton (1642–1727).",
+		img: "images/physics-productivity-first-law.jpg",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
 	},
