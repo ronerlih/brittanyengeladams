@@ -392,14 +392,6 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
-			{
-		name: "Perceptual Brittleness",
-		img: "images/bostond.gif",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
-		link: "",
-		credit: "",
-	},
 	
 		{
 		name: "Infinitesimal Calculus",
