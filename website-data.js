@@ -173,24 +173,20 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+				{
+		name: "Haptics",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
+		credit: "",
+	},
 
-	
-
-	
 		
 	
 		{
 		name: "Filter Bubbles ",
 		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
-		link: "",
-		credit: "",
-	},
-	
-				{
-		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
@@ -209,21 +205,20 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS2023124534PM.png",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	
-	},		
-		
-																							{
-		name: "Shower",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a performance piece, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+	},	
+
+		{
+		name: "Viewpoint discrimination",
+		img: "images/sickle.png",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
-	},																			
-
+	},
 
 	
 
@@ -243,14 +238,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-			{
-		name: "Viewpoint discrimination",
-		img: "images/sickle.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+	
+
+		
+																							{
+		name: "Shower",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performance piece, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
-	},
-
+	},																			
 
 		{
 		name: "Panpsychism",
