@@ -39,14 +39,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-		name: "BodyMouth Exhibition",
-		img: "images/SS20221209at354AM.jpg",
-		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
+			 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
-		credit: "",
-		
-		},
+		credit: ""
+	},	
 
 	{
 		name: "Hand Dance Film",
@@ -65,26 +64,27 @@ let WEBSITE_DATA = [
 // 	},	
 
 
-				 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+		
+
+{
+		name: "BodyMouth Exhibition",
+		img: "images/SS20221209at354AM.jpg",
+		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
-		credit: ""
-	},	
-
-
-
-	
-				{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
-	
-},
+		
+		},
 
+	
+	
+	
+																					{
+		name: "Memory Dance",
+		img: "images/INO_OO.PNG",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
 
 
 // 	{
@@ -113,8 +113,6 @@ let WEBSITE_DATA = [
 	},
 
 
-
-
 		{
 		name: "Human Robot",
 		img: "images/CTT.png",
@@ -123,13 +121,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-																					{
-		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
-		link: "",
-		credit: "", 
-	},
+			{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
 		{
 		 
 		name: "Wireless Fidelity",
@@ -216,16 +215,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},		
-																				
-
-
-					{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/hanging_scales_thumbnail_0001.jpeg",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		
+																							{
+		name: "Shower",
+		img: "images/119106655.jpeg",
+		blurb: "’Shower' is a performance piece, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
-	},
+	},																			
+
+
+	
 
 			{
 
@@ -284,17 +284,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	}, 
 	
-
-
-	
-		
-																							{
-		name: "Shower",
-		img: "images/119106655.jpeg",
-		blurb: "’Shower' is a dance work, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+				{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/hanging_scales_thumbnail_0001.jpeg",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
 	},
+
+	
+	
 	
 	
 																		{
@@ -307,13 +306,14 @@ let WEBSITE_DATA = [
 
 	
 
-					{
-		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
+	
 
 	
 
@@ -356,15 +356,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-
-	
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+				{
+		name: "Singularity Is Near",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
 	},
+	
 	
 {
 		name: "Cartesian Dualism",
@@ -423,7 +422,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/rustoncars.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
