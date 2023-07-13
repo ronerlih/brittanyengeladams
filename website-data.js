@@ -41,7 +41,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "BodyMouth Exhibition",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
+		img: "images/SS20221209at354AM.jpg",
 		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -133,7 +133,7 @@ let WEBSITE_DATA = [
 		{
 		 
 		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
@@ -219,14 +219,14 @@ let WEBSITE_DATA = [
 																				
 
 
-
-		{
-		name: "Viewpoint discrimination",
-		img: "images/sickle.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/hanging_scales_thumbnail_0001.jpeg",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
 	},
+
 			{
 
 		name: "Neural Network",
@@ -243,14 +243,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-					{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/hanging_scales_thumbnail_0001.jpeg",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+			{
+		name: "Viewpoint discrimination",
+		img: "images/sickle.png",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
 	},
+
 
 		{
 		name: "Panpsychism",
@@ -309,7 +309,7 @@ let WEBSITE_DATA = [
 
 					{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-03at6.53.06PM.png",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -336,7 +336,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/fascia__1298.png",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -360,7 +360,7 @@ let WEBSITE_DATA = [
 	
 														 		{
 		name: "Superposition",
-		img: "images/slits.png",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -461,7 +461,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/skin-receptors-senses-basics.jpg",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -542,11 +542,25 @@ let WEBSITE_DATA = [
 	
 
 	
+		{
+		name: "Amygdala",
+		img: "images/pnas.1307893110fig01.jpeg",
+		blurb: "Under typical environmental conditions, prefrontal cortex connections with the amygdala are immature during childhood and become adult-like during adolescence. Rodent models show that maternal deprivation accelerates this development as an ontogenetic adaptation to adversity.",
+		link: "https://www.pnas.org/doi/10.1073/pnas.1307893110",
+		credit: "",
+	},
 
+																										{
+		name: "Corpse decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Decomposition is the process in which the organs and complex molecules of animal and human bodies break down into simple organic matter over time. In vertebrates, five stages of decomposition are typically recognized: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+		credit: "",
+	},
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/wfporcos_0003.jpg",
+		img: "images/SS7.47.47M.png",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
