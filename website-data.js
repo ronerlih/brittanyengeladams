@@ -10,14 +10,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-{
-			name: "Architecture of Memory",
-			img: "images/2138383815138158.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+		link: "",
+	        credit: "",
+},
+
 
 	
 				{
@@ -29,23 +30,25 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
-	
-
-				{
-		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+{
+		name: "BodyMouth Exhibition",
+		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
+		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
-	},
+		
+		},	
 
-			 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
-		link: "",
-		credit: ""
-	},	
+	
+
+			{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},		
 
 	{
 		name: "Hand Dance Film",
@@ -64,16 +67,15 @@ let WEBSITE_DATA = [
 // 	},	
 
 
-		
-
-{
-		name: "BodyMouth Exhibition",
-		img: "images/SS20221209at354AM.jpg",
-		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
+			{
+		name: "Before Zeta Film",
+		img: "images/SS20230203at6.38.20PM.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
-		
-		},
+	},		
+
+
 
 	
 	
@@ -97,7 +99,7 @@ let WEBSITE_DATA = [
 
 		{
 			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/capebook.png",
+			img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
 			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: "",
@@ -121,22 +123,21 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
-			{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpeg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+
+		 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
-	        credit: "",
-},
+		credit: ""
+	},		
+{
+			name: "Architecture of Memory",
+			img: "images/8118221151181119920231518111.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
 
 				{
 		name: "Historical Materialism",
@@ -167,7 +168,7 @@ let WEBSITE_DATA = [
 
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/lemon_rr_00.jpeg",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -175,7 +176,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
@@ -185,7 +186,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Filter Bubbles ",
-		img: "images/ScreenShot2023-03-27at7.09.57PM.png",
+		img: "images/ice_cubes_3d_model_s02.jpg",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
@@ -205,7 +206,7 @@ let WEBSITE_DATA = [
 	
 															{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
+		img: "images/S2022102835049AM.jpg",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -251,7 +252,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Panpsychism",
-		img: "images/meditation_omshanti.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
@@ -275,7 +276,7 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/Avatartracking.jpeg",
+		img: "images/01_v4.jpeg",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
@@ -305,7 +306,7 @@ let WEBSITE_DATA = [
 
 														 		{
 		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		img: "images/slits.png",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -317,7 +318,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		img: "images/11.jpg",
 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
@@ -333,7 +334,7 @@ let WEBSITE_DATA = [
 			
 																										{
 		name: "Fight-or-Flight Response",
-		img: "images/fascia__1298.png",
+		img: "images/agustawestlandaw1893dsmodel001.jpeg",
 		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
 		link: "",
 		credit: "",
@@ -345,13 +346,13 @@ let WEBSITE_DATA = [
 		
  	
 
-	// 																									{
-	// 	name: "Broca's area",
-	// 	img: "images/BROCA_ANTERIOR_VIEW.PNG",
-	// 	blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+																										{
+		name: "Broca's area",
+		img: "images/BROCA_ANTERIOR_VIEW.PNG",
+		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
+		link: "",
+		credit: "",
+	},
 
 				{
 		name: "Singularity Is Near",
@@ -364,7 +365,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "Cartesian Dualism",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/814181211418152114181534114181521520.gif",
 		blurb: "Cartesian Dualism is a concept that suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
 		link: "",
 		credit: "",
@@ -421,7 +422,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/rustoncars.png",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -439,7 +440,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Posthumanism",
-		img: "images/1233740.gif",
+		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
@@ -451,7 +452,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Skeletal Avatar",
-		img: "images/SS20230201at82532PM.png",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
 		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
@@ -459,7 +460,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Somatosensory Receptors",
-		img: "images/skin-receptors-senses-basics.jpg",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -494,7 +495,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Hypothalamus",
-		img: "images/ts_cpuenvironment08.jpeg", 
+		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
 		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
 		link: "",
 		credit: "",
@@ -503,7 +504,7 @@ let WEBSITE_DATA = [
 	
 	{
 		name: "Rhizome",
-		img: "images/Rhizome.png",
+		img: "images/hawaii0011.jpg",
 		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
 		link: "",
 		credit: "",
@@ -556,7 +557,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Nicomachean Ethics",
-		img: "images/SS7.47.47M.png",
+		img: "images/wfporcos_0003.jpg",
 		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
 		link: "",
 		credit: "",
@@ -575,7 +576,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "Cloud Computing",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
 		link: "",
 		credit: "",
