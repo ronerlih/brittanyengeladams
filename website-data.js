@@ -24,7 +24,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpg",
 		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -82,7 +82,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
+		img: "images/21519201414113333.gif",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -97,13 +97,13 @@ let WEBSITE_DATA = [
 // 		credit: " ",
 // 	},
 
-		{
-			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
-			img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
-			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
-			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
-			credit: "",
-		},
+		 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+		link: "",
+		credit: ""
+	},
 
 
 		 													{
@@ -124,16 +124,18 @@ let WEBSITE_DATA = [
 	},	
 	
 
-		 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
-		link: "",
-		credit: ""
-	},		
+
+
+			{
+			name: "Cape Cod Modern House Trust Artist Residency (2020-2021)",
+			img: "images/ihn28blahbaaaabaafjnruwifdmn8474020rme794r3i3n28.png",
+			blurb: "The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work. Brittany Engel-Adams presented two pieces that she worked on while in Wellfleet, ‘Architecture of Memory’ and ‘Hand Dance’, a dance film commissioned by the Guggenheim Works & Process. The four artists from the 2020 Cape Cod Modern House Trust Residency have work in CCMHT’s Digital Guestbook.", 
+			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
+			credit: "",
+		},
 {
 			name: "Architecture of Memory",
-			img: "images/8118221151181119920231518111.jpg", 
+			img: "images/ScreenShot2023-02-03at7.40.40PM.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -158,7 +160,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Transformative drives",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
@@ -185,12 +187,14 @@ let WEBSITE_DATA = [
 		
 	
 		{
-		name: "Filter Bubbles ",
-		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		name: "Viewpoint discrimination",
+		img: "images/sickle.png",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
 	},
+
+	
 
 	
 // 	{
@@ -214,14 +218,12 @@ let WEBSITE_DATA = [
 	},	
 
 		{
-		name: "Viewpoint discrimination",
-		img: "images/sickle.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+		name: "Filter Bubbles ",
+		img: "images/ice_cubes_3d_model_s02.jpg",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
 		link: "",
 		credit: "",
 	},
-
-	
 
 			{
 
@@ -244,7 +246,7 @@ let WEBSITE_DATA = [
 		
 																							{
 		name: "Shower",
-		img: "images/119106655.jpeg",
+		img: "images/5S20221028102648PM.jpeg",
 		blurb: "’Shower' is a performance piece, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
@@ -260,7 +262,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
@@ -284,7 +286,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/hanging_scales_thumbnail_0001.jpeg",
+		img: "images/forcesonfallingobj.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
@@ -318,7 +320,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Dark Matter",
-		img: "images/11.jpg",
+		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
 		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
 		link: "",
 		credit: "",
@@ -348,7 +350,7 @@ let WEBSITE_DATA = [
 
 																										{
 		name: "Broca's area",
-		img: "images/BROCA_ANTERIOR_VIEW.PNG",
+		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
 		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
 		link: "",
 		credit: "",
@@ -356,7 +358,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Singularity Is Near",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+		img: "images/SS2023157M.png",
 		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
 		link: "",
 		credit: "",
@@ -385,7 +387,7 @@ let WEBSITE_DATA = [
 	},
 		{
 		name: "The Nervous System",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
+		img: "images/gas.png",
 		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body.",
 		link: "",
 		credit: "",
@@ -394,7 +396,7 @@ let WEBSITE_DATA = [
 	{
 	
 		name: "Doppler Effect",
-		img: "images/SS2023157M.png",
+		img: "images/1233740.gif",
 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
@@ -412,7 +414,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Gravitational Singularity",
-		img: "images/Spacetime_lattice_analogy.svg.png",
+		img: "images/hanging_scales_thumbnail_0001.jpeg",
 		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically.",
 		link: "",
 		credit: "",
@@ -422,7 +424,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -475,7 +477,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Projectile Motion",
-		img: "images/arrowscollection43dsmodel001.jpg",
+		img: "images/animated-sinewave.gif",
 		blurb: "Projectile motion is the motion of an object thrown or projected into the air, subject only to acceleration as a result of gravity. Such objects are called projectiles and their path is called a trajectory.’",
 		link: "",
 		credit: "",
@@ -605,7 +607,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Bismuth",
-		img: "images/SomatosensoryAxonTypes.png",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
 		link: "",
 		credit: "",
