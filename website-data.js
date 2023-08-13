@@ -159,7 +159,7 @@ let WEBSITE_DATA = [
 	},
 	
 		{
-		name: "Transformative drives",
+		name: "Transformative drive",
 		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
 		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
