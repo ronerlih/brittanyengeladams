@@ -530,13 +530,13 @@ let WEBSITE_DATA = [
 
 	
 
-		{
-		name: "Quantum Computing",
-		img: "images/qubit_quantumcomp.ong.png",
-		blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Quantum Computing",
+	// 	img: "images/qubit_quantumcomp.ong.png",
+	// 	blurb: "Traditional transistors use binary encoding of data represented electrically as “on” or “off” states. Quantum bits or “qubits” can simultaneously operate in multiple states enabling unprecedented levels of parallelism and computing efficiency.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	
 																										{
@@ -548,22 +548,22 @@ let WEBSITE_DATA = [
 	},
 
 	
-		{
-		name: "Amygdala",
-		img: "images/pnas.1307893110fig01.jpeg",
-		blurb: "Under typical environmental conditions, prefrontal cortex connections with the amygdala are immature during childhood and become adult-like during adolescence. Rodent models show that maternal deprivation accelerates this development as an ontogenetic adaptation to adversity.",
-		link: "https://www.pnas.org/doi/10.1073/pnas.1307893110",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Amygdala",
+	// 	img: "images/pnas.1307893110fig01.jpeg",
+	// 	blurb: "Under typical environmental conditions, prefrontal cortex connections with the amygdala are immature during childhood and become adult-like during adolescence. Rodent models show that maternal deprivation accelerates this development as an ontogenetic adaptation to adversity.",
+	// 	link: "https://www.pnas.org/doi/10.1073/pnas.1307893110",
+	// 	credit: "",
+	// },
 
 
-																										{
-		name: "Nicomachean Ethics",
-		img: "images/wfporcos_0003.jpg",
-		blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
-		link: "",
-		credit: "",
-	},
+	// 																									{
+	// 	name: "Nicomachean Ethics",
+	// 	img: "images/wfporcos_0003.jpg",
+	// 	blurb: "Nicomachean Ethics, states that happiness consists in activity of the soul in accordance with moral and intellectual virtues, and the nature of practical reasoning.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
 	
 // 																{
@@ -576,42 +576,42 @@ let WEBSITE_DATA = [
 // 	},
 	
 	
-																										{
-		name: "Cloud Computing",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
-		link: "",
-		credit: "",
-	},
+	// 																									{
+	// 	name: "Cloud Computing",
+	// 	img: "images/SS2023-02-07at5.45.35PM.png",
+	// 	blurb: "Cloud computing appears as a floating phenomena that creates  new interface for lifeforms trapping human minds in a game where moves are made at the speed of light'",
+	// 	link: "",
+	// 	credit: "",
+	// },
 		
 
 
-		{
+	// 	{
 	
-		name: "PTSD",
-		img: "images/broken_staircase_sig_01.jpeg",
-		blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
-		link: "",
-		credit: "",
+	// 	name: "PTSD",
+	// 	img: "images/broken_staircase_sig_01.jpeg",
+	// 	blurb: "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances.",
+	// 	link: "",
+	// 	credit: "",
 
-	},
+	// },
 	
 
-						{
-		name: "Newtonian Physics",
-		img: "images/physics-productivity-first-law.jpg",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
-		link: "",
-		credit: "",
-	},
+	// 					{
+	// 	name: "Newtonian Physics",
+	// 	img: "images/physics-productivity-first-law.jpg",
+	// 	blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
-			{
-		name: "Bismuth",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
-		link: "",
-		credit: "",
-	},
+	// 		{
+	// 	name: "Bismuth",
+	// 	img: "images/adolph_men_zel123.png",
+	// 	blurb: "Bismuth electrons and nuclei work together as qubits in a quantum computer.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	// 						 												{
 	// 	name: "Autonomous",
