@@ -481,13 +481,13 @@ let WEBSITE_DATA = [
 	},
 	
 
-	{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
-		link: "",
-		credit: "",
-	},
+	// {
+	// 	name: "Infinitesimal Calculus",
+	// 	img: "images/i050950a.gif",
+	// 	blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
 				{
 		name: "Projectile Motion",
