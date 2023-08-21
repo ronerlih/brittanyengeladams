@@ -11,6 +11,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+					{
+		name: "Before Zeta Film",
+		img: "images/SS20230203at6.38.20PM.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		link: "",
+		credit: "",
+	},
+
 			{
 		name: "Movement Research Performance Journal Publication",
 		img: "images/13181851195138.gif",
@@ -28,23 +36,18 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},		
-
 {
-		name: "BodyMouth Exhibition",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
-		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
-		link: "",
-		credit: "",
-		
-		},	
 	
-				{
-		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
-	},
+
+	},	
+	
+	
+
 
 	
 
@@ -124,16 +127,15 @@ let WEBSITE_DATA = [
 	},
 
 	
-	
-	{
-	
-		name: "Doppler Effect",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+{
+		name: "BodyMouth Exhibition",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
+		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
-
-	},	
+		
+		},	
+	
 
 
 			{
