@@ -70,16 +70,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
-		link: "",
-	        credit: "",
-},
 
-		
+
+		 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+		link: "",
+		credit: ""
+	},	
 
 
 
@@ -102,7 +101,13 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: " ",
 // 	},
-
+	 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+		link: "",
+		credit: "",
+	},
 		{
 		name: "Human Robot",
 		img: "images/812_8231321520113_118152__152014.gif",
@@ -111,21 +116,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+	
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
-		credit: "",
-	},
-
-		 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
-		link: "",
-		credit: ""
-	},
+	        credit: "",
+},
+	
 				{
 			
 		name: "Harvestworks Artist Residency",
