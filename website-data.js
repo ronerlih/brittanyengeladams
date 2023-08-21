@@ -188,15 +188,16 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
+																	{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
 	
+	},	
+
 	
-	{
-			name: "Architecture of Memory",
-			img: "images/snapshot033.png", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
 
 	
 																										{
@@ -300,7 +301,13 @@ let WEBSITE_DATA = [
 	// },
 
 	
-			
+					{
+		name: "Galileo's Law of Falling Bodies",
+		img: "images/forcesonfallingobj.png",
+		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
+		link: "",
+		credit: "",
+	},		
 	
 		{
 		name: "Perceptual Brittleness",
@@ -311,13 +318,7 @@ let WEBSITE_DATA = [
 },
 
 	
-				{
-		name: "Galileo's Law of Falling Bodies",
-		img: "images/forcesonfallingobj.png",
-		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
-		link: "",
-		credit: "",
-	},
+
 
 	
 	
@@ -331,14 +332,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-																{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
-	},	
+	{
+			name: "Architecture of Memory",
+			img: "images/snapshot033.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
 
 
 	
