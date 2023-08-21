@@ -495,13 +495,13 @@ let WEBSITE_DATA = [
 
 	
 
-			{
-		name: "Hypothalamus",
-		img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
-		blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
-		link: "",
-		credit: "",
-	},	
+	// 		{
+	// 	name: "Hypothalamus",
+	// 	img: "images/ScreenShot2023-02-18at7.34.27PM.png", 
+	// 	blurb: "The hypothalamus is a small area in the center of the brain. It helps produce hormones that regulate heart rate, body temperature, hunger, and the sleep-wake cycle. When the hypothalamus is not working properly, it can cause problems in the body that lead to a wide range of rare disorders.",
+	// 	link: "",
+	// 	credit: "",
+	// },	
 
 	
 	{
@@ -540,9 +540,9 @@ let WEBSITE_DATA = [
 
 	
 																										{
-		name: "Corpse decomposition",
+		name: "Decomposition",
 		img: "images/NITROGEN.PNG",
-		blurb: "Decomposition is the process in which the organs and complex molecules of animal and human bodies break down into simple organic matter over time. In vertebrates, five stages of decomposition are typically recognized: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
 		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 		credit: "",
 	},
@@ -625,9 +625,9 @@ let WEBSITE_DATA = [
 
 	
 		{
-		name: "Baudrillard on Pompidou Center",
+		name: "The Beaubourg Effect",
 		img: "images/image008-e1523992763533.jpg",
-		blurb: "The Beaubourg Effect. Jean Baudrillard sustains that the mass-media spectacle of The Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The museum can be represented as a self-absorbing machine that continuously absorbs and extensively shapes western culture. The center is “a monument of cultural deterrence”. It endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
+		blurb: ". Jean Baudrillard sustains that the mass-media spectacle of The Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence”. It endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
 		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
 		credit: "",
 	},
