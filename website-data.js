@@ -38,14 +38,13 @@ let WEBSITE_DATA = [
 		
 		},	
 	
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+				{
+		name: "Before Zeta Film",
+		img: "images/SS20230203at6.38.20PM.png",
+		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
-	        credit: "",
-},
+		credit: "",
+	},
 
 	
 
@@ -67,14 +66,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-
-			{
-		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
-		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resident during the wake of global Black Lives Matter uprisings and the stark disparities exposed by the COVID-19 Pandemic. The Cape Cod Modern House Trust (CCMHT) was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
-		credit: "",
-	},		
+	        credit: "",
+},
+
+		
 
 
 
@@ -108,7 +109,7 @@ let WEBSITE_DATA = [
 
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/814181211418152114181534114181521520.gif",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
@@ -144,7 +145,7 @@ let WEBSITE_DATA = [
 		},
 {
 			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
+			img: "images/2138383815138158.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -160,7 +161,7 @@ let WEBSITE_DATA = [
 
 
 							{
-		name: "3D Scene",
+		name: "Digital Sculpture",
 		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
@@ -200,15 +201,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},	
-	
-	
-																				{
-		name: "Proprioceptive Research",
-		img: "images/fascia__1298.png",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+
+			{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
+	
+
 
 	
 	// 	{
@@ -232,15 +234,14 @@ let WEBSITE_DATA = [
 
 
 
-	
-															{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/11_91919_.jpg",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+														 		{
+		name: "Superposition",
+		img: "images/Avatartracking.jpeg",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+		link: "",
 		credit: "",
-	
 	},	
+
 
 		{
 		name: "Filter Bubbles ",
@@ -294,13 +295,13 @@ let WEBSITE_DATA = [
 	// },
 
 	
-// 		{
-// 		name: "Recursive function",
-// 		img: "images/recursivefunction.png",
-// 		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
-// 		link: "",
-// 		credit: "",
-// },			
+		{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
+		link: "",
+		credit: "",
+},			
 	
 	
 	
@@ -324,15 +325,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-														 		{
-		name: "Superposition",
-		img: "images/Avatartracking.jpeg",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
-		link: "",
+																{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-	},
+	
+	},	
+
+
 	
 
 	
@@ -414,7 +416,13 @@ let WEBSITE_DATA = [
 	// },
 	
 
-
+																				{
+		name: "Proprioceptive Research",
+		img: "images/fascia__1298.png",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
 
 	// 		 {
 	// 	name: "Postmemory",
@@ -492,7 +500,7 @@ let WEBSITE_DATA = [
 		
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -520,13 +528,7 @@ let WEBSITE_DATA = [
 	},
 
 
-		{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "Bonsai",
 		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
