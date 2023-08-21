@@ -242,15 +242,15 @@ let WEBSITE_DATA = [
 // 	},
 
 
-
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},	
-
+		credit:"",
+			
+		},
 
 		{
 		name: "Filter Bubbles ",
@@ -467,19 +467,19 @@ let WEBSITE_DATA = [
 	
 	// },
 
-		{
 			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+
+
+	
+	
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "",
-		credit:"",
-			
-		},	
+		credit: "",
+	},	
 
-
-	
-	
 	
 
 	// {
