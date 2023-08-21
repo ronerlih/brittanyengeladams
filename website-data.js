@@ -145,13 +145,14 @@ let WEBSITE_DATA = [
 			link: " https://provincetownindependent.org/arts-minds/2021/02/03/wellfleets-modern-houses-are-still-laboratories-for-collaboration/",
 			credit: "",
 		},
-{
-			name: "Architecture of Memory",
-			img: "images/snapshot033.png", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
+	
+			{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
+		credit: "",
+	},
 
 	// 			{
 	// 	name: "Historical Materialism",
@@ -188,13 +189,16 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-				{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
-		link: "",
-		credit: "",
-	},
+	
+	{
+			name: "Architecture of Memory",
+			img: "images/snapshot033.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
+
+	
 																										{
 		name: "ROM VS. RAM",
 		img: "images/adolph_men_zel123.png",
@@ -253,13 +257,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 		{
-		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
 		link: "",
 		credit: "",
-},
-
+},	
 
 			{
 
@@ -297,15 +300,16 @@ let WEBSITE_DATA = [
 	// },
 
 	
+			
+	
 		{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
+		name: "Perceptual Brittleness",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
-},			
-	
-	
+},
+
 	
 				{
 		name: "Galileo's Law of Falling Bodies",
