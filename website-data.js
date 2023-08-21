@@ -280,13 +280,13 @@ let WEBSITE_DATA = [
 	
 
 		
-																							{
-		name: "Shower",
-		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a performance work, inspired by the music of musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
-		link: "",
-		credit: "",
-	},																			
+	// 																						{
+	// 	name: "Shower",
+	// 	img: "images/5S20221028102648PM.jpeg",
+	// 	blurb: "’Shower' is a performance work, inspired by the music of musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+	// 	link: "",
+	// 	credit: "",
+	// },																			
 
 	// 	{
 	// 	name: "Panpsychism",
