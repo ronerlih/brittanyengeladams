@@ -158,23 +158,23 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Transformative drive",
-		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
-		link: "",
-		credit: "",
-	},	
+	// 	{
+	// 	name: "Transformative drive",
+	// 	img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+	// 	blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+	// 	link: "",
+	// 	credit: "",
+	// },	
 		
 
 
-		 				{
-		name: "Skin Conductance Response",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
-		link: "",
-		credit: "",
-	},
+	// 	 				{
+	// 	name: "Skin Conductance Response",
+	// 	img: "images/lemon_rr_00.jpeg",
+	// 	blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
 				{
 		name: "Haptics",
@@ -204,7 +204,14 @@ let WEBSITE_DATA = [
 // 		link: "",
 // 		credit: "",
 // 	},
-	
+
+																				{
+		name: "Proprioceptive Research",
+		img: "images/01_v4.jpeg",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	}, 
 
 
 	
@@ -252,13 +259,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},																			
 
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Panpsychism",
+	// 	img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+	// 	blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 		{
 		name: "Perceptual Brittleness",
@@ -276,13 +283,7 @@ let WEBSITE_DATA = [
 		credit: "",
 },			
 	
-																				{
-		name: "Proprioceptive Research",
-		img: "images/01_v4.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	}, 
+	
 	
 				{
 		name: "Galileo's Law of Falling Bodies",
@@ -356,22 +357,22 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-				{
-		name: "Singularity Is Near",
-		img: "images/SS2023157M.png",
-		blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
-		link: "",
-		credit: "",
-	},
+	// 			{
+	// 	name: "Singularity Is Near",
+	// 	img: "images/SS2023157M.png",
+	// 	blurb: "The technological singularity—is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
 	
-{
-		name: "Cartesian Dualism",
-		img: "images/814181211418152114181534114181521520.gif",
-		blurb: "Cartesian Dualism is a concept that suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
-		link: "",
-		credit: "",
-	},
+// {
+// 		name: "Cartesian Dualism",
+// 		img: "images/814181211418152114181534114181521520.gif",
+// 		blurb: "Cartesian Dualism is a concept that suggests that the world comprises two distinct and incompatible classes of substance: res extensa, or extended substance, which extends through space; and res cogitans, or thinking substance, which has no extension in space. The body (including the brain) is composed of extended and divisible substance, whereas the mind is not.",
+// 		link: "",
+// 		credit: "",
+// 	},
 	
 		
 
@@ -385,13 +386,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-		{
-		name: "The Nervous System",
-		img: "images/gas.png",
-		blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "The Nervous System",
+	// 	img: "images/gas.png",
+	// 	blurb: "The sympathetic nervous system and the parasympathetic nervous system are both components of the autonomic nervous system. Together, they regulate the involuntary and reflexive functions of the human body.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 	
 	{
 	
@@ -412,13 +413,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-			{
-		name: "Gravitational Singularity",
-		img: "images/hanging_scales_thumbnail_0001.jpeg",
-		blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically.",
-		link: "",
-		credit: "",
-	},
+	// 		{
+	// 	name: "Gravitational Singularity",
+	// 	img: "images/hanging_scales_thumbnail_0001.jpeg",
+	// 	blurb: "A gravitational singularity, spacetime singularity or simply singularity is a condition in which gravity is so intense that spacetime itself breaks down catastrophically.",
+	// 	link: "",
+	// 	credit: "",
+	// },
  
 
 
@@ -430,14 +431,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-															{
-	      name: "Pineal Gland DMT neurotransmitter system",
-		img: "images/iambic-pentameter.jpg",
-		blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
-		link: "",
-		credit: "",
+	// 														{
+	//       name: "Pineal Gland DMT neurotransmitter system",
+	// 	img: "images/iambic-pentameter.jpg",
+	// 	blurb: "Since its discovery, the pineal gland, known by some as the third eye, is responsible for the production of melatonin, and plays an important role in modulating circadian rhythms, or the body's internal clock.",
+	// 	link: "",
+	// 	credit: "",
 	
-	},
+	// },
 
 		{
 			
