@@ -252,7 +252,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Filter Bubbles ",
 		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds, where increasingly like minded people whose views are reinforced become more extreme.",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces. Caused by the homogenization of friend recommendations and personal news feeds, when increasingly like minded people whose views are reinforced become more extreme.",
 		link: "",
 		credit: "",
 	},
