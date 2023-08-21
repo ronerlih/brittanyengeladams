@@ -317,13 +317,13 @@ let WEBSITE_DATA = [
 	
 	
 	
-																		{
-		name: "Oscilloscope",
-		img: "images/Tektronix_Oscilloscope_475A.jpg",
-		blurb: "An oscilloscope is a type of electronic test instrument that graphically displays varying voltages of one or more signals as a function of time.",
-		link: "",
-		credit: "",
-	},
+	// 																	{
+	// 	name: "Oscilloscope",
+	// 	img: "images/Tektronix_Oscilloscope_475A.jpg",
+	// 	blurb: "An oscilloscope is a type of electronic test instrument that graphically displays varying voltages of one or more signals as a function of time.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 																{
 	      name: "Emergent Landscape I Tessellation",
