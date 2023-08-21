@@ -117,7 +117,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Human Robot",
-		img: "images/CTT.png",
+		img: "images/118__111118___111492__614_91949_2614919.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -141,13 +141,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-				{
-		name: "Historical Materialism",
-		img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
-		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
-		link: "",
-		credit: "",
-	},
+	// 			{
+	// 	name: "Historical Materialism",
+	// 	img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
+	// 	blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 							{
