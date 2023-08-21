@@ -161,15 +161,15 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-
-
-							{
-		name: "Digital Sculpture",
-		img: "images/Roland_TR-808_(large).jpg",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		{
+		name: "Skeletal Avatar",
+		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
 		link: "",
 		credit: "",
 	},
+
+
 	
 	// 	{
 	// 	name: "Transformative drive",
@@ -197,16 +197,17 @@ let WEBSITE_DATA = [
 	
 	},	
 
-	
-
+		
 	
 																										{
-		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
-		link: "",
+		name: "Decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 		credit: "",
 	},
+
+
 		
 
 	// 		{
@@ -497,14 +498,14 @@ let WEBSITE_DATA = [
 	// },
 
 	
-
-			{
-		name: "Skeletal Avatar",
-		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+							{
+		name: "Digital Sculpture",
+		img: "images/Roland_TR-808_(large).jpg",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
+	
 	
 	
 							{
@@ -526,12 +527,11 @@ let WEBSITE_DATA = [
 	// },	
 
 	
-	
 																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+		link: "",
 		credit: "",
 	},
 
