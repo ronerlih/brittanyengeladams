@@ -508,15 +508,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-							{
+	// 						{
 							
-		name: "Non-Sinusoidal",
-		img: "images/2023012170559PM.png",
-		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
-		link: "",
-		credit: "",
+	// 	name: "Non-Sinusoidal",
+	// 	img: "images/2023012170559PM.png",
+	// 	blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
+	// 	link: "",
+	// 	credit: "",
 	
-	},		
+	// },		
 
 	// 		{
 	// 	name: "Hypothalamus",
@@ -555,13 +555,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-		{
-		name: "Rhizome",
-		img: "images/hawaii0011.jpg",
-		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Rhizome",
+	// 	img: "images/hawaii0011.jpg",
+	// 	blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 	
