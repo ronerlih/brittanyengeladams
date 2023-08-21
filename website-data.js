@@ -334,13 +334,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 			
-																										{
-		name: "Fight-or-Flight Response",
-		img: "images/agustawestlandaw1893dsmodel001.jpeg",
-		blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
-		link: "",
-		credit: "",
-	},	
+	// 																									{
+	// 	name: "Fight-or-Flight Response",
+	// 	img: "images/agustawestlandaw1893dsmodel001.jpeg",
+	// 	blurb: "The fight or flight response is an automatic physiological reaction to an event that is perceived as stressful or frightening. The perception of threat activates the sympathetic nervous system and triggers an acute stress response that prepares the body to fight or flee.",
+	// 	link: "",
+	// 	credit: "",
+	// },	
 			
 
 		
@@ -348,13 +348,13 @@ let WEBSITE_DATA = [
 		
  	
 
-																										{
-		name: "Broca's area",
-		img: "images/ScreenShot2023-02-04at1.48.02PM.png",
-		blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
-		link: "",
-		credit: "",
-	},
+	// 																									{
+	// 	name: "Broca's area",
+	// 	img: "images/ScreenShot2023-02-04at1.48.02PM.png",
+	// 	blurb: "Broca's area is a key component of a complex speech network, interacting with the flow of sensory information from the temporal cortex, devising a plan for speaking and passing that plan along to the motor cortex, which controls the movements of the mouth.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 				{
 		name: "Singularity Is Near",
@@ -522,7 +522,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Disintegrating figure",
-		img: "images/maxresdefault.jpg",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
