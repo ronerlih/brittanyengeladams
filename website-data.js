@@ -470,7 +470,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Posthumanism",
-		img: "images/WatchPolarVortexMovinginOverUS.gif",
+		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
