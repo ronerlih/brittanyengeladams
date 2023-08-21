@@ -401,18 +401,18 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-		
-
-
-							{
-							
-		name: "Non-Sinusoidal",
-		img: "images/2023012170559PM.png",
-		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
+					{
+		name: "Somatosensory Receptors",
+		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
+	},	
+
+
+
+
 	
-	},
 	// 	{
 	// 	name: "The Nervous System",
 	// 	img: "images/gas.png",
@@ -507,13 +507,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
-					{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+							{
+							
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
 		link: "",
 		credit: "",
-	},	
+	
+	},		
 
 	// 		{
 	// 	name: "Hypothalamus",
