@@ -248,6 +248,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
+		{
+		name: "Perceptual Brittleness",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+		link: "",
+		credit: "",
+},
+
 
 			{
 
@@ -284,14 +292,7 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-		{
-		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-02-07at5.56.29PM.png",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
-		link: "",
-		credit: "",
-},
-
+	
 		{
 		name: "Recursive function",
 		img: "images/recursivefunction.png",
@@ -452,7 +453,7 @@ let WEBSITE_DATA = [
 		{
 			
 		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-16at4.23.12PM.png",
+		img: "images/WatchPolarVortexMovinginOverUS.gif",
 		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
 		credit:"",
