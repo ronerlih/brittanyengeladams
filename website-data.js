@@ -32,8 +32,8 @@ let WEBSITE_DATA = [
 
 {
 		name: "BodyMouth Exhibition",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpg",
-		blurb: "Live performance of 'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg",
+		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
 		
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
@@ -123,7 +123,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},	
 	
+	{
+	
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
 
+	},	
 
 
 			{
@@ -135,7 +143,7 @@ let WEBSITE_DATA = [
 		},
 {
 			name: "Architecture of Memory",
-			img: "images/ScreenShot2023-02-03at7.40.40PM.png", 
+			img: "images/_m0t_petty123.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -178,13 +186,29 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
 
-		
+					{
+		name: "Somatosensory Receptors",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+		link: "",
+		credit: "",
+	},	
+	
+	
+																				{
+		name: "Proprioceptive Research",
+		img: "images/INO_OO.PNG",
+		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
+		link: "",
+		credit: "",
+	},
+
 	
 		{
 		name: "Viewpoint discrimination",
@@ -205,13 +229,6 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-																				{
-		name: "Proprioceptive Research",
-		img: "images/01_v4.jpeg",
-		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
-		link: "",
-		credit: "",
-	}, 
 
 
 	
@@ -226,7 +243,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Filter Bubbles ",
-		img: "images/ice_cubes_3d_model_s02.jpg",
+		img: "images/ScreenShot2023-02-03at7.40.40PM.png",
 		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds, where increasingly like minded people whose views are reinforced become more extreme.",
 		link: "",
 		credit: "",
@@ -394,15 +411,7 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-	{
-	
-		name: "Doppler Effect",
-		img: "images/1233740.gif",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-		link: "",
-		credit: "",
 
-	},	
 
 
 	// 		 {
@@ -461,13 +470,7 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-				{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
-		link: "",
-		credit: "",
-	},
+
 	{
 		name: "Infinitesimal Calculus",
 		img: "images/i050950a.gif",
