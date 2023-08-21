@@ -328,7 +328,7 @@ let WEBSITE_DATA = [
 
 														 		{
 		name: "Superposition",
-		img: "images/slits.png",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
@@ -338,13 +338,13 @@ let WEBSITE_DATA = [
 	
 
 	
-					{
-		name: "Dark Matter",
-		img: "images/ScreenShot2023-02-11at2.05.14PM.png",
-		blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
-		link: "",
-		credit: "",
-	},
+	// 				{
+	// 	name: "Dark Matter",
+	// 	img: "images/ScreenShot2023-02-11at2.05.14PM.png",
+	// 	blurb: "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	// 				{
 	// 	name: "Ancestral Artifact",
@@ -436,7 +436,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
@@ -510,10 +510,20 @@ let WEBSITE_DATA = [
 	// },	
 
 	
-	{
-		name: "Rhizome",
-		img: "images/hawaii0011.jpg",
-		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
+	
+																										{
+		name: "Decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+		credit: "",
+	},
+
+
+		{
+		name: "Disintegrating figure",
+		img: "images/1215151151515147229523.png",
+		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -525,15 +535,6 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},
-
-		{
-		name: "Disintegrating figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Disintegrating figure’ that programmatically erases parts of the body from the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
-
 	
 
 	// 	{
@@ -544,14 +545,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-	
-																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+		{
+		name: "Rhizome",
+		img: "images/hawaii0011.jpg",
+		blurb: "The rhizome is a-linear, multiple, spread out, all proliferating and without boundaries centres/margins or limits.",
+		link: "",
 		credit: "",
 	},
+
 
 	
 	// 	{
