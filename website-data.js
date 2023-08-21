@@ -227,7 +227,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Filter Bubbles ",
 		img: "images/ice_cubes_3d_model_s02.jpg",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds. Where increasingly like minded people whose views are reinforced and become more extreme. In America, political issues have always polarized people. Now more than ever with the proliferation of the internet and online platforms, paradoxically intensifies political ‘homophily.’",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces, caused by the homogenization of friend recommendations and personal news feeds, where increasingly like minded people whose views are reinforced become more extreme.",
 		link: "",
 		credit: "",
 	},
@@ -244,7 +244,7 @@ let WEBSITE_DATA = [
 											{
 		name: "Displaced figure",
 		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ that programmatically transposes different body parts and overlays them on top of the footage as if disintegrating into the background of the scene.",
+		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -254,7 +254,7 @@ let WEBSITE_DATA = [
 																							{
 		name: "Shower",
 		img: "images/5S20221028102648PM.jpeg",
-		blurb: "’Shower' is a performance piece, choreographed for The Joffrey Ballet School, inspired by the music of American musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
+		blurb: "’Shower' is a performance work, inspired by the music of musical composer Nico Muhly, presented at The Peter Jay Sharp Theatre's Symphony Space, in New York",
 		link: "",
 		credit: "",
 	},																			
@@ -278,7 +278,7 @@ let WEBSITE_DATA = [
 		{
 		name: "Recursive function",
 		img: "images/recursivefunction.png",
-		blurb: "In programming terms, a recursive function can be defined as a routine that calls itself directly or indirectly..",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
 		link: "",
 		credit: "",
 },			
@@ -310,7 +310,7 @@ let WEBSITE_DATA = [
 														 		{
 		name: "Superposition",
 		img: "images/slits.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. Meaning, it can exist in two places at the same time. For example, in that, an electron can be both excited – and not excited. When one measures the energy of the electron cloud of an atom, then the cloud of potential collapses into one solution.",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
