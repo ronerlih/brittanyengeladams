@@ -10,16 +10,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
-		link: "",
-	        credit: "",
-},
 
-
+			{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},	
 	
 				{
 			
@@ -38,17 +37,19 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},	
+	
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+		link: "",
+	        credit: "",
+},
 
 	
 
-			{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
 	
-},		
 
 	{
 		name: "Hand Dance Film",
@@ -82,7 +83,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/21519201414113333.gif",
+		img: "images/INO_OO.PNG",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -97,6 +98,22 @@ let WEBSITE_DATA = [
 // 		credit: " ",
 // 	},
 
+		{
+		name: "Human Robot",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/814181211418152114181534114181521520.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+		link: "",
+		credit: "",
+	},
+
 		 {
 		name: "YouTube Improv",
 		img: "images/YouTubeimprovhigh.gif",
@@ -105,23 +122,7 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
-		link: "",
-		credit: "",
-	},
-
-
-		{
-		name: "Human Robot",
-		img: "images/118__111118___111492__614_91949_2614919.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},	
+	
 	
 	{
 	
@@ -203,20 +204,20 @@ let WEBSITE_DATA = [
 	
 																				{
 		name: "Proprioceptive Research",
-		img: "images/INO_OO.PNG",
+		img: "images/fascia__1298.png",
 		blurb: "Proprioceptive research using artificial intelligence and motion capture technology. I consider the ways this software could be used for dance training. If avatars could offer multi-dimensional feedback or phrasing, instead of a mirror while training? That feedback could be effective and productive in learning movement, as I'm not relying on ocular relation to create representations, I have to rely on an orientation  to motion and the feeling of being in space. It’s a proprioceptive, tactile, and kinesthetic method.",
 		link: "",
 		credit: "",
 	},
 
 	
-		{
-		name: "Viewpoint discrimination",
-		img: "images/sickle.png",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Viewpoint discrimination",
+	// 	img: "images/sickle.png",
+	// 	blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	
 
@@ -293,13 +294,13 @@ let WEBSITE_DATA = [
 	// },
 
 	
-		{
-		name: "Recursive function",
-		img: "images/recursivefunction.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
-		link: "",
-		credit: "",
-},			
+// 		{
+// 		name: "Recursive function",
+// 		img: "images/recursivefunction.png",
+// 		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
+// 		link: "",
+// 		credit: "",
+// },			
 	
 	
 	
