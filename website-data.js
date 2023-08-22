@@ -5,7 +5,7 @@ let WEBSITE_DATA = [
 			{
 				
 		name: "Proximity Technology from Qualcomm",
-		img: "images/209385904___385893475689376782657826.png",
+		img: "images/intersecttech.png",
 		blurb: "Proximity is changing consumer experiences. Mobile applications and proximity technologies like bluetooth beacons, and LTE Direct, synchronized campaigns infiltrate the media noise to offer an immersive experience, call to action on phones, or in public spaces.",
 		link: "",
 		credit: "",
@@ -531,15 +531,6 @@ let WEBSITE_DATA = [
 	// },	
 
 
-	
-																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
-		credit: "",
-	},
-
 	{
 
 		name: "Neural Network",
@@ -647,8 +638,17 @@ let WEBSITE_DATA = [
 		{
 		name: "The Beaubourg Effect",
 		img: "images/image008-e1523992763533.jpg",
-		blurb: ". Jean Baudrillard sustains that the mass-media spectacle of The Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence”. It endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
+		blurb: "Jean Baudrillard sustains that the mass-media spectacle of the Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence,” it endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
 		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
+		credit: "",
+	},
+
+		
+																										{
+		name: "Decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 		credit: "",
 	},
 	
