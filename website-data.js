@@ -104,7 +104,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
@@ -405,7 +405,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
+		img: "images/skin-receptors-senses-basics.jpg",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -452,7 +452,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Autonomous",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/Avatartracking.jpg",
 		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
