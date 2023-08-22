@@ -72,19 +72,18 @@ let WEBSITE_DATA = [
 
 	},
 
-		
+			{
+		 
+		name: "Wireless Fidelity",
+		img: "images/8537885385349.jpg",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+		link: "",
+	        credit: "",
+},	
 
 
 
 	
-					{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/ScreenShot20221018at8248M.jpg",
-		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
 
 
 
@@ -96,26 +95,29 @@ let WEBSITE_DATA = [
 // 		credit: " ",
 // 	},
 
-		{
-		 
-		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpg",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
-		link: "",
-	        credit: "",
-},
-		{
-		name: "Human Robot",
-		img: "images/maquettecc.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
 
 				{
 		name: "Haptics",
 		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
+		credit: "",
+	},
+
+	
+	
+					{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/ScreenShot20221018at8248M.jpg",
+		blurb: "2023 Artist in Residence at Harvestworks. Harvestworks was founded as a not-for-profit organization by artists in 1977, and has helped a generation of artists create new works using technology. Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
+		{
+		name: "Human Robot",
+		img: "images/maquettecc.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
 	},
@@ -242,13 +244,14 @@ let WEBSITE_DATA = [
 	},
 
 
-		{
-		name: "Filter Bubbles ",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces. Increasingly like minded people whose views are reinforced become more extreme. Caused by the homogenization of friend recommendations and personal news feeds.",
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
+
 		{
 		name: "Recursive function",
 		img: "images/CTT.png",
@@ -444,14 +447,13 @@ let WEBSITE_DATA = [
 	// },
  
 
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+		{
+		name: "Filter Bubbles ",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Filter Bubbles are an echo chamber, the result of algorithmic dynamics aided by opaque interfaces. Increasingly like minded people whose views are reinforced become more extreme. Caused by the homogenization of friend recommendations and personal news feeds.",
 		link: "",
 		credit: "",
 	},
-
 	
 
 	// 														{
