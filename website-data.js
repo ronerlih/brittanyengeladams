@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "BodyMouth Symposium",
-		img: "images/TTTTtttt04-15t11.34.41M.png",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
 		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
