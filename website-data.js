@@ -187,14 +187,7 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-																	{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
-	},	
+		
 
 		
 	
@@ -206,8 +199,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-		
+	{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
+		link: "",
+		credit: "",
+},		
 
 	// 		{
 	// 	name: "Disintegrating figure",
@@ -257,13 +255,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
-		link: "",
+		
+	
+																{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-},	
+	
+	},
 	{
 		name: "Bonsai",
 		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
