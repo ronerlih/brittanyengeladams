@@ -262,10 +262,11 @@ let WEBSITE_DATA = [
 },		
 	
 	
-				{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+
+							{
+		name: "Digital Sculpture",
+		img: "images/Roland_TR-808_(large).jpg",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
@@ -493,15 +494,14 @@ let WEBSITE_DATA = [
 	// },
 
 	
-							{
-		name: "Digital Sculpture",
-		img: "images/Roland_TR-808_(large).jpg",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+	
+					{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
-	
-	
 	
 	// 						{
 							
