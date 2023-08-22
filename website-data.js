@@ -29,7 +29,7 @@ let WEBSITE_DATA = [
 },	
 	
 {
-		name: "BodyMouth Exhibition",
+		name: "BodyMouth Symposium",
 		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_16.jpg",
 		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
@@ -102,22 +102,6 @@ let WEBSITE_DATA = [
 // 		credit: " ",
 // 	},
 
-			{
-		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
-		link: "",
-		credit: "",
-	},
-		{
-		name: "Human Robot",
-		img: "images/maquettecc.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-
-	
 		{
 		 
 		name: "Wireless Fidelity",
@@ -126,6 +110,22 @@ let WEBSITE_DATA = [
 		link: "",
 	        credit: "",
 },
+		{
+		name: "Human Robot",
+		img: "images/maquettecc.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+
+				{
+		name: "Haptics",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
+		credit: "",
+	},
+
 	
 																					{
 		name: "Memory Dance",
