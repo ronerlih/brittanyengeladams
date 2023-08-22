@@ -120,7 +120,7 @@ let WEBSITE_DATA = [
 
 				{
 		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
@@ -199,14 +199,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly..",
-		link: "",
+																{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-},		
-
+	
+	},
+	
 	// 		{
 	// 	name: "Disintegrating figure",
 	// 	img: "images/1215151151515147229523.png",
@@ -255,16 +256,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
-	
-																{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+		link: "",
 		credit: "",
+},		
 	
-	},
+	
+
 	{
 		name: "Bonsai",
 		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
@@ -304,7 +305,7 @@ let WEBSITE_DATA = [
 	
 					{
 		name: "Galileo's Law of Falling Bodies",
-		img: "images/forcesonfallingobj.png",
+		img: "images/fascia__1298.png",
 		blurb: " Galileo's law of fall claims that bodies fall at a constant acceleration, i.e., that their speed increases by equal increments within equal time periods, and that the distance traveled by them in equal time periods is not equal.",
 		link: "",
 		credit: "",
