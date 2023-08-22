@@ -233,16 +233,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-
-{
-			
-		name: "Posthumanism",
-		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
-		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
+			{
+		name: "Somatosensory Receptors",
+		img: "images/skin-receptors-senses-basics.jpg",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
-		credit:"",
-			
-		},
+		credit: "",
+	},
+
 
 		{
 		name: "Filter Bubbles ",
@@ -258,17 +256,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 },		
-	
-	
+{
 
-	{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
-		
-		},
+	},	
+	
+
 		
 	
 											{
@@ -306,15 +303,17 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 	
-		{
-		name: "Perceptual Brittleness",
-		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+
+
+
+	{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
 		link: "",
 		credit: "",
-},
-
-	
+		
+		},	
 
 
 	
@@ -464,20 +463,16 @@ let WEBSITE_DATA = [
 	
 	// },
 
-				{
-		name: "Somatosensory Receptors",
-		img: "images/skin-receptors-senses-basics.jpg",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+{
+			
+		name: "Posthumanism",
+		img: "images/ScreenShot2023-02-13at7.24.31PM.png",
+		blurb: "What happens when anyone can upgrade their body? What aspects of our humanity will we change? Who will decide who goes forth into our species’ next evolutionary phase, and who gets left behind?",
 		link: "",
-		credit: "",
-	},			
+		credit:"",
+			
+		},				
 
-
-	
-	
-	
-
-	
 
 	// {
 	// 	name: "Infinitesimal Calculus",
@@ -524,15 +519,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-
-	{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		{
+		name: "Perceptual Brittleness",
+		img: "images/ScreenShot2023-03-02at10.52.59AM.png",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
-	},
+},
+	
 	
 
 	// 	{
