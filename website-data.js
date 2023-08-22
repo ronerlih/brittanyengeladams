@@ -404,15 +404,14 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 	
-					{
-		name: "Somatosensory Receptors",
-		img: "images/skin-receptors-senses-basics.jpg",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+		
+	{
+		name: "Autonomous",
+		img: "images/Avatartracking.jpg",
+		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
 		link: "",
 		credit: "",
-	},	
-
-
+	},
 
 
 	
@@ -450,14 +449,15 @@ let WEBSITE_DATA = [
 	// },
  
 
-
-		{
-		name: "Autonomous",
-		img: "images/Avatartracking.jpg",
-		blurb: "Forces of the world allow for a basic interpretations of freewill. In an economic-capitalist sphere freewill represents a sublime force that manifests through desire. This is not freewill. Freewill is not the sublime, sacred idea that pops into your head. It’s not something you have, it’s something struggled for.",
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
 		link: "",
 		credit: "",
 	},
+
+	
 
 	// 														{
 	//       name: "Pineal Gland DMT neurotransmitter system",
@@ -468,18 +468,18 @@ let WEBSITE_DATA = [
 	
 	// },
 
-			
-
-
-	
-	
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+				{
+		name: "Somatosensory Receptors",
+		img: "images/skin-receptors-senses-basics.jpg",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
-	},	
+	},			
+
+
+	
+	
+	
 
 	
 
