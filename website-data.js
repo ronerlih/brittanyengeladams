@@ -189,15 +189,16 @@ let WEBSITE_DATA = [
 	// },
 		
 
-		
+	
 	
 																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+		link: "",
 		credit: "",
-	},
+	},	
+
 
 																{
 	      name: "Emergent Landscape I Tessellation",
@@ -278,7 +279,7 @@ let WEBSITE_DATA = [
 	
 											{
 		name: "Displaced figure",
-		img: "images/1215151151515147229523.png",
+		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
@@ -529,16 +530,15 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
+
 	
 																										{
-		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
-		link: "",
+		name: "Decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 		credit: "",
 	},
-
-
 
 	{
 
