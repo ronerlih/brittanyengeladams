@@ -187,17 +187,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 		
-
 	
-	
-																										{
-		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+				{
+		name: "Haptics",
+		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
-	},	
-
+	},
 
 														 		{
 		name: "Superposition",
@@ -497,13 +494,16 @@ let WEBSITE_DATA = [
 
 	
 	
-					{
-		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+	
+																										{
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
 	},
+	
+	
 	
 	// 						{
 							
