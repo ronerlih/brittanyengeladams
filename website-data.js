@@ -152,15 +152,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-				{
-		name: "Historical Materialism",
-		img: "images/Rhizome.png",
-		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+					{
+		name: "Haptics",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
+
 	
 																	{
 	      name: "Emergent Landscape I Tessellation",
@@ -199,10 +198,11 @@ let WEBSITE_DATA = [
 	},
 
 	
+
 				{
-		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		name: "Historical Materialism",
+		img: "images/Rhizome.png",
+		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
 		link: "",
 		credit: "",
 	},
