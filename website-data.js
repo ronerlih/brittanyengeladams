@@ -197,13 +197,12 @@ let WEBSITE_DATA = [
 	},	
 
 
-																{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/SS20230108atPM.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+														 		{
+		name: "Superposition",
+		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+		link: "",
 		credit: "",
-	
 	},
 	
 	// 		{
@@ -244,14 +243,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-														 		{
-		name: "Superposition",
-		img: "images/ScreenShot2023-02-24at9.46.18PM.png",
-		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
-		link: "",
+																{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/SS20230108atPM.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
+	
 	},
+
 
 		{
 		name: "Recursive function",
