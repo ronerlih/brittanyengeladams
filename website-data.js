@@ -253,14 +253,15 @@ let WEBSITE_DATA = [
 	
 	},
 
-
-		{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
-		link: "",
+		
+																										{
+		name: "Decomposition",
+		img: "images/NITROGEN.PNG",
+		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 		credit: "",
-},		
+	},
+		
 	
 	
 
@@ -633,15 +634,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		
-																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+		link: "",
 		credit: "",
-	},
-	
+},
 	
 	
 																								{
