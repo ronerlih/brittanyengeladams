@@ -107,14 +107,15 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 	
-					{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/bodymouthpic.png",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
+
+
+	{
+			name: "Architecture of Memory",
+			img: "images/arduinobreadboard.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
 		{
 		name: "Human Robot",
 		img: "images/maquettereebok.png",
@@ -123,14 +124,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+					{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/bodymouthpic.png",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 
-{
-			name: "Architecture of Memory",
-			img: "images/arduinobreadboard.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
 
 	
 	
