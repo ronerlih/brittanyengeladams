@@ -189,7 +189,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-		
+																	{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},	
 	
 				{
 		name: "Haptics",
@@ -245,14 +252,7 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
-		credit: "",
-	
-	},
+
 
 		
 																										{
