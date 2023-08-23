@@ -73,14 +73,13 @@ let WEBSITE_DATA = [
 
 // 	},
 
-			{
-		 
-		name: "Wireless Fidelity",
-		img: "images/261949_8111949118111949.png",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
+		 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
-	        credit: "",
-},	
+		credit: ""
+	},	
 
 
 
@@ -99,30 +98,15 @@ let WEBSITE_DATA = [
 
 
 
-		 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
-		link: "",
-		credit: ""
-	},
 	
-
-
-	{
-			name: "Architecture of Memory",
-			img: "images/arduinobreadboard.jpg", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
-		{
-		name: "Human Robot",
-		img: "images/maquettereebok.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+			{
+		 
+		name: "Wireless Fidelity",
+		img: "images/261949_8111949118111949.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
-		credit: "",
-	},
+	        credit: "",
+},
 
 					{
 			
@@ -132,6 +116,21 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
+		{
+		name: "Human Robot",
+		img: "images/maquettereebok.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+	{
+			name: "Architecture of Memory",
+			img: "images/arduinobreadboard.jpg", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
+
 
 
 	
@@ -522,13 +521,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-		{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
-		link: "",
-		credit: "",
-},
+// 		{
+// 		name: "Perceptual Brittleness",
+// 		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+// 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+// 		link: "",
+// 		credit: "",
+// },
 	
 	
 
