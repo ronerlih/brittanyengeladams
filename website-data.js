@@ -123,6 +123,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+
+{
+			name: "Architecture of Memory",
+			img: "images/xbox360.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
+
+	
 	
 																					{
 		name: "Memory Dance",
@@ -132,14 +142,6 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},	
 
-
-{
-			name: "Architecture of Memory",
-			img: "images/xbox360.png", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},	
 
 		 													{
 		name: "I Am Not A Robot",
