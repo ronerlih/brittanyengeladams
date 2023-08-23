@@ -62,15 +62,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-{
+// {
 	
-		name: "Doppler Effect",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-		link: "",
-		credit: "",
+// 		name: "Doppler Effect",
+// 		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+// 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+// 		link: "",
+// 		credit: "",
 
-	},
+// 	},
 
 			{
 		 
@@ -157,13 +157,13 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-		{
-		name: "Skeletal Avatar",
-		img: "images/avatarcloud.JPG",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Skeletal Avatar",
+	// 	img: "images/avatarcloud.JPG",
+	// 	blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 	
@@ -274,7 +274,7 @@ let WEBSITE_DATA = [
 	
 											{
 		name: "Displaced figure",
-		img: "images/",
+		img: "images/11414121191918.gif",
 		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
