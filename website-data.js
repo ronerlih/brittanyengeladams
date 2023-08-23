@@ -96,11 +96,11 @@ let WEBSITE_DATA = [
 // 	},
 
 
-{
 
-		name: "Neural Network",
-		img: "images/bostond.gif",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/122118212001182120118.gif",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
 	},
@@ -142,14 +142,15 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},	
 
+	{
 
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/122118212001182120118.gif",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+		name: "Neural Network",
+		img: "images/bostond.gif",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
 		link: "",
 		credit: "",
 	},
+
 	
 
 	// 			{
