@@ -191,7 +191,7 @@ let WEBSITE_DATA = [
 	
 				{
 		name: "Haptics",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
