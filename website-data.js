@@ -162,14 +162,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Skeletal Avatar",
-		img: "images/avtarhigh.png",
-		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-		link: "",
+																	{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/S20221101at74608PM.jpg",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
+	
 	},
-
 
 	
 	// 	{
@@ -189,14 +189,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-																	{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/S20221101at74608PM.jpg",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+
+			{
+		name: "Skeletal Avatar",
+		img: "images/avtarhigh.png",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
 		credit: "",
-	
-	},	
+	},
+
 	
 				{
 		name: "Haptics",
@@ -494,14 +495,15 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-												{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
+
+
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
 		link: "",
 		credit: "",
-	},
-
+},
 	
 	
 	
@@ -636,14 +638,13 @@ let WEBSITE_DATA = [
 	},
 
 
-			{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+												{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-},
-	
+	},	
 	
 																								{
 		name: "Farewell 2020",
