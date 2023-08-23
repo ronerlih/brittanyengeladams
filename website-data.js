@@ -154,20 +154,21 @@ let WEBSITE_DATA = [
 
 	
 
-	// 			{
-	// 	name: "Historical Materialism",
-	// 	img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
-	// 	blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
-	// 	link: "",
-	// 	credit: "",
-	// },
-	// 	{
-	// 	name: "Skeletal Avatar",
-	// 	img: "images/avatarcloud.JPG",
-	// 	blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
-	// 	link: "",
-	// 	credit: "",
-	// },
+				{
+		name: "Historical Materialism",
+		img: "images/sqqd63lprn6fzmjprhi2fxcqr36jc3sachvcdoaizecfr3dnitcq_3_0.png",
+		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+		link: "",
+		credit: "",
+	},
+	
+		{
+		name: "Skeletal Avatar",
+		img: "images/avatarcloud.JPG",
+		blurb: "A template skeleton and its joints. The skeleton is a simple directed graph, in which the directions are denoted by the arrows beside the skeleton edges. For denotational simplicity, we do not show the arrows in other figures. (b) Several pairs of input noisy skeletons (upper) and ground truth skeletons (lower).",
+		link: "",
+		credit: "",
+	},
 
 
 	
@@ -181,13 +182,13 @@ let WEBSITE_DATA = [
 		
 
 
-	// 	 				{
-	// 	name: "Skin Conductance Response",
-	// 	img: "images/lemon_rr_00.jpeg",
-	// 	blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+		 				{
+		name: "Skin Conductance Response",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+		link: "",
+		credit: "",
+	},
 		
 	
 				{
@@ -599,13 +600,13 @@ let WEBSITE_DATA = [
 	// },
 	
 
-	// 					{
-	// 	name: "Newtonian Physics",
-	// 	img: "images/physics-productivity-first-law.jpg",
-	// 	blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+						{
+		name: "Newtonian Physics",
+		img: "images/physics-productivity-first-law.jpg",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+		link: "",
+		credit: "",
+	},
 	
 	// 		{
 	// 	name: "Bismuth",
