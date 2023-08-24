@@ -199,13 +199,13 @@ let WEBSITE_DATA = [
 
 	
 
-				{
-		name: "Historical Materialism",
-		img: "images/Rhizome.png",
-		blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
-		link: "",
-		credit: "",
-	},
+	// 			{
+	// 	name: "Historical Materialism",
+	// 	img: "images/Rhizome.png",
+	// 	blurb: "Historical materialism, postulates that all institutions of human society (e.g., government and religion) are the outgrowth of its economic activity.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 	// 													 		{
 	// 	name: "Superposition",
@@ -256,13 +256,13 @@ let WEBSITE_DATA = [
 
 
 		
-																										{
-		name: "Decomposition",
-		img: "images/NITROGEN.PNG",
-		blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
-		link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
-		credit: "",
-	},
+	// 																									{
+	// 	name: "Decomposition",
+	// 	img: "images/NITROGEN.PNG",
+	// 	blurb: "Five stages of decomposition: fresh, bloat, active decay, advanced decay, and dry/skeletonized.",
+	// 	link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
+	// 	credit: "",
+	// },
 		
 	
 	
