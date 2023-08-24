@@ -40,7 +40,7 @@ let WEBSITE_DATA = [
 
 		 													{
 		name: "I Am Not A Robot",
-		img: "images/122118212001182120118.gif",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
 		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
@@ -102,7 +102,7 @@ let WEBSITE_DATA = [
 			{
 		 
 		name: "Wireless Fidelity",
-		img: "images/261949_8111949118111949.png",
+		img: "images/8537885385349.jpeg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
@@ -111,7 +111,7 @@ let WEBSITE_DATA = [
 					{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/bodymouthpic.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -163,7 +163,7 @@ let WEBSITE_DATA = [
 	
 																	{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/S20221101at74608PM.jpg",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
@@ -171,13 +171,13 @@ let WEBSITE_DATA = [
 	},
 
 	
-	// 	{
-	// 	name: "Transformative drive",
-	// 	img: "images/ScreenShot2023-02-18at6.26.42PM.png",
-	// 	blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
-	// 	link: "",
-	// 	credit: "",
-	// },	
+		{
+		name: "Transformative drive",
+		img: "images/ScreenShot2023-02-18at6.26.42PM.png",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+		link: "",
+		credit: "",
+	},	
 		
 
 
