@@ -125,7 +125,7 @@ let WEBSITE_DATA = [
 	},
 	{
 			name: "Architecture of Memory",
-			img: "images/arduinobreadboard.jpg", 
+			img: "images/tempFile.MP4high1.gif", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
