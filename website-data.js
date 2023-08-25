@@ -160,15 +160,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-							{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
+
+
+		{
+		name: "The Beaubourg Effect",
+		img: "images/image008-e1523992763533.jpg",
+		blurb: "Jean Baudrillard sustains that the mass-media spectacle of the Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence,” it endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
+		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
 		credit: "",
 	},
-
-
 	
 		{
 		name: "Transformative drive",
@@ -630,11 +630,11 @@ let WEBSITE_DATA = [
 	
 
 	
-		{
-		name: "The Beaubourg Effect",
-		img: "images/image008-e1523992763533.jpg",
-		blurb: "Jean Baudrillard sustains that the mass-media spectacle of the Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence,” it endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
-		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
+							{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
 	},
 
