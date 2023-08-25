@@ -106,23 +106,6 @@ let WEBSITE_DATA = [
 	},
 
 	
-{
-			name: "Architecture of Memory",
-			img: "images/tempFile.MP4high1.gif", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
-
-		{
-		name: "Human Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-	
-
 
 
 						{
@@ -133,6 +116,24 @@ let WEBSITE_DATA = [
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
+	
+
+		{
+		name: "Human Robot",
+		img: "images/arduino-breadboard-3D_DHQ.jpeg",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
+	
+{
+			name: "Architecture of Memory",
+			img: "images/tempFile.MP4high1.gif", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
+
 	
 		{
 		 
@@ -159,15 +160,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-																	{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+							{
+		name: "Digital Sculpture",
+		img: "images/else_chin_drs_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
-	
 	},
+
 
 	
 		{
@@ -266,15 +266,16 @@ let WEBSITE_DATA = [
 	
 	
 
-							{
-		name: "Digital Sculpture",
-		img: "images/else_chin_drs_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
-		
 	
+		
+																		{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},
 	
 	
 																										{
@@ -294,7 +295,15 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },																			
-
+{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
+		link: "",
+		credit: "",
+		
+		},
+	
 		{
 		name: "Panpsychism",
 		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
@@ -468,14 +477,7 @@ let WEBSITE_DATA = [
 	
 	// },
 
-	{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees are planted in small pots with minimal space for water and nutrient reserves.",
-		link: "",
-		credit: "",
-		
-		},			
+				
 
 
 	// {
