@@ -107,23 +107,7 @@ let WEBSITE_DATA = [
 		link: "",
 	        credit: "",
 },
-
-					{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
-		{
-		name: "Human Robot",
-		img: "images/maquettereebok.png",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
-		credit: "",
-	},
-	{
+{
 			name: "Architecture of Memory",
 			img: "images/tempFile.MP4high1.gif", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
@@ -131,9 +115,25 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 
-
-
+		{
+		name: "Human Robot",
+		img: "images/maquettereebok.png",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
+		credit: "",
+	},
 	
+
+
+
+						{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 	
 																					{
 		name: "Memory Dance",
