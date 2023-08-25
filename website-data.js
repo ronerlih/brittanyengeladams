@@ -96,17 +96,16 @@ let WEBSITE_DATA = [
 // 	},
 
 
-
+	
+																					{
+		name: "Memory Dance",
+		img: "images/INO_OO.PNG",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
 
 	
-			{
-		 
-		name: "Wireless Fidelity",
-		img: "images/SS2023-04-137.02.40PM.png",
-		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
-		link: "",
-	        credit: "",
-},
 {
 			name: "Architecture of Memory",
 			img: "images/tempFile.MP4high1.gif", 
@@ -135,14 +134,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-																					{
-		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		{
+		 
+		name: "Wireless Fidelity",
+		img: "images/SS2023-04-137.02.40PM.png",
+		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
-		credit: "", 
-	},	
-
+	        credit: "",
+},
 	{
 
 		name: "Neural Network",
