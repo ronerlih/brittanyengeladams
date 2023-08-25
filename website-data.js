@@ -639,7 +639,7 @@ let WEBSITE_DATA = [
 
 												{
 		name: "Displaced figure",
-		img: "images/11414121191918.gif",
+		img: "images/1215151151515147229523.png",
 		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
