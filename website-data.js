@@ -106,16 +106,15 @@ let WEBSITE_DATA = [
 	},
 
 	
+{
+			name: "Architecture of Memory",
+			img: "images/Rhizome.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
 
 
-						{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
 	
 
 		{
@@ -126,14 +125,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-{
-			name: "Architecture of Memory",
-			img: "images/tempFile.MP4high1.gif", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
 
+						{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 	
 		{
 		 
@@ -280,7 +280,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/venusscan.JPG",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
