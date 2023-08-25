@@ -304,13 +304,14 @@ let WEBSITE_DATA = [
 		
 		},
 	
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+	
+												{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
-	},
+	},	
 
 	
 	// 				{
@@ -638,14 +639,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-												{
-		name: "Displaced figure",
-		img: "images/1215151151515147229523.png",
-		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
+		{
+		name: "Panpsychism",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
 		link: "",
 		credit: "",
-	},	
+	},
+
+
 	
 																								{
 		name: "Farewell 2020",
