@@ -21,7 +21,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpg",
 		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
 		link: "https://movementresearch.org/publications/performance-journal/issue-55",
 		credit: "",
@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "BodyMouth Symposium",
-		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg",
 		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -108,7 +108,7 @@ let WEBSITE_DATA = [
 	
 {
 			name: "Architecture of Memory",
-			img: "images/Rhizome.png", 
+			img: "images/1215225.jpg", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -138,7 +138,7 @@ let WEBSITE_DATA = [
 		{
 		 
 		name: "Wireless Fidelity",
-		img: "images/261949_8111949118111949.png",
+		img: "images/8537885385349.jpg",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
