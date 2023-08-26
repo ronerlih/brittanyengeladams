@@ -509,15 +509,15 @@ let WEBSITE_DATA = [
 	
 	
 	
-	// 						{
+							{
 							
-	// 	name: "Non-Sinusoidal",
-	// 	img: "images/2023012170559PM.png",
-	// 	blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
-	// 	link: "",
-	// 	credit: "",
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
+		link: "",
+		credit: "",
 	
-	// },		
+	},		
 
 	// 		{
 	// 	name: "Hypothalamus",
@@ -527,13 +527,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-// 		{
-// 		name: "Perceptual Brittleness",
-// 		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-// 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
-// 		link: "",
-// 		credit: "",
-// },
+		{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+		link: "",
+		credit: "",
+},
 	
 	
 
@@ -639,13 +639,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		{
-		name: "Panpsychism",
-		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
-		blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
-		link: "",
-		credit: "",
-	},
+	// 	{
+	// 	name: "Panpsychism",
+	// 	img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
+	// 	blurb: "Panpsychism insinuates a 'dualist' approach to explaining how our mind interacts with our body. Meaning, the physical matter of our bodies and whatever substance creates a mind are separate entities (perhaps connected by the pineal gland), with our flesh essentially serving as a house for our souls. This argument holds that if science could explain everything, it should be able to quantify a mind/soul — visually describe it, hear it, feel it, measure and record it.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 	
