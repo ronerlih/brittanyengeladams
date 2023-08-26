@@ -30,7 +30,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "BodyMouth Symposium",
-		img: "images/Futurebodies_by_JoshuaOkoro108.jpeg",
+		img: "images/Futurebodies_by_JoshuaOkoro108.jpg",
 		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -270,7 +270,7 @@ let WEBSITE_DATA = [
 		
 																		{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/11_91919_.jpg",
+		img: "images/1266215159166122591612215916612916.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
