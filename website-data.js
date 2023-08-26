@@ -36,16 +36,6 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},		
-		
-
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
-		link: "",
-		credit: "",
-	},	
-	
 
 	{
 		name: "Hand Dance Film",
@@ -55,6 +45,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+		link: "",
+		credit: "",
+	},
 // 	{
 // 		name: "Maquette 2021",
 // 		img: "images/01.jpeg",
@@ -124,16 +121,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
 						{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		name: "Haptics",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
 		credit: "",
 	},
+
+
 	
 		{
 		 
@@ -152,11 +148,12 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-					{
-		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
-		link: "",
+						{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
 	},
 
@@ -499,14 +496,6 @@ let WEBSITE_DATA = [
 
 
 
-			{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
-		link: "",
-		credit: "",
-},
-	
 	
 	
 							{
@@ -517,7 +506,17 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	
-	},		
+	},
+
+	
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+		link: "",
+		credit: "",
+},
+	
 
 	// 		{
 	// 	name: "Hypothalamus",
@@ -527,13 +526,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-		{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+						{
+		name: "Newtonian Physics",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
-},
+	},
 	
 	
 
@@ -603,14 +602,14 @@ let WEBSITE_DATA = [
 
 	// },
 	
-
-						{
-		name: "Newtonian Physics",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+		{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
 		link: "",
 		credit: "",
-	},
+},
+
 	
 	// 		{
 	// 	name: "Bismuth",
