@@ -509,14 +509,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	
 	},
-		{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+	
+							{
+		name: "Digital Sculpture",
+		img: "images/11811_192114417.gif",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
-},
-	
+	},
 
 	
 
@@ -629,16 +629,17 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
+			{
+		name: "Perceptual Brittleness",
+		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+		link: "",
+		credit: "",
+},
 	
 
 	
-							{
-		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
+
 
 	// 	{
 	// 	name: "Panpsychism",
