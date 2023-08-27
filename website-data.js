@@ -245,14 +245,14 @@ let WEBSITE_DATA = [
 
 
 
-
-			{
-		name: "Somatosensory Receptors",
-		img: "images/SomatosensoryAxonTypes.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+						{
+		name: "Newtonian Physics",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
 	},
+
 		
 	// 																									{
 	// 	name: "Decomposition",
@@ -530,15 +530,15 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-						{
-		name: "Newtonian Physics",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+
+	
+				{
+		name: "Somatosensory Receptors",
+		img: "images/SomatosensoryAxonTypes.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
 	},
-	
-	
 
 	// 	{
 	// 	name: "Quantum Computing",
