@@ -37,14 +37,14 @@ let WEBSITE_DATA = [
 		credit: "",
 		
 		},		
-
-			{
-		name: "Human Robot",
-		img: "images/arduino-breadboard-3D_DHQ.jpeg",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+	 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
+
 	
 {
 			name: "Architecture of Memory",
@@ -72,16 +72,16 @@ let WEBSITE_DATA = [
 
 // 	},
 
-		 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
+		
+
+
+			{
+		name: "Human Robot",
+		img: "images/humanrobot_two.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
-		credit: ""
-	},	
-
-
-
+		credit: "",
+	},
 	
 
 
@@ -126,7 +126,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Haptics",
-		img: "images/lemon_rr_00.jpeg",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
 		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
@@ -153,7 +153,7 @@ let WEBSITE_DATA = [
 						{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/else_chin_drs_ark.png",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/skin-receptors-senses-basics.jpg",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -248,7 +248,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Somatosensory Receptors",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/SomatosensoryAxonTypes.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
@@ -279,7 +279,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
+		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
@@ -512,7 +512,7 @@ let WEBSITE_DATA = [
 	
 							{
 		name: "Digital Sculpture",
-		img: "images/11811_192114417.gif",
+		img: "images/else_chin_drs_ark.png",
 		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
