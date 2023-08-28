@@ -22,7 +22,7 @@ let WEBSITE_DATA = [
 },
 						{
 		name: "Before Zeta Film",
-		img: "images/SS20230203at6.38.20PM.png",
+		img: "images/311631513116315113154.png",
 		blurb: "'Before Zeta’ filmed in 2020 as a Cape Cod Modern Home Trust Artists in Resideny was founded to collect, archive, and share documentation of the Outer Cape’s exceptional modern architecture, restore a group of important, endangered modern houses, and relaunch those houses as platforms for new creative work.",
 		link: "",
 		credit: "",
