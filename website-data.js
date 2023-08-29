@@ -31,7 +31,7 @@ let WEBSITE_DATA = [
 	
 {
 		name: "BodyMouth Symposium",
-		img: "images/20221001_NewMediaCaucus_Perfomance_by_Rodney_Kimbangu_25.jpeg",
+		img: "images/318633126_10224645775344745_3839614961105284034_n.jpeg",
 		blurb: "'BodyMouth' presented at The 2022 New Media Caucus 'Future Bodies' Symposium, at Virginia Tech.",
 		link: "",
 		credit: "",
@@ -299,13 +299,13 @@ let WEBSITE_DATA = [
 	// },																			
 
 
-				{
-		name: "Perceptual Brittleness",
-		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
-		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
-		link: "",
-		credit: "",
-},
+// 				{
+// 		name: "Perceptual Brittleness",
+// 		img: "images/244746229_10222325107929510_2868999767990363300_n.jpg",
+// 		blurb: "Brittleness occurs when any algorithm cannot generalize or adapt to conditions outside a narrow set of assumptions. The source of this perceptual brittleness comes from the fact that machine learning algorithms do not actually learn to perceive the world in a way that can generalize in the face of uncertainty.",
+// 		link: "",
+// 		credit: "",
+// },
 	
 	
 												{
@@ -515,7 +515,7 @@ let WEBSITE_DATA = [
 	
 																										{
 		name: "ROM VS. RAM",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/adolph_men_zel123.png",
 		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
