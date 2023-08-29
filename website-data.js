@@ -171,7 +171,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Transformative drive",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/NITROGEN.PNG",
 		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
@@ -180,7 +180,7 @@ let WEBSITE_DATA = [
 
 		 				{
 		name: "Skin Conductance Response",
-		img: "images/SS2023-02-07at5.45.35PM.png",
+		img: "images/ScreenShot2023-02-22at7.29.50PM.png",
 		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
 		link: "",
 		credit: "",
@@ -247,7 +247,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Newtonian Physics",
-		img: "images/brit_sitting_wall.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
