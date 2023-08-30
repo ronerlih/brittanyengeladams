@@ -118,7 +118,7 @@ let WEBSITE_DATA = [
 
 	{
 		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		img: "images/sol_omon18guggenheim_mr55.png",
 		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
