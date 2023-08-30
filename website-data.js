@@ -269,7 +269,7 @@ let WEBSITE_DATA = [
 		
 																		{
 	      name: "Emergent Landscape I Tessellation",
-		img: "images/004351893123001135189312300432120.gif",
+		img: "images/SS20230108atPM.png",
 		blurb:  "Online Tessellation",
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
