@@ -62,15 +62,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-// {
+{
 	
-// 		name: "Doppler Effect",
-// 		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-// 		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-// 		link: "",
-// 		credit: "",
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		link: "",
+		credit: "",
 
-// 	},
+	},
 
 		
 
@@ -205,13 +205,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-	// 													 		{
-	// 	name: "Superposition",
-	// 	img: "images/concentric-circles-760.png",
-	// 	blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+														 		{
+		name: "Superposition",
+		img: "images/concentric-circles-760.png",
+		blurb: "Superposition is the potential of an electron to be in a few positions inside of an atom. Superposition deals with a range of the potential of an electron. For example, it can exist in two places at the same time, in that, an electron can be both excited, and not excited. When one measures the energy of the electron cloud of an atom, the cloud of potential collapses into one solution.",
+		link: "",
+		credit: "",
+	},
 	
 	// 		{
 	// 	name: "Disintegrating figure",
