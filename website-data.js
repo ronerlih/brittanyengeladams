@@ -248,7 +248,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Newtonian Physics",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/Spacetime_lattice_analogy.svg.png",
 		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
