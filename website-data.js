@@ -12,14 +12,7 @@ let WEBSITE_DATA = [
 	},
 
 
-			{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
-		credit: "",
-	
-},
+
 						{
 		name: "Before Zeta Film",
 		img: "images/3316530421011653043331653042101165304210210.jpg",
@@ -27,7 +20,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-
+{
+			name: "Architecture of Memory",
+			img: "images/_m0t_petty123.png", 
+			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
+			link: "",
+			credit: "",
+		},
+	
 	
 {
 		name: "BodyMouth Symposium",
@@ -44,16 +44,16 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
+			{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
+	
+},
+	
 
-	
-{
-			name: "Architecture of Memory",
-			img: "images/_m0t_petty123.png", 
-			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
-			link: "",
-			credit: "",
-		},
-	
 // 	{
 // 		name: "Maquette 2021",
 // 		img: "images/01.jpeg",
@@ -125,19 +125,20 @@ let WEBSITE_DATA = [
 	},
 
 
-						{
-		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
-		link: "",
-		credit: "",
-	},
+
 
 
 	{
 		name: "Transformative drive",
 		img: "images/animated-sinewave.gif",
 		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+		link: "",
+		credit: "",
+	},
+							{
+		name: "Haptics",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
 	},
