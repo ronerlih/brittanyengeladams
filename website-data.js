@@ -62,18 +62,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-{
-	
-		name: "Doppler Effect",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
-		link: "",
-		credit: "",
-
-	},
-
 		
+	
 
+																					{
+		name: "Memory Dance",
+		img: "images/INO_OO.PNG",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		link: "",
+		credit: "", 
+	},
 
 			{
 		name: "Human Robot",
@@ -102,14 +100,16 @@ let WEBSITE_DATA = [
 		link: "",
 	        credit: "",
 },
-	
 
-																					{
-		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+
+{
+	
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
-		credit: "", 
+		credit: "",
+
 	},
 
 	
@@ -133,15 +133,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+
+	{
+		name: "Transformative drive",
+		img: "images/animated-sinewave.gif",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
 	},
-
-
 		{
 
 		name: "Neural Network",
@@ -169,14 +168,15 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 	
-		{
-		name: "Transformative drive",
-		img: "images/animated-sinewave.gif",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+		
+
+		 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
 		link: "",
 		credit: "",
-	},	
-		
+	},		
 
 		 				{
 		name: "Skin Conductance Response",
@@ -530,15 +530,15 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-
 	
-				{
-		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
 		link: "",
 		credit: "",
-	},
+},
+	
 
 	// 	{
 	// 	name: "Quantum Computing",
@@ -631,15 +631,15 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-	
-			{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+
+
+				{
+		name: "Somatosensory Receptors",
+		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
-},
-
+	},
 
 	// 	{
 	// 	name: "Panpsychism",
