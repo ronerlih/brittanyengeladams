@@ -606,14 +606,15 @@ let WEBSITE_DATA = [
 
 	// },
 	
-			{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+
+{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
 		link: "",
 		credit: "",
-},
-
+		
+		},
 	
 	// 		{
 	// 	name: "Bismuth",
@@ -631,14 +632,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
 		link: "",
 		credit: "",
-		
-		},
+},
 
 
 	// 	{
