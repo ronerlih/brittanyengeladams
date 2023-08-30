@@ -246,10 +246,10 @@ let WEBSITE_DATA = [
 
 
 
-						{
-		name: "Newtonian Physics",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+												{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
 		link: "",
 		credit: "",
 	},
@@ -309,14 +309,14 @@ let WEBSITE_DATA = [
 // },
 	
 	
-												{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
+	
+ 						{
+		name: "Newtonian Physics",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
-	},	
-
+	},
 	
 	// 				{
 	// 	name: "Galileo's Law of Falling Bodies",
