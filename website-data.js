@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 
 						{
 		name: "Before Zeta Film",
-		img: "images/3316530421011653043331653042101165304210210.jpg",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ film (2020) created during the Cape Cod Modern Home Trust Artist Resideny inspired by the Outer Cape’s exceptional modern architecture.",
 		link: "",
 		credit: "",
@@ -75,7 +75,7 @@ let WEBSITE_DATA = [
 
 			{
 		name: "Human Robot",
-		img: "images/122118212001182120118.gif",
+		img: "images/Avatartracking.jpeg",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -95,22 +95,20 @@ let WEBSITE_DATA = [
 				{
 		 
 		name: "Wireless Fidelity",
-		img: "images/261949_8111949118111949.png",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
 },
 
-
 {
-	
-		name: "Doppler Effect",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		name: "Transformative drive",
+		img: "images/animated-sinewave.gif",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
-
 	},
+
 
 	
 
@@ -125,16 +123,18 @@ let WEBSITE_DATA = [
 	},
 
 
-
-
-
-	{
-		name: "Transformative drive",
-		img: "images/animated-sinewave.gif",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+{
+	
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
+
 	},
+
+
+	
 							{
 		name: "Haptics",
 		img: "images/lemon_rr_00.jpeg",
@@ -179,13 +179,13 @@ let WEBSITE_DATA = [
 		credit: "",
 	},		
 
-		 				{
-		name: "Skin Conductance Response",
-		img: "images/ScreenShot2023-02-22at5.04.54PM.png",
-		blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
-		link: "",
-		credit: "",
-	},
+	// 	 				{
+	// 	name: "Skin Conductance Response",
+	// 	img: "images/ScreenShot2023-02-22at5.04.54PM.png",
+	// 	blurb: "The skin conductance response (SCR) is an indirect measure of sympathetic autonomic activity that is associated with both emotion and attention.",
+	// 	link: "",
+	// 	credit: "",
+	// },
 
 
 			{
@@ -225,13 +225,13 @@ let WEBSITE_DATA = [
 
 
 	
-	// 	{
-	// 	name: "Viewpoint discrimination",
-	// 	img: "images/sickle.png",
-	// 	blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
-	// 	link: "",
-	// 	credit: "",
-	// },
+		{
+		name: "Viewpoint discrimination",
+		img: "images/crystalc.jpg",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+		link: "",
+		credit: "",
+	},
 
 	
 
@@ -512,7 +512,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-04-15at11.59.51AM.png",
+		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
