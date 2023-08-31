@@ -486,13 +486,13 @@ let WEBSITE_DATA = [
 				
 
 
-	// {
-	// 	name: "Infinitesimal Calculus",
-	// 	img: "images/i050950a.gif",
-	// 	blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
-	// 	link: "",
-	// 	credit: "",
-	// },
+	{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+		link: "",
+		credit: "",
+	},
 	
 	// 			{
 	// 	name: "Projectile Motion",
@@ -512,7 +512,7 @@ let WEBSITE_DATA = [
 	
 			{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-02-26at8.05.30PM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
