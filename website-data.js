@@ -38,13 +38,14 @@ let WEBSITE_DATA = [
 		
 		},
 
-			{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+{
+		name: "Transformative drive",
+		img: "images/animated-sinewave.gif",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
 	},
+	
 			{
 		name: "Movement Research Performance Journal Publication",
 		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
@@ -64,15 +65,14 @@ let WEBSITE_DATA = [
 // 	},	
 
 		
-	
-
-																					{
-		name: "Memory Dance",
-		img: "images/INO_OO.PNG",
-		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
+		{
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
-		credit: "", 
-	},
+		credit: "",
+	},	
+
 
 	 {
 		name: "YouTube Improv",
@@ -103,22 +103,23 @@ let WEBSITE_DATA = [
 	        credit: "",
 },
 
-{
-		name: "Transformative drive",
-		img: "images/animated-sinewave.gif",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+
+
+	
+																					{
+		name: "Memory Dance",
+		img: "images/xbox360.png",
+		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
-		credit: "",
+		credit: "", 
 	},
-
-
 	
 
 
 
 	{
 		name: "Hand Dance Film",
-		img: "images/sol_omon18guggenheim_mr55.png",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
 		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
@@ -310,16 +311,15 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // },
 	
-	
-	
-					{
-		name: "Newtonian Physics",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+						{
+		name: "Digital Sculpture",
+		img: "images/else_chin_drs_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
 		link: "",
 		credit: "",
 	},
- 	
+	
+
 	
 	// 				{
 	// 	name: "Galileo's Law of Falling Bodies",
@@ -485,16 +485,19 @@ let WEBSITE_DATA = [
 	
 	// },
 
-				
 
 
-	{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+
+																										{
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
-	},
+	},				
+
+
+	
 	
 	// 			{
 	// 	name: "Projectile Motion",
@@ -504,14 +507,15 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-						{
-		name: "Digital Sculpture",
-		img: "images/else_chin_drs_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		
+					{
+		name: "Newtonian Physics",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
-	},	
-	
+	},
+ 		
 			{
 		name: "Somatosensory Receptors",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -532,15 +536,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-	
-			{
-		name: "Recursive function",
-		img: "images/CTT.png",
-		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
+{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
 		link: "",
 		credit: "",
-},
-	
+		
+		},	
 
 	// 	{
 	// 	name: "Quantum Computing",
@@ -609,14 +612,15 @@ let WEBSITE_DATA = [
 	// },
 	
 
-{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
+	
+			{
+		name: "Recursive function",
+		img: "images/CTT.png",
+		blurb: "A recursive function can be defined as a routine that calls itself directly or indirectly.",
 		link: "",
 		credit: "",
-		
-		},
+},
+
 	
 	// 		{
 	// 	name: "Bismuth",
@@ -633,16 +637,13 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-
-
-
-																										{
-		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+	{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
-	},	
+	},
 
 	// 	{
 	// 	name: "Panpsychism",
