@@ -164,14 +164,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-
-		{
-		name: "The Beaubourg Effect",
-		img: "images/image008-e1523992763533.jpg",
-		blurb: "Jean Baudrillard sustains that the mass-media spectacle of the Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence,” it endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
-		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
+	 													{
+		name: "I Am Not A Robot",
+		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
+		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
+		link: "",
 		credit: "",
 	},
+	
 	
 			{
 		name: "Skeletal Avatar",
@@ -209,14 +209,14 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-	
-		 													{
-		name: "I Am Not A Robot",
-		img: "images/ScreenShot2023-04-13at1.21.41PM.png",
-		blurb: "Adversarial Neural Networks & Cumulative Machine Learning Algorithms. A human performs a series of tasks, as a set of instructions that an avatar simulation is trying to learn and perfect, exploring the interplay between human actions, ecosystems, and the systems that unite them. Inspired by Walter Benjamin's concept of the ‘aura’, and talks about using the machine in order to make art, and that we lose the ‘aura’ of the artwork, in his essay is in a sense a requiem to handmade art.",
-		link: "",
+	{
+		name: "The Beaubourg Effect",
+		img: "images/image008-e1523992763533.jpg",
+		blurb: "Jean Baudrillard sustains that the mass-media spectacle of the Pompidou Centre exerts such an aggressive influence on culture, that it essentially destroys it. The center is “a monument of cultural deterrence,” it endorses the death of culture. According to Baudrillard the masses rush to the cultural center because they have a chance to participate in the “work of mourning” for a culture they detest.",
+		link: "https://speculativecities.wordpress.com/2017/11/15/architecture-as-simulacrum-baudrillard-on-the-pompidou-center/",
 		credit: "",
-	},
+	},	
+	
 	
 	// 		{
 	// 	name: "Disintegrating figure",
