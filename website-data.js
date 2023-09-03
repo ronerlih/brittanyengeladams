@@ -13,13 +13,6 @@ let WEBSITE_DATA = [
 
 
 
-						{
-		name: "Before Zeta Film",
-		img: "images/3316530421011653043331653042101165304210210.jpg",
-		blurb: "'Before Zeta’ film (2020) created during the Cape Cod Modern Home Trust Artist Resideny inspired by the Outer Cape’s exceptional modern architecture.",
-		link: "",
-		credit: "",
-	},
 {
 			name: "Architecture of Memory",
 			img: "images/tempFile.MP4high1.gif", 
@@ -28,6 +21,13 @@ let WEBSITE_DATA = [
 			credit: "",
 		},
 	
+						{
+		name: "Before Zeta Film",
+		img: "images/3316530421011653043331653042101165304210210.jpg",
+		blurb: "'Before Zeta’ film (2020) created during the Cape Cod Modern Home Trust Artist Resideny inspired by the Outer Cape’s exceptional modern architecture.",
+		link: "",
+		credit: "",
+	},
 	
 {
 		name: "BodyMouth Symposium",
@@ -46,17 +46,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	
-
-{
-	
-		name: "Doppler Effect",
-		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
-		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
+		
+		{
+		name: "Human Robot",
+		img: "images/21519201414113333.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
+	},		
 
-	},
+
 	
 
 // 	{
@@ -67,15 +66,16 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},	
 
-		
-		{
-		name: "Human Robot",
-		img: "images/21519201414113333.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+
+{
+	
+		name: "Doppler Effect",
+		img: "images/eyJidWNrZXQiOiJsYWJyb290cy1hc3NldHMiLCJrZXkiOiJfcHVibGljXC9fZmlsZXNcL3N5c3RlbVwvY2tcL3RyZW5kaW5nXC9mZWF0dXJlIGltYWdlXzQ3YzJmNzk0YjM0OTg1NWM5YjFmOWM1ZDgzOWQwMWM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19.jpg",
+		blurb: "Doppler effect in physics is defined as the increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other.",
 		link: "",
 		credit: "",
-	},	
 
+	},
 
 	 {
 		name: "YouTube Improv",
@@ -174,6 +174,15 @@ let WEBSITE_DATA = [
 	},
 	
 	
+
+												{
+		name: "Displaced figure",
+		img: "images/11414121191918.gif",
+		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
+		link: "",
+		credit: "",
+	},
+
 			{
 		name: "Skeletal Avatar",
 		img: "images/ScreenShot2023-01-12at5.03.30PM.png",
@@ -249,15 +258,6 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // 	},
 
-
-
-												{
-		name: "Displaced figure",
-		img: "images/11414121191918.gif",
-		blurb: "‘Displaced figure’ programmatically transposes different body parts on top of the footage as if disintegrating into the background of the scene.",
-		link: "",
-		credit: "",
-	},
 
 		
 	// 																									{
