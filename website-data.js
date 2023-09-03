@@ -154,16 +154,14 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: "",
 	},
-	
-
-																										{
-		name: "ROM VS. RAM",
-		img: "images/neuron.gif",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+				
+					{
+		name: "Newtonian Physics",
+		img: "images/Spacetime_lattice_analogy.svg.png",
+		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
 		link: "",
 		credit: "",
-	},				
-
+	},
 
 	
 
@@ -271,19 +269,16 @@ let WEBSITE_DATA = [
 	// },
 		
 	
-	
-
-	
-		
-																		{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+						{
+		name: "Digital Sculpture",
+		img: "images/schin_ders_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
-	
 	},
 
+	
+	
 	
 								{
 							
@@ -315,14 +310,17 @@ let WEBSITE_DATA = [
 // 		credit: "",
 // },
 	
-						{
-		name: "Digital Sculpture",
-		img: "images/schin_ders_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
-		credit: "",
-	},
 	
+		
+																		{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+		credit: "",
+	
+	},
+
 
 	
 	// 				{
@@ -508,14 +506,16 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 
-		
-					{
-		name: "Newtonian Physics",
-		img: "images/Spacetime_lattice_analogy.svg.png",
-		blurb: "Newtonian physics is the description of mechanical events—those that involve forces acting on matter—using the laws of motion and gravitation.",
+
+																										{
+		name: "ROM VS. RAM",
+		img: "images/neuron.gif",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
-	},
+	},	
+		
+
  		
 			{
 		name: "Somatosensory Receptors",
