@@ -234,7 +234,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Viewpoint discrimination",
-		img: "images/ScreenShot2023-02-06at6.00.43PM.png",
+		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
