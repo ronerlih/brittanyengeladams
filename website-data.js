@@ -136,25 +136,7 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},
-
-
-	
-							{
-		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
-		link: "",
-		credit: "",
-	},
-		{
-
-		name: "Neural Network",
-		img: "images/01.jpeg",
-		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
-		link: "",
-		credit: "",
-	},
-						{
+					{
 			
 		name: "Harvestworks Artist Residency",
 		img: "images/8118221151181119920231518111.jpg",
@@ -163,6 +145,24 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
+	
+		{
+
+		name: "Neural Network",
+		img: "images/01.jpeg",
+		blurb: "Is it possible to build artificial consciousness similar to human consciousness in digitized structures? If artificial intelligence will digitally reproduce the artificial structures of neurons, and the entire central nervous systems of humans, then an artificial nervous system counterpoint of cybernetic consciousness could be equivalent to human consciousness, that is capable of collecting and processing data, in a much larger database capacity than what’s possible at present.",
+		link: "",
+		credit: "",
+	},
+	
+
+							{
+		name: "Haptics",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+		link: "",
+		credit: "",
+	},
 
 
 		{
