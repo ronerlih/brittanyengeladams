@@ -46,14 +46,14 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-				{
-		name: "Movement Research Performance Journal Publication",
-		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
-		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
-		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+					{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/8118221151181119920231518111.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
-	
-},
+	},
 
 	
 
@@ -136,16 +136,16 @@ let WEBSITE_DATA = [
 		credit: "",
 
 	},
-					{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
-		credit: "",
-	},
 
+
+				{
+		name: "Movement Research Performance Journal Publication",
+		img: "images/131152251314201853115225131420185111181938131152251314201851181938.jpeg",
+		blurb: "‘Architecture of Memory’ combines archival research, motion-capture technology, and artificial intelligence as an aperture from which to view haunting intersections between past, present, and future. Publication of ‘Architecture of Memory’ in The Movement Research Performance Journal No. 55.",
+		link: "https://movementresearch.org/publications/performance-journal/issue-55",
+		credit: "",
 	
+},	
 		{
 
 		name: "Neural Network",
@@ -156,13 +156,16 @@ let WEBSITE_DATA = [
 	},
 	
 
-							{
-		name: "Haptics",
-		img: "images/Madonna_retina_ish_ingU2alalala.png",
-		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
+																										{
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
-	},
+	},				
+
+
+	
 
 	 													{
 		name: "I Am Not A Robot",
@@ -486,16 +489,13 @@ let WEBSITE_DATA = [
 	
 	// },
 
-
-
-
-																										{
-		name: "ROM VS. RAM",
-		img: "images/adolph_men_zel123.png",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+						{
+		name: "Haptics",
+		img: "images/Madonna_retina_ish_ingU2alalala.png",
+		blurb: "Haptics as a technology that transmits tactile information using sensations such as vibration, touch, and force feedback.",
 		link: "",
 		credit: "",
-	},				
+	},
 
 
 	
