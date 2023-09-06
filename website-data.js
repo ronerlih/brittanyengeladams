@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 
 {
 			name: "Architecture of Memory",
-			img: "images/tempFile.MP4high1.gif", 
+			img: "images/13181851195138.gif", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -122,7 +122,7 @@ let WEBSITE_DATA = [
 	
 																					{
 		name: "Memory Dance",
-		img: "images/12516151516.gif",
+		img: "images/INO_OO.PNG",
 		blurb: "‘Memory Dance’ uses infrared sensor of kinect, motion capture technology, and turns the human body into 3d spatial-data, records and loops movements (similar to a musical looper), shows a live camera feed of the recording, and superimposes the movements in the frame of the camera.",
 		link: "",
 		credit: "", 
@@ -241,7 +241,7 @@ let WEBSITE_DATA = [
 	
 		{
 		name: "Viewpoint discrimination",
-		img: "images/ScreenShot2023-02-05at2.27.19PM.png",
+		img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
 		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
@@ -269,14 +269,15 @@ let WEBSITE_DATA = [
 	// },
 		
 	
-						{
-		name: "Digital Sculpture",
-		img: "images/schin_ders_ark.png",
-		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
-		link: "",
+		
+																		{
+	      name: "Emergent Landscape I Tessellation",
+		img: "images/1266215159166122591612215916612916.png",
+		blurb:  "Online Tessellation",
+		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
-	},
-
+	
+	},	
 	
 	
 	
@@ -311,14 +312,13 @@ let WEBSITE_DATA = [
 // },
 	
 	
-		
-																		{
-	      name: "Emergent Landscape I Tessellation",
-		img: "images/1266215159166122591612215916612916.png",
-		blurb:  "Online Tessellation",
-		link: "https://https://www.brittanyengeladams.com/who-wood.html",
+
+					{
+		name: "Digital Sculpture",
+		img: "images/schin_ders_ark.png",
+		blurb: "The motion capture technology pictographically motions itself, while the possible movements make a kind of digital skin, a boundary of data, that moves with the body, and can be moved through like atoms and fragments.",
+		link: "",
 		credit: "",
-	
 	},
 
 
@@ -519,7 +519,7 @@ let WEBSITE_DATA = [
  		
 			{
 		name: "Somatosensory Receptors",
-		img: "images/ScreenShot2023-03-02at10.35.19AM.png",
+		img: "images/SS2023-02-07at5.45.35PM.png",
 		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
 		link: "",
 		credit: "",
