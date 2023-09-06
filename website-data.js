@@ -505,18 +505,16 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
+	
+		
 
-
-																										{
-		name: "ROM VS. RAM",
-		img: "images/neuron.gif",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+ 	{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
 	},	
-		
-
- 		
 			{
 		name: "Somatosensory Receptors",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -638,14 +636,18 @@ let WEBSITE_DATA = [
 	// 	link: "",
 	// 	credit: "",
 	// },
-	{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+	
+
+
+																										{
+		name: "ROM VS. RAM",
+		img: "images/neuron.gif",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
 	},
 
+	
 	// 	{
 	// 	name: "Panpsychism",
 	// 	img: "images/man-using-virtual-reality-headset-with-black-light-royalty-free-image-1602629773.jpg",
