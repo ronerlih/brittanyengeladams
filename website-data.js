@@ -23,7 +23,7 @@ let WEBSITE_DATA = [
 	
 						{
 		name: "Before Zeta Film",
-		img: "images/3316530421011653043331653042101165304210210.jpg",
+		img: "images/SS20230203at6.38.20PM.png",
 		blurb: "'Before Zeta’ film (2020) created during the Cape Cod Modern Home Trust Artist Resideny inspired by the Outer Cape’s exceptional modern architecture.",
 		link: "",
 		credit: "",
