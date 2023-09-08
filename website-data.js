@@ -46,14 +46,16 @@ let WEBSITE_DATA = [
 		credit: ""
 	},
 
-		
-		{
-		name: "Human Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
-		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
-		link: "",
+				{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
-	},		
+	},
+		
+		
 
 
 	
@@ -78,15 +80,15 @@ let WEBSITE_DATA = [
 	},
 
 
-	
-	
-{
-		name: "Transformative drive",
-		img: "images/animated-sinewave.gif",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+	{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
 		link: "",
 		credit: "",
-	},
+	},	
+	
+
 
 
 // 	{
@@ -107,14 +109,14 @@ let WEBSITE_DATA = [
 },
 
 
-
-	{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
+{
+		name: "Transformative drive",
+		img: "images/animated-sinewave.gif",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
 		link: "",
 		credit: "",
 	},
+
 	
 
 
@@ -128,15 +130,14 @@ let WEBSITE_DATA = [
 		credit: "", 
 	},
 
-
-				{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		{
+		name: "Human Robot",
+		img: "images/812_8231321520113_118152__152014.gif",
+		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
+		link: "",
 		credit: "",
 	},
+	
 
 				{
 		name: "Movement Research Performance Journal Publication",
@@ -506,15 +507,17 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-		
+	
 
- 	{
-		name: "Infinitesimal Calculus",
-		img: "images/i050950a.gif",
-		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
+																										{
+		name: "ROM VS. RAM",
+		img: "images/adolph_men_zel123.png",
+		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
 		link: "",
 		credit: "",
 	},	
+
+ 	
 			{
 		name: "Somatosensory Receptors",
 		img: "images/SS2023-02-07at5.45.35PM.png",
@@ -637,12 +640,10 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },
 	
-
-
-																										{
-		name: "ROM VS. RAM",
-		img: "images/neuron.gif",
-		blurb: "Read Only Memory, applies to fixed inherent in human behavior. The memory does not depend on an electric current to save data, instead, data is written to individual cells using binary code. Random Access Memory, reads and writes memory. Random Access Memory applies to memory learned from experiences. The information is temporarily stored, it erases when you restart or shut down your computer, because the information is stored electrically on transistors. When there is no electrical current, the data disappears.",
+	{
+		name: "Infinitesimal Calculus",
+		img: "images/i050950a.gif",
+		blurb: "An infinitesimal is a number so small that its square and all higher powers can be neglected. In the theory of limits the term “infinitesimal” is sometimes applied to any sequence whose limit is zero.",
 		link: "",
 		credit: "",
 	},
