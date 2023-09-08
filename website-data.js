@@ -15,7 +15,7 @@ let WEBSITE_DATA = [
 
 {
 			name: "Architecture of Memory",
-			img: "images/13181851195138.gif", 
+			img: "images/_m0t_petty123.png", 
 			blurb: "‘’Architecture of Memory' is a research project that places loss and rupture as opportunity for growth and transformation. Inspired by American Writer Saidiya Hartman's literary device 'Critical Fabulation’ a style of creative semi-nonfiction that attempts to bring the suppressed voices of the past to the surface.",
 			link: "",
 			credit: "",
@@ -38,18 +38,18 @@ let WEBSITE_DATA = [
 		
 		},
 
-{
-		name: "Transformative drive",
-		img: "images/animated-sinewave.gif",
-		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+	 {
+		name: "YouTube Improv",
+		img: "images/YouTubeimprovhigh.gif",
+		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
 		link: "",
-		credit: "",
+		credit: ""
 	},
 
 		
 		{
 		name: "Human Robot",
-		img: "images/21519201414113333.gif",
+		img: "images/812_8231321520113_118152__152014.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
@@ -77,16 +77,16 @@ let WEBSITE_DATA = [
 
 	},
 
-	 {
-		name: "YouTube Improv",
-		img: "images/YouTubeimprovhigh.gif",
-		blurb: "‘YouTube Improv' (2018) plays trending YouTube videos in the venue's proximity. The performers on stage adjust their movement score according to the algorithmic orchestrated playlist as we all do.",
-		link: "",
-		credit: ""
-	},
-	
-	
 
+	
+	
+{
+		name: "Transformative drive",
+		img: "images/animated-sinewave.gif",
+		blurb: "Action Drive is designed as a foundation of the Effort system in laban analysis, where it is considered to be 'transformed by flow', when Flow becomes more pronounced and 'replaces' one of the other efforts, thus creating Spell Drive, Passion Drive, Vision Drive.", 
+		link: "",
+		credit: "",
+	},
 
 
 // 	{
@@ -100,7 +100,7 @@ let WEBSITE_DATA = [
 				{
 		 
 		name: "Wireless Fidelity",
-		img: "images/8537885385349.jpg",
+		img: "images/SS2023-04-137.02.40PM.png",
 		blurb: "Wireless Fidelity 2015 digital installation at The Gallery Thaddaeus Ropac in Paris France.",
 		link: "",
 	        credit: "",
@@ -132,7 +132,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/8118221151181119920231518111.jpg",
+		img: "images/S837492874_i467984567_.jpg",
 		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
