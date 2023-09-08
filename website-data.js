@@ -268,9 +268,17 @@ let WEBSITE_DATA = [
 	// 	link: "https://en.wikipedia.org/wiki/Corpse_decomposition#:~:text=Decomposition%20is%20the%20process%20in,decay%2C%20and%20dry%2Fskeletonized.",
 	// 	credit: "",
 	// },
-		
 	
-		
+	
+		{
+		name: "Somatosensory Receptors",
+		img: "images/SS2023-02-07at5.45.35PM.png",
+		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+		link: "",
+		credit: "",
+	},
+
+	 		
 																		{
 	      name: "Emergent Landscape I Tessellation",
 		img: "images/11_91919_.jpg",
@@ -278,22 +286,7 @@ let WEBSITE_DATA = [
 		link: "https://https://www.brittanyengeladams.com/who-wood.html",
 		credit: "",
 	
-	},	
-	
-	
-	
-								{
-							
-		name: "Non-Sinusoidal",
-		img: "images/2023012170559PM.png",
-		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
-		link: "",
-		credit: "",
-	
 	},
-
-	
-
 		
 	// 																						{
 	// 	name: "Shower",
@@ -518,12 +511,14 @@ let WEBSITE_DATA = [
 	},	
 
  	
-			{
-		name: "Somatosensory Receptors",
-		img: "images/SS2023-02-07at5.45.35PM.png",
-		blurb: "Somatosensory receptors are specialized sensory nerves that respond to various stimuli, including vision, hearing, taste, and smell, as well as general somatic senses which make up the somatosensory system, which is involved in the sense of touch, proprioception, pain, and temperature.",
+									{
+							
+		name: "Non-Sinusoidal",
+		img: "images/2023012170559PM.png",
+		blurb: "Phasor analysis works when the voltage (or current) source driving the circuit produces a sinusoidal voltage. It also works when the input is a constant, or direct current.",
 		link: "",
 		credit: "",
+	
 	},	
 
 	
