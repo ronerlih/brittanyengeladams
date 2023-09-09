@@ -238,15 +238,16 @@ let WEBSITE_DATA = [
 	// },
 	
 
-
-	
-		{
-		name: "Viewpoint discrimination",
-		img: "images/lemon_rr_00.jpeg",
-		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
+{
+		name: "Bonsai",
+		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
+		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
 		link: "",
 		credit: "",
-	},
+		
+		},
+	
+	
 
 	
 
@@ -533,14 +534,13 @@ let WEBSITE_DATA = [
 	// 	credit: "",
 	// },	
 
-{
-		name: "Bonsai",
-		img: "images/smallbonsaiinpotc4dmodel001.jpeg",
-		blurb: "Bonsai trees require minimal space, light, and water to sustain life.",
+		{
+		name: "Viewpoint discrimination",
+		img: "images/lemon_rr_00.jpeg",
+		blurb: "Algorithmic bias arises when algorithmic decisions unfairly or arbitrarily disadvantage one particular group or another.", 
 		link: "",
 		credit: "",
-		
-		},	
+	},
 
 	// 	{
 	// 	name: "Quantum Computing",
