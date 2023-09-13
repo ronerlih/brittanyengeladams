@@ -45,15 +45,15 @@ let WEBSITE_DATA = [
 		link: "",
 		credit: ""
 	},
-
-				{
-			
-		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
-		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
-		link: "https://www.harvestworks.org/2023-artist-residencies/",
+	
+	{
+		name: "Hand Dance Film",
+		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
+		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
+		link: "",
 		credit: "",
 	},
+
 		
 		
 
@@ -77,15 +77,16 @@ let WEBSITE_DATA = [
 		credit: "",
 	},
 
-	{
-		name: "Hand Dance Film",
-		img: "images/ScreenShot2023-02-03at7.14.58PM.png",
-		blurb: "‘Hand Dance’ film, commissioned by The Guggenheim Museum's Works & Process in New York City.",
-		link: "",
-		credit: "",
-	},	
 	
-
+	
+				{
+			
+		name: "Harvestworks Artist Residency",
+		img: "images/S837492874_i467984567_.jpg",
+		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
+		link: "https://www.harvestworks.org/2023-artist-residencies/",
+		credit: "",
+	},
 
 
 // 	{
