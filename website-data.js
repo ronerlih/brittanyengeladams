@@ -71,7 +71,7 @@ let WEBSITE_DATA = [
 
 		{
 		name: "Human Robot",
-		img: "images/812_8231321520113_118152__152014.gif",
+		img: "images/bostond.gif",
 		blurb: "Adversarial Neural Networks & Machine Learning Algorithms. A robot called the 'maquette' which is a prototype. Inspired by Walter Benjamin's “The Work of Art in the Age of Mechanical Reproduction”. The choreography of the Maquette deals with this chasm between the ‘aura’ of the handmade artwork, and the uniqueness that is deprived through the mechanical reproduction of it.", 
 		link: "",
 		credit: "",
