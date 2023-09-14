@@ -82,7 +82,7 @@ let WEBSITE_DATA = [
 				{
 			
 		name: "Harvestworks Artist Residency",
-		img: "images/S837492874_i467984567_.jpg",
+		img: "images/8118221151181119920231518111.jpg",
 		blurb: "Harvestworks' mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies.",
 		link: "https://www.harvestworks.org/2023-artist-residencies/",
 		credit: "",
